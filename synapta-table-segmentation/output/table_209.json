@@ -1,0 +1,164 @@
+{
+  "segment_id": "table_p740_idx208",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Put",
+  "row_headers": [
+    [
+      ""
+    ],
+    [
+      ""
+    ]
+  ],
+  "col_headers": [
+    "Payoff",
+    ""
+  ],
+  "cells": [
+    [
+      "Payoff",
+      ""
+    ],
+    [
+      "",
+      "Payoff"
+    ],
+    [
+      "",
+      "Profit"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Payoff",
+      "normalized_value": "Payoff",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Payoff",
+      "normalized_value": "Payoff",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Profit",
+      "normalized_value": "Profit",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Put This table contains 3 rows and 2 columns.",
+  "table_summary": "Put This table contains 3 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 740,
+    "bbox": {
+      "x0": 295.26284855,
+      "y0": 443.73404865,
+      "x1": 445.35456569999997,
+      "y1": 552.9340324333333
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    740,
+    740
+  ]
+}

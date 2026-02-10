@@ -1,0 +1,559 @@
+{
+  "segment_id": "table_p976_idx304",
+  "table_id": null,
+  "table_number": null,
+  "caption": "of the variance of the actual 100 months. The variance of the average return (which",
+  "row_headers": [
+    [
+      "Expected return (%)"
+    ],
+    [
+      "Covariance matrix\nof baseline forecasts"
+    ],
+    [
+      "Bonds"
+    ],
+    [
+      "Stocks"
+    ]
+  ],
+  "col_headers": [
+    "",
+    "",
+    "Bonds (B)",
+    "",
+    "Stocks (S)"
+  ],
+  "cells": [
+    [
+      "",
+      "",
+      "Bonds (B)",
+      "",
+      "Stocks (S)"
+    ],
+    [
+      "Expected return (%)",
+      "",
+      "0.0140",
+      "",
+      "0.0681"
+    ],
+    [
+      "Covariance matrix\nof baseline forecasts",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Bonds",
+      "",
+      "0.000064",
+      "",
+      "0.0000408"
+    ],
+    [
+      "Stocks",
+      "",
+      "0.0000408",
+      "",
+      "0.000289"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Bonds (B)",
+      "normalized_value": "Bonds (B)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Stocks (S)",
+      "normalized_value": "Stocks (S)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Expected return (%)",
+      "normalized_value": "Expected return (%)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.0140",
+      "normalized_value": 0.014,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.0681",
+      "normalized_value": 0.0681,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Covariance matrix\nof baseline forecasts",
+      "normalized_value": "Covariance matrix\nof baseline forecasts",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Bonds",
+      "normalized_value": "Bonds",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.000064",
+      "normalized_value": 6.4e-05,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.0000408",
+      "normalized_value": 4.08e-05,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Stocks",
+      "normalized_value": "Stocks",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.0000408",
+      "normalized_value": 4.08e-05,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.000289",
+      "normalized_value": 0.000289,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "of the variance of the actual 100 months. The variance of the average return (which This table contains 5 rows and 5 columns.",
+  "table_summary": "of the variance of the actual 100 months. The variance of the average return (which This table contains 5 rows and 5 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "portfolio_theory",
+    "risk_management"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "portfolio_theory",
+      "source_anchor": {
+        "page_number": 976,
+        "bbox": {
+          "x0": 144.45409654999997,
+          "y0": 532.25,
+          "x1": 431.5458500499999,
+          "y1": 614.5998504500001
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.34 + Keywords: return, variance",
+      "confidence": 0.544651848077774
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "risk_management",
+      "source_anchor": {
+        "page_number": 976,
+        "bbox": {
+          "x0": 144.45409654999997,
+          "y0": 532.25,
+          "x1": 431.5458500499999,
+          "y1": 614.5998504500001
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.33 + Keywords: VaR",
+      "confidence": 0.532593560218811
+    }
+  ],
+  "source_anchor": {
+    "page_number": 976,
+    "bbox": {
+      "x0": 144.45409654999997,
+      "y0": 532.25,
+      "x1": 431.5458500499999,
+      "y1": 614.5998504500001
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    976,
+    976
+  ]
+}

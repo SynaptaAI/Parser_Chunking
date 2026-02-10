@@ -1,0 +1,219 @@
+{
+  "segment_id": "table_p893_idx272",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Williamson and Joyner. Explain why the Sharpe ratio versus the Treynor",
+  "row_headers": [
+    [
+      "Beta"
+    ],
+    [
+      "Standard deviation of returns"
+    ]
+  ],
+  "col_headers": [
+    "Average annual rate of return",
+    "",
+    "24.2%"
+  ],
+  "cells": [
+    [
+      "Average annual rate of return",
+      "",
+      "24.2%"
+    ],
+    [
+      "Beta",
+      "",
+      "0.8"
+    ],
+    [
+      "Standard deviation of returns",
+      "",
+      "20.2%"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Average annual rate of return",
+      "normalized_value": "Average annual rate of return",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "24.2%",
+      "normalized_value": 0.242,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Beta",
+      "normalized_value": "Beta",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.8",
+      "normalized_value": 0.8,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Standard deviation of returns",
+      "normalized_value": "Standard deviation of returns",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "20.2%",
+      "normalized_value": 0.20199999999999999,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Williamson and Joyner. Explain why the Sharpe ratio versus the Treynor This table shows NPV sensitivity analysis across different scenarios.",
+  "table_summary": "Williamson and Joyner. Explain why the Sharpe ratio versus the Treynor This table shows NPV sensitivity analysis across different scenarios.",
+  "table_schema_hint": "NPV sensitivity grid",
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 893,
+    "bbox": {
+      "x0": 360.0027512,
+      "y0": 149.26325199999997,
+      "x1": 535.25,
+      "y1": 192.22314855
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    893,
+    893
+  ]
+}

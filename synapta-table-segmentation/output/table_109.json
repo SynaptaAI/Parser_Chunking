@@ -1,0 +1,468 @@
+{
+  "segment_id": "table_p502_idx108",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Tranche Structure Senior-Subordinated Typical Terms",
+  "row_headers": [
+    [
+      ""
+    ],
+    [
+      "Bank"
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ]
+  ],
+  "col_headers": [
+    "",
+    "",
+    "Senior tranche",
+    "70–90% of notional\nprincipal, coupon similar to\nAa-Aaa rated bonds"
+  ],
+  "cells": [
+    [
+      "",
+      "",
+      "Senior tranche",
+      "70–90% of notional\nprincipal, coupon similar to\nAa-Aaa rated bonds"
+    ],
+    [
+      "",
+      "",
+      "Mezzanine 1",
+      "5–15% of principal,\ninvestment-grade rating"
+    ],
+    [
+      "Bank",
+      "Structured\ninvestment\nvehicle, SIV",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "Mezzanine 2",
+      "5–15% of principal, higher-\nquality junk rating"
+    ],
+    [
+      "",
+      "",
+      "Equity/first loss/\nresidual tranche",
+      "<2%, unrated, coupon rate\nwith 20% credit spread"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Senior tranche",
+      "normalized_value": "Senior tranche",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "70–90% of notional\nprincipal, coupon similar to\nAa-Aaa rated bonds",
+      "normalized_value": "70–90% of notional\nprincipal, coupon similar to\nAa-Aaa rated bonds",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Mezzanine 1",
+      "normalized_value": "Mezzanine 1",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "5–15% of principal,\ninvestment-grade rating",
+      "normalized_value": "5–15% of principal,\ninvestment-grade rating",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Bank",
+      "normalized_value": "Bank",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Structured\ninvestment\nvehicle, SIV",
+      "normalized_value": "Structured\ninvestment\nvehicle, SIV",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Mezzanine 2",
+      "normalized_value": "Mezzanine 2",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "5–15% of principal, higher-\nquality junk rating",
+      "normalized_value": "5–15% of principal, higher-\nquality junk rating",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Equity/first loss/\nresidual tranche",
+      "normalized_value": "Equity/first loss/\nresidual tranche",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "<2%, unrated, coupon rate\nwith 20% credit spread",
+      "normalized_value": "<2%, unrated, coupon rate\nwith 20% credit spread",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Tranche Structure Senior-Subordinated Typical Terms This table shows an amortization schedule with payment breakdowns.",
+  "table_summary": "Tranche Structure Senior-Subordinated Typical Terms This table shows an amortization schedule with payment breakdowns.",
+  "table_schema_hint": "amortization schedule",
+  "linked_concept_ids": [
+    "amortization",
+    "bond_pricing"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "amortization",
+      "source_anchor": {
+        "page_number": 502,
+        "bbox": {
+          "x0": 121.4497986,
+          "y0": 53.940000000000055,
+          "x1": 462.44979859999995,
+          "y1": 184.44000240000003
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.47 + Keywords: amortization, payment, principal",
+      "confidence": 0.673516970872879
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "bond_pricing",
+      "source_anchor": {
+        "page_number": 502,
+        "bbox": {
+          "x0": 121.4497986,
+          "y0": 53.940000000000055,
+          "x1": 462.44979859999995,
+          "y1": 184.44000240000003
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.41 + Keywords: bond, coupon",
+      "confidence": 0.6143519103527069
+    }
+  ],
+  "source_anchor": {
+    "page_number": 502,
+    "bbox": {
+      "x0": 121.4497986,
+      "y0": 53.940000000000055,
+      "x1": 462.44979859999995,
+      "y1": 184.44000240000003
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    502,
+    502
+  ]
+}

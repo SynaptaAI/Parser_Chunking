@@ -1,0 +1,680 @@
+{
+  "segment_id": "table_p541_idx115",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Securities",
+  "row_headers": [
+    [
+      "8%"
+    ],
+    [
+      "9%"
+    ],
+    [
+      "Fall in price (%)*"
+    ]
+  ],
+  "col_headers": [
+    "Yield to Maturity (APR)",
+    "",
+    "T = 1 Year",
+    "",
+    "T = 10 Years",
+    "",
+    "T = 20 Years"
+  ],
+  "cells": [
+    [
+      "Yield to Maturity (APR)",
+      "",
+      "T = 1 Year",
+      "",
+      "T = 10 Years",
+      "",
+      "T = 20 Years"
+    ],
+    [
+      "8%",
+      "",
+      "1,000.00",
+      "",
+      "1,000.00",
+      "",
+      "1,000.00"
+    ],
+    [
+      "9%",
+      "",
+      "990.64",
+      "",
+      "934.96",
+      "",
+      "907.99"
+    ],
+    [
+      "Fall in price (%)*",
+      "",
+      "0.94%",
+      "",
+      "6.50%",
+      "",
+      "9.20%"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Yield to Maturity (APR)",
+      "normalized_value": "Yield to Maturity (APR)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "T = 1 Year",
+      "normalized_value": "T = 1 Year",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "T = 10 Years",
+      "normalized_value": "T = 10 Years",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 6,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "T = 20 Years",
+      "normalized_value": "T = 20 Years",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "8%",
+      "normalized_value": 0.08,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "1,000.00",
+      "normalized_value": 1000.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "1,000.00",
+      "normalized_value": 1000.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 6,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "1,000.00",
+      "normalized_value": 1000.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "9%",
+      "normalized_value": 0.09,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "990.64",
+      "normalized_value": 990.64,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "934.96",
+      "normalized_value": 934.96,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 6,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "907.99",
+      "normalized_value": 907.99,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Fall in price (%)*",
+      "normalized_value": "Fall in price (%)*",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "0.94%",
+      "normalized_value": 0.009399999999999999,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "6.50%",
+      "normalized_value": 0.065,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 6,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "9.20%",
+      "normalized_value": 0.092,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "C1",
+      "formula_text": "T = 1 Year",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 541,
+        "bbox": {
+          "x0": 201.0,
+          "y0": 27.25,
+          "x1": 526.5164515999999,
+          "y1": 81.27990020000006
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "E1",
+      "formula_text": "T = 10 Years",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 541,
+        "bbox": {
+          "x0": 201.0,
+          "y0": 27.25,
+          "x1": 526.5164515999999,
+          "y1": 81.27990020000006
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "G1",
+      "formula_text": "T = 20 Years",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 541,
+        "bbox": {
+          "x0": 201.0,
+          "y0": 27.25,
+          "x1": 526.5164515999999,
+          "y1": 81.27990020000006
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Securities This table presents bond cashflow information.",
+  "table_summary": "Securities This table presents bond cashflow information.",
+  "table_schema_hint": "bond cashflows",
+  "linked_concept_ids": [
+    "bond_pricing",
+    "yield_curve"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "bond_pricing",
+      "source_anchor": {
+        "page_number": 541,
+        "bbox": {
+          "x0": 201.0,
+          "y0": 27.25,
+          "x1": 526.5164515999999,
+          "y1": 81.27990020000006
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.55 + Keywords: bond, yield, maturity",
+      "confidence": 0.7494612455368042
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "yield_curve",
+      "source_anchor": {
+        "page_number": 541,
+        "bbox": {
+          "x0": 201.0,
+          "y0": 27.25,
+          "x1": 526.5164515999999,
+          "y1": 81.27990020000006
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.46",
+      "confidence": 0.4593479335308075
+    }
+  ],
+  "source_anchor": {
+    "page_number": 541,
+    "bbox": {
+      "x0": 201.0,
+      "y0": 27.25,
+      "x1": 526.5164515999999,
+      "y1": 81.27990020000006
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    541,
+    541
+  ]
+}

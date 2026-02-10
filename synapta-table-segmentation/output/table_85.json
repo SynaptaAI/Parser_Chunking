@@ -1,0 +1,102 @@
+{
+  "segment_id": "table_p423_idx84",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Equilibrium in Capital Markets PART III",
+  "row_headers": [],
+  "col_headers": [
+    "12.2",
+    "Technical Analysis and Behavioral Finance"
+  ],
+  "cells": [
+    [
+      "12.2",
+      "Technical Analysis and Behavioral Finance"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "12.2",
+      "normalized_value": 12.2,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Technical Analysis and Behavioral Finance",
+      "normalized_value": "Technical Analysis and Behavioral Finance",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Equilibrium in Capital Markets PART III This table contains 1 rows and 2 columns.",
+  "table_summary": "Equilibrium in Capital Markets PART III This table contains 1 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "financial_analysis"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "financial_analysis",
+      "source_anchor": {
+        "page_number": 423,
+        "bbox": {
+          "x0": 80.005,
+          "y0": 18.100000000000023,
+          "x1": 535.505,
+          "y1": 43.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.42",
+      "confidence": 0.4198401868343353
+    }
+  ],
+  "source_anchor": {
+    "page_number": 423,
+    "bbox": {
+      "x0": 80.005,
+      "y0": 18.100000000000023,
+      "x1": 535.505,
+      "y1": 43.0
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    423,
+    423
+  ]
+}

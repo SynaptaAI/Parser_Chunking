@@ -1,0 +1,246 @@
+{
+  "segment_id": "table_p455_idx94",
+  "table_id": null,
+  "table_number": null,
+  "caption": "risk) Characteristics (Potential factors specific to a particular security; for example,",
+  "row_headers": [
+    [
+      "Financial"
+    ],
+    [
+      "Microstructure"
+    ],
+    [
+      "Behavioral"
+    ],
+    [
+      "Accounting"
+    ]
+  ],
+  "col_headers": [
+    "Risk Type",
+    "Description"
+  ],
+  "cells": [
+    [
+      "Risk Type",
+      "Description"
+    ],
+    [
+      "Financial",
+      "Idiosyncratic financial risk such as firm-specific volatility or tail risk"
+    ],
+    [
+      "Microstructure",
+      "Firm-level frictions such as short-sale constraints or transaction costs"
+    ],
+    [
+      "Behavioral",
+      "Firm-level information issues such as dispersion of analyst forecasts or media\ncoverage"
+    ],
+    [
+      "Accounting",
+      "Firm-level accounting variables such as P/E ratio or debt-to-equity ratio"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Risk Type",
+      "normalized_value": "Risk Type",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Description",
+      "normalized_value": "Description",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Financial",
+      "normalized_value": "Financial",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Idiosyncratic financial risk such as firm-specific volatility or tail risk",
+      "normalized_value": "Idiosyncratic financial risk such as firm-specific volatility or tail risk",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Microstructure",
+      "normalized_value": "Microstructure",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Firm-level frictions such as short-sale constraints or transaction costs",
+      "normalized_value": "Firm-level frictions such as short-sale constraints or transaction costs",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Behavioral",
+      "normalized_value": "Behavioral",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Firm-level information issues such as dispersion of analyst forecasts or media\ncoverage",
+      "normalized_value": "Firm-level information issues such as dispersion of analyst forecasts or media\ncoverage",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Accounting",
+      "normalized_value": "Accounting",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Firm-level accounting variables such as P/E ratio or debt-to-equity ratio",
+      "normalized_value": "Firm-level accounting variables such as P/E ratio or debt-to-equity ratio",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "risk) Characteristics (Potential factors specific to a particular security; for example, This table contains 5 rows and 2 columns.",
+  "table_summary": "risk) Characteristics (Potential factors specific to a particular security; for example, This table contains 5 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 455,
+    "bbox": {
+      "x0": 175.75219779999998,
+      "y0": 219.87015015,
+      "x1": 526.1152010999999,
+      "y1": 302.2200006
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    455,
+    455
+  ]
+}

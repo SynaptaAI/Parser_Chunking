@@ -1,0 +1,81 @@
+{
+  "segment_id": "table_p989_idx306",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Applied Portfolio Management PART VII",
+  "row_headers": [],
+  "col_headers": [
+    "28.1",
+    "The Investment Management Process"
+  ],
+  "cells": [
+    [
+      "28.1",
+      "The Investment Management Process"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "28.1",
+      "normalized_value": 28.1,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "The Investment Management Process",
+      "normalized_value": "The Investment Management Process",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Applied Portfolio Management PART VII This table contains 1 rows and 2 columns.",
+  "table_summary": "Applied Portfolio Management PART VII This table contains 1 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 989,
+    "bbox": {
+      "x0": 79.25025,
+      "y0": 18.100000000000023,
+      "x1": 535.167,
+      "y1": 43.0
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    989,
+    989
+  ]
+}

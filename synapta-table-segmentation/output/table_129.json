@@ -1,0 +1,293 @@
+{
+  "segment_id": "table_p568_idx128",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Final PDF to",
+  "row_headers": [
+    [
+      ""
+    ],
+    [
+      "1. Even default-free bonds such as Treasury issues are subject to interest rate risk. Longer-term bonds SUMMARY\ngenerally are more sensitive to interest rate shifts than are short-term bonds. Macaulay’s duration\nmeasures the average life of a bond. Duration is defined as the weighted average of the times until\neach payment made by the security, with weights proportional to the present value of the payment.\n2. Duration is a direct measure of the sensitivity of a bond’s price to a change in its yield. The pro-\nportional change in a bond’s price equals the negative of duration multiplied by the proportional\nchange in 1 + y.\n3. Convexity refers to the curvature of a bond’s price-yield relationship. Accounting for convexity\ncan substantially improve the accuracy of the duration approximation for the response of bond\nprices to changes in yields.\n4. Immunization is an important category of passive bond portfolio management. It attempts to\nrender the individual or firm immune from movements in interest rates. This may take the form\nof immunizing net worth or, instead, immunizing the future accumulated value of a fixed-income\nportfolio.\n5. Immunization of a fully funded plan is accomplished by matching the durations of assets and\nliabilities. To maintain an immunized position as time passes and interest rates change, the port-\nfolio must be periodically rebalanced.\n6. A more direct form of immunization is dedication, or cash-flow matching. If portfolio cash\nflows are perfectly matched to those of projected liabilities, rebalancing will be unnecessary. But\ndedication imposes a large number of constraints on bond choice, and in many cases may not be\nfeasible.\n7. Active bond management consists of interest rate forecasting techniques and intermarket spread\nanalysis. One popular taxonomy classifies active strategies as substitution swaps, intermarket\nspread swaps, rate anticipation swaps, and pure yield pickup swaps.\n8. Horizon analysis is a type of interest rate forecasting. In this procedure, the analyst forecasts the\nposition of the yield curve at the end of some holding period and from that yield curve predicts\ncorresponding bond prices. Bonds then can be ranked according to expected total rates of return\nover the holding period."
+    ],
+    [
+      "Macaulay’s duration rebalancing rate anticipation swap KEY TERMS\nmodified duration cash flow matching pure yield pickup swap\nconvexity dedication strategy tax swap\neffective duration substitution swap horizon analysis\nimmunization intermarket spread swap"
+    ],
+    [
+      "T KEY EQUATIONS\nMacaulay’s duration: D = ∑ t × w t\nt = 1\nModified duration: D * = D / ( 1 + y )\nΔP Δ( 1 + y )\nBond price risk: ___ = −D × _ = −D* × Δy\nP [ 1 + y ]\n1 + y\nDuration of perpetuity = ___ _\ny\nBond price risk including convexity:\nΔP\n___ = −D* Δy + ½ × Convexity × (Δy) 2\nP\nΔP/P\nEffective duration = − _ ___ _\nΔr"
+    ]
+  ],
+  "col_headers": [
+    "",
+    ""
+  ],
+  "cells": [
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "1. Even default-free bonds such as Treasury issues are subject to interest rate risk. Longer-term bonds SUMMARY\ngenerally are more sensitive to interest rate shifts than are short-term bonds. Macaulay’s duration\nmeasures the average life of a bond. Duration is defined as the weighted average of the times until\neach payment made by the security, with weights proportional to the present value of the payment.\n2. Duration is a direct measure of the sensitivity of a bond’s price to a change in its yield. The pro-\nportional change in a bond’s price equals the negative of duration multiplied by the proportional\nchange in 1 + y.\n3. Convexity refers to the curvature of a bond’s price-yield relationship. Accounting for convexity\ncan substantially improve the accuracy of the duration approximation for the response of bond\nprices to changes in yields.\n4. Immunization is an important category of passive bond portfolio management. It attempts to\nrender the individual or firm immune from movements in interest rates. This may take the form\nof immunizing net worth or, instead, immunizing the future accumulated value of a fixed-income\nportfolio.\n5. Immunization of a fully funded plan is accomplished by matching the durations of assets and\nliabilities. To maintain an immunized position as time passes and interest rates change, the port-\nfolio must be periodically rebalanced.\n6. A more direct form of immunization is dedication, or cash-flow matching. If portfolio cash\nflows are perfectly matched to those of projected liabilities, rebalancing will be unnecessary. But\ndedication imposes a large number of constraints on bond choice, and in many cases may not be\nfeasible.\n7. Active bond management consists of interest rate forecasting techniques and intermarket spread\nanalysis. One popular taxonomy classifies active strategies as substitution swaps, intermarket\nspread swaps, rate anticipation swaps, and pure yield pickup swaps.\n8. Horizon analysis is a type of interest rate forecasting. In this procedure, the analyst forecasts the\nposition of the yield curve at the end of some holding period and from that yield curve predicts\ncorresponding bond prices. Bonds then can be ranked according to expected total rates of return\nover the holding period.",
+      ""
+    ],
+    [
+      "Macaulay’s duration rebalancing rate anticipation swap KEY TERMS\nmodified duration cash flow matching pure yield pickup swap\nconvexity dedication strategy tax swap\neffective duration substitution swap horizon analysis\nimmunization intermarket spread swap",
+      ""
+    ],
+    [
+      "T KEY EQUATIONS\nMacaulay’s duration: D = ∑ t × w t\nt = 1\nModified duration: D * = D / ( 1 + y )\nΔP Δ( 1 + y )\nBond price risk: ___ = −D × _ = −D* × Δy\nP [ 1 + y ]\n1 + y\nDuration of perpetuity = ___ _\ny\nBond price risk including convexity:\nΔP\n___ = −D* Δy + ½ × Convexity × (Δy) 2\nP\nΔP/P\nEffective duration = − _ ___ _\nΔr",
+      ""
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "1. Even default-free bonds such as Treasury issues are subject to interest rate risk. Longer-term bonds SUMMARY\ngenerally are more sensitive to interest rate shifts than are short-term bonds. Macaulay’s duration\nmeasures the average life of a bond. Duration is defined as the weighted average of the times until\neach payment made by the security, with weights proportional to the present value of the payment.\n2. Duration is a direct measure of the sensitivity of a bond’s price to a change in its yield. The pro-\nportional change in a bond’s price equals the negative of duration multiplied by the proportional\nchange in 1 + y.\n3. Convexity refers to the curvature of a bond’s price-yield relationship. Accounting for convexity\ncan substantially improve the accuracy of the duration approximation for the response of bond\nprices to changes in yields.\n4. Immunization is an important category of passive bond portfolio management. It attempts to\nrender the individual or firm immune from movements in interest rates. This may take the form\nof immunizing net worth or, instead, immunizing the future accumulated value of a fixed-income\nportfolio.\n5. Immunization of a fully funded plan is accomplished by matching the durations of assets and\nliabilities. To maintain an immunized position as time passes and interest rates change, the port-\nfolio must be periodically rebalanced.\n6. A more direct form of immunization is dedication, or cash-flow matching. If portfolio cash\nflows are perfectly matched to those of projected liabilities, rebalancing will be unnecessary. But\ndedication imposes a large number of constraints on bond choice, and in many cases may not be\nfeasible.\n7. Active bond management consists of interest rate forecasting techniques and intermarket spread\nanalysis. One popular taxonomy classifies active strategies as substitution swaps, intermarket\nspread swaps, rate anticipation swaps, and pure yield pickup swaps.\n8. Horizon analysis is a type of interest rate forecasting. In this procedure, the analyst forecasts the\nposition of the yield curve at the end of some holding period and from that yield curve predicts\ncorresponding bond prices. Bonds then can be ranked according to expected total rates of return\nover the holding period.",
+      "normalized_value": "1. Even default-free bonds such as Treasury issues are subject to interest rate risk. Longer-term bonds SUMMARY\ngenerally are more sensitive to interest rate shifts than are short-term bonds. Macaulay’s duration\nmeasures the average life of a bond. Duration is defined as the weighted average of the times until\neach payment made by the security, with weights proportional to the present value of the payment.\n2. Duration is a direct measure of the sensitivity of a bond’s price to a change in its yield. The pro-\nportional change in a bond’s price equals the negative of duration multiplied by the proportional\nchange in 1 + y.\n3. Convexity refers to the curvature of a bond’s price-yield relationship. Accounting for convexity\ncan substantially improve the accuracy of the duration approximation for the response of bond\nprices to changes in yields.\n4. Immunization is an important category of passive bond portfolio management. It attempts to\nrender the individual or firm immune from movements in interest rates. This may take the form\nof immunizing net worth or, instead, immunizing the future accumulated value of a fixed-income\nportfolio.\n5. Immunization of a fully funded plan is accomplished by matching the durations of assets and\nliabilities. To maintain an immunized position as time passes and interest rates change, the port-\nfolio must be periodically rebalanced.\n6. A more direct form of immunization is dedication, or cash-flow matching. If portfolio cash\nflows are perfectly matched to those of projected liabilities, rebalancing will be unnecessary. But\ndedication imposes a large number of constraints on bond choice, and in many cases may not be\nfeasible.\n7. Active bond management consists of interest rate forecasting techniques and intermarket spread\nanalysis. One popular taxonomy classifies active strategies as substitution swaps, intermarket\nspread swaps, rate anticipation swaps, and pure yield pickup swaps.\n8. Horizon analysis is a type of interest rate forecasting. In this procedure, the analyst forecasts the\nposition of the yield curve at the end of some holding period and from that yield curve predicts\ncorresponding bond prices. Bonds then can be ranked according to expected total rates of return\nover the holding period.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Macaulay’s duration rebalancing rate anticipation swap KEY TERMS\nmodified duration cash flow matching pure yield pickup swap\nconvexity dedication strategy tax swap\neffective duration substitution swap horizon analysis\nimmunization intermarket spread swap",
+      "normalized_value": "Macaulay’s duration rebalancing rate anticipation swap KEY TERMS\nmodified duration cash flow matching pure yield pickup swap\nconvexity dedication strategy tax swap\neffective duration substitution swap horizon analysis\nimmunization intermarket spread swap",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "T KEY EQUATIONS\nMacaulay’s duration: D = ∑ t × w t\nt = 1\nModified duration: D * = D / ( 1 + y )\nΔP Δ( 1 + y )\nBond price risk: ___ = −D × _ = −D* × Δy\nP [ 1 + y ]\n1 + y\nDuration of perpetuity = ___ _\ny\nBond price risk including convexity:\nΔP\n___ = −D* Δy + ½ × Convexity × (Δy) 2\nP\nΔP/P\nEffective duration = − _ ___ _\nΔr",
+      "normalized_value": "T KEY EQUATIONS\nMacaulay’s duration: D = ∑ t × w t\nt = 1\nModified duration: D * = D / ( 1 + y )\nΔP Δ( 1 + y )\nBond price risk: ___ = −D × _ = −D* × Δy\nP [ 1 + y ]\n1 + y\nDuration of perpetuity = ___ _\ny\nBond price risk including convexity:\nΔP\n___ = −D* Δy + ½ × Convexity × (Δy) 2\nP\nΔP/P\nEffective duration = − _ ___ _\nΔr",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "A3",
+      "formula_text": "1. Even default-free bonds such as Treasury issues are subject to interest rate risk. Longer-term bonds SUMMARY\ngenerally are more sensitive to interest rate shifts than are short-term bonds. Macaulay’s duration\nmeasures the average life of a bond. Duration is defined as the weighted average of the times until\neach payment made by the security, with weights proportional to the present value of the payment.\n2. Duration is a direct measure of the sensitivity of a bond’s price to a change in its yield. The pro-\nportional change in a bond’s price equals the negative of duration multiplied by the proportional\nchange in 1 + y.\n3. Convexity refers to the curvature of a bond’s price-yield relationship. Accounting for convexity\ncan substantially improve the accuracy of the duration approximation for the response of bond\nprices to changes in yields.\n4. Immunization is an important category of passive bond portfolio management. It attempts to\nrender the individual or firm immune from movements in interest rates. This may take the form\nof immunizing net worth or, instead, immunizing the future accumulated value of a fixed-income\nportfolio.\n5. Immunization of a fully funded plan is accomplished by matching the durations of assets and\nliabilities. To maintain an immunized position as time passes and interest rates change, the port-\nfolio must be periodically rebalanced.\n6. A more direct form of immunization is dedication, or cash-flow matching. If portfolio cash\nflows are perfectly matched to those of projected liabilities, rebalancing will be unnecessary. But\ndedication imposes a large number of constraints on bond choice, and in many cases may not be\nfeasible.\n7. Active bond management consists of interest rate forecasting techniques and intermarket spread\nanalysis. One popular taxonomy classifies active strategies as substitution swaps, intermarket\nspread swaps, rate anticipation swaps, and pure yield pickup swaps.\n8. Horizon analysis is a type of interest rate forecasting. In this procedure, the analyst forecasts the\nposition of the yield curve at the end of some holding period and from that yield curve predicts\ncorresponding bond prices. Bonds then can be ranked according to expected total rates of return\nover the holding period.",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 568,
+        "bbox": {
+          "x0": 18.0,
+          "y0": -63.0,
+          "x1": 625.5,
+          "y1": 693.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "A5",
+      "formula_text": "T KEY EQUATIONS\nMacaulay’s duration: D = ∑ t × w t\nt = 1\nModified duration: D * = D / ( 1 + y )\nΔP Δ( 1 + y )\nBond price risk: ___ = −D × _ = −D* × Δy\nP [ 1 + y ]\n1 + y\nDuration of perpetuity = ___ _\ny\nBond price risk including convexity:\nΔP\n___ = −D* Δy + ½ × Convexity × (Δy) 2\nP\nΔP/P\nEffective duration = − _ ___ _\nΔr",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 568,
+        "bbox": {
+          "x0": 18.0,
+          "y0": -63.0,
+          "x1": 625.5,
+          "y1": 693.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Final PDF to This table contains 5 rows and 2 columns.",
+  "table_summary": "Final PDF to This table contains 5 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 568,
+    "bbox": {
+      "x0": 18.0,
+      "y0": -63.0,
+      "x1": 625.5,
+      "y1": 693.0
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    568,
+    568
+  ]
+}

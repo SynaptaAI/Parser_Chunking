@@ -1,0 +1,259 @@
+{
+  "segment_id": "table_p651_idx150",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Security Analysis",
+  "row_headers": [
+    [
+      "Growth rate of industry"
+    ],
+    [
+      "Industry P/E ratio"
+    ]
+  ],
+  "col_headers": [
+    "Required rate of return on equity",
+    "",
+    "14%"
+  ],
+  "cells": [
+    [
+      "Required rate of return on equity",
+      "",
+      "14%"
+    ],
+    [
+      "Growth rate of industry",
+      "",
+      "13%"
+    ],
+    [
+      "Industry P/E ratio",
+      "",
+      "26"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Required rate of return on equity",
+      "normalized_value": "Required rate of return on equity",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "14%",
+      "normalized_value": 0.14,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Growth rate of industry",
+      "normalized_value": "Growth rate of industry",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "13%",
+      "normalized_value": 0.13,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Industry P/E ratio",
+      "normalized_value": "Industry P/E ratio",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "26",
+      "normalized_value": 26,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Security Analysis This table shows NPV sensitivity analysis across different scenarios.",
+  "table_summary": "Security Analysis This table shows NPV sensitivity analysis across different scenarios.",
+  "table_schema_hint": "NPV sensitivity grid",
+  "linked_concept_ids": [
+    "portfolio_theory",
+    "financial_analysis"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "financial_analysis",
+      "source_anchor": {
+        "page_number": 651,
+        "bbox": {
+          "x0": 175.33496567826091,
+          "y0": 18.25,
+          "x1": 344.96004915000003,
+          "y1": 60.209896549999996
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.47",
+      "confidence": 0.46811676025390625
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "portfolio_theory",
+      "source_anchor": {
+        "page_number": 651,
+        "bbox": {
+          "x0": 175.33496567826091,
+          "y0": 18.25,
+          "x1": 344.96004915000003,
+          "y1": 60.209896549999996
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.35 + Keywords: return",
+      "confidence": 0.5506986796855926
+    }
+  ],
+  "source_anchor": {
+    "page_number": 651,
+    "bbox": {
+      "x0": 175.33496567826091,
+      "y0": 18.25,
+      "x1": 344.96004915000003,
+      "y1": 60.209896549999996
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    651,
+    651
+  ]
+}

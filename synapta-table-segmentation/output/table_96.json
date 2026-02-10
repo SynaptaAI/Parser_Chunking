@@ -1,0 +1,81 @@
+{
+  "segment_id": "table_p456_idx95",
+  "table_id": null,
+  "table_number": null,
+  "caption": "notable factor that deemed only a small number of recently proposed factors as statistically sig-",
+  "row_headers": [],
+  "col_headers": [
+    "13.4",
+    "Liquidity and Asset Pricing"
+  ],
+  "cells": [
+    [
+      "13.4",
+      "Liquidity and Asset Pricing"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "13.4",
+      "normalized_value": 13.4,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Liquidity and Asset Pricing",
+      "normalized_value": "Liquidity and Asset Pricing",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "notable factor that deemed only a small number of recently proposed factors as statistically sig- This table contains 1 rows and 2 columns.",
+  "table_summary": "notable factor that deemed only a small number of recently proposed factors as statistically sig- This table contains 1 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 456,
+    "bbox": {
+      "x0": 108.5,
+      "y0": 419.00300000000004,
+      "x1": 564.0,
+      "y1": 443.903
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    456,
+    456
+  ]
+}

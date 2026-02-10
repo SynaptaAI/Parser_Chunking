@@ -1,0 +1,109 @@
+{
+  "segment_id": "table_p168_idx31",
+  "table_id": null,
+  "table_number": null,
+  "caption": "that the return on the index in Example 5.5 will be below 5.4 Concept Check",
+  "row_headers": [
+    [
+      "Figure 5.4 The normal distribution with mean 10% and standard deviation 20%"
+    ],
+    [
+      ""
+    ]
+  ],
+  "col_headers": [
+    "68.26%\n95.44%\n99.74%\n–3σ –2σ –1σ 0 +1σ +2σ +3σ\n–50% –30% –10% 10% 30% 50% 70%"
+  ],
+  "cells": [
+    [
+      "68.26%\n95.44%\n99.74%\n–3σ –2σ –1σ 0 +1σ +2σ +3σ\n–50% –30% –10% 10% 30% 50% 70%"
+    ],
+    [
+      "Figure 5.4 The normal distribution with mean 10% and standard deviation 20%"
+    ],
+    [
+      ""
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "68.26%\n95.44%\n99.74%\n–3σ –2σ –1σ 0 +1σ +2σ +3σ\n–50% –30% –10% 10% 30% 50% 70%",
+      "normalized_value": "68.26%\n95.44%\n99.74%\n–3σ –2σ –1σ 0 +1σ +2σ +3σ\n–50% –30% –10% 10% 30% 50% 70%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "Figure 5.4 The normal distribution with mean 10% and standard deviation 20%",
+      "normalized_value": "Figure 5.4 The normal distribution with mean 10% and standard deviation 20%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "that the return on the index in Example 5.5 will be below 5.4 Concept Check This table contains 3 rows and 1 columns.",
+  "table_summary": "that the return on the index in Example 5.5 will be below 5.4 Concept Check This table contains 3 rows and 1 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 168,
+    "bbox": {
+      "x0": 108.26814936250003,
+      "y0": 86.81600000000003,
+      "x1": 467.498,
+      "y1": 303.288
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    168,
+    168
+  ]
+}

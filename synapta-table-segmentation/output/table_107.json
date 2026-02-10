@@ -1,0 +1,358 @@
+{
+  "segment_id": "table_p498_idx106",
+  "table_id": null,
+  "table_number": null,
+  "caption": "payments, but at the maturity but the firm is having financial difficulties. Investors believe that",
+  "row_headers": [
+    [
+      "Coupon payment"
+    ],
+    [
+      "Number of semiannual periods"
+    ],
+    [
+      "Final payment"
+    ],
+    [
+      "Price"
+    ]
+  ],
+  "col_headers": [
+    "",
+    "Expected YTM",
+    "Stated YTM"
+  ],
+  "cells": [
+    [
+      "",
+      "Expected YTM",
+      "Stated YTM"
+    ],
+    [
+      "Coupon payment",
+      "$45",
+      "$45"
+    ],
+    [
+      "Number of semiannual periods",
+      "20 periods",
+      "20 periods"
+    ],
+    [
+      "Final payment",
+      "$700",
+      "$1,000"
+    ],
+    [
+      "Price",
+      "$750",
+      "$750"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Expected YTM",
+      "normalized_value": "Expected YTM",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Stated YTM",
+      "normalized_value": "Stated YTM",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Coupon payment",
+      "normalized_value": "Coupon payment",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "currency",
+      "raw_value": "$45",
+      "normalized_value": 45.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "currency",
+      "raw_value": "$45",
+      "normalized_value": 45.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Number of semiannual periods",
+      "normalized_value": "Number of semiannual periods",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "20 periods",
+      "normalized_value": "20 periods",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "20 periods",
+      "normalized_value": "20 periods",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Final payment",
+      "normalized_value": "Final payment",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "currency",
+      "raw_value": "$700",
+      "normalized_value": 700.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "currency",
+      "raw_value": "$1,000",
+      "normalized_value": 1000.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Price",
+      "normalized_value": "Price",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "currency",
+      "raw_value": "$750",
+      "normalized_value": 750.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "currency",
+      "raw_value": "$750",
+      "normalized_value": 750.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "payments, but at the maturity but the firm is having financial difficulties. Investors believe that This table contains 5 rows and 3 columns.",
+  "table_summary": "payments, but at the maturity but the firm is having financial difficulties. Investors believe that This table contains 5 rows and 3 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "financial_analysis"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "financial_analysis",
+      "source_anchor": {
+        "page_number": 498,
+        "bbox": {
+          "x0": 140.25,
+          "y0": 114.25,
+          "x1": 436.25,
+          "y1": 186.59985045
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.37 + Keywords: financial",
+      "confidence": 0.5722977042198181
+    }
+  ],
+  "source_anchor": {
+    "page_number": 498,
+    "bbox": {
+      "x0": 140.25,
+      "y0": 114.25,
+      "x1": 436.25,
+      "y1": 186.59985045
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    498,
+    498
+  ]
+}

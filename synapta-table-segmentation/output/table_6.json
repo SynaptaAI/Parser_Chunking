@@ -1,0 +1,81 @@
+{
+  "segment_id": "table_p60_idx5",
+  "table_id": null,
+  "table_number": null,
+  "caption": "",
+  "row_headers": [],
+  "col_headers": [
+    "2.1",
+    "The Money Market"
+  ],
+  "cells": [
+    [
+      "2.1",
+      "The Money Market"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "2.1",
+      "normalized_value": 2.1,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "The Money Market",
+      "normalized_value": "The Money Market",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "This table contains 1 rows and 2 columns.",
+  "table_summary": "This table contains 1 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 60,
+    "bbox": {
+      "x0": 108.749,
+      "y0": 548.406,
+      "x1": 563.499,
+      "y1": 573.3059999999999
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    60,
+    60
+  ]
+}

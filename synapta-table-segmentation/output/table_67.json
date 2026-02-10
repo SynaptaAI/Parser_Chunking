@@ -1,0 +1,396 @@
+{
+  "segment_id": "table_p286_idx66",
+  "table_id": null,
+  "table_number": null,
+  "caption": "for the single-index model in the table below. of Estimates Needed for the Single-Index Model",
+  "row_headers": [
+    [
+      "1. The stock’s expected return if the market is neutral, that is, if the\nmarket’s excess return, r M − r f , is zero"
+    ],
+    [
+      "2. The component of return due to movements in the overall m arket in\nany period; βi is the security’s responsiveness to market movements"
+    ],
+    [
+      "3. The unexpected component of return in any period due to\nunexpected events that are relevant only to this security\n(firm specific)"
+    ],
+    [
+      "4. The variance attributable to the uncertainty of the common macro-\neconomic factor"
+    ],
+    [
+      "5. The variance attributable to firm-specific uncertainty"
+    ]
+  ],
+  "col_headers": [
+    "",
+    "",
+    "Symbol"
+  ],
+  "cells": [
+    [
+      "",
+      "",
+      "Symbol"
+    ],
+    [
+      "1. The stock’s expected return if the market is neutral, that is, if the\nmarket’s excess return, r M − r f , is zero",
+      "",
+      "α i"
+    ],
+    [
+      "2. The component of return due to movements in the overall m arket in\nany period; βi is the security’s responsiveness to market movements",
+      "",
+      "βi (r M − r f )"
+    ],
+    [
+      "3. The unexpected component of return in any period due to\nunexpected events that are relevant only to this security\n(firm specific)",
+      "",
+      "e\ni"
+    ],
+    [
+      "4. The variance attributable to the uncertainty of the common macro-\neconomic factor",
+      "",
+      "β i 2 σ M 2"
+    ],
+    [
+      "5. The variance attributable to firm-specific uncertainty",
+      "",
+      "σ2(e )\ni"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Symbol",
+      "normalized_value": "Symbol",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "1. The stock’s expected return if the market is neutral, that is, if the\nmarket’s excess return, r M − r f , is zero",
+      "normalized_value": "1. The stock’s expected return if the market is neutral, that is, if the\nmarket’s excess return, r M − r f , is zero",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "α i",
+      "normalized_value": "α i",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "2. The component of return due to movements in the overall m arket in\nany period; βi is the security’s responsiveness to market movements",
+      "normalized_value": "2. The component of return due to movements in the overall m arket in\nany period; βi is the security’s responsiveness to market movements",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "βi (r M − r f )",
+      "normalized_value": "βi (r M − r f )",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "3. The unexpected component of return in any period due to\nunexpected events that are relevant only to this security\n(firm specific)",
+      "normalized_value": "3. The unexpected component of return in any period due to\nunexpected events that are relevant only to this security\n(firm specific)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "e\ni",
+      "normalized_value": "e\ni",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "4. The variance attributable to the uncertainty of the common macro-\neconomic factor",
+      "normalized_value": "4. The variance attributable to the uncertainty of the common macro-\neconomic factor",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "β i 2 σ M 2",
+      "normalized_value": "β i 2 σ M 2",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "5. The variance attributable to firm-specific uncertainty",
+      "normalized_value": "5. The variance attributable to firm-specific uncertainty",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "σ2(e )\ni",
+      "normalized_value": "σ2(e )\ni",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "for the single-index model in the table below. of Estimates Needed for the Single-Index Model This table contains 6 rows and 3 columns.",
+  "table_summary": "for the single-index model in the table below. of Estimates Needed for the Single-Index Model This table contains 6 rows and 3 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 286,
+    "bbox": {
+      "x0": 108.24135036249999,
+      "y0": 294.9700998,
+      "x1": 468.25,
+      "y1": 427.63994629999996
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    286,
+    286
+  ]
+}

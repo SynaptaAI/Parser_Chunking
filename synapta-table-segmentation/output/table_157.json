@@ -1,0 +1,337 @@
+{
+  "segment_id": "table_p654_idx156",
+  "table_id": null,
+  "table_number": null,
+  "caption": "income $ tax expense",
+  "row_headers": [
+    [
+      "Note 2:"
+    ],
+    [
+      "Note 3:"
+    ],
+    [
+      "Note 4:"
+    ],
+    [
+      "Note 5:"
+    ]
+  ],
+  "col_headers": [
+    "Note 1:",
+    "",
+    "Rio National had $75 million in capital expenditures during the year."
+  ],
+  "cells": [
+    [
+      "Note 1:",
+      "",
+      "Rio National had $75 million in capital expenditures during the year."
+    ],
+    [
+      "Note 2:",
+      "",
+      "A piece of equipment that was originally purchased for $10 million was sold for $7 million at year-\nend, when it had a net book value of $3 million. Equipment sales are unusual for Rio National."
+    ],
+    [
+      "Note 3:",
+      "",
+      "The decrease in long-term debt represents an unscheduled principal repayment;\nthere was no new borrowing during the year."
+    ],
+    [
+      "Note 4:",
+      "",
+      "On January 1, 2022, the company received cash from issuing 400,000 shares of\ncommon equity at a price of $25.00 per share."
+    ],
+    [
+      "Note 5:",
+      "",
+      "A new appraisal during the year increased the estimated market value of land held for\ninvestment by $2 million, which was not recognized in 2022 income."
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Note 1:",
+      "normalized_value": "Note 1:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Rio National had $75 million in capital expenditures during the year.",
+      "normalized_value": "Rio National had $75 million in capital expenditures during the year.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Note 2:",
+      "normalized_value": "Note 2:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "A piece of equipment that was originally purchased for $10 million was sold for $7 million at year-\nend, when it had a net book value of $3 million. Equipment sales are unusual for Rio National.",
+      "normalized_value": "A piece of equipment that was originally purchased for $10 million was sold for $7 million at year-\nend, when it had a net book value of $3 million. Equipment sales are unusual for Rio National.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Note 3:",
+      "normalized_value": "Note 3:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "The decrease in long-term debt represents an unscheduled principal repayment;\nthere was no new borrowing during the year.",
+      "normalized_value": "The decrease in long-term debt represents an unscheduled principal repayment;\nthere was no new borrowing during the year.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Note 4:",
+      "normalized_value": "Note 4:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "On January 1, 2022, the company received cash from issuing 400,000 shares of\ncommon equity at a price of $25.00 per share.",
+      "normalized_value": "On January 1, 2022, the company received cash from issuing 400,000 shares of\ncommon equity at a price of $25.00 per share.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Note 5:",
+      "normalized_value": "Note 5:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "A new appraisal during the year increased the estimated market value of land held for\ninvestment by $2 million, which was not recognized in 2022 income.",
+      "normalized_value": "A new appraisal during the year increased the estimated market value of land held for\ninvestment by $2 million, which was not recognized in 2022 income.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "income $ tax expense This table contains 5 rows and 3 columns.",
+  "table_summary": "income $ tax expense This table contains 5 rows and 3 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 654,
+    "bbox": {
+      "x0": 107.9241905220588,
+      "y0": 489.38204765,
+      "x1": 467.5759999205882,
+      "y1": 599.48195155
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    654,
+    654
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "segment_id": "table_p674_idx171",
+  "table_id": null,
+  "table_number": null,
+  "caption": "better measure of liquidity than the current ratio numerator includes only cash, cash equivalents, and",
+  "row_headers": [
+    [
+      "0.73"
+    ]
+  ],
+  "col_headers": [
+    "2021",
+    "2022",
+    "2023",
+    "2023 Industry Average"
+  ],
+  "cells": [
+    [
+      "2021",
+      "2022",
+      "2023",
+      "2023 Industry Average"
+    ],
+    [
+      "0.73",
+      "0.58",
+      "0.48",
+      "1.0"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "2021",
+      "normalized_value": 2021,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "2022",
+      "normalized_value": 2022,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "2023",
+      "normalized_value": 2023,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "2023 Industry Average",
+      "normalized_value": "2023 Industry Average",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.73",
+      "normalized_value": 0.73,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.58",
+      "normalized_value": 0.58,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.48",
+      "normalized_value": 0.48,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "1.0",
+      "normalized_value": 1.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "better measure of liquidity than the current ratio numerator includes only cash, cash equivalents, and This table contains 2 rows and 4 columns.",
+  "table_summary": "better measure of liquidity than the current ratio numerator includes only cash, cash equivalents, and This table contains 2 rows and 4 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "financial_analysis"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "financial_analysis",
+      "source_anchor": {
+        "page_number": 674,
+        "bbox": {
+          "x0": 168.0,
+          "y0": 442.8380521000001,
+          "x1": 408.0,
+          "y1": 476.22799840000005
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.48 + Keywords: ratio",
+      "confidence": 0.6825737476348877
+    }
+  ],
+  "source_anchor": {
+    "page_number": 674,
+    "bbox": {
+      "x0": 168.0,
+      "y0": 442.8380521000001,
+      "x1": 408.0,
+      "y1": 476.22799840000005
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    674,
+    674
+  ]
+}

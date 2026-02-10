@@ -1,0 +1,232 @@
+{
+  "segment_id": "table_p710_idx189",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Options Markets: Introduction CHAPTER 20",
+  "row_headers": [
+    [
+      ""
+    ],
+    [
+      ""
+    ]
+  ],
+  "col_headers": [
+    "Payoff = Value of Put at Expiration\nProfit\nPrice of Put\nS\nT\n$100",
+    ""
+  ],
+  "cells": [
+    [
+      "Payoff = Value of Put at Expiration\nProfit\nPrice of Put\nS\nT\n$100",
+      ""
+    ],
+    [
+      "",
+      "Payoff = Value of Put at Expiration\nProfit\nPrice of Put\nS\nT\n$100"
+    ],
+    [
+      "",
+      ""
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Payoff = Value of Put at Expiration\nProfit\nPrice of Put\nS\nT\n$100",
+      "normalized_value": "Payoff = Value of Put at Expiration\nProfit\nPrice of Put\nS\nT\n$100",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Payoff = Value of Put at Expiration\nProfit\nPrice of Put\nS\nT\n$100",
+      "normalized_value": "Payoff = Value of Put at Expiration\nProfit\nPrice of Put\nS\nT\n$100",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "A1",
+      "formula_text": "Payoff = Value of Put at Expiration\nProfit\nPrice of Put\nS\nT\n$100",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 710,
+        "bbox": {
+          "x0": 321.5555132125,
+          "y0": 32.10384924999994,
+          "x1": 539.7173685666667,
+          "y1": 168.560699375
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "B2",
+      "formula_text": "Payoff = Value of Put at Expiration\nProfit\nPrice of Put\nS\nT\n$100",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 710,
+        "bbox": {
+          "x0": 321.5555132125,
+          "y0": 32.10384924999994,
+          "x1": 539.7173685666667,
+          "y1": 168.560699375
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Options Markets: Introduction CHAPTER 20 This table contains 3 rows and 2 columns.",
+  "table_summary": "Options Markets: Introduction CHAPTER 20 This table contains 3 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "options_pricing"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "options_pricing",
+      "source_anchor": {
+        "page_number": 710,
+        "bbox": {
+          "x0": 321.5555132125,
+          "y0": 32.10384924999994,
+          "x1": 539.7173685666667,
+          "y1": 168.560699375
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.47 + Keywords: option, put, expiration",
+      "confidence": 0.673106175661087
+    }
+  ],
+  "source_anchor": {
+    "page_number": 710,
+    "bbox": {
+      "x0": 321.5555132125,
+      "y0": 32.10384924999994,
+      "x1": 539.7173685666667,
+      "y1": 168.560699375
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    710,
+    710
+  ]
+}

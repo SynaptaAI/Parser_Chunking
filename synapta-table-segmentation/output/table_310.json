@@ -1,0 +1,594 @@
+{
+  "segment_id": "table_p994_idx309",
+  "table_id": null,
+  "table_number": null,
+  "caption": "summarizes the objectives pertaining to each of these investor classes. reduced interest rate risk.",
+  "row_headers": [
+    [
+      "Individual"
+    ],
+    [
+      "Personal trusts"
+    ],
+    [
+      "Mutual funds"
+    ],
+    [
+      "Pension funds (Defined benefit)"
+    ],
+    [
+      "Endowment funds"
+    ],
+    [
+      "Life insurance companies"
+    ],
+    [
+      "Non–life insurance companies"
+    ],
+    [
+      "Banks"
+    ]
+  ],
+  "col_headers": [
+    "Type of Investor",
+    "Return Requirement",
+    "Risk Tolerance"
+  ],
+  "cells": [
+    [
+      "Type of Investor",
+      "Return Requirement",
+      "Risk Tolerance"
+    ],
+    [
+      "Individual",
+      "Life cycle (education, children, retirement)",
+      "Life cycle (younger can be more\nrisk tolerant about financial wealth)"
+    ],
+    [
+      "Personal trusts",
+      "Life cycle",
+      "Prudent investor rules"
+    ],
+    [
+      "Mutual funds",
+      "Variable",
+      "Variable"
+    ],
+    [
+      "Pension funds (Defined benefit)",
+      "Assumed actuarial rate",
+      "Depends on proximity of payouts"
+    ],
+    [
+      "Endowment funds",
+      "Determined by current income needs as well\nas need for asset growth to maintain real value",
+      "Generally conservative"
+    ],
+    [
+      "Life insurance companies",
+      "Should exceed new money rate by sufficient\nmargin to meet expenses and profit\nobjectives; actuarial rates also important",
+      "Conservative"
+    ],
+    [
+      "Non–life insurance companies",
+      "Match to contingent liabilities",
+      "Conservative"
+    ],
+    [
+      "Banks",
+      "Maintain positive spread over interest rate\npaid on deposits",
+      "Variable"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Type of Investor",
+      "normalized_value": "Type of Investor",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Return Requirement",
+      "normalized_value": "Return Requirement",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Risk Tolerance",
+      "normalized_value": "Risk Tolerance",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Individual",
+      "normalized_value": "Individual",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Life cycle (education, children, retirement)",
+      "normalized_value": "Life cycle (education, children, retirement)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Life cycle (younger can be more\nrisk tolerant about financial wealth)",
+      "normalized_value": "Life cycle (younger can be more\nrisk tolerant about financial wealth)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Personal trusts",
+      "normalized_value": "Personal trusts",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Life cycle",
+      "normalized_value": "Life cycle",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Prudent investor rules",
+      "normalized_value": "Prudent investor rules",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Mutual funds",
+      "normalized_value": "Mutual funds",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Variable",
+      "normalized_value": "Variable",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Variable",
+      "normalized_value": "Variable",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Pension funds (Defined benefit)",
+      "normalized_value": "Pension funds (Defined benefit)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Assumed actuarial rate",
+      "normalized_value": "Assumed actuarial rate",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Depends on proximity of payouts",
+      "normalized_value": "Depends on proximity of payouts",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Endowment funds",
+      "normalized_value": "Endowment funds",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Determined by current income needs as well\nas need for asset growth to maintain real value",
+      "normalized_value": "Determined by current income needs as well\nas need for asset growth to maintain real value",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Generally conservative",
+      "normalized_value": "Generally conservative",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Life insurance companies",
+      "normalized_value": "Life insurance companies",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Should exceed new money rate by sufficient\nmargin to meet expenses and profit\nobjectives; actuarial rates also important",
+      "normalized_value": "Should exceed new money rate by sufficient\nmargin to meet expenses and profit\nobjectives; actuarial rates also important",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Conservative",
+      "normalized_value": "Conservative",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Non–life insurance companies",
+      "normalized_value": "Non–life insurance companies",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Match to contingent liabilities",
+      "normalized_value": "Match to contingent liabilities",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Conservative",
+      "normalized_value": "Conservative",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Banks",
+      "normalized_value": "Banks",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Maintain positive spread over interest rate\npaid on deposits",
+      "normalized_value": "Maintain positive spread over interest rate\npaid on deposits",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Variable",
+      "normalized_value": "Variable",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "summarizes the objectives pertaining to each of these investor classes. reduced interest rate risk. This table contains 9 rows and 3 columns.",
+  "table_summary": "summarizes the objectives pertaining to each of these investor classes. reduced interest rate risk. This table contains 9 rows and 3 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "portfolio_theory"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "portfolio_theory",
+      "source_anchor": {
+        "page_number": 994,
+        "bbox": {
+          "x0": 117.25,
+          "y0": 398.64999695000006,
+          "x1": 554.75,
+          "y1": 576.7797476
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.45 + Keywords: risk, return",
+      "confidence": 0.6458813667297363
+    }
+  ],
+  "source_anchor": {
+    "page_number": 994,
+    "bbox": {
+      "x0": 117.25,
+      "y0": 398.64999695000006,
+      "x1": 554.75,
+      "y1": 576.7797476
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    994,
+    994
+  ]
+}

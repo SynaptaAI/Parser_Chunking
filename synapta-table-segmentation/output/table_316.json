@@ -1,0 +1,412 @@
+{
+  "segment_id": "table_28_p1015",
+  "table_id": null,
+  "table_number": "28",
+  "caption": "Acme Industries selected financial information (in millions) Table 28B Plan liabilities 9,850",
+  "row_headers": [
+    [
+      "Return requirement"
+    ],
+    [
+      "Risk tolerance\nl"
+    ],
+    [
+      "Time horizon\nt"
+    ],
+    [
+      "Liquidity"
+    ]
+  ],
+  "col_headers": [
+    "I",
+    "PS X",
+    "IPS Y"
+  ],
+  "cells": [
+    [
+      "I",
+      "PS X",
+      "IPS Y"
+    ],
+    [
+      "Return requirement",
+      "Plan’s objective is to outperform the relevant\nbenchmark return by a substantial margin.",
+      "Plan’s objective is to match the relevant\nbenchmark return."
+    ],
+    [
+      "Risk tolerance\nl",
+      "Plan has a high risk tolerance because of the\nong-term nature of the plan and its liabilities.",
+      "Plan has a low risk tolerance because of its\nlimited ability to assume substantial risk."
+    ],
+    [
+      "Time horizon\nt",
+      "Plan has a very long time horizon because of\nhe plan’s infinite life.",
+      "Plan has a shorter time horizon than in the past\nbecause of plan demographics."
+    ],
+    [
+      "Liquidity",
+      "Plan needs moderate level of liquidity to fund\nmonthly benefit payments.",
+      "Plan has minimal liquidity needs."
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "I",
+      "normalized_value": "I",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "PS X",
+      "normalized_value": "PS X",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "IPS Y",
+      "normalized_value": "IPS Y",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Return requirement",
+      "normalized_value": "Return requirement",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Plan’s objective is to outperform the relevant\nbenchmark return by a substantial margin.",
+      "normalized_value": "Plan’s objective is to outperform the relevant\nbenchmark return by a substantial margin.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Plan’s objective is to match the relevant\nbenchmark return.",
+      "normalized_value": "Plan’s objective is to match the relevant\nbenchmark return.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Risk tolerance\nl",
+      "normalized_value": "Risk tolerance\nl",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Plan has a high risk tolerance because of the\nong-term nature of the plan and its liabilities.",
+      "normalized_value": "Plan has a high risk tolerance because of the\nong-term nature of the plan and its liabilities.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Plan has a low risk tolerance because of its\nlimited ability to assume substantial risk.",
+      "normalized_value": "Plan has a low risk tolerance because of its\nlimited ability to assume substantial risk.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Time horizon\nt",
+      "normalized_value": "Time horizon\nt",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Plan has a very long time horizon because of\nhe plan’s infinite life.",
+      "normalized_value": "Plan has a very long time horizon because of\nhe plan’s infinite life.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Plan has a shorter time horizon than in the past\nbecause of plan demographics.",
+      "normalized_value": "Plan has a shorter time horizon than in the past\nbecause of plan demographics.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Liquidity",
+      "normalized_value": "Liquidity",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Plan needs moderate level of liquidity to fund\nmonthly benefit payments.",
+      "normalized_value": "Plan needs moderate level of liquidity to fund\nmonthly benefit payments.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Plan has minimal liquidity needs.",
+      "normalized_value": "Plan has minimal liquidity needs.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Acme Industries selected financial information (in millions) Table 28B Plan liabilities 9,850 This table contains 5 rows and 3 columns.",
+  "table_summary": "Acme Industries selected financial information (in millions) Table 28B Plan liabilities 9,850 This table contains 5 rows and 3 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "financial_analysis"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "financial_analysis",
+      "source_anchor": {
+        "page_number": 1015,
+        "bbox": {
+          "x0": 79.74784795000002,
+          "y0": 469.7001510500001,
+          "x1": 535.2473479500001,
+          "y1": 584.55000155
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.37 + Keywords: financial",
+      "confidence": 0.5713374137878418
+    },
+    {
+      "link_type": "REFERENCES",
+      "target_id": "table_28_p1015",
+      "source_anchor": {
+        "page_number": 1015,
+        "bbox": {
+          "x0": 0,
+          "y0": 0,
+          "x1": 0,
+          "y1": 0
+        },
+        "extractor": "text_search",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "see Table 28",
+      "confidence": 0.9
+    },
+    {
+      "link_type": "REFERENCES",
+      "target_id": "table_28_p1015",
+      "source_anchor": {
+        "page_number": 1015,
+        "bbox": {
+          "x0": 0,
+          "y0": 0,
+          "x1": 0,
+          "y1": 0
+        },
+        "extractor": "text_search",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "see Table 28",
+      "confidence": 0.9
+    },
+    {
+      "link_type": "REFERENCES",
+      "target_id": "table_28_p1015",
+      "source_anchor": {
+        "page_number": 1015,
+        "bbox": {
+          "x0": 0,
+          "y0": 0,
+          "x1": 0,
+          "y1": 0
+        },
+        "extractor": "text_search",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "see Table 28",
+      "confidence": 0.9
+    }
+  ],
+  "source_anchor": {
+    "page_number": 1015,
+    "bbox": {
+      "x0": 79.74784795000002,
+      "y0": 469.7001510500001,
+      "x1": 535.2473479500001,
+      "y1": 584.55000155
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    1015,
+    1015
+  ]
+}

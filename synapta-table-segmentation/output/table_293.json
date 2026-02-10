@@ -1,0 +1,102 @@
+{
+  "segment_id": "table_p934_idx292",
+  "table_id": null,
+  "table_number": null,
+  "caption": "to be be the dollar value and rate of return on the market-neutral position from",
+  "row_headers": [],
+  "col_headers": [
+    "26.3",
+    "Venture Capital and Angel Investors"
+  ],
+  "cells": [
+    [
+      "26.3",
+      "Venture Capital and Angel Investors"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "26.3",
+      "normalized_value": 26.3,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Venture Capital and Angel Investors",
+      "normalized_value": "Venture Capital and Angel Investors",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "to be be the dollar value and rate of return on the market-neutral position from This table contains 1 rows and 2 columns.",
+  "table_summary": "to be be the dollar value and rate of return on the market-neutral position from This table contains 1 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "financial_analysis"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "financial_analysis",
+      "source_anchor": {
+        "page_number": 934,
+        "bbox": {
+          "x0": 108.5099343,
+          "y0": 309.774,
+          "x1": 563.898,
+          "y1": 334.774
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.41",
+      "confidence": 0.41195178031921387
+    }
+  ],
+  "source_anchor": {
+    "page_number": 934,
+    "bbox": {
+      "x0": 108.5099343,
+      "y0": 309.774,
+      "x1": 563.898,
+      "y1": 334.774
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    934,
+    934
+  ]
+}

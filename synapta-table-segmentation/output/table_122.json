@@ -1,0 +1,102 @@
+{
+  "segment_id": "table_p548_idx121",
+  "table_id": null,
+  "table_number": null,
+  "caption": "8.1%, the 6% coupon 20-year bond falls in value by about 10.922 × .1%/1.04 =",
+  "row_headers": [],
+  "col_headers": [
+    "16.2",
+    "Convexity"
+  ],
+  "cells": [
+    [
+      "16.2",
+      "Convexity"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "16.2",
+      "normalized_value": 16.2,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Convexity",
+      "normalized_value": "Convexity",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "8.1%, the 6% coupon 20-year bond falls in value by about 10.922 × .1%/1.04 = This table contains 1 rows and 2 columns.",
+  "table_summary": "8.1%, the 6% coupon 20-year bond falls in value by about 10.922 × .1%/1.04 = This table contains 1 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "bond_pricing"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "bond_pricing",
+      "source_anchor": {
+        "page_number": 548,
+        "bbox": {
+          "x0": 108.52308654285714,
+          "y0": 456.37,
+          "x1": 563.666,
+          "y1": 481.27
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.56 + Keywords: bond, coupon",
+      "confidence": 0.7625696182250976
+    }
+  ],
+  "source_anchor": {
+    "page_number": 548,
+    "bbox": {
+      "x0": 108.52308654285714,
+      "y0": 456.37,
+      "x1": 563.666,
+      "y1": 481.27
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    548,
+    548
+  ]
+}

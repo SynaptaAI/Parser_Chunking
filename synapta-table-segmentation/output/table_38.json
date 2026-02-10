@@ -1,0 +1,229 @@
+{
+  "segment_id": "table_p190_idx37",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Final PDF to",
+  "row_headers": [
+    [
+      "effective annual rate (EAR) risk-free rate expected shortfall (ES) KEY TERMS\nannual percentage rate (APR) risk premium conditional tail expectation\nnominal interest rate excess return (CTE)\nreal interest rate risk aversion lower partial standard\ndividend yield normal distribution deviation (LPSD)\nscenario analysis skew Sortino ratio\nmean rate of return kurtosis lognormal distribution\nvariance tail risk\nstandard deviation value at risk (VaR)"
+    ],
+    [
+      "Arithmetic average of n returns: (r 1 + r 2 + · · · + r n ) / n KEY EQUATIONS\nGeometric average of n returns: [(1 + r ) (1 + r ) · · · (1 + r n)]1/n − 1\n1 2\nContinuously compounded rate of return, r cc = ln(1 + Effective annual rate)\nExpected return: ∑ [prob(Scenario) × Return in scenario]\nVariance: ∑ [prob(Scenario) × (Deviation from mean in scenario)2]\n________\nStandard deviation: √ Variance\nSharpe ratio: _ _____ P _ o _ r t _ f _ o _ li _ o _ r _ i _ sk _ _ p _ r _ e _ m _ i _ u _ m _ _____ = _ E _ ( _ r _P_ ) _ − _ _ r _f\nStandard deviation of excess return σP\n1 + Nominal return\nReal rate of return: ________ _ ______ _ − 1\n1 + Inflation rate\nReal rate of return (continuous compounding): r − Inflation rate\nnominal"
+    ],
+    [
+      "1. The Fisher equation tells us that the real interest rate approximately equals the nominal rate minus PROBLEM SETS\nthe inflation rate. Suppose the inflation rate increases from 3% to 5%. Does the Fisher equation\nimply that this increase will result in a fall in the real rate of interest? Explain.\n2. You’ve just stumbled on a new dataset that enables you to compute historical rates of return on\nU.S. stocks all the way back to 1880. What are the advantages and disadvantages in using these\ndata to help estimate the expected rate of return on U.S. stocks over the coming year?\n3. The Narnian stock market had a rate of return of 45% last year, but the inflation rate was 30%.\nWhat was the real rate of return to Narnian investors?\n4. You have $5,000 to invest for the next year and are considering three alternatives:\na. A money market fund with an average maturity of 30 days offering a current yield of 3% per year.\nb. A 1-year savings deposit at a bank offering an interest rate of 4%.\nc. A 20-year U.S. Treasury bond offering a yield to maturity of 5% per year.\nWhat role does your forecast of future interest rates play in your decisions?\n5. Use Figure 5.1 in the text to analyze the effect of the following on the level of real interest rates:\na. Businesses become more pessimistic about future demand for their products and decide to\nreduce their capital spending.\nb. Households are induced to save more because of increased uncertainty about their future\nSocial Security benefits.\nc. The Federal Reserve Board undertakes open-market purchases of U.S. Treasury securities in\norder to increase the supply of money."
+    ]
+  ],
+  "col_headers": [
+    "CHAPTER 5 Risk, Return, and the Historical Record 161",
+    ""
+  ],
+  "cells": [
+    [
+      "CHAPTER 5 Risk, Return, and the Historical Record 161",
+      ""
+    ],
+    [
+      "effective annual rate (EAR) risk-free rate expected shortfall (ES) KEY TERMS\nannual percentage rate (APR) risk premium conditional tail expectation\nnominal interest rate excess return (CTE)\nreal interest rate risk aversion lower partial standard\ndividend yield normal distribution deviation (LPSD)\nscenario analysis skew Sortino ratio\nmean rate of return kurtosis lognormal distribution\nvariance tail risk\nstandard deviation value at risk (VaR)",
+      ""
+    ],
+    [
+      "Arithmetic average of n returns: (r 1 + r 2 + · · · + r n ) / n KEY EQUATIONS\nGeometric average of n returns: [(1 + r ) (1 + r ) · · · (1 + r n)]1/n − 1\n1 2\nContinuously compounded rate of return, r cc = ln(1 + Effective annual rate)\nExpected return: ∑ [prob(Scenario) × Return in scenario]\nVariance: ∑ [prob(Scenario) × (Deviation from mean in scenario)2]\n________\nStandard deviation: √ Variance\nSharpe ratio: _ _____ P _ o _ r t _ f _ o _ li _ o _ r _ i _ sk _ _ p _ r _ e _ m _ i _ u _ m _ _____ = _ E _ ( _ r _P_ ) _ − _ _ r _f\nStandard deviation of excess return σP\n1 + Nominal return\nReal rate of return: ________ _ ______ _ − 1\n1 + Inflation rate\nReal rate of return (continuous compounding): r − Inflation rate\nnominal",
+      ""
+    ],
+    [
+      "1. The Fisher equation tells us that the real interest rate approximately equals the nominal rate minus PROBLEM SETS\nthe inflation rate. Suppose the inflation rate increases from 3% to 5%. Does the Fisher equation\nimply that this increase will result in a fall in the real rate of interest? Explain.\n2. You’ve just stumbled on a new dataset that enables you to compute historical rates of return on\nU.S. stocks all the way back to 1880. What are the advantages and disadvantages in using these\ndata to help estimate the expected rate of return on U.S. stocks over the coming year?\n3. The Narnian stock market had a rate of return of 45% last year, but the inflation rate was 30%.\nWhat was the real rate of return to Narnian investors?\n4. You have $5,000 to invest for the next year and are considering three alternatives:\na. A money market fund with an average maturity of 30 days offering a current yield of 3% per year.\nb. A 1-year savings deposit at a bank offering an interest rate of 4%.\nc. A 20-year U.S. Treasury bond offering a yield to maturity of 5% per year.\nWhat role does your forecast of future interest rates play in your decisions?\n5. Use Figure 5.1 in the text to analyze the effect of the following on the level of real interest rates:\na. Businesses become more pessimistic about future demand for their products and decide to\nreduce their capital spending.\nb. Households are induced to save more because of increased uncertainty about their future\nSocial Security benefits.\nc. The Federal Reserve Board undertakes open-market purchases of U.S. Treasury securities in\norder to increase the supply of money.",
+      ""
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "CHAPTER 5 Risk, Return, and the Historical Record 161",
+      "normalized_value": "CHAPTER 5 Risk, Return, and the Historical Record 161",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "effective annual rate (EAR) risk-free rate expected shortfall (ES) KEY TERMS\nannual percentage rate (APR) risk premium conditional tail expectation\nnominal interest rate excess return (CTE)\nreal interest rate risk aversion lower partial standard\ndividend yield normal distribution deviation (LPSD)\nscenario analysis skew Sortino ratio\nmean rate of return kurtosis lognormal distribution\nvariance tail risk\nstandard deviation value at risk (VaR)",
+      "normalized_value": "effective annual rate (EAR) risk-free rate expected shortfall (ES) KEY TERMS\nannual percentage rate (APR) risk premium conditional tail expectation\nnominal interest rate excess return (CTE)\nreal interest rate risk aversion lower partial standard\ndividend yield normal distribution deviation (LPSD)\nscenario analysis skew Sortino ratio\nmean rate of return kurtosis lognormal distribution\nvariance tail risk\nstandard deviation value at risk (VaR)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Arithmetic average of n returns: (r 1 + r 2 + · · · + r n ) / n KEY EQUATIONS\nGeometric average of n returns: [(1 + r ) (1 + r ) · · · (1 + r n)]1/n − 1\n1 2\nContinuously compounded rate of return, r cc = ln(1 + Effective annual rate)\nExpected return: ∑ [prob(Scenario) × Return in scenario]\nVariance: ∑ [prob(Scenario) × (Deviation from mean in scenario)2]\n________\nStandard deviation: √ Variance\nSharpe ratio: _ _____ P _ o _ r t _ f _ o _ li _ o _ r _ i _ sk _ _ p _ r _ e _ m _ i _ u _ m _ _____ = _ E _ ( _ r _P_ ) _ − _ _ r _f\nStandard deviation of excess return σP\n1 + Nominal return\nReal rate of return: ________ _ ______ _ − 1\n1 + Inflation rate\nReal rate of return (continuous compounding): r − Inflation rate\nnominal",
+      "normalized_value": "Arithmetic average of n returns: (r 1 + r 2 + · · · + r n ) / n KEY EQUATIONS\nGeometric average of n returns: [(1 + r ) (1 + r ) · · · (1 + r n)]1/n − 1\n1 2\nContinuously compounded rate of return, r cc = ln(1 + Effective annual rate)\nExpected return: ∑ [prob(Scenario) × Return in scenario]\nVariance: ∑ [prob(Scenario) × (Deviation from mean in scenario)2]\n________\nStandard deviation: √ Variance\nSharpe ratio: _ _____ P _ o _ r t _ f _ o _ li _ o _ r _ i _ sk _ _ p _ r _ e _ m _ i _ u _ m _ _____ = _ E _ ( _ r _P_ ) _ − _ _ r _f\nStandard deviation of excess return σP\n1 + Nominal return\nReal rate of return: ________ _ ______ _ − 1\n1 + Inflation rate\nReal rate of return (continuous compounding): r − Inflation rate\nnominal",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "1. The Fisher equation tells us that the real interest rate approximately equals the nominal rate minus PROBLEM SETS\nthe inflation rate. Suppose the inflation rate increases from 3% to 5%. Does the Fisher equation\nimply that this increase will result in a fall in the real rate of interest? Explain.\n2. You’ve just stumbled on a new dataset that enables you to compute historical rates of return on\nU.S. stocks all the way back to 1880. What are the advantages and disadvantages in using these\ndata to help estimate the expected rate of return on U.S. stocks over the coming year?\n3. The Narnian stock market had a rate of return of 45% last year, but the inflation rate was 30%.\nWhat was the real rate of return to Narnian investors?\n4. You have $5,000 to invest for the next year and are considering three alternatives:\na. A money market fund with an average maturity of 30 days offering a current yield of 3% per year.\nb. A 1-year savings deposit at a bank offering an interest rate of 4%.\nc. A 20-year U.S. Treasury bond offering a yield to maturity of 5% per year.\nWhat role does your forecast of future interest rates play in your decisions?\n5. Use Figure 5.1 in the text to analyze the effect of the following on the level of real interest rates:\na. Businesses become more pessimistic about future demand for their products and decide to\nreduce their capital spending.\nb. Households are induced to save more because of increased uncertainty about their future\nSocial Security benefits.\nc. The Federal Reserve Board undertakes open-market purchases of U.S. Treasury securities in\norder to increase the supply of money.",
+      "normalized_value": "1. The Fisher equation tells us that the real interest rate approximately equals the nominal rate minus PROBLEM SETS\nthe inflation rate. Suppose the inflation rate increases from 3% to 5%. Does the Fisher equation\nimply that this increase will result in a fall in the real rate of interest? Explain.\n2. You’ve just stumbled on a new dataset that enables you to compute historical rates of return on\nU.S. stocks all the way back to 1880. What are the advantages and disadvantages in using these\ndata to help estimate the expected rate of return on U.S. stocks over the coming year?\n3. The Narnian stock market had a rate of return of 45% last year, but the inflation rate was 30%.\nWhat was the real rate of return to Narnian investors?\n4. You have $5,000 to invest for the next year and are considering three alternatives:\na. A money market fund with an average maturity of 30 days offering a current yield of 3% per year.\nb. A 1-year savings deposit at a bank offering an interest rate of 4%.\nc. A 20-year U.S. Treasury bond offering a yield to maturity of 5% per year.\nWhat role does your forecast of future interest rates play in your decisions?\n5. Use Figure 5.1 in the text to analyze the effect of the following on the level of real interest rates:\na. Businesses become more pessimistic about future demand for their products and decide to\nreduce their capital spending.\nb. Households are induced to save more because of increased uncertainty about their future\nSocial Security benefits.\nc. The Federal Reserve Board undertakes open-market purchases of U.S. Treasury securities in\norder to increase the supply of money.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "A3",
+      "formula_text": "Arithmetic average of n returns: (r 1 + r 2 + · · · + r n ) / n KEY EQUATIONS\nGeometric average of n returns: [(1 + r ) (1 + r ) · · · (1 + r n)]1/n − 1\n1 2\nContinuously compounded rate of return, r cc = ln(1 + Effective annual rate)\nExpected return: ∑ [prob(Scenario) × Return in scenario]\nVariance: ∑ [prob(Scenario) × (Deviation from mean in scenario)2]\n________\nStandard deviation: √ Variance\nSharpe ratio: _ _____ P _ o _ r t _ f _ o _ li _ o _ r _ i _ sk _ _ p _ r _ e _ m _ i _ u _ m _ _____ = _ E _ ( _ r _P_ ) _ − _ _ r _f\nStandard deviation of excess return σP\n1 + Nominal return\nReal rate of return: ________ _ ______ _ − 1\n1 + Inflation rate\nReal rate of return (continuous compounding): r − Inflation rate\nnominal",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 190,
+        "bbox": {
+          "x0": 18.0,
+          "y0": -63.0,
+          "x1": 625.5,
+          "y1": 693.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Final PDF to This table contains 4 rows and 2 columns.",
+  "table_summary": "Final PDF to This table contains 4 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 190,
+    "bbox": {
+      "x0": 18.0,
+      "y0": -63.0,
+      "x1": 625.5,
+      "y1": 693.0
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    190,
+    190
+  ]
+}

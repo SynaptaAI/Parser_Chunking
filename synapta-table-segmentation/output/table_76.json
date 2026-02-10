@@ -1,0 +1,226 @@
+{
+  "segment_id": "table_p322_idx75",
+  "table_id": null,
+  "table_number": null,
+  "caption": "The Capital Asset Pricing Model 9",
+  "row_headers": [
+    [
+      "α"
+    ],
+    [
+      "M"
+    ],
+    [
+      ""
+    ]
+  ],
+  "col_headers": [
+    "SML\nStock\nα\nM",
+    ""
+  ],
+  "cells": [
+    [
+      "SML\nStock\nα\nM",
+      ""
+    ],
+    [
+      "α",
+      ""
+    ],
+    [
+      "M",
+      ""
+    ],
+    [
+      "",
+      ""
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "SML\nStock\nα\nM",
+      "normalized_value": "SML\nStock\nα\nM",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "α",
+      "normalized_value": "α",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "M",
+      "normalized_value": "M",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "The Capital Asset Pricing Model 9 This table contains 4 rows and 2 columns.",
+  "table_summary": "The Capital Asset Pricing Model 9 This table contains 4 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "asset_pricing"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "asset_pricing",
+      "source_anchor": {
+        "page_number": 322,
+        "bbox": {
+          "x0": 361.1899651666666,
+          "y0": 36.17095134999994,
+          "x1": 537.0879987,
+          "y1": 217.81595134999998
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.60 + Keywords: asset, pricing, Asset Pricing",
+      "confidence": 0.8017326712608337
+    }
+  ],
+  "source_anchor": {
+    "page_number": 322,
+    "bbox": {
+      "x0": 361.1899651666666,
+      "y0": 36.17095134999994,
+      "x1": 537.0879987,
+      "y1": 217.81595134999998
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    322,
+    322
+  ]
+}

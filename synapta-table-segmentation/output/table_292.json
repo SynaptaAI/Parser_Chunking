@@ -1,0 +1,533 @@
+{
+  "segment_id": "table_p929_idx291",
+  "table_id": null,
+  "table_number": null,
+  "caption": "form other sectors of the market.",
+  "row_headers": [
+    [
+      "Equity market neutral"
+    ],
+    [
+      "Long/short equity hedge"
+    ],
+    [
+      "Dedicated short bias"
+    ],
+    [
+      "Event driven"
+    ],
+    [
+      "Fixed-income arbitrage"
+    ],
+    [
+      "Convertible arbitrage"
+    ],
+    [
+      "Global macro"
+    ],
+    [
+      "Emerging markets"
+    ],
+    [
+      "Managed futures"
+    ],
+    [
+      "Multistrategy"
+    ],
+    [
+      "Fund of funds"
+    ]
+  ],
+  "col_headers": [
+    "Style",
+    "Strategy"
+  ],
+  "cells": [
+    [
+      "Style",
+      "Strategy"
+    ],
+    [
+      "Equity market neutral",
+      "Commonly uses long/short hedges. Typically controls for industry, sector, size, and other\nexposures and establishes market-neutral positions designed to exploit some market inef-\nficiency. Typically deploys leverage to amplify inefficiencies."
+    ],
+    [
+      "Long/short equity hedge",
+      "Equity-oriented positions on either side of the market (i.e., long or short), depending on\noutlook. Not meant to be market neutral; low beta may be incidental. May establish a con-\ncentrated focus regionally (e.g., U.S. or Europe) or on a specific sector (e.g., tech or health\ncare stocks). Derivatives may be used to hedge positions."
+    ],
+    [
+      "Dedicated short bias",
+      "Net short position, usually in equities, as opposed to pure short exposure. In recent years,\nthe number of true dedicated short bias managers has dwindled."
+    ],
+    [
+      "Event driven",
+      "Attempts to profit from events such as mergers & acquisitions (risk-arbitrage event driven),\nregulatory changes, restructurings, bankruptcies, and reorganizations (distressed event driven),\nor other litigation. Can invest across asset classes and events (multi-strategy event driven)."
+    ],
+    [
+      "Fixed-income arbitrage",
+      "Attempts to profit from price anomalies in related interest rate securities. Includes interest\nrate swap arbitrage, U.S. versus non-U.S. government bond arbitrage, yield-curve arbitrage,\nand mortgage-backed arbitrage."
+    ],
+    [
+      "Convertible arbitrage",
+      "Hedged investing in convertible securities, typically long convertible bonds and short corre-\nsponding stock, particularly when there is a price discrepancy in the conversion ratio."
+    ],
+    [
+      "Global macro",
+      "Involves long and short positions in capital or derivative markets across the world. Portfolio\npositions reflect views on broad market conditions and major economic trends."
+    ],
+    [
+      "Emerging markets",
+      "Goal is to exploit market inefficiencies in emerging markets. Typically long only because\nshort-selling is not feasible in many developing markets. Can be invested across asset\nclasses (and currency)."
+    ],
+    [
+      "Managed futures",
+      "Use financial, currency, or commodity futures. May make use of technical trading rules or a\nless structured judgmental approach."
+    ],
+    [
+      "Multistrategy",
+      "Opportunistic choice of strategy depending on outlook."
+    ],
+    [
+      "Fund of funds",
+      "Fund allocates its cash to several other hedge funds to be managed."
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Style",
+      "normalized_value": "Style",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Strategy",
+      "normalized_value": "Strategy",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Equity market neutral",
+      "normalized_value": "Equity market neutral",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Commonly uses long/short hedges. Typically controls for industry, sector, size, and other\nexposures and establishes market-neutral positions designed to exploit some market inef-\nficiency. Typically deploys leverage to amplify inefficiencies.",
+      "normalized_value": "Commonly uses long/short hedges. Typically controls for industry, sector, size, and other\nexposures and establishes market-neutral positions designed to exploit some market inef-\nficiency. Typically deploys leverage to amplify inefficiencies.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Long/short equity hedge",
+      "normalized_value": "Long/short equity hedge",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Equity-oriented positions on either side of the market (i.e., long or short), depending on\noutlook. Not meant to be market neutral; low beta may be incidental. May establish a con-\ncentrated focus regionally (e.g., U.S. or Europe) or on a specific sector (e.g., tech or health\ncare stocks). Derivatives may be used to hedge positions.",
+      "normalized_value": "Equity-oriented positions on either side of the market (i.e., long or short), depending on\noutlook. Not meant to be market neutral; low beta may be incidental. May establish a con-\ncentrated focus regionally (e.g., U.S. or Europe) or on a specific sector (e.g., tech or health\ncare stocks). Derivatives may be used to hedge positions.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Dedicated short bias",
+      "normalized_value": "Dedicated short bias",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Net short position, usually in equities, as opposed to pure short exposure. In recent years,\nthe number of true dedicated short bias managers has dwindled.",
+      "normalized_value": "Net short position, usually in equities, as opposed to pure short exposure. In recent years,\nthe number of true dedicated short bias managers has dwindled.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Event driven",
+      "normalized_value": "Event driven",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Attempts to profit from events such as mergers & acquisitions (risk-arbitrage event driven),\nregulatory changes, restructurings, bankruptcies, and reorganizations (distressed event driven),\nor other litigation. Can invest across asset classes and events (multi-strategy event driven).",
+      "normalized_value": "Attempts to profit from events such as mergers & acquisitions (risk-arbitrage event driven),\nregulatory changes, restructurings, bankruptcies, and reorganizations (distressed event driven),\nor other litigation. Can invest across asset classes and events (multi-strategy event driven).",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Fixed-income arbitrage",
+      "normalized_value": "Fixed-income arbitrage",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Attempts to profit from price anomalies in related interest rate securities. Includes interest\nrate swap arbitrage, U.S. versus non-U.S. government bond arbitrage, yield-curve arbitrage,\nand mortgage-backed arbitrage.",
+      "normalized_value": "Attempts to profit from price anomalies in related interest rate securities. Includes interest\nrate swap arbitrage, U.S. versus non-U.S. government bond arbitrage, yield-curve arbitrage,\nand mortgage-backed arbitrage.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Convertible arbitrage",
+      "normalized_value": "Convertible arbitrage",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Hedged investing in convertible securities, typically long convertible bonds and short corre-\nsponding stock, particularly when there is a price discrepancy in the conversion ratio.",
+      "normalized_value": "Hedged investing in convertible securities, typically long convertible bonds and short corre-\nsponding stock, particularly when there is a price discrepancy in the conversion ratio.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Global macro",
+      "normalized_value": "Global macro",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Involves long and short positions in capital or derivative markets across the world. Portfolio\npositions reflect views on broad market conditions and major economic trends.",
+      "normalized_value": "Involves long and short positions in capital or derivative markets across the world. Portfolio\npositions reflect views on broad market conditions and major economic trends.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Emerging markets",
+      "normalized_value": "Emerging markets",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Goal is to exploit market inefficiencies in emerging markets. Typically long only because\nshort-selling is not feasible in many developing markets. Can be invested across asset\nclasses (and currency).",
+      "normalized_value": "Goal is to exploit market inefficiencies in emerging markets. Typically long only because\nshort-selling is not feasible in many developing markets. Can be invested across asset\nclasses (and currency).",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Managed futures",
+      "normalized_value": "Managed futures",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Use financial, currency, or commodity futures. May make use of technical trading rules or a\nless structured judgmental approach.",
+      "normalized_value": "Use financial, currency, or commodity futures. May make use of technical trading rules or a\nless structured judgmental approach.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Multistrategy",
+      "normalized_value": "Multistrategy",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Opportunistic choice of strategy depending on outlook.",
+      "normalized_value": "Opportunistic choice of strategy depending on outlook.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 11,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Fund of funds",
+      "normalized_value": "Fund of funds",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 11,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Fund allocates its cash to several other hedge funds to be managed.",
+      "normalized_value": "Fund allocates its cash to several other hedge funds to be managed.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "form other sectors of the market. This table shows NPV sensitivity analysis across different scenarios.",
+  "table_summary": "form other sectors of the market. This table shows NPV sensitivity analysis across different scenarios.",
+  "table_schema_hint": "NPV sensitivity grid",
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 929,
+    "bbox": {
+      "x0": 88.75219779999998,
+      "y0": 231.16079940000003,
+      "x1": 525.0078986,
+      "y1": 551.25
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    929,
+    929
+  ]
+}

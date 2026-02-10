@@ -1,0 +1,293 @@
+{
+  "segment_id": "table_p403_idx83",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Final PDF to",
+  "row_headers": [
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ]
+  ],
+  "col_headers": [
+    "",
+    ""
+  ],
+  "cells": [
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      "SUMMARY 1. Statistical research has shown that to a close approximation, stock prices seem to follow a random\nwalk with no discernible predictable patterns that investors can exploit. Such findings are now\ntaken to be evidence of market efficiency, that is, evidence that market prices reflect all cur-\nrently available information. Only new information will move stock prices, and this information\nis equally likely to be good news or bad news.\n2. Market participants distinguish among three forms of the efficient market hypothesis. The weak\nform asserts that all information to be derived from past trading data already is reflected in stock\nprices. The semistrong form claims that all publicly available information is already reflected.\nThe strong form, which generally is acknowledged to be extreme, asserts that all information,\nincluding insider information, is reflected in prices.\n3. Technical analysis focuses on stock price patterns and on proxies for buy or sell pressure in\nthe market. Fundamental analysis focuses on the determinants of the underlying value of the\nfirm, such as current profitability and growth prospects. Because both types of analysis are\nbased on public information, neither should generate excess profits if markets are operating\nefficiently.\n4. Proponents of the efficient market hypothesis often advocate passive as opposed to active\ninvestment strategies. Passive investors buy and hold a broad-based market index. They expend\nresources neither on market research nor on frequent purchase and sale of stocks. Passive strate-\ngies may be tailored to meet individual investor requirements.\n5. Event studies are used to evaluate the economic impact of events of interest, using abnormal\nstock returns. Such studies usually show that there is some leakage of inside information to some\nmarket participants before the public announcement date. Therefore, insiders do seem to be able\nto exploit their access to information to at least a limited extent.\n6. One notable exception to weak-form market efficiency is the apparent success of momentum-\nbased strategies over intermediate-term horizons.\n7. Several anomalies regarding fundamental analysis have been uncovered. These include the value-\nversus-growth effect, the small-firm effect, the momentum effect, and post–earnings-announce-\nment price drift. Whether these anomalies represent market inefficiency or poorly understood\nrisk premiums is still a matter of debate.\n8. By and large, the performance record of professionally managed funds lends little credence to\nclaims that most professionals can consistently beat the market. Superior performance in one\nperiod does not generally predict superior performance going forward."
+    ],
+    [
+      "",
+      "KEY TERMS random walk support levels momentum effect\nefficient market hypothesis fundamental analysis reversal effect\n(EMH) passive investment strategy anomalies\nweak-form EMH index fund P/E effect\nsemistrong-form EMH event study small-firm effect\nstrong-form EMH abnormal return neglected-firm effect\ntechnical analysis cumulative abnormal return book-to-market effect\nresistance levels (CAR)"
+    ],
+    [
+      "",
+      "KEY EQUATIONS Abnormal return=Actual return − Expected return given the return on a market index\n= r t − (a + b r Mt )"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "SUMMARY 1. Statistical research has shown that to a close approximation, stock prices seem to follow a random\nwalk with no discernible predictable patterns that investors can exploit. Such findings are now\ntaken to be evidence of market efficiency, that is, evidence that market prices reflect all cur-\nrently available information. Only new information will move stock prices, and this information\nis equally likely to be good news or bad news.\n2. Market participants distinguish among three forms of the efficient market hypothesis. The weak\nform asserts that all information to be derived from past trading data already is reflected in stock\nprices. The semistrong form claims that all publicly available information is already reflected.\nThe strong form, which generally is acknowledged to be extreme, asserts that all information,\nincluding insider information, is reflected in prices.\n3. Technical analysis focuses on stock price patterns and on proxies for buy or sell pressure in\nthe market. Fundamental analysis focuses on the determinants of the underlying value of the\nfirm, such as current profitability and growth prospects. Because both types of analysis are\nbased on public information, neither should generate excess profits if markets are operating\nefficiently.\n4. Proponents of the efficient market hypothesis often advocate passive as opposed to active\ninvestment strategies. Passive investors buy and hold a broad-based market index. They expend\nresources neither on market research nor on frequent purchase and sale of stocks. Passive strate-\ngies may be tailored to meet individual investor requirements.\n5. Event studies are used to evaluate the economic impact of events of interest, using abnormal\nstock returns. Such studies usually show that there is some leakage of inside information to some\nmarket participants before the public announcement date. Therefore, insiders do seem to be able\nto exploit their access to information to at least a limited extent.\n6. One notable exception to weak-form market efficiency is the apparent success of momentum-\nbased strategies over intermediate-term horizons.\n7. Several anomalies regarding fundamental analysis have been uncovered. These include the value-\nversus-growth effect, the small-firm effect, the momentum effect, and post–earnings-announce-\nment price drift. Whether these anomalies represent market inefficiency or poorly understood\nrisk premiums is still a matter of debate.\n8. By and large, the performance record of professionally managed funds lends little credence to\nclaims that most professionals can consistently beat the market. Superior performance in one\nperiod does not generally predict superior performance going forward.",
+      "normalized_value": "SUMMARY 1. Statistical research has shown that to a close approximation, stock prices seem to follow a random\nwalk with no discernible predictable patterns that investors can exploit. Such findings are now\ntaken to be evidence of market efficiency, that is, evidence that market prices reflect all cur-\nrently available information. Only new information will move stock prices, and this information\nis equally likely to be good news or bad news.\n2. Market participants distinguish among three forms of the efficient market hypothesis. The weak\nform asserts that all information to be derived from past trading data already is reflected in stock\nprices. The semistrong form claims that all publicly available information is already reflected.\nThe strong form, which generally is acknowledged to be extreme, asserts that all information,\nincluding insider information, is reflected in prices.\n3. Technical analysis focuses on stock price patterns and on proxies for buy or sell pressure in\nthe market. Fundamental analysis focuses on the determinants of the underlying value of the\nfirm, such as current profitability and growth prospects. Because both types of analysis are\nbased on public information, neither should generate excess profits if markets are operating\nefficiently.\n4. Proponents of the efficient market hypothesis often advocate passive as opposed to active\ninvestment strategies. Passive investors buy and hold a broad-based market index. They expend\nresources neither on market research nor on frequent purchase and sale of stocks. Passive strate-\ngies may be tailored to meet individual investor requirements.\n5. Event studies are used to evaluate the economic impact of events of interest, using abnormal\nstock returns. Such studies usually show that there is some leakage of inside information to some\nmarket participants before the public announcement date. Therefore, insiders do seem to be able\nto exploit their access to information to at least a limited extent.\n6. One notable exception to weak-form market efficiency is the apparent success of momentum-\nbased strategies over intermediate-term horizons.\n7. Several anomalies regarding fundamental analysis have been uncovered. These include the value-\nversus-growth effect, the small-firm effect, the momentum effect, and post–earnings-announce-\nment price drift. Whether these anomalies represent market inefficiency or poorly understood\nrisk premiums is still a matter of debate.\n8. By and large, the performance record of professionally managed funds lends little credence to\nclaims that most professionals can consistently beat the market. Superior performance in one\nperiod does not generally predict superior performance going forward.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "KEY TERMS random walk support levels momentum effect\nefficient market hypothesis fundamental analysis reversal effect\n(EMH) passive investment strategy anomalies\nweak-form EMH index fund P/E effect\nsemistrong-form EMH event study small-firm effect\nstrong-form EMH abnormal return neglected-firm effect\ntechnical analysis cumulative abnormal return book-to-market effect\nresistance levels (CAR)",
+      "normalized_value": "KEY TERMS random walk support levels momentum effect\nefficient market hypothesis fundamental analysis reversal effect\n(EMH) passive investment strategy anomalies\nweak-form EMH index fund P/E effect\nsemistrong-form EMH event study small-firm effect\nstrong-form EMH abnormal return neglected-firm effect\ntechnical analysis cumulative abnormal return book-to-market effect\nresistance levels (CAR)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "KEY EQUATIONS Abnormal return=Actual return − Expected return given the return on a market index\n= r t − (a + b r Mt )",
+      "normalized_value": "KEY EQUATIONS Abnormal return=Actual return − Expected return given the return on a market index\n= r t − (a + b r Mt )",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "B3",
+      "formula_text": "SUMMARY 1. Statistical research has shown that to a close approximation, stock prices seem to follow a random\nwalk with no discernible predictable patterns that investors can exploit. Such findings are now\ntaken to be evidence of market efficiency, that is, evidence that market prices reflect all cur-\nrently available information. Only new information will move stock prices, and this information\nis equally likely to be good news or bad news.\n2. Market participants distinguish among three forms of the efficient market hypothesis. The weak\nform asserts that all information to be derived from past trading data already is reflected in stock\nprices. The semistrong form claims that all publicly available information is already reflected.\nThe strong form, which generally is acknowledged to be extreme, asserts that all information,\nincluding insider information, is reflected in prices.\n3. Technical analysis focuses on stock price patterns and on proxies for buy or sell pressure in\nthe market. Fundamental analysis focuses on the determinants of the underlying value of the\nfirm, such as current profitability and growth prospects. Because both types of analysis are\nbased on public information, neither should generate excess profits if markets are operating\nefficiently.\n4. Proponents of the efficient market hypothesis often advocate passive as opposed to active\ninvestment strategies. Passive investors buy and hold a broad-based market index. They expend\nresources neither on market research nor on frequent purchase and sale of stocks. Passive strate-\ngies may be tailored to meet individual investor requirements.\n5. Event studies are used to evaluate the economic impact of events of interest, using abnormal\nstock returns. Such studies usually show that there is some leakage of inside information to some\nmarket participants before the public announcement date. Therefore, insiders do seem to be able\nto exploit their access to information to at least a limited extent.\n6. One notable exception to weak-form market efficiency is the apparent success of momentum-\nbased strategies over intermediate-term horizons.\n7. Several anomalies regarding fundamental analysis have been uncovered. These include the value-\nversus-growth effect, the small-firm effect, the momentum effect, and post–earnings-announce-\nment price drift. Whether these anomalies represent market inefficiency or poorly understood\nrisk premiums is still a matter of debate.\n8. By and large, the performance record of professionally managed funds lends little credence to\nclaims that most professionals can consistently beat the market. Superior performance in one\nperiod does not generally predict superior performance going forward.",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 403,
+        "bbox": {
+          "x0": 18.0,
+          "y0": -63.0,
+          "x1": 625.5,
+          "y1": 693.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "B5",
+      "formula_text": "KEY EQUATIONS Abnormal return=Actual return − Expected return given the return on a market index\n= r t − (a + b r Mt )",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 403,
+        "bbox": {
+          "x0": 18.0,
+          "y0": -63.0,
+          "x1": 625.5,
+          "y1": 693.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Final PDF to This table contains 5 rows and 2 columns.",
+  "table_summary": "Final PDF to This table contains 5 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 403,
+    "bbox": {
+      "x0": 18.0,
+      "y0": -63.0,
+      "x1": 625.5,
+      "y1": 693.0
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    403,
+    403
+  ]
+}

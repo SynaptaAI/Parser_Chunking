@@ -1,0 +1,102 @@
+{
+  "segment_id": "table_p723_idx204",
+  "table_id": null,
+  "table_number": null,
+  "caption": "but may In addition, given the fact that than wipe out the apparent arbitrage opportunity.2",
+  "row_headers": [],
+  "col_headers": [
+    "20.5",
+    "Option-like Securities"
+  ],
+  "cells": [
+    [
+      "20.5",
+      "Option-like Securities"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "20.5",
+      "normalized_value": 20.5,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Option-like Securities",
+      "normalized_value": "Option-like Securities",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "but may In addition, given the fact that than wipe out the apparent arbitrage opportunity.2 This table contains 1 rows and 2 columns.",
+  "table_summary": "but may In addition, given the fact that than wipe out the apparent arbitrage opportunity.2 This table contains 1 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "market_efficiency"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "market_efficiency",
+      "source_anchor": {
+        "page_number": 723,
+        "bbox": {
+          "x0": 79.2505,
+          "y0": 193.29999999999995,
+          "x1": 535.501,
+          "y1": 218.2
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.36 + Keywords: arbitrage",
+      "confidence": 0.5613643944263458
+    }
+  ],
+  "source_anchor": {
+    "page_number": 723,
+    "bbox": {
+      "x0": 79.2505,
+      "y0": 193.29999999999995,
+      "x1": 535.501,
+      "y1": 218.2
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    723,
+    723
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "segment_id": "table_p155_idx26",
+  "table_id": null,
+  "table_number": null,
+  "caption": "is found by compounding the table (labeled half-year), we see that the semiannual return is",
+  "row_headers": [
+    [
+      "Half-year"
+    ],
+    [
+      "1 year"
+    ],
+    [
+      "25 years"
+    ]
+  ],
+  "col_headers": [
+    "Horizon, T",
+    "Price, P(T)",
+    "r(T ) = _ 1_0_0_ − 1\nP(T )",
+    "EAR over Given Horizon"
+  ],
+  "cells": [
+    [
+      "Horizon, T",
+      "Price, P(T)",
+      "r(T ) = _ 1_0_0_ − 1\nP(T )",
+      "EAR over Given Horizon"
+    ],
+    [
+      "Half-year",
+      "$97.36",
+      "100/97.36 − 1 = 0.0271 = 2.71%",
+      "(1 + .0271)2 − 1 = .0549"
+    ],
+    [
+      "1 year",
+      "$95.52",
+      "100/95.52 − 1 = 0.0469 = 4.69%",
+      "(1 + .0469) − 1 = 0.0469"
+    ],
+    [
+      "25 years",
+      "$23.30",
+      "100/23.30 − 1 = 3.2918 = 329.18%",
+      "(1 + 3.2918)1/25 − 1 = .060"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Horizon, T",
+      "normalized_value": "Horizon, T",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Price, P(T)",
+      "normalized_value": "Price, P(T)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "r(T ) = _ 1_0_0_ − 1\nP(T )",
+      "normalized_value": "r(T ) = _ 1_0_0_ − 1\nP(T )",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "EAR over Given Horizon",
+      "normalized_value": "EAR over Given Horizon",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Half-year",
+      "normalized_value": "Half-year",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "currency",
+      "raw_value": "$97.36",
+      "normalized_value": 97.36,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "100/97.36 − 1 = 0.0271 = 2.71%",
+      "normalized_value": "100/97.36 − 1 = 0.0271 = 2.71%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "(1 + .0271)2 − 1 = .0549",
+      "normalized_value": "(1 + .0271)2 − 1 = .0549",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "1 year",
+      "normalized_value": "1 year",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "currency",
+      "raw_value": "$95.52",
+      "normalized_value": 95.52,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "100/95.52 − 1 = 0.0469 = 4.69%",
+      "normalized_value": "100/95.52 − 1 = 0.0469 = 4.69%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "(1 + .0469) − 1 = 0.0469",
+      "normalized_value": "(1 + .0469) − 1 = 0.0469",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "25 years",
+      "normalized_value": "25 years",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "currency",
+      "raw_value": "$23.30",
+      "normalized_value": 23.3,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "100/23.30 − 1 = 3.2918 = 329.18%",
+      "normalized_value": "100/23.30 − 1 = 3.2918 = 329.18%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "(1 + 3.2918)1/25 − 1 = .060",
+      "normalized_value": "(1 + 3.2918)1/25 − 1 = .060",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "C1",
+      "formula_text": "r(T ) = _ 1_0_0_ − 1\nP(T )",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 155,
+        "bbox": {
+          "x0": 182.62919724999998,
+          "y0": 491.82090039999997,
+          "x1": 528.62080275,
+          "y1": 559.3508005999998
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "C2",
+      "formula_text": "100/97.36 − 1 = 0.0271 = 2.71%",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 155,
+        "bbox": {
+          "x0": 182.62919724999998,
+          "y0": 491.82090039999997,
+          "x1": 528.62080275,
+          "y1": 559.3508005999998
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "D2",
+      "formula_text": "(1 + .0271)2 − 1 = .0549",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 155,
+        "bbox": {
+          "x0": 182.62919724999998,
+          "y0": 491.82090039999997,
+          "x1": 528.62080275,
+          "y1": 559.3508005999998
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "C3",
+      "formula_text": "100/95.52 − 1 = 0.0469 = 4.69%",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 155,
+        "bbox": {
+          "x0": 182.62919724999998,
+          "y0": 491.82090039999997,
+          "x1": 528.62080275,
+          "y1": 559.3508005999998
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "D3",
+      "formula_text": "(1 + .0469) − 1 = 0.0469",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 155,
+        "bbox": {
+          "x0": 182.62919724999998,
+          "y0": 491.82090039999997,
+          "x1": 528.62080275,
+          "y1": 559.3508005999998
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "C4",
+      "formula_text": "100/23.30 − 1 = 3.2918 = 329.18%",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 155,
+        "bbox": {
+          "x0": 182.62919724999998,
+          "y0": 491.82090039999997,
+          "x1": 528.62080275,
+          "y1": 559.3508005999998
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "D4",
+      "formula_text": "(1 + 3.2918)1/25 − 1 = .060",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 155,
+        "bbox": {
+          "x0": 182.62919724999998,
+          "y0": 491.82090039999997,
+          "x1": 528.62080275,
+          "y1": 559.3508005999998
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "is found by compounding the table (labeled half-year), we see that the semiannual return is This table contains 4 rows and 4 columns.",
+  "table_summary": "is found by compounding the table (labeled half-year), we see that the semiannual return is This table contains 4 rows and 4 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 155,
+    "bbox": {
+      "x0": 182.62919724999998,
+      "y0": 491.82090039999997,
+      "x1": 528.62080275,
+      "y1": 559.3508005999998
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    155,
+    155
+  ]
+}

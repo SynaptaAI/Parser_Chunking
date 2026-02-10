@@ -1,0 +1,86 @@
+{
+  "segment_id": "table_p80_idx9",
+  "table_id": null,
+  "table_number": null,
+  "caption": "the index. million to $90 million regardless of the stock split, thereby rendering the split",
+  "row_headers": [
+    [
+      "Reconsider companies XYZ and ABC from Concept Check 2.4. Calculate the percentage change in the market-\nvalue-weighted index. Compare that to the rate of return of a portfolio that holds $500 of ABC stock for every\n$100 of XYZ stock (i.e., an index portfolio)."
+    ]
+  ],
+  "col_headers": [
+    ""
+  ],
+  "cells": [
+    [
+      ""
+    ],
+    [
+      "Reconsider companies XYZ and ABC from Concept Check 2.4. Calculate the percentage change in the market-\nvalue-weighted index. Compare that to the rate of return of a portfolio that holds $500 of ABC stock for every\n$100 of XYZ stock (i.e., an index portfolio)."
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "Reconsider companies XYZ and ABC from Concept Check 2.4. Calculate the percentage change in the market-\nvalue-weighted index. Compare that to the rate of return of a portfolio that holds $500 of ABC stock for every\n$100 of XYZ stock (i.e., an index portfolio).",
+      "normalized_value": "Reconsider companies XYZ and ABC from Concept Check 2.4. Calculate the percentage change in the market-\nvalue-weighted index. Compare that to the rate of return of a portfolio that holds $500 of ABC stock for every\n$100 of XYZ stock (i.e., an index portfolio).",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "the index. million to $90 million regardless of the stock split, thereby rendering the split This table contains 2 rows and 1 columns.",
+  "table_summary": "the index. million to $90 million regardless of the stock split, thereby rendering the split This table contains 2 rows and 1 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 80,
+    "bbox": {
+      "x0": 108.52308654285714,
+      "y0": 519.7474023499999,
+      "x1": 562.998,
+      "y1": 587.735
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    80,
+    80
+  ]
+}

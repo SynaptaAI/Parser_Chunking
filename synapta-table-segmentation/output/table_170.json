@@ -1,0 +1,237 @@
+{
+  "segment_id": "table_p672_idx169",
+  "table_id": null,
+  "table_number": null,
+  "caption": "for statement) by average fixed assets (from the balance Thus, in computing the fixed-asset turnover",
+  "row_headers": [
+    [
+      "0.606"
+    ]
+  ],
+  "col_headers": [
+    "2021",
+    "2022",
+    "2023",
+    "2023 Industry Average"
+  ],
+  "cells": [
+    [
+      "2021",
+      "2022",
+      "2023",
+      "2023 Industry Average"
+    ],
+    [
+      "0.606",
+      "0.606",
+      "0.606",
+      "0.700"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "2021",
+      "normalized_value": 2021,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "2022",
+      "normalized_value": 2022,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "2023",
+      "normalized_value": 2023,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "2023 Industry Average",
+      "normalized_value": "2023 Industry Average",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.606",
+      "normalized_value": 0.606,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.606",
+      "normalized_value": 0.606,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.606",
+      "normalized_value": 0.606,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0.700",
+      "normalized_value": 0.7,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "for statement) by average fixed assets (from the balance Thus, in computing the fixed-asset turnover This table contains 2 rows and 4 columns.",
+  "table_summary": "for statement) by average fixed assets (from the balance Thus, in computing the fixed-asset turnover This table contains 2 rows and 4 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "amortization",
+    "financial_analysis"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "financial_analysis",
+      "source_anchor": {
+        "page_number": 672,
+        "bbox": {
+          "x0": 163.75,
+          "y0": 514.98005125,
+          "x1": 403.75,
+          "y1": 548.3699975499999
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.46",
+      "confidence": 0.4618116021156311
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "amortization",
+      "source_anchor": {
+        "page_number": 672,
+        "bbox": {
+          "x0": 163.75,
+          "y0": 514.98005125,
+          "x1": 403.75,
+          "y1": 548.3699975499999
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.35 + Keywords: balance",
+      "confidence": 0.5489404618740081
+    }
+  ],
+  "source_anchor": {
+    "page_number": 672,
+    "bbox": {
+      "x0": 163.75,
+      "y0": 514.98005125,
+      "x1": 403.75,
+      "y1": 548.3699975499999
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    672,
+    672
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "segment_id": "table_p199_idx39",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Portfolio Theory and Practice PART II",
+  "row_headers": [
+    [
+      "2.0"
+    ],
+    [
+      "3.5"
+    ],
+    [
+      "5.0"
+    ]
+  ],
+  "col_headers": [
+    "Investor Risk\nAversion (A)",
+    "Utility Score of Portfolio L\n[E(r) = 0.04; σ = 0.05]",
+    "Utility Score of Portfolio M\n[E(r) = 0.06; σ = 0.10]",
+    "Utility Score of Portfolio H\n[E(r) = 0.10; σ = 0.20]"
+  ],
+  "cells": [
+    [
+      "Investor Risk\nAversion (A)",
+      "Utility Score of Portfolio L\n[E(r) = 0.04; σ = 0.05]",
+      "Utility Score of Portfolio M\n[E(r) = 0.06; σ = 0.10]",
+      "Utility Score of Portfolio H\n[E(r) = 0.10; σ = 0.20]"
+    ],
+    [
+      "2.0",
+      "0.04 − ½ × 2 × 0.052 = 0.0375",
+      "0.06 − ½ × 2 × 0.12 = 0.0500",
+      "0.10 − ½ × 2 × 0.22 = 0.06"
+    ],
+    [
+      "3.5",
+      "0.04 − ½ × 3.5 × 0.052 = 0.0356",
+      "0.06 − ½ × 3.5 × 0.12 = 0.0425",
+      "0.10 − ½ × 3.5 × 0.22 = 0.03"
+    ],
+    [
+      "5.0",
+      "0.04 − ½ × 5 × 0.052 = 0.0338",
+      "0.06 − ½ × 5 × 0.12 = 0.0350",
+      "0.10 − ½ × 5 × 0.22 = 0.00"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Investor Risk\nAversion (A)",
+      "normalized_value": "Investor Risk\nAversion (A)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Utility Score of Portfolio L\n[E(r) = 0.04; σ = 0.05]",
+      "normalized_value": "Utility Score of Portfolio L\n[E(r) = 0.04; σ = 0.05]",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Utility Score of Portfolio M\n[E(r) = 0.06; σ = 0.10]",
+      "normalized_value": "Utility Score of Portfolio M\n[E(r) = 0.06; σ = 0.10]",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Utility Score of Portfolio H\n[E(r) = 0.10; σ = 0.20]",
+      "normalized_value": "Utility Score of Portfolio H\n[E(r) = 0.10; σ = 0.20]",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "2.0",
+      "normalized_value": 2.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "0.04 − ½ × 2 × 0.052 = 0.0375",
+      "normalized_value": "0.04 − ½ × 2 × 0.052 = 0.0375",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "0.06 − ½ × 2 × 0.12 = 0.0500",
+      "normalized_value": "0.06 − ½ × 2 × 0.12 = 0.0500",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "0.10 − ½ × 2 × 0.22 = 0.06",
+      "normalized_value": "0.10 − ½ × 2 × 0.22 = 0.06",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "3.5",
+      "normalized_value": 3.5,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "0.04 − ½ × 3.5 × 0.052 = 0.0356",
+      "normalized_value": "0.04 − ½ × 3.5 × 0.052 = 0.0356",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "0.06 − ½ × 3.5 × 0.12 = 0.0425",
+      "normalized_value": "0.06 − ½ × 3.5 × 0.12 = 0.0425",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "0.10 − ½ × 3.5 × 0.22 = 0.03",
+      "normalized_value": "0.10 − ½ × 3.5 × 0.22 = 0.03",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "5.0",
+      "normalized_value": 5.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "0.04 − ½ × 5 × 0.052 = 0.0338",
+      "normalized_value": "0.04 − ½ × 5 × 0.052 = 0.0338",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "0.06 − ½ × 5 × 0.12 = 0.0350",
+      "normalized_value": "0.06 − ½ × 5 × 0.12 = 0.0350",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "0.10 − ½ × 5 × 0.22 = 0.00",
+      "normalized_value": "0.10 − ½ × 5 × 0.22 = 0.00",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "B1",
+      "formula_text": "Utility Score of Portfolio L\n[E(r) = 0.04; σ = 0.05]",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "C1",
+      "formula_text": "Utility Score of Portfolio M\n[E(r) = 0.06; σ = 0.10]",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "D1",
+      "formula_text": "Utility Score of Portfolio H\n[E(r) = 0.10; σ = 0.20]",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "B2",
+      "formula_text": "0.04 − ½ × 2 × 0.052 = 0.0375",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "C2",
+      "formula_text": "0.06 − ½ × 2 × 0.12 = 0.0500",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "D2",
+      "formula_text": "0.10 − ½ × 2 × 0.22 = 0.06",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "B3",
+      "formula_text": "0.04 − ½ × 3.5 × 0.052 = 0.0356",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "C3",
+      "formula_text": "0.06 − ½ × 3.5 × 0.12 = 0.0425",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "D3",
+      "formula_text": "0.10 − ½ × 3.5 × 0.22 = 0.03",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "B4",
+      "formula_text": "0.04 − ½ × 5 × 0.052 = 0.0338",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "C4",
+      "formula_text": "0.06 − ½ × 5 × 0.12 = 0.0350",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "D4",
+      "formula_text": "0.10 − ½ × 5 × 0.22 = 0.00",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Portfolio Theory and Practice PART II This table contains 4 rows and 4 columns.",
+  "table_summary": "Portfolio Theory and Practice PART II This table contains 4 rows and 4 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "portfolio_theory",
+    "risk_management"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "portfolio_theory",
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.53 + Keywords: portfolio, risk, Portfolio Theory",
+      "confidence": 0.7345732569694519
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "risk_management",
+      "source_anchor": {
+        "page_number": 199,
+        "bbox": {
+          "x0": 88.3757774,
+          "y0": 27.25,
+          "x1": 526.5926502,
+          "y1": 97.77990020000004
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.31 + Keywords: risk",
+      "confidence": 0.5098702430725097
+    }
+  ],
+  "source_anchor": {
+    "page_number": 199,
+    "bbox": {
+      "x0": 88.3757774,
+      "y0": 27.25,
+      "x1": 526.5926502,
+      "y1": 97.77990020000004
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    199,
+    199
+  ]
+}

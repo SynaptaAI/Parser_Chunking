@@ -1,0 +1,270 @@
+{
+  "segment_id": "table_p306_idx72",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Final PDF to",
+  "row_headers": [
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      "1. A single-factor model of the economy classifies sources of uncertainty as systematic (macro- SUMMARY\neconomic) factors or firm-specific (microeconomic) factors. The index model assumes that the\nmacro factor can be represented by a broad index of stock returns.\n2. The single-index model drastically reduces the necessary inputs in the Markowitz portfolio selec-\ntion procedure. It also aids in specialization of labor in security analysis.\n3. According to the index model specification, the systematic risk of a portfolio or asset equals\nβ2 σ M 2 and the covariance between two assets equals β i β j σ M 2 .\n4. The index model is estimated by applying regression analysis to excess rates of return. The slope\nof the regression curve is the beta of an asset, whereas the intercept is the asset’s alpha during the\nsample period. The regression line is also called the security characteristic line.\n5. Practitioners routinely estimate the index model using total rather than excess rates of return. This\nmakes their estimate of alpha equal to α + r f (1 − β).\n6. Betas show a tendency to evolve toward 1 over time. Beta forecasting rules attempt to predict this\ndrift. Moreover, other financial variables can be used to help forecast betas.\n7. Optimal active portfolios include analyzed securities in direct proportion to their alpha and in\ninverse proportion to their firm-specific variance. The full risky portfolio is a mixture of the\nactive portfolio and the passive market-index portfolio. The index portfolio is used to enhance the\ndiversification of the overall risky position."
+    ],
+    [
+      "single-factor model regression equation Treynor-Black model KEY TERMS\nsingle-index model residuals information ratio\nscatter diagram security characteristic line (SCL)"
+    ]
+  ],
+  "col_headers": [
+    "",
+    ""
+  ],
+  "cells": [
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "1. A single-factor model of the economy classifies sources of uncertainty as systematic (macro- SUMMARY\neconomic) factors or firm-specific (microeconomic) factors. The index model assumes that the\nmacro factor can be represented by a broad index of stock returns.\n2. The single-index model drastically reduces the necessary inputs in the Markowitz portfolio selec-\ntion procedure. It also aids in specialization of labor in security analysis.\n3. According to the index model specification, the systematic risk of a portfolio or asset equals\nβ2 σ M 2 and the covariance between two assets equals β i β j σ M 2 .\n4. The index model is estimated by applying regression analysis to excess rates of return. The slope\nof the regression curve is the beta of an asset, whereas the intercept is the asset’s alpha during the\nsample period. The regression line is also called the security characteristic line.\n5. Practitioners routinely estimate the index model using total rather than excess rates of return. This\nmakes their estimate of alpha equal to α + r f (1 − β).\n6. Betas show a tendency to evolve toward 1 over time. Beta forecasting rules attempt to predict this\ndrift. Moreover, other financial variables can be used to help forecast betas.\n7. Optimal active portfolios include analyzed securities in direct proportion to their alpha and in\ninverse proportion to their firm-specific variance. The full risky portfolio is a mixture of the\nactive portfolio and the passive market-index portfolio. The index portfolio is used to enhance the\ndiversification of the overall risky position.",
+      ""
+    ],
+    [
+      "single-factor model regression equation Treynor-Black model KEY TERMS\nsingle-index model residuals information ratio\nscatter diagram security characteristic line (SCL)",
+      ""
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "1. A single-factor model of the economy classifies sources of uncertainty as systematic (macro- SUMMARY\neconomic) factors or firm-specific (microeconomic) factors. The index model assumes that the\nmacro factor can be represented by a broad index of stock returns.\n2. The single-index model drastically reduces the necessary inputs in the Markowitz portfolio selec-\ntion procedure. It also aids in specialization of labor in security analysis.\n3. According to the index model specification, the systematic risk of a portfolio or asset equals\nβ2 σ M 2 and the covariance between two assets equals β i β j σ M 2 .\n4. The index model is estimated by applying regression analysis to excess rates of return. The slope\nof the regression curve is the beta of an asset, whereas the intercept is the asset’s alpha during the\nsample period. The regression line is also called the security characteristic line.\n5. Practitioners routinely estimate the index model using total rather than excess rates of return. This\nmakes their estimate of alpha equal to α + r f (1 − β).\n6. Betas show a tendency to evolve toward 1 over time. Beta forecasting rules attempt to predict this\ndrift. Moreover, other financial variables can be used to help forecast betas.\n7. Optimal active portfolios include analyzed securities in direct proportion to their alpha and in\ninverse proportion to their firm-specific variance. The full risky portfolio is a mixture of the\nactive portfolio and the passive market-index portfolio. The index portfolio is used to enhance the\ndiversification of the overall risky position.",
+      "normalized_value": "1. A single-factor model of the economy classifies sources of uncertainty as systematic (macro- SUMMARY\neconomic) factors or firm-specific (microeconomic) factors. The index model assumes that the\nmacro factor can be represented by a broad index of stock returns.\n2. The single-index model drastically reduces the necessary inputs in the Markowitz portfolio selec-\ntion procedure. It also aids in specialization of labor in security analysis.\n3. According to the index model specification, the systematic risk of a portfolio or asset equals\nβ2 σ M 2 and the covariance between two assets equals β i β j σ M 2 .\n4. The index model is estimated by applying regression analysis to excess rates of return. The slope\nof the regression curve is the beta of an asset, whereas the intercept is the asset’s alpha during the\nsample period. The regression line is also called the security characteristic line.\n5. Practitioners routinely estimate the index model using total rather than excess rates of return. This\nmakes their estimate of alpha equal to α + r f (1 − β).\n6. Betas show a tendency to evolve toward 1 over time. Beta forecasting rules attempt to predict this\ndrift. Moreover, other financial variables can be used to help forecast betas.\n7. Optimal active portfolios include analyzed securities in direct proportion to their alpha and in\ninverse proportion to their firm-specific variance. The full risky portfolio is a mixture of the\nactive portfolio and the passive market-index portfolio. The index portfolio is used to enhance the\ndiversification of the overall risky position.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "single-factor model regression equation Treynor-Black model KEY TERMS\nsingle-index model residuals information ratio\nscatter diagram security characteristic line (SCL)",
+      "normalized_value": "single-factor model regression equation Treynor-Black model KEY TERMS\nsingle-index model residuals information ratio\nscatter diagram security characteristic line (SCL)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "A4",
+      "formula_text": "1. A single-factor model of the economy classifies sources of uncertainty as systematic (macro- SUMMARY\neconomic) factors or firm-specific (microeconomic) factors. The index model assumes that the\nmacro factor can be represented by a broad index of stock returns.\n2. The single-index model drastically reduces the necessary inputs in the Markowitz portfolio selec-\ntion procedure. It also aids in specialization of labor in security analysis.\n3. According to the index model specification, the systematic risk of a portfolio or asset equals\nβ2 σ M 2 and the covariance between two assets equals β i β j σ M 2 .\n4. The index model is estimated by applying regression analysis to excess rates of return. The slope\nof the regression curve is the beta of an asset, whereas the intercept is the asset’s alpha during the\nsample period. The regression line is also called the security characteristic line.\n5. Practitioners routinely estimate the index model using total rather than excess rates of return. This\nmakes their estimate of alpha equal to α + r f (1 − β).\n6. Betas show a tendency to evolve toward 1 over time. Beta forecasting rules attempt to predict this\ndrift. Moreover, other financial variables can be used to help forecast betas.\n7. Optimal active portfolios include analyzed securities in direct proportion to their alpha and in\ninverse proportion to their firm-specific variance. The full risky portfolio is a mixture of the\nactive portfolio and the passive market-index portfolio. The index portfolio is used to enhance the\ndiversification of the overall risky position.",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 306,
+        "bbox": {
+          "x0": 18.0,
+          "y0": -63.0,
+          "x1": 625.5,
+          "y1": 693.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Final PDF to This table contains 5 rows and 2 columns.",
+  "table_summary": "Final PDF to This table contains 5 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 306,
+    "bbox": {
+      "x0": 18.0,
+      "y0": -63.0,
+      "x1": 625.5,
+      "y1": 693.0
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    306,
+    306
+  ]
+}

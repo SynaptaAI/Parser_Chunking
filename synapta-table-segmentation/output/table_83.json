@@ -1,0 +1,351 @@
+{
+  "segment_id": "table_p399_idx82",
+  "table_id": null,
+  "table_number": null,
+  "caption": "in Capital Markets",
+  "row_headers": [
+    [
+      "All domestic equity funds"
+    ],
+    [
+      "Large-cap equity funds"
+    ],
+    [
+      "Small-cap equity funds"
+    ]
+  ],
+  "col_headers": [
+    "",
+    "Number of\ntop-half\nperformers in\nyear ending June\n2019",
+    "Percentage of 2019\noutperformers that\nperform in top half of\nsample in year ending\nJune 2020",
+    "Percentage of 2019\noutperformers that\nperform in top half of\nsample in both year\nending June 2020 and\nyear ending June 2021"
+  ],
+  "cells": [
+    [
+      "",
+      "Number of\ntop-half\nperformers in\nyear ending June\n2019",
+      "Percentage of 2019\noutperformers that\nperform in top half of\nsample in year ending\nJune 2020",
+      "Percentage of 2019\noutperformers that\nperform in top half of\nsample in both year\nending June 2020 and\nyear ending June 2021"
+    ],
+    [
+      "All domestic equity funds",
+      "1,041",
+      "71.8",
+      "19.0"
+    ],
+    [
+      "Large-cap equity funds",
+      "373",
+      "61.1",
+      "25.5"
+    ],
+    [
+      "Small-cap equity funds",
+      "261",
+      "69.4",
+      "16.5"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Number of\ntop-half\nperformers in\nyear ending June\n2019",
+      "normalized_value": "Number of\ntop-half\nperformers in\nyear ending June\n2019",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "Percentage of 2019\noutperformers that\nperform in top half of\nsample in year ending\nJune 2020",
+      "normalized_value": "Percentage of 2019\noutperformers that\nperform in top half of\nsample in year ending\nJune 2020",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "Percentage of 2019\noutperformers that\nperform in top half of\nsample in both year\nending June 2020 and\nyear ending June 2021",
+      "normalized_value": "Percentage of 2019\noutperformers that\nperform in top half of\nsample in both year\nending June 2020 and\nyear ending June 2021",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "All domestic equity funds",
+      "normalized_value": "All domestic equity funds",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "1,041",
+      "normalized_value": 1041,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "71.8",
+      "normalized_value": 71.8,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "19.0",
+      "normalized_value": 19.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Large-cap equity funds",
+      "normalized_value": "Large-cap equity funds",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "373",
+      "normalized_value": 373,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "61.1",
+      "normalized_value": 61.1,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "25.5",
+      "normalized_value": 25.5,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Small-cap equity funds",
+      "normalized_value": "Small-cap equity funds",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "261",
+      "normalized_value": 261,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "69.4",
+      "normalized_value": 69.4,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "16.5",
+      "normalized_value": 16.5,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "in Capital Markets This table contains 4 rows and 4 columns.",
+  "table_summary": "in Capital Markets This table contains 4 rows and 4 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 399,
+    "bbox": {
+      "x0": 175.75,
+      "y0": 27.25,
+      "x1": 526.2521978,
+      "y1": 136.58489655
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    399,
+    399
+  ]
+}

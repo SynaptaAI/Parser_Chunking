@@ -1,0 +1,327 @@
+{
+  "segment_id": "table_p935_idx293",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Applied Portfolio Management PART VII",
+  "row_headers": [
+    [
+      "Angels"
+    ],
+    [
+      "Venture capital"
+    ],
+    [
+      "Leveraged buyout"
+    ],
+    [
+      "Growth capital"
+    ],
+    [
+      "Mezzanine capital"
+    ]
+  ],
+  "col_headers": [
+    "Private Equity",
+    "Approach"
+  ],
+  "cells": [
+    [
+      "Private Equity",
+      "Approach"
+    ],
+    [
+      "Angels",
+      "Wealthy individuals or families who provide funding at the very earliest stages of start-ups in\nexchange for equity or convertible debt positions."
+    ],
+    [
+      "Venture capital",
+      "Professionally managed money that provides funding for start-ups in exchange for equity. They are\norganized as independent venture funds or corporate venture capital to invest in all stages of start-\nup development: seed capital, early stage, and late stage. Venture capital can specialize in one\nindustry or invest across industries."
+    ],
+    [
+      "Leveraged buyout",
+      "Investment firms that use an equity position levered by a large debt position to purchase mature,\noften publicly traded companies with the intent of improving their operations, governance, and\nfinancial positions. A management buyout is a one-off transaction similar to a leveraged buyout\nbut conducted by the management team of the acquired company."
+    ],
+    [
+      "Growth capital",
+      "Minority equity investments in companies that need capital to expand operations."
+    ],
+    [
+      "Mezzanine capital",
+      "Subordinated debt (often convertible) or preferred stock investments, which are used to support\ngrowth of start-ups and other private equity investments."
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Private Equity",
+      "normalized_value": "Private Equity",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Approach",
+      "normalized_value": "Approach",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Angels",
+      "normalized_value": "Angels",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Wealthy individuals or families who provide funding at the very earliest stages of start-ups in\nexchange for equity or convertible debt positions.",
+      "normalized_value": "Wealthy individuals or families who provide funding at the very earliest stages of start-ups in\nexchange for equity or convertible debt positions.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Venture capital",
+      "normalized_value": "Venture capital",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Professionally managed money that provides funding for start-ups in exchange for equity. They are\norganized as independent venture funds or corporate venture capital to invest in all stages of start-\nup development: seed capital, early stage, and late stage. Venture capital can specialize in one\nindustry or invest across industries.",
+      "normalized_value": "Professionally managed money that provides funding for start-ups in exchange for equity. They are\norganized as independent venture funds or corporate venture capital to invest in all stages of start-\nup development: seed capital, early stage, and late stage. Venture capital can specialize in one\nindustry or invest across industries.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Leveraged buyout",
+      "normalized_value": "Leveraged buyout",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Investment firms that use an equity position levered by a large debt position to purchase mature,\noften publicly traded companies with the intent of improving their operations, governance, and\nfinancial positions. A management buyout is a one-off transaction similar to a leveraged buyout\nbut conducted by the management team of the acquired company.",
+      "normalized_value": "Investment firms that use an equity position levered by a large debt position to purchase mature,\noften publicly traded companies with the intent of improving their operations, governance, and\nfinancial positions. A management buyout is a one-off transaction similar to a leveraged buyout\nbut conducted by the management team of the acquired company.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Growth capital",
+      "normalized_value": "Growth capital",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Minority equity investments in companies that need capital to expand operations.",
+      "normalized_value": "Minority equity investments in companies that need capital to expand operations.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Mezzanine capital",
+      "normalized_value": "Mezzanine capital",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Subordinated debt (often convertible) or preferred stock investments, which are used to support\ngrowth of start-ups and other private equity investments.",
+      "normalized_value": "Subordinated debt (often convertible) or preferred stock investments, which are used to support\ngrowth of start-ups and other private equity investments.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Applied Portfolio Management PART VII This table contains 6 rows and 2 columns.",
+  "table_summary": "Applied Portfolio Management PART VII This table contains 6 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "financial_analysis",
+    "portfolio_theory"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "financial_analysis",
+      "source_anchor": {
+        "page_number": 935,
+        "bbox": {
+          "x0": 88.75219779999998,
+          "y0": 27.25,
+          "x1": 526.7521978000001,
+          "y1": 199.41984650000006
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.37 + Keywords: ROA",
+      "confidence": 0.5714162707328796
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "portfolio_theory",
+      "source_anchor": {
+        "page_number": 935,
+        "bbox": {
+          "x0": 88.75219779999998,
+          "y0": 27.25,
+          "x1": 526.7521978000001,
+          "y1": 199.41984650000006
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.36 + Keywords: portfolio",
+      "confidence": 0.5572970330715179
+    }
+  ],
+  "source_anchor": {
+    "page_number": 935,
+    "bbox": {
+      "x0": 88.75219779999998,
+      "y0": 27.25,
+      "x1": 526.7521978000001,
+      "y1": 199.41984650000006
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    935,
+    935
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "segment_id": "table_p580_idx130",
+  "table_id": null,
+  "table_number": null,
+  "caption": "",
+  "row_headers": [],
+  "col_headers": [
+    "17.1",
+    "The Global Economy"
+  ],
+  "cells": [
+    [
+      "17.1",
+      "The Global Economy"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "17.1",
+      "normalized_value": 17.1,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "The Global Economy",
+      "normalized_value": "The Global Economy",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "This table contains 1 rows and 2 columns.",
+  "table_summary": "This table contains 1 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 580,
+    "bbox": {
+      "x0": 108.749,
+      "y0": 547.6,
+      "x1": 563.499,
+      "y1": 572.5
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    580,
+    580
+  ]
+}

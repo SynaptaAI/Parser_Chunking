@@ -1,0 +1,329 @@
+{
+  "segment_id": "table_p530_idx114",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Final PDF to",
+  "row_headers": [
+    [
+      ""
+    ],
+    [
+      "term structure of interest rates on-the-run yield curve expectations hypothesis KEY TERMS\nyield curve spot rate liquidity preference theory\nbond stripping short rate market segmentation theory\nbond reconstitution forward interest rate\npure yield curve liquidity premium"
+    ],
+    [
+      "Forward rate of interest: 1 + f n = _ (1 _ _ ( + 1 _ _ y + _ n _ − y _ n 1 _ ) ) n n _ − _ _ 1 KEY EQUATIONS\nYield to maturity given sequence of forward rates: 1 + y n = [ (1 + r 1 ) (1 + f 2 ) (1 + f 3 ) ⋅ ⋅ ⋅ (1 + f n) ] 1/n\nLiquidity premium = Forward rate − Expected short rate"
+    ],
+    [
+      "1. What is the relationship between forward rates and the market’s expectation of future short rates? PROBLEM SETS\nExplain in the context of both the expectations hypothesis and the liquidity preference theory of\nthe term structure of interest rates.\n2. Under the expectations hypothesis, if the yield curve is upward-sloping, the market must expect\nan increase in short-term interest rates. True/false/uncertain? Why?\n3. Under the liquidity preference theory, if inflation is expected to be falling over the next few\nyears, long-term interest rates will be higher than short-term rates. True/false/uncertain?\nWhy?\n4. If the liquidity preference hypothesis is true, what shape should the term structure curve have in a\nperiod where interest rates are expected to be constant?\na. Upward-sloping\nb. Downward-sloping\nc. Flat\n5. Which of the following is true according to the pure expectations theory? Forward rates:\na. Exclusively represent expected future short rates.\nb. Are biased estimates of market expectations.\nc. Always overestimate future short rates.\n6. Assuming the pure expectations theory is correct, an upward-sloping yield curve implies:\na. Interest rates are expected to increase in the future.\nb. Longer-term bonds are riskier than short-term bonds.\nc. Interest rates are expected to decline in the future.\n7. The following is a list of prices for zero-coupon bonds of various maturities. eXcel\nPlease visit us at\nMaturity (years) Price of Bond\nwww.mhhe.com/Bodie13e\n1 $943.40\n2 898.47\n3 847.62\n4 792.16\na. Calculate the yield to maturity for a bond with a maturity of (i) one year; (ii) two years;\n(iii) three years; (iv) four years.\nb. Calculate the forward rate for (i) the second year; (ii) the third year; (iii) the fourth year."
+    ]
+  ],
+  "col_headers": [
+    "CHAPTER 15 The Term Structure of Interest Rates 501\npremium remained reasonably stable over time. However, both empirical and theoretical consid-\nerations cast doubt on the constancy of that premium.\n6. Forward rates are market interest rates in the important sense that commitments to forward\n(i.e., deferred) borrowing or lending arrangements can be made at these rates.",
+    ""
+  ],
+  "cells": [
+    [
+      "CHAPTER 15 The Term Structure of Interest Rates 501\npremium remained reasonably stable over time. However, both empirical and theoretical consid-\nerations cast doubt on the constancy of that premium.\n6. Forward rates are market interest rates in the important sense that commitments to forward\n(i.e., deferred) borrowing or lending arrangements can be made at these rates.",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "term structure of interest rates on-the-run yield curve expectations hypothesis KEY TERMS\nyield curve spot rate liquidity preference theory\nbond stripping short rate market segmentation theory\nbond reconstitution forward interest rate\npure yield curve liquidity premium",
+      ""
+    ],
+    [
+      "Forward rate of interest: 1 + f n = _ (1 _ _ ( + 1 _ _ y + _ n _ − y _ n 1 _ ) ) n n _ − _ _ 1 KEY EQUATIONS\nYield to maturity given sequence of forward rates: 1 + y n = [ (1 + r 1 ) (1 + f 2 ) (1 + f 3 ) ⋅ ⋅ ⋅ (1 + f n) ] 1/n\nLiquidity premium = Forward rate − Expected short rate",
+      ""
+    ],
+    [
+      "1. What is the relationship between forward rates and the market’s expectation of future short rates? PROBLEM SETS\nExplain in the context of both the expectations hypothesis and the liquidity preference theory of\nthe term structure of interest rates.\n2. Under the expectations hypothesis, if the yield curve is upward-sloping, the market must expect\nan increase in short-term interest rates. True/false/uncertain? Why?\n3. Under the liquidity preference theory, if inflation is expected to be falling over the next few\nyears, long-term interest rates will be higher than short-term rates. True/false/uncertain?\nWhy?\n4. If the liquidity preference hypothesis is true, what shape should the term structure curve have in a\nperiod where interest rates are expected to be constant?\na. Upward-sloping\nb. Downward-sloping\nc. Flat\n5. Which of the following is true according to the pure expectations theory? Forward rates:\na. Exclusively represent expected future short rates.\nb. Are biased estimates of market expectations.\nc. Always overestimate future short rates.\n6. Assuming the pure expectations theory is correct, an upward-sloping yield curve implies:\na. Interest rates are expected to increase in the future.\nb. Longer-term bonds are riskier than short-term bonds.\nc. Interest rates are expected to decline in the future.\n7. The following is a list of prices for zero-coupon bonds of various maturities. eXcel\nPlease visit us at\nMaturity (years) Price of Bond\nwww.mhhe.com/Bodie13e\n1 $943.40\n2 898.47\n3 847.62\n4 792.16\na. Calculate the yield to maturity for a bond with a maturity of (i) one year; (ii) two years;\n(iii) three years; (iv) four years.\nb. Calculate the forward rate for (i) the second year; (ii) the third year; (iii) the fourth year.",
+      ""
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "CHAPTER 15 The Term Structure of Interest Rates 501\npremium remained reasonably stable over time. However, both empirical and theoretical consid-\nerations cast doubt on the constancy of that premium.\n6. Forward rates are market interest rates in the important sense that commitments to forward\n(i.e., deferred) borrowing or lending arrangements can be made at these rates.",
+      "normalized_value": "CHAPTER 15 The Term Structure of Interest Rates 501\npremium remained reasonably stable over time. However, both empirical and theoretical consid-\nerations cast doubt on the constancy of that premium.\n6. Forward rates are market interest rates in the important sense that commitments to forward\n(i.e., deferred) borrowing or lending arrangements can be made at these rates.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "term structure of interest rates on-the-run yield curve expectations hypothesis KEY TERMS\nyield curve spot rate liquidity preference theory\nbond stripping short rate market segmentation theory\nbond reconstitution forward interest rate\npure yield curve liquidity premium",
+      "normalized_value": "term structure of interest rates on-the-run yield curve expectations hypothesis KEY TERMS\nyield curve spot rate liquidity preference theory\nbond stripping short rate market segmentation theory\nbond reconstitution forward interest rate\npure yield curve liquidity premium",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Forward rate of interest: 1 + f n = _ (1 _ _ ( + 1 _ _ y + _ n _ − y _ n 1 _ ) ) n n _ − _ _ 1 KEY EQUATIONS\nYield to maturity given sequence of forward rates: 1 + y n = [ (1 + r 1 ) (1 + f 2 ) (1 + f 3 ) ⋅ ⋅ ⋅ (1 + f n) ] 1/n\nLiquidity premium = Forward rate − Expected short rate",
+      "normalized_value": "Forward rate of interest: 1 + f n = _ (1 _ _ ( + 1 _ _ y + _ n _ − y _ n 1 _ ) ) n n _ − _ _ 1 KEY EQUATIONS\nYield to maturity given sequence of forward rates: 1 + y n = [ (1 + r 1 ) (1 + f 2 ) (1 + f 3 ) ⋅ ⋅ ⋅ (1 + f n) ] 1/n\nLiquidity premium = Forward rate − Expected short rate",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "1. What is the relationship between forward rates and the market’s expectation of future short rates? PROBLEM SETS\nExplain in the context of both the expectations hypothesis and the liquidity preference theory of\nthe term structure of interest rates.\n2. Under the expectations hypothesis, if the yield curve is upward-sloping, the market must expect\nan increase in short-term interest rates. True/false/uncertain? Why?\n3. Under the liquidity preference theory, if inflation is expected to be falling over the next few\nyears, long-term interest rates will be higher than short-term rates. True/false/uncertain?\nWhy?\n4. If the liquidity preference hypothesis is true, what shape should the term structure curve have in a\nperiod where interest rates are expected to be constant?\na. Upward-sloping\nb. Downward-sloping\nc. Flat\n5. Which of the following is true according to the pure expectations theory? Forward rates:\na. Exclusively represent expected future short rates.\nb. Are biased estimates of market expectations.\nc. Always overestimate future short rates.\n6. Assuming the pure expectations theory is correct, an upward-sloping yield curve implies:\na. Interest rates are expected to increase in the future.\nb. Longer-term bonds are riskier than short-term bonds.\nc. Interest rates are expected to decline in the future.\n7. The following is a list of prices for zero-coupon bonds of various maturities. eXcel\nPlease visit us at\nMaturity (years) Price of Bond\nwww.mhhe.com/Bodie13e\n1 $943.40\n2 898.47\n3 847.62\n4 792.16\na. Calculate the yield to maturity for a bond with a maturity of (i) one year; (ii) two years;\n(iii) three years; (iv) four years.\nb. Calculate the forward rate for (i) the second year; (ii) the third year; (iii) the fourth year.",
+      "normalized_value": "1. What is the relationship between forward rates and the market’s expectation of future short rates? PROBLEM SETS\nExplain in the context of both the expectations hypothesis and the liquidity preference theory of\nthe term structure of interest rates.\n2. Under the expectations hypothesis, if the yield curve is upward-sloping, the market must expect\nan increase in short-term interest rates. True/false/uncertain? Why?\n3. Under the liquidity preference theory, if inflation is expected to be falling over the next few\nyears, long-term interest rates will be higher than short-term rates. True/false/uncertain?\nWhy?\n4. If the liquidity preference hypothesis is true, what shape should the term structure curve have in a\nperiod where interest rates are expected to be constant?\na. Upward-sloping\nb. Downward-sloping\nc. Flat\n5. Which of the following is true according to the pure expectations theory? Forward rates:\na. Exclusively represent expected future short rates.\nb. Are biased estimates of market expectations.\nc. Always overestimate future short rates.\n6. Assuming the pure expectations theory is correct, an upward-sloping yield curve implies:\na. Interest rates are expected to increase in the future.\nb. Longer-term bonds are riskier than short-term bonds.\nc. Interest rates are expected to decline in the future.\n7. The following is a list of prices for zero-coupon bonds of various maturities. eXcel\nPlease visit us at\nMaturity (years) Price of Bond\nwww.mhhe.com/Bodie13e\n1 $943.40\n2 898.47\n3 847.62\n4 792.16\na. Calculate the yield to maturity for a bond with a maturity of (i) one year; (ii) two years;\n(iii) three years; (iv) four years.\nb. Calculate the forward rate for (i) the second year; (ii) the third year; (iii) the fourth year.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "A4",
+      "formula_text": "Forward rate of interest: 1 + f n = _ (1 _ _ ( + 1 _ _ y + _ n _ − y _ n 1 _ ) ) n n _ − _ _ 1 KEY EQUATIONS\nYield to maturity given sequence of forward rates: 1 + y n = [ (1 + r 1 ) (1 + f 2 ) (1 + f 3 ) ⋅ ⋅ ⋅ (1 + f n) ] 1/n\nLiquidity premium = Forward rate − Expected short rate",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 530,
+        "bbox": {
+          "x0": 18.0,
+          "y0": -63.0,
+          "x1": 625.5,
+          "y1": 693.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Final PDF to This table shows an amortization schedule with payment breakdowns.",
+  "table_summary": "Final PDF to This table shows an amortization schedule with payment breakdowns.",
+  "table_schema_hint": "amortization schedule",
+  "linked_concept_ids": [
+    "yield_curve",
+    "amortization",
+    "bond_pricing"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "yield_curve",
+      "source_anchor": {
+        "page_number": 530,
+        "bbox": {
+          "x0": 18.0,
+          "y0": -63.0,
+          "x1": 625.5,
+          "y1": 693.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.48 + Keywords: forward rate, term structure, interest rate",
+      "confidence": 0.682288509607315
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "bond_pricing",
+      "source_anchor": {
+        "page_number": 530,
+        "bbox": {
+          "x0": 18.0,
+          "y0": -63.0,
+          "x1": 625.5,
+          "y1": 693.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.42",
+      "confidence": 0.41801732778549194
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "amortization",
+      "source_anchor": {
+        "page_number": 530,
+        "bbox": {
+          "x0": 18.0,
+          "y0": -63.0,
+          "x1": 625.5,
+          "y1": 693.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.39 + Keywords: amortization, payment, interest",
+      "confidence": 0.5909857869148254
+    }
+  ],
+  "source_anchor": {
+    "page_number": 530,
+    "bbox": {
+      "x0": 18.0,
+      "y0": -63.0,
+      "x1": 625.5,
+      "y1": 693.0
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    530,
+    530
+  ]
+}

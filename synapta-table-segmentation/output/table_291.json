@@ -1,0 +1,102 @@
+{
+  "segment_id": "table_p929_idx290",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Applied Portfolio Management PART VII",
+  "row_headers": [],
+  "col_headers": [
+    "26.2",
+    "Hedge Funds"
+  ],
+  "cells": [
+    [
+      "26.2",
+      "Hedge Funds"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "26.2",
+      "normalized_value": 26.2,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Hedge Funds",
+      "normalized_value": "Hedge Funds",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Applied Portfolio Management PART VII This table contains 1 rows and 2 columns.",
+  "table_summary": "Applied Portfolio Management PART VII This table contains 1 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "portfolio_theory"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "portfolio_theory",
+      "source_anchor": {
+        "page_number": 929,
+        "bbox": {
+          "x0": 79.8,
+          "y0": 18.0,
+          "x1": 535.45,
+          "y1": 43.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.35 + Keywords: portfolio",
+      "confidence": 0.5515849113464355
+    }
+  ],
+  "source_anchor": {
+    "page_number": 929,
+    "bbox": {
+      "x0": 79.8,
+      "y0": 18.0,
+      "x1": 535.45,
+      "y1": 43.0
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    929,
+    929
+  ]
+}

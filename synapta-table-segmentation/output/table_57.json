@@ -1,0 +1,334 @@
+{
+  "segment_id": "table_p257_idx56",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Final PDF to",
+  "row_headers": [
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ]
+  ],
+  "col_headers": [
+    "",
+    ""
+  ],
+  "cells": [
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      "SUMMARY 1. The expected return of a portfolio is the weighted average of the component-security expected\nreturns with investment proportions as weights.\n2. The variance of a portfolio is the weighted sum of the elements of the covariance matrix using the\nproducts of the investment proportions as weights. Thus, the variance of each asset is weighted by\nthe square of its investment proportion. The covariance of each pair of assets appears twice in the\ncovariance matrix; thus, the portfolio variance includes twice each covariance weighted by the\nproduct of the investment proportions of each pair of assets.\n3. Even if the covariances are positive, the portfolio standard deviation is less than the weighted aver-\nage of the component standard deviations, as long as the assets are not perfectly positively corre-\nlated. Thus, portfolio diversification is beneficial as long as assets are less than perfectly correlated.\n4. The greater an asset’s covariance with the other assets in the portfolio, the more it contributes to\nportfolio variance. An asset that is perfectly negatively correlated with a portfolio can serve as a\nperfect hedge. That perfect hedge asset can reduce the portfolio variance to zero.\n5. The efficient frontier shows the set of portfolios that maximize expected return for each level of\nportfolio risk. Rational investors will choose a portfolio on the efficient frontier.\n6. A portfolio manager identifies the efficient frontier by first establishing estimates for asset\nexpected returns and the covariance matrix. This input list is then fed into an optimization pro-\ngram that produces as outputs the investment proportions, expected returns, and standard devia-\ntions of the portfolios on the efficient frontier.\n7. In practice, portfolio managers will arrive at different efficient portfolios because of differences\nin methods and quality of security analysis. Managers compete on the quality of their security\nanalysis relative to their management fees.\n8. If a risk-free asset is available and input lists are identical, all investors will choose the same\nportfolio on the efficient frontier of risky assets: the portfolio tangent to the CAL. All investors\nwith identical input lists will hold an identical risky portfolio, differing only in how much each\nallocates to this optimal portfolio versus the risk-free asset. This result is characterized as the\nseparation principle of portfolio construction.\n9. Diversification is based on the allocation of a portfolio of fixed size across several assets, limit-\ning the exposure to any one source of risk. Adding additional risky assets to a portfolio, thereby\nincreasing the total amount invested, does not reduce dollar risk, even if it makes the rate\nof return more predictable. This is because that uncertainty is applied to a larger investment\nbase. Nor does investing over longer horizons reduce risk. Increasing the investment horizon is\nanalogous to investing in more assets. It increases total risk. Analogously, the key to the insur-\nance industry is risk sharing—the spreading of many independent sources of risk across many\ninvestors, each of whom takes on only a small exposure to any particular source of risk."
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      "KEY TERMS diversification nonsystematic risk efficient frontier of risky\ninsurance principle diversifiable risk assets\nmarket risk minimum-variance input list\nsystematic risk portfolio separation property\nnondiversifiable risk portfolio opportunity set risk pooling\nunique risk optimal risky portfolio risk sharing\nfirm-specific risk minimum-variance frontier"
+    ],
+    [
+      "",
+      "n\nKEY EQUATIONS Expected portfolio return: E( r p ) = ∑ Pr (s ) r p (s) [with n scenarios, indexed by s]\ns = 1\nThe expected rate of return on a two-asset portfolio: E(r p) = w D E(r D) + w E E(r E)\nn\nVariance of portfolio return: V ar( r p ) = ∑ Pr (s ) [ r p (s) − E( r p )] 2\ns = 1"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "SUMMARY 1. The expected return of a portfolio is the weighted average of the component-security expected\nreturns with investment proportions as weights.\n2. The variance of a portfolio is the weighted sum of the elements of the covariance matrix using the\nproducts of the investment proportions as weights. Thus, the variance of each asset is weighted by\nthe square of its investment proportion. The covariance of each pair of assets appears twice in the\ncovariance matrix; thus, the portfolio variance includes twice each covariance weighted by the\nproduct of the investment proportions of each pair of assets.\n3. Even if the covariances are positive, the portfolio standard deviation is less than the weighted aver-\nage of the component standard deviations, as long as the assets are not perfectly positively corre-\nlated. Thus, portfolio diversification is beneficial as long as assets are less than perfectly correlated.\n4. The greater an asset’s covariance with the other assets in the portfolio, the more it contributes to\nportfolio variance. An asset that is perfectly negatively correlated with a portfolio can serve as a\nperfect hedge. That perfect hedge asset can reduce the portfolio variance to zero.\n5. The efficient frontier shows the set of portfolios that maximize expected return for each level of\nportfolio risk. Rational investors will choose a portfolio on the efficient frontier.\n6. A portfolio manager identifies the efficient frontier by first establishing estimates for asset\nexpected returns and the covariance matrix. This input list is then fed into an optimization pro-\ngram that produces as outputs the investment proportions, expected returns, and standard devia-\ntions of the portfolios on the efficient frontier.\n7. In practice, portfolio managers will arrive at different efficient portfolios because of differences\nin methods and quality of security analysis. Managers compete on the quality of their security\nanalysis relative to their management fees.\n8. If a risk-free asset is available and input lists are identical, all investors will choose the same\nportfolio on the efficient frontier of risky assets: the portfolio tangent to the CAL. All investors\nwith identical input lists will hold an identical risky portfolio, differing only in how much each\nallocates to this optimal portfolio versus the risk-free asset. This result is characterized as the\nseparation principle of portfolio construction.\n9. Diversification is based on the allocation of a portfolio of fixed size across several assets, limit-\ning the exposure to any one source of risk. Adding additional risky assets to a portfolio, thereby\nincreasing the total amount invested, does not reduce dollar risk, even if it makes the rate\nof return more predictable. This is because that uncertainty is applied to a larger investment\nbase. Nor does investing over longer horizons reduce risk. Increasing the investment horizon is\nanalogous to investing in more assets. It increases total risk. Analogously, the key to the insur-\nance industry is risk sharing—the spreading of many independent sources of risk across many\ninvestors, each of whom takes on only a small exposure to any particular source of risk.",
+      "normalized_value": "SUMMARY 1. The expected return of a portfolio is the weighted average of the component-security expected\nreturns with investment proportions as weights.\n2. The variance of a portfolio is the weighted sum of the elements of the covariance matrix using the\nproducts of the investment proportions as weights. Thus, the variance of each asset is weighted by\nthe square of its investment proportion. The covariance of each pair of assets appears twice in the\ncovariance matrix; thus, the portfolio variance includes twice each covariance weighted by the\nproduct of the investment proportions of each pair of assets.\n3. Even if the covariances are positive, the portfolio standard deviation is less than the weighted aver-\nage of the component standard deviations, as long as the assets are not perfectly positively corre-\nlated. Thus, portfolio diversification is beneficial as long as assets are less than perfectly correlated.\n4. The greater an asset’s covariance with the other assets in the portfolio, the more it contributes to\nportfolio variance. An asset that is perfectly negatively correlated with a portfolio can serve as a\nperfect hedge. That perfect hedge asset can reduce the portfolio variance to zero.\n5. The efficient frontier shows the set of portfolios that maximize expected return for each level of\nportfolio risk. Rational investors will choose a portfolio on the efficient frontier.\n6. A portfolio manager identifies the efficient frontier by first establishing estimates for asset\nexpected returns and the covariance matrix. This input list is then fed into an optimization pro-\ngram that produces as outputs the investment proportions, expected returns, and standard devia-\ntions of the portfolios on the efficient frontier.\n7. In practice, portfolio managers will arrive at different efficient portfolios because of differences\nin methods and quality of security analysis. Managers compete on the quality of their security\nanalysis relative to their management fees.\n8. If a risk-free asset is available and input lists are identical, all investors will choose the same\nportfolio on the efficient frontier of risky assets: the portfolio tangent to the CAL. All investors\nwith identical input lists will hold an identical risky portfolio, differing only in how much each\nallocates to this optimal portfolio versus the risk-free asset. This result is characterized as the\nseparation principle of portfolio construction.\n9. Diversification is based on the allocation of a portfolio of fixed size across several assets, limit-\ning the exposure to any one source of risk. Adding additional risky assets to a portfolio, thereby\nincreasing the total amount invested, does not reduce dollar risk, even if it makes the rate\nof return more predictable. This is because that uncertainty is applied to a larger investment\nbase. Nor does investing over longer horizons reduce risk. Increasing the investment horizon is\nanalogous to investing in more assets. It increases total risk. Analogously, the key to the insur-\nance industry is risk sharing—the spreading of many independent sources of risk across many\ninvestors, each of whom takes on only a small exposure to any particular source of risk.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "KEY TERMS diversification nonsystematic risk efficient frontier of risky\ninsurance principle diversifiable risk assets\nmarket risk minimum-variance input list\nsystematic risk portfolio separation property\nnondiversifiable risk portfolio opportunity set risk pooling\nunique risk optimal risky portfolio risk sharing\nfirm-specific risk minimum-variance frontier",
+      "normalized_value": "KEY TERMS diversification nonsystematic risk efficient frontier of risky\ninsurance principle diversifiable risk assets\nmarket risk minimum-variance input list\nsystematic risk portfolio separation property\nnondiversifiable risk portfolio opportunity set risk pooling\nunique risk optimal risky portfolio risk sharing\nfirm-specific risk minimum-variance frontier",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "n\nKEY EQUATIONS Expected portfolio return: E( r p ) = ∑ Pr (s ) r p (s) [with n scenarios, indexed by s]\ns = 1\nThe expected rate of return on a two-asset portfolio: E(r p) = w D E(r D) + w E E(r E)\nn\nVariance of portfolio return: V ar( r p ) = ∑ Pr (s ) [ r p (s) − E( r p )] 2\ns = 1",
+      "normalized_value": "n\nKEY EQUATIONS Expected portfolio return: E( r p ) = ∑ Pr (s ) r p (s) [with n scenarios, indexed by s]\ns = 1\nThe expected rate of return on a two-asset portfolio: E(r p) = w D E(r D) + w E E(r E)\nn\nVariance of portfolio return: V ar( r p ) = ∑ Pr (s ) [ r p (s) − E( r p )] 2\ns = 1",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "B3",
+      "formula_text": "SUMMARY 1. The expected return of a portfolio is the weighted average of the component-security expected\nreturns with investment proportions as weights.\n2. The variance of a portfolio is the weighted sum of the elements of the covariance matrix using the\nproducts of the investment proportions as weights. Thus, the variance of each asset is weighted by\nthe square of its investment proportion. The covariance of each pair of assets appears twice in the\ncovariance matrix; thus, the portfolio variance includes twice each covariance weighted by the\nproduct of the investment proportions of each pair of assets.\n3. Even if the covariances are positive, the portfolio standard deviation is less than the weighted aver-\nage of the component standard deviations, as long as the assets are not perfectly positively corre-\nlated. Thus, portfolio diversification is beneficial as long as assets are less than perfectly correlated.\n4. The greater an asset’s covariance with the other assets in the portfolio, the more it contributes to\nportfolio variance. An asset that is perfectly negatively correlated with a portfolio can serve as a\nperfect hedge. That perfect hedge asset can reduce the portfolio variance to zero.\n5. The efficient frontier shows the set of portfolios that maximize expected return for each level of\nportfolio risk. Rational investors will choose a portfolio on the efficient frontier.\n6. A portfolio manager identifies the efficient frontier by first establishing estimates for asset\nexpected returns and the covariance matrix. This input list is then fed into an optimization pro-\ngram that produces as outputs the investment proportions, expected returns, and standard devia-\ntions of the portfolios on the efficient frontier.\n7. In practice, portfolio managers will arrive at different efficient portfolios because of differences\nin methods and quality of security analysis. Managers compete on the quality of their security\nanalysis relative to their management fees.\n8. If a risk-free asset is available and input lists are identical, all investors will choose the same\nportfolio on the efficient frontier of risky assets: the portfolio tangent to the CAL. All investors\nwith identical input lists will hold an identical risky portfolio, differing only in how much each\nallocates to this optimal portfolio versus the risk-free asset. This result is characterized as the\nseparation principle of portfolio construction.\n9. Diversification is based on the allocation of a portfolio of fixed size across several assets, limit-\ning the exposure to any one source of risk. Adding additional risky assets to a portfolio, thereby\nincreasing the total amount invested, does not reduce dollar risk, even if it makes the rate\nof return more predictable. This is because that uncertainty is applied to a larger investment\nbase. Nor does investing over longer horizons reduce risk. Increasing the investment horizon is\nanalogous to investing in more assets. It increases total risk. Analogously, the key to the insur-\nance industry is risk sharing—the spreading of many independent sources of risk across many\ninvestors, each of whom takes on only a small exposure to any particular source of risk.",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 257,
+        "bbox": {
+          "x0": 18.0,
+          "y0": -63.0,
+          "x1": 625.5,
+          "y1": 693.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "B6",
+      "formula_text": "n\nKEY EQUATIONS Expected portfolio return: E( r p ) = ∑ Pr (s ) r p (s) [with n scenarios, indexed by s]\ns = 1\nThe expected rate of return on a two-asset portfolio: E(r p) = w D E(r D) + w E E(r E)\nn\nVariance of portfolio return: V ar( r p ) = ∑ Pr (s ) [ r p (s) − E( r p )] 2\ns = 1",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 257,
+        "bbox": {
+          "x0": 18.0,
+          "y0": -63.0,
+          "x1": 625.5,
+          "y1": 693.0
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Final PDF to This table contains 6 rows and 2 columns.",
+  "table_summary": "Final PDF to This table contains 6 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 257,
+    "bbox": {
+      "x0": 18.0,
+      "y0": -63.0,
+      "x1": 625.5,
+      "y1": 693.0
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    257,
+    257
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "segment_id": "table_p455_idx93",
+  "table_id": null,
+  "table_number": null,
+  "caption": "example, beta) Factors (Variables that may be viewed as proxies for exposure to a source",
+  "row_headers": [
+    [
+      "Financial"
+    ],
+    [
+      "Macro"
+    ],
+    [
+      "Behavioral"
+    ],
+    [
+      "Accounting"
+    ],
+    [
+      "Microstructure"
+    ]
+  ],
+  "col_headers": [
+    "Risk Type",
+    "Description"
+  ],
+  "cells": [
+    [
+      "Risk Type",
+      "Description"
+    ],
+    [
+      "Financial",
+      "Various measures of movement in aggregate financial markets such as the\nreturn on a market index"
+    ],
+    [
+      "Macro",
+      "Macroeconomic fundamentals such as inflation, aggregate consumption, or\nunemployment rates"
+    ],
+    [
+      "Behavioral",
+      "Possibly irrational investor behavior, for example, sentiment"
+    ],
+    [
+      "Accounting",
+      "Common patterns in variables constructed from accounting measures, for\nexample, market-to-book ratio"
+    ],
+    [
+      "Microstructure",
+      "Marketwide variation in trading frictions such as liquidity or trading costs"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Risk Type",
+      "normalized_value": "Risk Type",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Description",
+      "normalized_value": "Description",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Financial",
+      "normalized_value": "Financial",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Various measures of movement in aggregate financial markets such as the\nreturn on a market index",
+      "normalized_value": "Various measures of movement in aggregate financial markets such as the\nreturn on a market index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Macro",
+      "normalized_value": "Macro",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Macroeconomic fundamentals such as inflation, aggregate consumption, or\nunemployment rates",
+      "normalized_value": "Macroeconomic fundamentals such as inflation, aggregate consumption, or\nunemployment rates",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Behavioral",
+      "normalized_value": "Behavioral",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Possibly irrational investor behavior, for example, sentiment",
+      "normalized_value": "Possibly irrational investor behavior, for example, sentiment",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Accounting",
+      "normalized_value": "Accounting",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Common patterns in variables constructed from accounting measures, for\nexample, market-to-book ratio",
+      "normalized_value": "Common patterns in variables constructed from accounting measures, for\nexample, market-to-book ratio",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Microstructure",
+      "normalized_value": "Microstructure",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Marketwide variation in trading frictions such as liquidity or trading costs",
+      "normalized_value": "Marketwide variation in trading frictions such as liquidity or trading costs",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "example, beta) Factors (Variables that may be viewed as proxies for exposure to a source This table contains 6 rows and 2 columns.",
+  "table_summary": "example, beta) Factors (Variables that may be viewed as proxies for exposure to a source This table contains 6 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "risk_management"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "risk_management",
+      "source_anchor": {
+        "page_number": 455,
+        "bbox": {
+          "x0": 175.75219779999998,
+          "y0": 56.577150500000016,
+          "x1": 526.1152010999999,
+          "y1": 172.74695125000005
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Keyword match: risk, VaR, exposure",
+      "confidence": 0.4
+    }
+  ],
+  "source_anchor": {
+    "page_number": 455,
+    "bbox": {
+      "x0": 175.75219779999998,
+      "y0": 56.577150500000016,
+      "x1": 526.1152010999999,
+      "y1": 172.74695125000005
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    455,
+    455
+  ]
+}

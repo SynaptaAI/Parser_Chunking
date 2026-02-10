@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+requests
+regex
+python-dateutil
+
+# PDF & Image Processing
+PyMuPDF
+Pillow
+opencv-python
+pdfplumber
+camelot-py[cv]
+tabula-py
+pytesseract
+
+# NLP & AI
+spacy
+paddleocr
+openai
+sentence-transformers

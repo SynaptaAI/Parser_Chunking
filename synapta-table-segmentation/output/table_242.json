@@ -1,0 +1,813 @@
+{
+  "segment_id": "table_p828_idx241",
+  "table_id": null,
+  "table_number": null,
+  "caption": "S&P 500 and the Russell 2000 index of small capitalization stocks, and the NASDAQ 100.",
+  "row_headers": [
+    [
+      "S&P 500 (E-mini)"
+    ],
+    [
+      "Mini-Dow Jones Industrial\nAverage (DJIA)"
+    ],
+    [
+      "Mini-Russell 2000"
+    ],
+    [
+      "NASDAQ 100"
+    ],
+    [
+      "Nikkei 225"
+    ],
+    [
+      "FTSE 100"
+    ],
+    [
+      "DAX-30"
+    ],
+    [
+      "CAC-40"
+    ],
+    [
+      "Hang Seng"
+    ]
+  ],
+  "col_headers": [
+    "Contract",
+    "Underlying Market Index",
+    "Contract Size",
+    "Exchange"
+  ],
+  "cells": [
+    [
+      "Contract",
+      "Underlying Market Index",
+      "Contract Size",
+      "Exchange"
+    ],
+    [
+      "S&P 500 (E-mini)",
+      "Standard & Poor’s 500 Index,\na value-weighted arithmetic\naverage of 500 stocks",
+      "$50 times\nS&P 500 index",
+      "Chicago Mercantile Exchange"
+    ],
+    [
+      "Mini-Dow Jones Industrial\nAverage (DJIA)",
+      "Dow Jones Industrial Average,\nprice-weighted average of 30\nfirms",
+      "$5 times index",
+      "Chicago Board of Trade"
+    ],
+    [
+      "Mini-Russell 2000",
+      "Index of 2,000 smaller firms",
+      "$50 times index",
+      "Intercontinental Exchange (ICE)"
+    ],
+    [
+      "NASDAQ 100",
+      "Value-weighted arithmetic\naverage of 100 of the largest\nover-the-counter stocks",
+      "$100 times index",
+      "Chicago Mercantile Exchange"
+    ],
+    [
+      "Nikkei 225",
+      "Nikkei 225 stock average",
+      "$5 times Nikkei Index",
+      "Chicago Mercantile Exchange"
+    ],
+    [
+      "FTSE 100",
+      "Financial Times Stock Exchange\nIndex of 100 U.K. firms",
+      "£10 times FTSE Index",
+      "London International Financial\nFutures Exchange"
+    ],
+    [
+      "DAX-30",
+      "Index of 30 German stocks",
+      "€25 times index",
+      "Eurex"
+    ],
+    [
+      "CAC-40",
+      "Index of 40 French stocks",
+      "€10 times index",
+      "Euronext Paris"
+    ],
+    [
+      "Hang Seng",
+      "Value-weighted index of\nlargest firms in Hong Kong",
+      "HK$50 times index",
+      "Hong Kong Exchange"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Contract",
+      "normalized_value": "Contract",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Underlying Market Index",
+      "normalized_value": "Underlying Market Index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Contract Size",
+      "normalized_value": "Contract Size",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Exchange",
+      "normalized_value": "Exchange",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "S&P 500 (E-mini)",
+      "normalized_value": "S&P 500 (E-mini)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Standard & Poor’s 500 Index,\na value-weighted arithmetic\naverage of 500 stocks",
+      "normalized_value": "Standard & Poor’s 500 Index,\na value-weighted arithmetic\naverage of 500 stocks",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "$50 times\nS&P 500 index",
+      "normalized_value": "$50 times\nS&P 500 index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Chicago Mercantile Exchange",
+      "normalized_value": "Chicago Mercantile Exchange",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Mini-Dow Jones Industrial\nAverage (DJIA)",
+      "normalized_value": "Mini-Dow Jones Industrial\nAverage (DJIA)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Dow Jones Industrial Average,\nprice-weighted average of 30\nfirms",
+      "normalized_value": "Dow Jones Industrial Average,\nprice-weighted average of 30\nfirms",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "$5 times index",
+      "normalized_value": "$5 times index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Chicago Board of Trade",
+      "normalized_value": "Chicago Board of Trade",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Mini-Russell 2000",
+      "normalized_value": "Mini-Russell 2000",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Index of 2,000 smaller firms",
+      "normalized_value": "Index of 2,000 smaller firms",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "$50 times index",
+      "normalized_value": "$50 times index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Intercontinental Exchange (ICE)",
+      "normalized_value": "Intercontinental Exchange (ICE)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "NASDAQ 100",
+      "normalized_value": "NASDAQ 100",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Value-weighted arithmetic\naverage of 100 of the largest\nover-the-counter stocks",
+      "normalized_value": "Value-weighted arithmetic\naverage of 100 of the largest\nover-the-counter stocks",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "$100 times index",
+      "normalized_value": "$100 times index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Chicago Mercantile Exchange",
+      "normalized_value": "Chicago Mercantile Exchange",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Nikkei 225",
+      "normalized_value": "Nikkei 225",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Nikkei 225 stock average",
+      "normalized_value": "Nikkei 225 stock average",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "$5 times Nikkei Index",
+      "normalized_value": "$5 times Nikkei Index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Chicago Mercantile Exchange",
+      "normalized_value": "Chicago Mercantile Exchange",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "FTSE 100",
+      "normalized_value": "FTSE 100",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Financial Times Stock Exchange\nIndex of 100 U.K. firms",
+      "normalized_value": "Financial Times Stock Exchange\nIndex of 100 U.K. firms",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "£10 times FTSE Index",
+      "normalized_value": "£10 times FTSE Index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "London International Financial\nFutures Exchange",
+      "normalized_value": "London International Financial\nFutures Exchange",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "DAX-30",
+      "normalized_value": "DAX-30",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Index of 30 German stocks",
+      "normalized_value": "Index of 30 German stocks",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "€25 times index",
+      "normalized_value": "€25 times index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Eurex",
+      "normalized_value": "Eurex",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "CAC-40",
+      "normalized_value": "CAC-40",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Index of 40 French stocks",
+      "normalized_value": "Index of 40 French stocks",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "€10 times index",
+      "normalized_value": "€10 times index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Euronext Paris",
+      "normalized_value": "Euronext Paris",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Hang Seng",
+      "normalized_value": "Hang Seng",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Value-weighted index of\nlargest firms in Hong Kong",
+      "normalized_value": "Value-weighted index of\nlargest firms in Hong Kong",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "HK$50 times index",
+      "normalized_value": "HK$50 times index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Hong Kong Exchange",
+      "normalized_value": "Hong Kong Exchange",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "S&P 500 and the Russell 2000 index of small capitalization stocks, and the NASDAQ 100. This table contains 10 rows and 4 columns.",
+  "table_summary": "S&P 500 and the Russell 2000 index of small capitalization stocks, and the NASDAQ 100. This table contains 10 rows and 4 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 828,
+    "bbox": {
+      "x0": 117.24780220000002,
+      "y0": 320.25,
+      "x1": 555.2473021999998,
+      "y1": 539.6997466999999
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    828,
+    828
+  ]
+}

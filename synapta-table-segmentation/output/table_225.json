@@ -1,0 +1,289 @@
+{
+  "segment_id": "table_p771_idx224",
+  "table_id": null,
+  "table_number": null,
+  "caption": "a risk-free asset. The total value, we reduce portfolio risk the hypothetical put option would",
+  "row_headers": [
+    [
+      "Loss on bills"
+    ],
+    [
+      "Net loss"
+    ]
+  ],
+  "col_headers": [
+    "Loss on stocks",
+    "",
+    "2% of $40 = $0.80"
+  ],
+  "cells": [
+    [
+      "Loss on stocks",
+      "",
+      "2% of $40 = $0.80"
+    ],
+    [
+      "Loss on bills",
+      "",
+      "= 0"
+    ],
+    [
+      "Net loss",
+      "",
+      "= $0.80"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Loss on stocks",
+      "normalized_value": "Loss on stocks",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "2% of $40 = $0.80",
+      "normalized_value": "2% of $40 = $0.80",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Loss on bills",
+      "normalized_value": "Loss on bills",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "= 0",
+      "normalized_value": "= 0",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Net loss",
+      "normalized_value": "Net loss",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "= $0.80",
+      "normalized_value": "= $0.80",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "C1",
+      "formula_text": "2% of $40 = $0.80",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 771,
+        "bbox": {
+          "x0": 267.57289985000006,
+          "y0": 236.20500089999996,
+          "x1": 443.42710015000006,
+          "y1": 278.16495084999997
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "C2",
+      "formula_text": "= 0",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 771,
+        "bbox": {
+          "x0": 267.57289985000006,
+          "y0": 236.20500089999996,
+          "x1": 443.42710015000006,
+          "y1": 278.16495084999997
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "C3",
+      "formula_text": "= $0.80",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 771,
+        "bbox": {
+          "x0": 267.57289985000006,
+          "y0": 236.20500089999996,
+          "x1": 443.42710015000006,
+          "y1": 278.16495084999997
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "a risk-free asset. The total value, we reduce portfolio risk the hypothetical put option would This table contains 3 rows and 3 columns.",
+  "table_summary": "a risk-free asset. The total value, we reduce portfolio risk the hypothetical put option would This table contains 3 rows and 3 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
+  "source_anchor": {
+    "page_number": 771,
+    "bbox": {
+      "x0": 267.57289985000006,
+      "y0": 236.20500089999996,
+      "x1": 443.42710015000006,
+      "y1": 278.16495084999997
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    771,
+    771
+  ]
+}

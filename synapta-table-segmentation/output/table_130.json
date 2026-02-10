@@ -1,0 +1,131 @@
+{
+  "segment_id": "table_p576_idx129",
+  "table_id": null,
+  "table_number": null,
+  "caption": "of the two the purchase of a Sevista government bond. Kramer decides to evaluate two",
+  "row_headers": [
+    [
+      "I $5 million 0 $5 million\nII 0 $10 million 0"
+    ]
+  ],
+  "col_headers": [
+    "5-Year Maturity 15-Year Maturity 25-Year Maturity\n(Modified (Modified (Modified\nStrategy Duration = 4.83) Duration = 14.35) Duration = 23.81)"
+  ],
+  "cells": [
+    [
+      "5-Year Maturity 15-Year Maturity 25-Year Maturity\n(Modified (Modified (Modified\nStrategy Duration = 4.83) Duration = 14.35) Duration = 23.81)"
+    ],
+    [
+      "I $5 million 0 $5 million\nII 0 $10 million 0"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "5-Year Maturity 15-Year Maturity 25-Year Maturity\n(Modified (Modified (Modified\nStrategy Duration = 4.83) Duration = 14.35) Duration = 23.81)",
+      "normalized_value": "5-Year Maturity 15-Year Maturity 25-Year Maturity\n(Modified (Modified (Modified\nStrategy Duration = 4.83) Duration = 14.35) Duration = 23.81)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "I $5 million 0 $5 million\nII 0 $10 million 0",
+      "normalized_value": "I $5 million 0 $5 million\nII 0 $10 million 0",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "A1",
+      "formula_text": "5-Year Maturity 15-Year Maturity 25-Year Maturity\n(Modified (Modified (Modified\nStrategy Duration = 4.83) Duration = 14.35) Duration = 23.81)",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 576,
+        "bbox": {
+          "x0": 108.1875,
+          "y0": 263.0768404,
+          "x1": 468.1875,
+          "y1": 340.38667488
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "of the two the purchase of a Sevista government bond. Kramer decides to evaluate two This table presents bond cashflow information.",
+  "table_summary": "of the two the purchase of a Sevista government bond. Kramer decides to evaluate two This table presents bond cashflow information.",
+  "table_schema_hint": "bond cashflows",
+  "linked_concept_ids": [
+    "bond_pricing"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "bond_pricing",
+      "source_anchor": {
+        "page_number": 576,
+        "bbox": {
+          "x0": 108.1875,
+          "y0": 263.0768404,
+          "x1": 468.1875,
+          "y1": 340.38667488
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.45 + Keywords: bond, maturity, duration",
+      "confidence": 0.6451244473457336
+    }
+  ],
+  "source_anchor": {
+    "page_number": 576,
+    "bbox": {
+      "x0": 108.1875,
+      "y0": 263.0768404,
+      "x1": 468.1875,
+      "y1": 340.38667488
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    576,
+    576
+  ]
+}

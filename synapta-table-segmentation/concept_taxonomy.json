@@ -1,0 +1,53 @@
+{
+  "bond_pricing": {
+    "name": "Bond Pricing",
+    "keywords": ["bond", "coupon", "yield", "maturity", "duration", "cashflow", "present value", "discount rate"],
+    "description": "Concepts related to bond valuation, pricing, and cashflow analysis"
+  },
+  "portfolio_theory": {
+    "name": "Portfolio Theory",
+    "keywords": ["portfolio", "diversification", "risk", "return", "variance", "covariance", "efficient frontier", "optimal portfolio"],
+    "description": "Modern portfolio theory, risk-return optimization, and diversification strategies"
+  },
+  "asset_pricing": {
+    "name": "Asset Pricing",
+    "keywords": ["asset", "pricing", "valuation", "CAPM", "beta", "alpha", "market portfolio", "risk premium"],
+    "description": "Asset pricing models including CAPM and factor models"
+  },
+  "amortization": {
+    "name": "Amortization",
+    "keywords": ["amortization", "payment", "principal", "interest", "loan", "schedule", "balance"],
+    "description": "Loan amortization schedules and payment calculations"
+  },
+  "options_pricing": {
+    "name": "Options Pricing",
+    "keywords": ["option", "call", "put", "strike", "expiration", "Black-Scholes", "delta", "gamma", "hedging"],
+    "description": "Options pricing models and Greeks"
+  },
+  "derivatives": {
+    "name": "Derivatives",
+    "keywords": ["derivative", "futures", "swaps", "forwards", "hedging", "arbitrage"],
+    "description": "Financial derivatives and their applications"
+  },
+  "risk_management": {
+    "name": "Risk Management",
+    "keywords": ["risk", "volatility", "VaR", "stress test", "hedging", "exposure"],
+    "description": "Risk measurement and management techniques"
+  },
+  "financial_analysis": {
+    "name": "Financial Analysis",
+    "keywords": ["financial", "ratio", "ROE", "ROA", "EPS", "P/E", "balance sheet", "income statement"],
+    "description": "Financial statement analysis and ratios"
+  },
+  "yield_curve": {
+    "name": "Yield Curve",
+    "keywords": ["yield curve", "spot rate", "forward rate", "term structure", "interest rate"],
+    "description": "Yield curve analysis and term structure of interest rates"
+  },
+  "market_efficiency": {
+    "name": "Market Efficiency",
+    "keywords": ["efficient market", "EMH", "anomaly", "arbitrage", "information"],
+    "description": "Market efficiency theory and empirical evidence"
+  }
+}
+

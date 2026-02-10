@@ -1,0 +1,102 @@
+{
+  "segment_id": "table_p334_idx76",
+  "table_id": null,
+  "table_number": null,
+  "caption": "future developments. passé. However, there is no broad consensus on what specific extension of the",
+  "row_headers": [],
+  "col_headers": [
+    "9.4",
+    "The CAPM and the Investment Industry"
+  ],
+  "cells": [
+    [
+      "9.4",
+      "The CAPM and the Investment Industry"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "9.4",
+      "normalized_value": 9.4,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "The CAPM and the Investment Industry",
+      "normalized_value": "The CAPM and the Investment Industry",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "future developments. passé. However, there is no broad consensus on what specific extension of the This table contains 1 rows and 2 columns.",
+  "table_summary": "future developments. passé. However, there is no broad consensus on what specific extension of the This table contains 1 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "asset_pricing"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "asset_pricing",
+      "source_anchor": {
+        "page_number": 334,
+        "bbox": {
+          "x0": 108.498,
+          "y0": 214.3,
+          "x1": 563.998,
+          "y1": 239.2
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.32 + Keywords: CAPM",
+      "confidence": 0.515004676580429
+    }
+  ],
+  "source_anchor": {
+    "page_number": 334,
+    "bbox": {
+      "x0": 108.498,
+      "y0": 214.3,
+      "x1": 563.998,
+      "y1": 239.2
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    334,
+    334
+  ]
+}

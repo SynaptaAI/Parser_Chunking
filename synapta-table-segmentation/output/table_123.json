@@ -1,0 +1,255 @@
+{
+  "segment_id": "table_p555_idx122",
+  "table_id": null,
+  "table_number": null,
+  "caption": "exposure. Suppose the original pool has $10 divided into three tranches, each with a different",
+  "row_headers": [
+    [
+      "Tranche B = $3 million principal"
+    ],
+    [
+      "Tranche C = $3 million principal"
+    ]
+  ],
+  "col_headers": [
+    "Tranche A = $4 million principal",
+    "“Short-pay” tranche"
+  ],
+  "cells": [
+    [
+      "Tranche A = $4 million principal",
+      "“Short-pay” tranche"
+    ],
+    [
+      "Tranche B = $3 million principal",
+      "“Intermediate-pay” tranche"
+    ],
+    [
+      "Tranche C = $3 million principal",
+      "“Long-pay” tranche"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Tranche A = $4 million principal",
+      "normalized_value": "Tranche A = $4 million principal",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "“Short-pay” tranche",
+      "normalized_value": "“Short-pay” tranche",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Tranche B = $3 million principal",
+      "normalized_value": "Tranche B = $3 million principal",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "“Intermediate-pay” tranche",
+      "normalized_value": "“Intermediate-pay” tranche",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Tranche C = $3 million principal",
+      "normalized_value": "Tranche C = $3 million principal",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "“Long-pay” tranche",
+      "normalized_value": "“Long-pay” tranche",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "A1",
+      "formula_text": "Tranche A = $4 million principal",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 555,
+        "bbox": {
+          "x0": 233.9563066714286,
+          "y0": 87.64999695,
+          "x1": 476.2162661333333,
+          "y1": 129.6099469
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "A2",
+      "formula_text": "Tranche B = $3 million principal",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 555,
+        "bbox": {
+          "x0": 233.9563066714286,
+          "y0": 87.64999695,
+          "x1": 476.2162661333333,
+          "y1": 129.6099469
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "A3",
+      "formula_text": "Tranche C = $3 million principal",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 555,
+        "bbox": {
+          "x0": 233.9563066714286,
+          "y0": 87.64999695,
+          "x1": 476.2162661333333,
+          "y1": 129.6099469
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "exposure. Suppose the original pool has $10 divided into three tranches, each with a different This table shows an amortization schedule with payment breakdowns.",
+  "table_summary": "exposure. Suppose the original pool has $10 divided into three tranches, each with a different This table shows an amortization schedule with payment breakdowns.",
+  "table_schema_hint": "amortization schedule",
+  "linked_concept_ids": [
+    "amortization"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "amortization",
+      "source_anchor": {
+        "page_number": 555,
+        "bbox": {
+          "x0": 233.9563066714286,
+          "y0": 87.64999695,
+          "x1": 476.2162661333333,
+          "y1": 129.6099469
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.55 + Keywords: amortization, payment, principal",
+      "confidence": 0.7499781370162963
+    }
+  ],
+  "source_anchor": {
+    "page_number": 555,
+    "bbox": {
+      "x0": 233.9563066714286,
+      "y0": 87.64999695,
+      "x1": 476.2162661333333,
+      "y1": 129.6099469
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    555,
+    555
+  ]
+}

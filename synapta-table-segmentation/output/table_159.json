@@ -1,0 +1,318 @@
+{
+  "segment_id": "table_p655_idx158",
+  "table_id": null,
+  "table_number": null,
+  "caption": "The dividend payout ratio is expected to be constant.",
+  "row_headers": [
+    [
+      "Expected rate of return on market index"
+    ],
+    [
+      "Median industry price/earnings (P/E) ratio"
+    ],
+    [
+      "Expected industry earnings growth rate"
+    ]
+  ],
+  "col_headers": [
+    "Risk-free rate of return",
+    "",
+    "4.00%"
+  ],
+  "cells": [
+    [
+      "Risk-free rate of return",
+      "",
+      "4.00%"
+    ],
+    [
+      "Expected rate of return on market index",
+      "",
+      "9.00%"
+    ],
+    [
+      "Median industry price/earnings (P/E) ratio",
+      "",
+      "19.90"
+    ],
+    [
+      "Expected industry earnings growth rate",
+      "",
+      "12.00%"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Risk-free rate of return",
+      "normalized_value": "Risk-free rate of return",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "4.00%",
+      "normalized_value": 0.04,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Expected rate of return on market index",
+      "normalized_value": "Expected rate of return on market index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "9.00%",
+      "normalized_value": 0.09,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Median industry price/earnings (P/E) ratio",
+      "normalized_value": "Median industry price/earnings (P/E) ratio",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "19.90",
+      "normalized_value": 19.9,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Expected industry earnings growth rate",
+      "normalized_value": "Expected industry earnings growth rate",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "12.00%",
+      "normalized_value": 0.12,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "The dividend payout ratio is expected to be constant. This table shows NPV sensitivity analysis across different scenarios.",
+  "table_summary": "The dividend payout ratio is expected to be constant. This table shows NPV sensitivity analysis across different scenarios.",
+  "table_schema_hint": "NPV sensitivity grid",
+  "linked_concept_ids": [
+    "portfolio_theory",
+    "financial_analysis"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "portfolio_theory",
+      "source_anchor": {
+        "page_number": 655,
+        "bbox": {
+          "x0": 175.71118803529413,
+          "y0": 118.25999724999997,
+          "x1": 374.42860370000005,
+          "y1": 172.03989745
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.34 + Keywords: risk, return",
+      "confidence": 0.5351004123687744
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "financial_analysis",
+      "source_anchor": {
+        "page_number": 655,
+        "bbox": {
+          "x0": 175.71118803529413,
+          "y0": 118.25999724999997,
+          "x1": 374.42860370000005,
+          "y1": 172.03989745
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.33 + Keywords: ratio",
+      "confidence": 0.5258696496486663
+    }
+  ],
+  "source_anchor": {
+    "page_number": 655,
+    "bbox": {
+      "x0": 175.71118803529413,
+      "y0": 118.25999724999997,
+      "x1": 374.42860370000005,
+      "y1": 172.03989745
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    655,
+    655
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "segment_id": "table_p811_idx236",
+  "table_id": null,
+  "table_number": null,
+  "caption": "22.3, consider the following data for Spread Pricing",
+  "row_headers": [
+    [
+      "January 15"
+    ],
+    [
+      "March 15"
+    ]
+  ],
+  "col_headers": [
+    "Contract Maturity Data",
+    "Futures Price"
+  ],
+  "cells": [
+    [
+      "Contract Maturity Data",
+      "Futures Price"
+    ],
+    [
+      "January 15",
+      "$ 105.00"
+    ],
+    [
+      "March 15",
+      "105.09"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Contract Maturity Data",
+      "normalized_value": "Contract Maturity Data",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Futures Price",
+      "normalized_value": "Futures Price",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "January 15",
+      "normalized_value": "January 15",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "$ 105.00",
+      "normalized_value": "$ 105.00",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "March 15",
+      "normalized_value": "March 15",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "105.09",
+      "normalized_value": 105.09,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "22.3, consider the following data for Spread Pricing This table presents bond cashflow information.",
+  "table_summary": "22.3, consider the following data for Spread Pricing This table presents bond cashflow information.",
+  "table_schema_hint": "bond cashflows",
+  "linked_concept_ids": [
+    "bond_pricing",
+    "derivatives"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "bond_pricing",
+      "source_anchor": {
+        "page_number": 811,
+        "bbox": {
+          "x0": 271.45080365,
+          "y0": 68.92814950000002,
+          "x1": 439.81966005714287,
+          "y1": 117.63809945000003
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.52 + Keywords: bond, maturity, cashflow",
+      "confidence": 0.7236619114875793
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "derivatives",
+      "source_anchor": {
+        "page_number": 811,
+        "bbox": {
+          "x0": 271.45080365,
+          "y0": 68.92814950000002,
+          "x1": 439.81966005714287,
+          "y1": 117.63809945000003
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.30 + Keywords: futures",
+      "confidence": 0.5043457567691803
+    }
+  ],
+  "source_anchor": {
+    "page_number": 811,
+    "bbox": {
+      "x0": 271.45080365,
+      "y0": 68.92814950000002,
+      "x1": 439.81966005714287,
+      "y1": 117.63809945000003
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    811,
+    811
+  ]
+}

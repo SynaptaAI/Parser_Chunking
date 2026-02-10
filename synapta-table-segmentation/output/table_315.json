@@ -1,0 +1,226 @@
+{
+  "segment_id": "table_p1015_idx314",
+  "table_id": null,
+  "table_number": null,
+  "caption": "pension plan: Current asset allocation 28A Cash",
+  "row_headers": [
+    [
+      "Pension plan data:"
+    ],
+    [
+      "Plan assets"
+    ],
+    [
+      "Plan liabilities"
+    ]
+  ],
+  "col_headers": [
+    "Acme Industries total assets",
+    "£16,000"
+  ],
+  "cells": [
+    [
+      "Acme Industries total assets",
+      "£16,000"
+    ],
+    [
+      "Pension plan data:",
+      ""
+    ],
+    [
+      "Plan assets",
+      "6,040"
+    ],
+    [
+      "Plan liabilities",
+      "9,850"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Acme Industries total assets",
+      "normalized_value": "Acme Industries total assets",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "£16,000",
+      "normalized_value": "£16,000",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Pension plan data:",
+      "normalized_value": "Pension plan data:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Plan assets",
+      "normalized_value": "Plan assets",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "6,040",
+      "normalized_value": 6040,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Plan liabilities",
+      "normalized_value": "Plan liabilities",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "9,850",
+      "normalized_value": 9850,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "pension plan: Current asset allocation 28A Cash This table contains 4 rows and 2 columns.",
+  "table_summary": "pension plan: Current asset allocation 28A Cash This table contains 4 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "asset_pricing"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "asset_pricing",
+      "source_anchor": {
+        "page_number": 1015,
+        "bbox": {
+          "x0": 174.72090811428575,
+          "y0": 373.3019018,
+          "x1": 347.6022008499999,
+          "y1": 429.58174859999997
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.30 + Keywords: asset",
+      "confidence": 0.5044571876525878
+    }
+  ],
+  "source_anchor": {
+    "page_number": 1015,
+    "bbox": {
+      "x0": 174.72090811428575,
+      "y0": 373.3019018,
+      "x1": 347.6022008499999,
+      "y1": 429.58174859999997
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    1015,
+    1015
+  ]
+}

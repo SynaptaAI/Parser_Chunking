@@ -1,0 +1,825 @@
+{
+  "segment_id": "table_p991_idx308",
+  "table_id": null,
+  "table_number": null,
+  "caption": "quiz that may be used by financial institutions to help estimate risk tolerance. Tolerance Questionnaire",
+  "row_headers": [
+    [
+      "1. I plan on using the\nmoney I am investing:"
+    ],
+    [
+      "2. My investments make\nup this share of assets\n(excluding home):"
+    ],
+    [
+      "3. I expect my future\nincome to:"
+    ],
+    [
+      "4. I have emergency\nsavings:"
+    ],
+    [
+      "5. I would risk this share of\nmy portfolio in exchange\nfor the same probability\nof doubling my money:"
+    ],
+    [
+      "6. I have invested in stocks\nand stock mutual funds:"
+    ],
+    [
+      "7. My most important\ninvestment goal is to:"
+    ]
+  ],
+  "col_headers": [
+    "Question",
+    "1 Point",
+    "2 Points",
+    "3 Points",
+    "4 Points"
+  ],
+  "cells": [
+    [
+      "Question",
+      "1 Point",
+      "2 Points",
+      "3 Points",
+      "4 Points"
+    ],
+    [
+      "1. I plan on using the\nmoney I am investing:",
+      "Within 6 months.",
+      "Within the next\n3 years.",
+      "Between 3 and 6 years.",
+      "No sooner than\n7 years from now."
+    ],
+    [
+      "2. My investments make\nup this share of assets\n(excluding home):",
+      "More than 75%.",
+      "50% or more but\nless than 75%.",
+      "25% or more but less\nthan 50%.",
+      "Less than 25%."
+    ],
+    [
+      "3. I expect my future\nincome to:",
+      "Decrease.",
+      "Remain the same\nor grow slowly.",
+      "Grow faster than the\nrate of inflation.",
+      "Grow quickly."
+    ],
+    [
+      "4. I have emergency\nsavings:",
+      "No.",
+      "No.",
+      "Yes, but less than I’d\nlike to have.",
+      "Yes."
+    ],
+    [
+      "5. I would risk this share of\nmy portfolio in exchange\nfor the same probability\nof doubling my money:",
+      "Zero.",
+      "10%.",
+      "25%.",
+      "50%."
+    ],
+    [
+      "6. I have invested in stocks\nand stock mutual funds:",
+      "No.",
+      "Yes, but I was\nuneasy about it.",
+      "No, but I look forward\nto it.",
+      "Yes, and I was\ncomfortable with it."
+    ],
+    [
+      "7. My most important\ninvestment goal is to:",
+      "Preserve my orig-\ninal investment.",
+      "Receive some\ngrowth and\nprovide income.",
+      "Grow faster than\ninflation but still provide\nsome income.",
+      "Grow as fast as\npossible. Income\nis not important\ntoday."
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Question",
+      "normalized_value": "Question",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "1 Point",
+      "normalized_value": "1 Point",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "2 Points",
+      "normalized_value": "2 Points",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "3 Points",
+      "normalized_value": "3 Points",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "4 Points",
+      "normalized_value": "4 Points",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "1. I plan on using the\nmoney I am investing:",
+      "normalized_value": "1. I plan on using the\nmoney I am investing:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Within 6 months.",
+      "normalized_value": "Within 6 months.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Within the next\n3 years.",
+      "normalized_value": "Within the next\n3 years.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Between 3 and 6 years.",
+      "normalized_value": "Between 3 and 6 years.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "No sooner than\n7 years from now.",
+      "normalized_value": "No sooner than\n7 years from now.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "2. My investments make\nup this share of assets\n(excluding home):",
+      "normalized_value": "2. My investments make\nup this share of assets\n(excluding home):",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "More than 75%.",
+      "normalized_value": "More than 75%.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "50% or more but\nless than 75%.",
+      "normalized_value": "50% or more but\nless than 75%.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "25% or more but less\nthan 50%.",
+      "normalized_value": "25% or more but less\nthan 50%.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Less than 25%.",
+      "normalized_value": "Less than 25%.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "3. I expect my future\nincome to:",
+      "normalized_value": "3. I expect my future\nincome to:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Decrease.",
+      "normalized_value": "Decrease.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Remain the same\nor grow slowly.",
+      "normalized_value": "Remain the same\nor grow slowly.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Grow faster than the\nrate of inflation.",
+      "normalized_value": "Grow faster than the\nrate of inflation.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Grow quickly.",
+      "normalized_value": "Grow quickly.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "4. I have emergency\nsavings:",
+      "normalized_value": "4. I have emergency\nsavings:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "No.",
+      "normalized_value": "No.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "No.",
+      "normalized_value": "No.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Yes, but less than I’d\nlike to have.",
+      "normalized_value": "Yes, but less than I’d\nlike to have.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Yes.",
+      "normalized_value": "Yes.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "5. I would risk this share of\nmy portfolio in exchange\nfor the same probability\nof doubling my money:",
+      "normalized_value": "5. I would risk this share of\nmy portfolio in exchange\nfor the same probability\nof doubling my money:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Zero.",
+      "normalized_value": "Zero.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "10%.",
+      "normalized_value": "10%.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "25%.",
+      "normalized_value": "25%.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "50%.",
+      "normalized_value": "50%.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "6. I have invested in stocks\nand stock mutual funds:",
+      "normalized_value": "6. I have invested in stocks\nand stock mutual funds:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "No.",
+      "normalized_value": "No.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Yes, but I was\nuneasy about it.",
+      "normalized_value": "Yes, but I was\nuneasy about it.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "No, but I look forward\nto it.",
+      "normalized_value": "No, but I look forward\nto it.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Yes, and I was\ncomfortable with it.",
+      "normalized_value": "Yes, and I was\ncomfortable with it.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "7. My most important\ninvestment goal is to:",
+      "normalized_value": "7. My most important\ninvestment goal is to:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Preserve my orig-\ninal investment.",
+      "normalized_value": "Preserve my orig-\ninal investment.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Receive some\ngrowth and\nprovide income.",
+      "normalized_value": "Receive some\ngrowth and\nprovide income.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Grow faster than\ninflation but still provide\nsome income.",
+      "normalized_value": "Grow faster than\ninflation but still provide\nsome income.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Grow as fast as\npossible. Income\nis not important\ntoday.",
+      "normalized_value": "Grow as fast as\npossible. Income\nis not important\ntoday.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "quiz that may be used by financial institutions to help estimate risk tolerance. Tolerance Questionnaire This table contains 8 rows and 5 columns.",
+  "table_summary": "quiz that may be used by financial institutions to help estimate risk tolerance. Tolerance Questionnaire This table contains 8 rows and 5 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "risk_management"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "risk_management",
+      "source_anchor": {
+        "page_number": 991,
+        "bbox": {
+          "x0": 79.76677439999997,
+          "y0": 44.775802099999964,
+          "x1": 535.7352941176471,
+          "y1": 284.58510255
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.32 + Keywords: risk",
+      "confidence": 0.5155225813388824
+    }
+  ],
+  "source_anchor": {
+    "page_number": 991,
+    "bbox": {
+      "x0": 79.76677439999997,
+      "y0": 44.775802099999964,
+      "x1": 535.7352941176471,
+      "y1": 284.58510255
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    991,
+    991
+  ]
+}

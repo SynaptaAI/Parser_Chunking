@@ -1,0 +1,259 @@
+{
+  "segment_id": "table_p893_idx271",
+  "table_id": null,
+  "table_number": null,
+  "caption": "may result in different rankings. produces different performance The investment committee notices b. Asset Management.",
+  "row_headers": [
+    [
+      "Beta"
+    ],
+    [
+      "Standard deviation of returns"
+    ]
+  ],
+  "col_headers": [
+    "Average annual rate of return",
+    "",
+    "22.1%"
+  ],
+  "cells": [
+    [
+      "Average annual rate of return",
+      "",
+      "22.1%"
+    ],
+    [
+      "Beta",
+      "",
+      "1.2"
+    ],
+    [
+      "Standard deviation of returns",
+      "",
+      "16.8%"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Average annual rate of return",
+      "normalized_value": "Average annual rate of return",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "22.1%",
+      "normalized_value": 0.221,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Beta",
+      "normalized_value": "Beta",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "1.2",
+      "normalized_value": 1.2,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Standard deviation of returns",
+      "normalized_value": "Standard deviation of returns",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "16.8%",
+      "normalized_value": 0.168,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "may result in different rankings. produces different performance The investment committee notices b. Asset Management. This table shows NPV sensitivity analysis across different scenarios.",
+  "table_summary": "may result in different rankings. produces different performance The investment committee notices b. Asset Management. This table shows NPV sensitivity analysis across different scenarios.",
+  "table_schema_hint": "NPV sensitivity grid",
+  "linked_concept_ids": [
+    "portfolio_theory",
+    "asset_pricing"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "portfolio_theory",
+      "source_anchor": {
+        "page_number": 893,
+        "bbox": {
+          "x0": 175.75,
+          "y0": 149.26325199999997,
+          "x1": 350.9978022,
+          "y1": 192.22314855
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.38 + Keywords: return",
+      "confidence": 0.5812227547168731
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "asset_pricing",
+      "source_anchor": {
+        "page_number": 893,
+        "bbox": {
+          "x0": 175.75,
+          "y0": 149.26325199999997,
+          "x1": 350.9978022,
+          "y1": 192.22314855
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.35 + Keywords: asset",
+      "confidence": 0.5471436202526092
+    }
+  ],
+  "source_anchor": {
+    "page_number": 893,
+    "bbox": {
+      "x0": 175.75,
+      "y0": 149.26325199999997,
+      "x1": 350.9978022,
+      "y1": 192.22314855
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    893,
+    893
+  ]
+}

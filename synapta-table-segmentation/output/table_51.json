@@ -1,0 +1,255 @@
+{
+  "segment_id": "table_p239_idx50",
+  "table_id": null,
+  "table_number": null,
+  "caption": "Portfolio Theory and Practice",
+  "row_headers": [
+    [
+      "ρ = –1\nρ = 0"
+    ],
+    [
+      ""
+    ]
+  ],
+  "col_headers": [
+    "E\nρ = –1\nρ = 0\nρ = 0.30\nρ = 1\nD",
+    ""
+  ],
+  "cells": [
+    [
+      "E\nρ = –1\nρ = 0\nρ = 0.30\nρ = 1\nD",
+      ""
+    ],
+    [
+      "ρ = –1\nρ = 0",
+      "ρ = 0.30\nρ = 1\nD"
+    ],
+    [
+      "",
+      ""
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "E\nρ = –1\nρ = 0\nρ = 0.30\nρ = 1\nD",
+      "normalized_value": "E\nρ = –1\nρ = 0\nρ = 0.30\nρ = 1\nD",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "ρ = –1\nρ = 0",
+      "normalized_value": "ρ = –1\nρ = 0",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "ρ = 0.30\nρ = 1\nD",
+      "normalized_value": "ρ = 0.30\nρ = 1\nD",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "A1",
+      "formula_text": "E\nρ = –1\nρ = 0\nρ = 0.30\nρ = 1\nD",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 239,
+        "bbox": {
+          "x0": 129.44495072499998,
+          "y0": 51.79516856666661,
+          "x1": 327.39900105000004,
+          "y1": 233.75216910000003
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "A2",
+      "formula_text": "ρ = –1\nρ = 0",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 239,
+        "bbox": {
+          "x0": 129.44495072499998,
+          "y0": 51.79516856666661,
+          "x1": 327.39900105000004,
+          "y1": 233.75216910000003
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "B2",
+      "formula_text": "ρ = 0.30\nρ = 1\nD",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 239,
+        "bbox": {
+          "x0": 129.44495072499998,
+          "y0": 51.79516856666661,
+          "x1": 327.39900105000004,
+          "y1": 233.75216910000003
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "Portfolio Theory and Practice This table contains 3 rows and 2 columns.",
+  "table_summary": "Portfolio Theory and Practice This table contains 3 rows and 2 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "portfolio_theory"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "portfolio_theory",
+      "source_anchor": {
+        "page_number": 239,
+        "bbox": {
+          "x0": 129.44495072499998,
+          "y0": 51.79516856666661,
+          "x1": 327.39900105000004,
+          "y1": 233.75216910000003
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.39 + Keywords: portfolio, Portfolio Theory",
+      "confidence": 0.5864433765411377
+    }
+  ],
+  "source_anchor": {
+    "page_number": 239,
+    "bbox": {
+      "x0": 129.44495072499998,
+      "y0": 51.79516856666661,
+      "x1": 327.39900105000004,
+      "y1": 233.75216910000003
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    239,
+    239
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "segment_id": "table_p522_idx112",
+  "table_id": null,
+  "table_number": null,
+  "caption": "an upward-sloping yield curve is commonly The plot of the yield curve in this situation",
+  "row_headers": [
+    [
+      ""
+    ],
+    [
+      ""
+    ]
+  ],
+  "col_headers": [
+    "YTM E(r) Forward Rate\nConstant Liquidity\nPremium",
+    ""
+  ],
+  "cells": [
+    [
+      "YTM E(r) Forward Rate\nConstant Liquidity\nPremium",
+      ""
+    ],
+    [
+      "",
+      "Constant Liquidity\nPremium"
+    ],
+    [
+      "",
+      ""
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "YTM E(r) Forward Rate\nConstant Liquidity\nPremium",
+      "normalized_value": "YTM E(r) Forward Rate\nConstant Liquidity\nPremium",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "Constant Liquidity\nPremium",
+      "normalized_value": "Constant Liquidity\nPremium",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "an upward-sloping yield curve is commonly The plot of the yield curve in this situation This table shows NPV sensitivity analysis across different scenarios.",
+  "table_summary": "an upward-sloping yield curve is commonly The plot of the yield curve in this situation This table shows NPV sensitivity analysis across different scenarios.",
+  "table_schema_hint": "NPV sensitivity grid",
+  "linked_concept_ids": [
+    "yield_curve",
+    "bond_pricing"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "yield_curve",
+      "source_anchor": {
+        "page_number": 522,
+        "bbox": {
+          "x0": 194.74102316666668,
+          "y0": 199.75009771999999,
+          "x1": 421.14022634285715,
+          "y1": 329.65017944
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.53 + Keywords: yield curve, forward rate, Yield Curve",
+      "confidence": 0.7296841263771057
+    },
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "bond_pricing",
+      "source_anchor": {
+        "page_number": 522,
+        "bbox": {
+          "x0": 194.74102316666668,
+          "y0": 199.75009771999999,
+          "x1": 421.14022634285715,
+          "y1": 329.65017944
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.40 + Keywords: yield",
+      "confidence": 0.6020768702030181
+    }
+  ],
+  "source_anchor": {
+    "page_number": 522,
+    "bbox": {
+      "x0": 194.74102316666668,
+      "y0": 199.75009771999999,
+      "x1": 421.14022634285715,
+      "y1": 329.65017944
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    522,
+    522
+  ]
+}

@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.DS_Store
+*.pyc
+*.md
+sentence_classifier.py
+inputs/
+outputs/
+paddle_cache/

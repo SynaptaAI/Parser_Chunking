@@ -1,0 +1,388 @@
+{
+  "segment_id": "table_p443_idx89",
+  "table_id": null,
+  "table_number": null,
+  "caption": "CAPM predicted that coefficient significant, indicating that average return rose along with beta. H owever,",
+  "row_headers": [
+    [
+      "8"
+    ],
+    [
+      "(.20)"
+    ]
+  ],
+  "col_headers": [
+    "Average γ0\n(t-statistic for\ntest of γ0 = 0)",
+    "Average γ1\n(t-statistic for\ntest of γ1 = r M − r f )",
+    "Average γ2\n(t-statistic for\ntest of γ2 = 0)",
+    "Average γ3\n(t-statistic for\ntest of γ3 = 0)"
+  ],
+  "cells": [
+    [
+      "Average γ0\n(t-statistic for\ntest of γ0 = 0)",
+      "Average γ1\n(t-statistic for\ntest of γ1 = r M − r f )",
+      "Average γ2\n(t-statistic for\ntest of γ2 = 0)",
+      "Average γ3\n(t-statistic for\ntest of γ3 = 0)"
+    ],
+    [
+      "8",
+      "114",
+      "−26",
+      "516"
+    ],
+    [
+      "(.20)",
+      "(1.85)",
+      "(−.86)",
+      "(1.11)"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Average γ0\n(t-statistic for\ntest of γ0 = 0)",
+      "normalized_value": "Average γ0\n(t-statistic for\ntest of γ0 = 0)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Average γ1\n(t-statistic for\ntest of γ1 = r M − r f )",
+      "normalized_value": "Average γ1\n(t-statistic for\ntest of γ1 = r M − r f )",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Average γ2\n(t-statistic for\ntest of γ2 = 0)",
+      "normalized_value": "Average γ2\n(t-statistic for\ntest of γ2 = 0)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Average γ3\n(t-statistic for\ntest of γ3 = 0)",
+      "normalized_value": "Average γ3\n(t-statistic for\ntest of γ3 = 0)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "8",
+      "normalized_value": 8,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "114",
+      "normalized_value": 114,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "−26",
+      "normalized_value": "−26",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "516",
+      "normalized_value": 516,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "(.20)",
+      "normalized_value": "(.20)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "(1.85)",
+      "normalized_value": "(1.85)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "(−.86)",
+      "normalized_value": "(−.86)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "(1.11)",
+      "normalized_value": "(1.11)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "A1",
+      "formula_text": "Average γ0\n(t-statistic for\ntest of γ0 = 0)",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 443,
+        "bbox": {
+          "x0": 175.75,
+          "y0": 480.63004820000003,
+          "x1": 526.25,
+          "y1": 548.3399524
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "B1",
+      "formula_text": "Average γ1\n(t-statistic for\ntest of γ1 = r M − r f )",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 443,
+        "bbox": {
+          "x0": 175.75,
+          "y0": 480.63004820000003,
+          "x1": 526.25,
+          "y1": 548.3399524
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "C1",
+      "formula_text": "Average γ2\n(t-statistic for\ntest of γ2 = 0)",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 443,
+        "bbox": {
+          "x0": 175.75,
+          "y0": 480.63004820000003,
+          "x1": 526.25,
+          "y1": 548.3399524
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "D1",
+      "formula_text": "Average γ3\n(t-statistic for\ntest of γ3 = 0)",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 443,
+        "bbox": {
+          "x0": 175.75,
+          "y0": 480.63004820000003,
+          "x1": 526.25,
+          "y1": 548.3399524
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "CAPM predicted that coefficient significant, indicating that average return rose along with beta. H owever, This table contains 3 rows and 4 columns.",
+  "table_summary": "CAPM predicted that coefficient significant, indicating that average return rose along with beta. H owever, This table contains 3 rows and 4 columns.",
+  "table_schema_hint": null,
+  "linked_concept_ids": [
+    "asset_pricing"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "asset_pricing",
+      "source_anchor": {
+        "page_number": 443,
+        "bbox": {
+          "x0": 175.75,
+          "y0": 480.63004820000003,
+          "x1": 526.25,
+          "y1": 548.3399524
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.42 + Keywords: CAPM, beta",
+      "confidence": 0.6245442748069763
+    }
+  ],
+  "source_anchor": {
+    "page_number": 443,
+    "bbox": {
+      "x0": 175.75,
+      "y0": 480.63004820000003,
+      "x1": 526.25,
+      "y1": 548.3399524
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    443,
+    443
+  ]
+}

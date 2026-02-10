@@ -1,0 +1,519 @@
+{
+  "segment_id": "table_p836_idx245",
+  "table_id": null,
+  "table_number": null,
+  "caption": "(SOFR .07) $100 × principal of $100 million and receive payment of SOFR $100 million.8",
+  "row_headers": [
+    [
+      ""
+    ],
+    [
+      "Interest income from bond portfolio\n(= 7% of $100 million bond portfolio)"
+    ],
+    [
+      "Cash flow from swap\n[= (SOFR − 7%) × notional principal of $100 million]"
+    ],
+    [
+      "Total (= SOFR × $100 million)"
+    ]
+  ],
+  "col_headers": [
+    "",
+    "SOFR Rate",
+    "",
+    ""
+  ],
+  "cells": [
+    [
+      "",
+      "SOFR Rate",
+      "",
+      ""
+    ],
+    [
+      "",
+      "6.5%",
+      "7.0%",
+      "7.5%"
+    ],
+    [
+      "Interest income from bond portfolio\n(= 7% of $100 million bond portfolio)",
+      "$ 7,000,000",
+      "$ 7,000,000",
+      "$ 7,000,000"
+    ],
+    [
+      "Cash flow from swap\n[= (SOFR − 7%) × notional principal of $100 million]",
+      "(500,000)",
+      "0",
+      "500,000"
+    ],
+    [
+      "Total (= SOFR × $100 million)",
+      "$ 6,500,000",
+      "$ 7,000,000",
+      "$ 7,500,000"
+    ]
+  ],
+  "cell_meta": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "SOFR Rate",
+      "normalized_value": "SOFR Rate",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "6.5%",
+      "normalized_value": 0.065,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "7.0%",
+      "normalized_value": 0.07,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "percent",
+      "raw_value": "7.5%",
+      "normalized_value": 0.075,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Interest income from bond portfolio\n(= 7% of $100 million bond portfolio)",
+      "normalized_value": "Interest income from bond portfolio\n(= 7% of $100 million bond portfolio)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "$ 7,000,000",
+      "normalized_value": "$ 7,000,000",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "$ 7,000,000",
+      "normalized_value": "$ 7,000,000",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "$ 7,000,000",
+      "normalized_value": "$ 7,000,000",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Cash flow from swap\n[= (SOFR − 7%) × notional principal of $100 million]",
+      "normalized_value": "Cash flow from swap\n[= (SOFR − 7%) × notional principal of $100 million]",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "(500,000)",
+      "normalized_value": "(500,000)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "0",
+      "normalized_value": 0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "number",
+      "raw_value": "500,000",
+      "normalized_value": 500000,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "formula",
+      "raw_value": "Total (= SOFR × $100 million)",
+      "normalized_value": "Total (= SOFR × $100 million)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "$ 6,500,000",
+      "normalized_value": "$ 6,500,000",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "$ 7,000,000",
+      "normalized_value": "$ 7,000,000",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "text",
+      "raw_value": "$ 7,500,000",
+      "normalized_value": "$ 7,500,000",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    }
+  ],
+  "footnotes": [],
+  "units": [],
+  "formula_cells": [
+    {
+      "cell_address": "A3",
+      "formula_text": "Interest income from bond portfolio\n(= 7% of $100 million bond portfolio)",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 836,
+        "bbox": {
+          "x0": 120.24780220000002,
+          "y0": 356.7257341333334,
+          "x1": 456.76460295,
+          "y1": 449.57515104999993
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "A4",
+      "formula_text": "Cash flow from swap\n[= (SOFR − 7%) × notional principal of $100 million]",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 836,
+        "bbox": {
+          "x0": 120.24780220000002,
+          "y0": 356.7257341333334,
+          "x1": 456.76460295,
+          "y1": 449.57515104999993
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    },
+    {
+      "cell_address": "A5",
+      "formula_text": "Total (= SOFR × $100 million)",
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "source_anchor": {
+        "page_number": 836,
+        "bbox": {
+          "x0": 120.24780220000002,
+          "y0": 356.7257341333334,
+          "x1": 456.76460295,
+          "y1": 449.57515104999993
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "confidence": 0.9
+    }
+  ],
+  "derived_columns": [],
+  "variable_candidates": {},
+  "description": "(SOFR .07) $100 × principal of $100 million and receive payment of SOFR $100 million.8 This table shows NPV sensitivity analysis across different scenarios.",
+  "table_summary": "(SOFR .07) $100 × principal of $100 million and receive payment of SOFR $100 million.8 This table shows NPV sensitivity analysis across different scenarios.",
+  "table_schema_hint": "NPV sensitivity grid",
+  "linked_concept_ids": [
+    "amortization"
+  ],
+  "links": [
+    {
+      "link_type": "TABLE_OF",
+      "target_id": "amortization",
+      "source_anchor": {
+        "page_number": 836,
+        "bbox": {
+          "x0": 120.24780220000002,
+          "y0": 356.7257341333334,
+          "x1": 456.76460295,
+          "y1": 449.57515104999993
+        },
+        "extractor": "pdfplumber",
+        "confidence": 0.9,
+        "metadata": {}
+      },
+      "evidence": "Semantic similarity: 0.33 + Keywords: payment, principal",
+      "confidence": 0.5327232003211975
+    }
+  ],
+  "source_anchor": {
+    "page_number": 836,
+    "bbox": {
+      "x0": 120.24780220000002,
+      "y0": 356.7257341333334,
+      "x1": 456.76460295,
+      "y1": 449.57515104999993
+    },
+    "extractor": "pdfplumber",
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  "confidence": 1.0,
+  "heading_path": null,
+  "page_span": [
+    836,
+    836
+  ]
+}
