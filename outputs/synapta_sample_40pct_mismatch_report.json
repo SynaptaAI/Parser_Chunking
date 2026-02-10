@@ -1,0 +1,5007 @@
+{
+  "question": [
+    {
+      "index": 133,
+      "page_start": 88,
+      "page_end": 88,
+      "text": "4.\t Short-term municipal bonds currently offer yields of 4%, while comparable taxable bonds pay",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1629,
+      "page_start": 576,
+      "page_end": 576,
+      "text": "12.\t Noah Kramer, a fixed-income portfolio manager based in the country of Sevista, is consider­\n(Modified \nDuration = 4.83)\n(Modified \nDuration = 14.35)\n(Modified \nDuration = 23.81)",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1479,
+      "page_start": 532,
+      "page_end": 532,
+      "text": "13.\t Prices of zero-coupon bonds reveal the following pattern of forward rates:",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 245,
+      "page_start": 149,
+      "page_end": 149,
+      "text": "7.\t An open-end fund has a net asset value of $10.70 per share. It is sold with a front-end load",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1638,
+      "page_start": 578,
+      "page_end": 578,
+      "text": "8.\t Current price = $1,091.29\n​Forecasted price​ =​ ​$100 × Annuity factor(10%, 18 years) + $1,000 × PV factor(10%, 18 years​)​​ \n \n \n \n \n \n \n \n​​ \n=​ $1,000 \n​\n​Forecasted price​ =​ ​$100 × Annuity factor(10%, 18 years) + $1,000 × PV factor(10%, 18 years​)​​ \n \n \n \n \n \n \n \n​​ \n=​ $1,000 \n​\nThe future value of reinvested coupons = ($100 × 1.08) + $100 = $208 The 2-year return = ​ $208 + ($1,000 − $1,091.29 ) \n \n \n______________________ \n \n$1,091.29 \n​ = 0.107, or 10.7%​\nThe 2-year return = ​ $208 + ($1,000 − $1,091.29 ) \n \n \n______________________ \n \n$1,091.29 \n​ = 0.107, or 10.7%​\nThe annualized rate of return over the 2-year period would then be (1.107)1/2 − 1 = .052, or 5.2%.",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 242,
+      "page_start": 149,
+      "page_end": 149,
+      "text": "4.\t Balanced funds, life-cycle funds, and asset allocation funds all invest in both the stock and bond",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1636,
+      "page_start": 578,
+      "page_end": 578,
+      "text": "6.\t The perpetuity’s duration now would be 1.08/.08 = 13.5. We need to solve the following equation\n​w × 2 + (1 − w) + 13.5 = 6​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1632,
+      "page_start": 578,
+      "page_end": 578,
+      "text": "2.\t a.  \u0007If the interest rate increases from 9% to 9.05%, the bond price falls from $982.062 to $981.177.\n​− ​ 1.8864 \n______ \n1.045 ​ × .0005 = −.000903 = −.0903%​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 251,
+      "page_start": 149,
+      "page_end": 149,
+      "text": "13.\t A closed-end fund starts the year with a net asset value of $12.00. By year-end, NAV equals",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1482,
+      "page_start": 532,
+      "page_end": 532,
+      "text": "16.\t Suppose that a 1-year zero-coupon bond with face value $100 currently sells at $94.34, while a",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1008,
+      "page_start": 338,
+      "page_end": 338,
+      "text": "11.",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1011,
+      "page_start": 338,
+      "page_end": 338,
+      "text": "14.\t Portfolio\nExpected Return\nBeta",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1608,
+      "page_start": 570,
+      "page_end": 570,
+      "text": "16.\t A 30-year-maturity bond making annual coupon payments with a coupon rate of 12% has dura­",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 182,
+      "page_start": 124,
+      "page_end": 124,
+      "text": "8.\t Consider the following limit-order book for FinTrade stock. The last trade in the stock occurred",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 492,
+      "page_start": 218,
+      "page_end": 218,
+      "text": "4.\t Consider a risky portfolio. The end-of-year cash flow derived from the portfolio will be either",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1110,
+      "page_start": 368,
+      "page_end": 368,
+      "text": "3.\t A zero-investment portfolio with a positive alpha could arise if:",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 518,
+      "page_start": 220,
+      "page_end": 220,
+      "text": "29.\t Consider again the client in Problem 19 with A = 3.5.",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 257,
+      "page_start": 150,
+      "page_end": 150,
+      "text": "19.\t Loaded-Up Fund charges a 12b-1 fee of 1.0% and maintains an expense ratio of .75%. Economy",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 921,
+      "page_start": 309,
+      "page_end": 309,
+      "text": "20.\t Suppose that the alpha forecasts in row 39 of Spreadsheet 8.1 are doubled. All the other data",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1478,
+      "page_start": 531,
+      "page_end": 531,
+      "text": "12.\t Below is a list of prices for zero-coupon bonds of various maturities.",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1109,
+      "page_start": 367,
+      "page_end": 367,
+      "text": "2.\t Assume that both X and Y are well-diversified portfolios and the risk-free rate is 8%.",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1615,
+      "page_start": 571,
+      "page_end": 571,
+      "text": "23.\t A 12.75-year-maturity zero-coupon bond selling at a yield to maturity of 8% (effective annual",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 67,
+      "page_start": 58,
+      "page_end": 58,
+      "text": "13.\t Give an example of three financial intermediaries and explain how they act as a bridge between",
+      "reason": "guess_worked_example",
+      "guess": "worked_example",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 1,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 18,
+      "page_start": 18,
+      "page_end": 18,
+      "text": "1.\t The central theme is the near-informational-efficiency",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 265,
+      "page_start": 152,
+      "page_end": 152,
+      "text": "1.\t Examine all of the views available in the drop-down box menu (Snapshot, Performance,",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1476,
+      "page_start": 531,
+      "page_end": 531,
+      "text": "10.\t The term structure for zero-coupon bonds is currently:",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 375,
+      "page_start": 192,
+      "page_end": 192,
+      "text": "12.\t Visit Professor Kenneth French’s data library Web site, mba.tuck.dartmouth.edu/pages/faculty/",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 241,
+      "page_start": 149,
+      "page_end": 149,
+      "text": "3.\t Open-end equity mutual funds commonly keep a small fraction of total investments in very",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1012,
+      "page_start": 338,
+      "page_end": 338,
+      "text": "15.\t Portfolio\nExpected Return\nBeta",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1216,
+      "page_start": 434,
+      "page_end": 434,
+      "text": "25.\t One seeming violation of the Law of One Price is the pervasive discrepancy of closed-end fund",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1020,
+      "page_start": 339,
+      "page_end": 339,
+      "text": "23.\t a.  \u0007A mutual fund with beta of .8 has an expected rate of return of 14%. If rf = 5%, and you",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 2
+      }
+    },
+    {
+      "index": 1627,
+      "page_start": 575,
+      "page_end": 575,
+      "text": "10.\t Carol Harrod is the investment officer for a $100 million U.S. pension fund. The fixed-income",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 250,
+      "page_start": 149,
+      "page_end": 149,
+      "text": "12.\t Corporate Fund started the year with a net asset value of $12.50. By year-end, its NAV equaled",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1484,
+      "page_start": 533,
+      "page_end": 533,
+      "text": "18.\t Suppose that the prices of zero-coupon bonds with various maturities are given in the following",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1007,
+      "page_start": 337,
+      "page_end": 337,
+      "text": "10.\t Portfolio\nExpected Return\nBeta",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1207,
+      "page_start": 432,
+      "page_end": 432,
+      "text": "16.\t Baa-rated bonds currently yield 6%, while Aa-rated bonds yield 5%. Suppose that due to an",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1112,
+      "page_start": 368,
+      "page_end": 368,
+      "text": "5.\t The general arbitrage pricing theory (APT) differs from the single-factor capital asset pricing",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 263,
+      "page_start": 151,
+      "page_end": 151,
+      "text": "25.\t Use Figure 4.5 to answer the following questions about Fidelity’s Small Cap Growth fund.",
+      "reason": "guess_solution",
+      "guess": "solution",
+      "scores": {
+        "question": 0,
+        "solution": 1,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 676,
+      "page_start": 260,
+      "page_end": 260,
+      "text": "19.\t Suppose that in addition to investing in one more stock you can invest in T-bills as well. Would",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1004,
+      "page_start": 337,
+      "page_end": 337,
+      "text": "7.\t Kaskin, Inc., stock has a beta of 1.2 and Quinn, Inc., stock has a beta of .6. Which of the follow­",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 922,
+      "page_start": 310,
+      "page_end": 310,
+      "text": "1.\t When the annualized monthly percentage excess rates of return for a stock market index were\nAlpha\n \n−3.20%\n    7.3%",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1377,
+      "page_start": 506,
+      "page_end": 506,
+      "text": "23.\t A 2-year bond with par value $1,000 making annual coupon payments of $100 is priced at",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1158,
+      "page_start": 405,
+      "page_end": 405,
+      "text": "21.\t Investors expect the market rate of return in the coming year to be 12%. The T-bill rate is 4%.",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1156,
+      "page_start": 405,
+      "page_end": 405,
+      "text": "19.\t The monthly rate of return on T-bills is 1%. The market went up this month by 1.5%. In addi­",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 501,
+      "page_start": 218,
+      "page_end": 218,
+      "text": "12.\t Repeat Problem 11 for an investor with A = 3. What do you conclude?",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 3,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 369,
+      "page_start": 191,
+      "page_end": 191,
+      "text": "6.\t You are considering the choice between investing $50,000 in a conventional 1-year bank CD",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1218,
+      "page_start": 434,
+      "page_end": 434,
+      "text": "2.\t Monty Frost’s tax-deferred retirement account is invested entirely in equity securities. Because",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 925,
+      "page_start": 310,
+      "page_end": 310,
+      "text": "4.\t The concept of beta is most closely associated with:",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    }
+  ],
+  "solution": [
+    {
+      "index": 1358,
+      "page_start": 503,
+      "page_end": 503,
+      "text": "10.\t When bonds are subject to potential default, the stated yield to maturity is the maximum pos­",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 96,
+      "page_start": 75,
+      "page_end": 75,
+      "text": "59.00\n178.36\n91.09\n16.74\n345.69\n33.32\n234.02",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 360,
+      "page_start": 189,
+      "page_end": 189,
+      "text": "3.\t The equilibrium expected rate of return on any security is the sum of the equilibrium real rate of",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 236,
+      "page_start": 148,
+      "page_end": 148,
+      "text": "3.\t Mutual funds free the individual from many of the administrative burdens of owning individual",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 476,
+      "page_start": 213,
+      "page_end": 213,
+      "text": "0.26\n0.1552\n0.1632\n0.1717\n0.1792\n0.1145",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 175,
+      "page_start": 118,
+      "page_end": 118,
+      "text": "3.10\t Regulation of Securities Markets",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1226,
+      "page_start": 437,
+      "page_end": 437,
+      "text": "3.\t At liquidation, price will equal NAV. This puts a limit on fundamental risk. Investors need only",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 475,
+      "page_start": 213,
+      "page_end": 213,
+      "text": "0.22\n0.1168\n0.1248\n0.1333\n0.1408\n0.1000",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1361,
+      "page_start": 503,
+      "page_end": 503,
+      "text": "13.\t Collateralized debt obligations are used to reallocate the credit risk of a pool of loans. The pool",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 417,
+      "page_start": 201,
+      "page_end": 201,
+      "text": "5.\t \u0007You are 30 years old and enrolling in your company’s",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 141,
+      "page_start": 89,
+      "page_end": 89,
+      "text": "5.\t The market-value-weighted index return is calculated by computing the increase in the value of",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 644,
+      "page_start": 256,
+      "page_end": 256,
+      "text": "5. Prob(return > 0)\n  0.566\n  0.701\n  0.819\nFrom normal distribution",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1440,
+      "page_start": 518,
+      "page_end": 518,
+      "text": "15.3\t Interest Rate Uncertainty and Forward Rates",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1501,
+      "page_start": 536,
+      "page_end": 536,
+      "text": "1.084 = 1.073 × (1 + r4)",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1298,
+      "page_start": 477,
+      "page_end": 477,
+      "text": "4.\t FV is the future value or face value of the bond. In general, FV is interpreted as a",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1561,
+      "page_start": 556,
+      "page_end": 556,
+      "text": "16.3\t Passive Bond Management",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1591,
+      "page_start": 567,
+      "page_end": 567,
+      "text": "4.\t The 2-year return = ​ $207 + ($1,187.44 − $1,091.29) \n \n \n_________________________ \n \n$1,091.29 \n​ = 0.278, or 27.8%​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 140,
+      "page_start": 89,
+      "page_end": 89,
+      "text": "4.\t The price-weighted index increases from 62.5 [i.e., (100 + 25)/2] to 65 [i.e., (110 + 20)/2], a gain of",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1584,
+      "page_start": 566,
+      "page_end": 566,
+      "text": "1.\t The substitution swap is an exchange of one bond for a nearly identical substitute.",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 641,
+      "page_start": 256,
+      "page_end": 256,
+      "text": "2. Mean of total return\n  0.050\n  0.500\n  1.500\n= .05*T",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 338,
+      "page_start": 173,
+      "page_end": 173,
+      "text": "0.0315\n0.1774\n0.1774\n0.1983\n0.1983\nGeometric avg return",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1134,
+      "page_start": 383,
+      "page_end": 383,
+      "text": "11.4\t Are Markets Efficient?",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 409,
+      "page_start": 197,
+      "page_end": 197,
+      "text": "6.1\t Risk and Risk Aversion",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1091,
+      "page_start": 363,
+      "page_end": 363,
+      "text": "7.\t The APT does not require the restrictive assumptions of the CAPM and its (unobservable) market",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 203,
+      "page_start": 126,
+      "page_end": 126,
+      "text": "5.\t The investor will purchase 150 shares, with a rate of return as follows:\n−30%\n10,500\n5,450\n−49.5",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 635,
+      "page_start": 254,
+      "page_end": 254,
+      "text": "7.5\t Risk Pooling, Risk Sharing, and Time Diversification",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1279,
+      "page_start": 469,
+      "page_end": 469,
+      "text": "14.1\t Bond Characteristics",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 894,
+      "page_start": 303,
+      "page_end": 303,
+      "text": "0.2095\n0.0276",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1419,
+      "page_start": 515,
+      "page_end": 515,
+      "text": "1.07 = [1.05 × 1.0701 × 1.09028 ]1/3",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1404,
+      "page_start": 509,
+      "page_end": 509,
+      "text": "8.\t It should receive a negative coefficient. A high ratio of liabilities to assets is a bad omen for a",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 713,
+      "page_start": 265,
+      "page_end": 265,
+      "text": "0.7\n0.3\n11.5\n15.30",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 990,
+      "page_start": 333,
+      "page_end": 333,
+      "text": "9.3\t Issues in Testing the CAPM",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1237,
+      "page_start": 441,
+      "page_end": 441,
+      "text": "3.\t In any sample of observations of individual returns, there will be an infinite number",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 238,
+      "page_start": 148,
+      "page_end": 148,
+      "text": "5.\t Costs of investing in mutual funds include front-end loads, which are sales charges; back-end",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1472,
+      "page_start": 529,
+      "page_end": 529,
+      "text": "5.\t The existence of liquidity premiums complicates attempts to infer expected future interest rates\nForward rate of interest: 1 + fn = ​ \n(1 + yn)n \n____________ \n \n(1 + yn − 1)n − 1 ​ Yield to maturity given sequence of forward rates: 1 + yn = ​[​(1 + r1) (1 + f2) (1 + f3) ⋅ ⋅ ⋅ (1 + fn)​]​1/n",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 2
+      }
+    },
+    {
+      "index": 1499,
+      "page_start": 536,
+      "page_end": 536,
+      "text": "2.\t We compare two investment strategies in a manner similar to Example 15.2:",
+      "reason": "guess_worked_example",
+      "guess": "worked_example",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 1,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 398,
+      "page_start": 194,
+      "page_end": 194,
+      "text": "2.\t a.\t 1 + rnom = (1 + rreal )(1 + i ) = (1.03)(1.08) = 1.1124\nrnom = 11.24%\nb.\t 1 + rnom = (1.03)(1.10) = 1.133\nrnom = 13.3%",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1393,
+      "page_start": 509,
+      "page_end": 509,
+      "text": "3.\t Yield to maturity exceeds current yield, which exceeds coupon rate. Take as an example the 8%",
+      "reason": "guess_worked_example",
+      "guess": "worked_example",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 1,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 269,
+      "page_start": 152,
+      "page_end": 152,
+      "text": "2.\t The net investment in the Class A shares after the 4% commission is $9,600. If the fund earns a\n10% return, the investment will grow after n years to $9,600 × (1.10)n. The Class C shares have \nno front-end load. However, the net return to the investor after 12b-1 fees will be only 9.5%. \nIn addition, there is a back-end load that reduces the sales proceeds by a percentage equal to \n(5 – years until sale) until the fifth year, when the back-end load expires.\nHorizon\n$9,600 × (1.10)n\n$10,000 × (1.095)n × (1 − Percentage exit fee)\n1 year\n$10,560\n$10,000 × (1.095) × (1 − .04)   = $10,512 4 years\n$14,055\n$10,000 × (1.095)4 × (1 − .01) = $14,233 10 years\n$24,900\n$10,000 × (1.095)10                  = $24,782",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1302,
+      "page_start": 478,
+      "page_end": 478,
+      "text": "810.71\n1,000",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1330,
+      "page_start": 494,
+      "page_end": 494,
+      "text": "3.\t Liquidity ratios—The two most common liquidity ratios are the current ratio",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 298,
+      "page_start": 163,
+      "page_end": 163,
+      "text": "0.25\n0.45\n0.25",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1417,
+      "page_start": 515,
+      "page_end": 515,
+      "text": "1.073 = 1.062 × (1 + r3 )",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 716,
+      "page_start": 265,
+      "page_end": 265,
+      "text": "1.0\n0.0\n13.0\n20.00",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 104,
+      "page_start": 83,
+      "page_end": 83,
+      "text": "2.5\t Derivative Markets",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 299,
+      "page_start": 163,
+      "page_end": 163,
+      "text": "0.2124\n0.0424\n–0.1651",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1225,
+      "page_start": 436,
+      "page_end": 436,
+      "text": "2.\t Out-of-favor stocks will exhibit low prices relative to various proxies for intrinsic value such as",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 608,
+      "page_start": 244,
+      "page_end": 244,
+      "text": "1.\t Suppose your target expected rate of return is 11%.",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1280,
+      "page_start": 469,
+      "page_end": 469,
+      "text": "1.905\n1.938",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 715,
+      "page_start": 265,
+      "page_end": 265,
+      "text": "0.9\n0.1\n12.5\n18.34",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1303,
+      "page_start": 480,
+      "page_end": 480,
+      "text": "14.3\t Bond Yields",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1092,
+      "page_start": 363,
+      "page_end": 363,
+      "text": "8.\t A multifactor APT generalizes the single-factor model to accommodate several sources of",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1509,
+      "page_start": 537,
+      "page_end": 537,
+      "text": "7.\t If issuers prefer to issue long-term bonds, they will be willing to accept higher expected interest\n8.\t In general, from Equation 15.5, (1 + yn)n = (1 + yn−1)n−1 × (1 + fn). In this case, (1 + y4)4 =",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1224,
+      "page_start": 436,
+      "page_end": 436,
+      "text": "1.\t Conservatism implies that investors will at first respond too slowly to new information, leading to",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1504,
+      "page_start": 536,
+      "page_end": 536,
+      "text": "3.\t The 3-year bond can be bought today for $1,000/1.073 = $816.30. Next year, it will have a\n(1 + y2)2 = 1.0701 × 1.09025 = 1.1667 and its price next year will be $1,000/(1 + y2)2 = $1,000/1.1667 = $857.12. The 1-year holding-",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1577,
+      "page_start": 563,
+      "page_end": 563,
+      "text": "3.\t Find the asset mix that sets the duration of assets equal to the 7-year duration of\nw × 3 years + (1 − w ) × 11 years = 7 years​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 423,
+      "page_start": 201,
+      "page_end": 201,
+      "text": "3.\t \u0007How would you describe your non-investment sources of\nExpected Return, E(r)\nStandard Deviation, σ\nUtility = E(r) − ½ Aσ2 0.10\n0.200\n0.10 − 0.5 × 4 × 0.04   = 0.02\n0.15\n0.255\n0.15 − 0.5 × 4 × 0.065 = 0.02\n0.20\n0.300\n0.20 − 0.5 × 4 × 0.09     = 0.02\n0.25\n0.339\n0.25 − 0.5 × 4 × 0.115 = 0.02",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 240,
+      "page_start": 148,
+      "page_end": 148,
+      "text": "7.\t The average rate of return of the average equity mutual fund in the last 50 years has been",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1286,
+      "page_start": 475,
+      "page_end": 475,
+      "text": "14.2\t Bond Pricing",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1147,
+      "page_start": 403,
+      "page_end": 403,
+      "text": "5.\t Event studies are used to evaluate the economic impact of events of interest, using abnormal",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 208,
+      "page_start": 129,
+      "page_end": 129,
+      "text": "1.\t Record keeping and administration. Investment companies issue periodic status",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 653,
+      "page_start": 257,
+      "page_end": 257,
+      "text": "5.\t The efficient frontier shows the set of portfolios that maximize expected return for each level of",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1401,
+      "page_start": 509,
+      "page_end": 509,
+      "text": "7.\t At the lower yield, the bond price will be $631.67 [n = 29, i = 7%, FV = $1,000, PMT = $40].",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 139,
+      "page_start": 89,
+      "page_end": 89,
+      "text": "3.\t a.\t \u0007You are entitled to a prorated share of Intel’s dividend payments and to vote in any of IBM’s",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1360,
+      "page_start": 503,
+      "page_end": 503,
+      "text": "12.\t Credit default swaps provide insurance against the default of a bond or loan. The swap buyer",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 795,
+      "page_start": 283,
+      "page_end": 283,
+      "text": "8.2\t The Single-Index Model",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 359,
+      "page_start": 189,
+      "page_end": 189,
+      "text": "2.\t The nominal rate of interest is the equilibrium real rate plus the expected rate of inflation. In",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 324,
+      "page_start": 169,
+      "page_end": 169,
+      "text": "0.20\n0.40\n0.60\n–0.60",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1335,
+      "page_start": 496,
+      "page_end": 496,
+      "text": "1.\t The firm may repurchase a fraction of the outstanding bonds in the open market",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 756,
+      "page_start": 269,
+      "page_end": 269,
+      "text": "1.\t Input to the Solver a constraint that says: Cell C25 (the portfolio risk premium)",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 620,
+      "page_start": 250,
+      "page_end": 250,
+      "text": "1.\t Find the optimal risky portfolio formed from the eight coun­",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 485,
+      "page_start": 216,
+      "page_end": 216,
+      "text": "6.\t T-bills provide a perfectly risk-free asset in nominal terms only. Nevertheless, the standard\n​y* = ​ E​(​r​ P​)​ − ​r​ f​ \n_______",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1337,
+      "page_start": 497,
+      "page_end": 497,
+      "text": "2. Investors will be repaid the $1,000 face value\nin 2045.",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1579,
+      "page_start": 563,
+      "page_end": 563,
+      "text": "4.\t Fully fund the obligation. Because the obligation has a present value of $10,000, and",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 362,
+      "page_start": 189,
+      "page_end": 189,
+      "text": "5.\t Historical rates of return over the last century in other countries suggest the U.S. history of stock",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1598,
+      "page_start": 568,
+      "page_end": 568,
+      "text": "6.\t A more direct form of immunization is dedication, or cash-flow matching. If portfolio cash",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1498,
+      "page_start": 536,
+      "page_end": 536,
+      "text": "1.073 ​ = 38.095 + 35.600 + 848.950 = $922.65",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1087,
+      "page_start": 363,
+      "page_end": 363,
+      "text": "3.\t A (risk-free) arbitrage opportunity arises when two or more security prices enable investors to",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 307,
+      "page_start": 163,
+      "page_end": 163,
+      "text": "0.0380\n0.1949",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 709,
+      "page_start": 265,
+      "page_end": 265,
+      "text": "0.3\n0.7\n9.5\n11.48",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 582,
+      "page_start": 237,
+      "page_end": 237,
+      "text": "1.5\n1.0\n0\n–1.0",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 466,
+      "page_start": 213,
+      "page_end": 213,
+      "text": "0.02\n0.0208\n0.0288\n0.0373\n0.0448\n0.0273",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 169,
+      "page_start": 117,
+      "page_end": 117,
+      "text": "1.\t Suppose you sell short 100 shares of stock initially selling\n(B4/B9)/B5\nEnter data\nB13 – B14\nB4\nB15/B16\n(B4 +(B5 * B6) – B14) /(B6* (1 +B10))",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1270,
+      "page_start": 464,
+      "page_end": 464,
+      "text": "3.\t Tests of the index model that account for human capital and cyclical variations in asset betas",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1359,
+      "page_start": 503,
+      "page_end": 503,
+      "text": "11.\t Bond safety is often measured using financial ratio analysis. Bond indentures are safeguards to",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1406,
+      "page_start": 510,
+      "page_end": 510,
+      "text": "15.1\t The Yield Curve",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1048,
+      "page_start": 345,
+      "page_end": 345,
+      "text": "10.1\t Multifactor Models: A Preview",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 866,
+      "page_start": 303,
+      "page_end": 303,
+      "text": "0.0635\n0.0286",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1575,
+      "page_start": 563,
+      "page_end": 563,
+      "text": "2.\t Calculate the duration of the asset portfolio, which is the weighted average of\n​Asset duration = w × 3 years + ​(​1 − w​)​ × 11 years​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1123,
+      "page_start": 375,
+      "page_end": 375,
+      "text": "11.2\t Implications of the EMH",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 880,
+      "page_start": 303,
+      "page_end": 303,
+      "text": "0.0057\n0.0184\n0.0057\n0.0057",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 595,
+      "page_start": 240,
+      "page_end": 240,
+      "text": "7.3\t Asset Allocation with Stocks, Bonds, and Bills",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 107,
+      "page_start": 85,
+      "page_end": 85,
+      "text": "2.\t Much of U.S. government borrowing is in the form of Treasury bonds and notes. These are",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 214,
+      "page_start": 129,
+      "page_end": 129,
+      "text": "4.2\t Types of Investment Companies",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 420,
+      "page_start": 201,
+      "page_end": 201,
+      "text": "1.\t \u0007The stock market fell by more than 30% in 2008. If you had",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1496,
+      "page_start": 536,
+      "page_end": 536,
+      "text": "1.\t The price of the 3-year bond paying a $40 coupon is\n1.073 ​ = 38.095 + 35.600 + 848.950 = $922.65 At this price, the yield to maturity is 6.945% [n = 3; PV = (−)922.65; FV = 1,000; PMT = 40].",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 905,
+      "page_start": 306,
+      "page_end": 306,
+      "text": "7.\t Optimal active portfolios include analyzed securities in direct proportion to their alpha and in",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 422,
+      "page_start": 201,
+      "page_end": 201,
+      "text": "2.\t \u0007The value of one of the funds in your 401(k) plan (your pri-",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1436,
+      "page_start": 518,
+      "page_end": 518,
+      "text": "6.8849%\n6.4988%\n6.3880%\n6.0872%\n6.0387%\n5.7217%\n5.5384%",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1439,
+      "page_start": 518,
+      "page_end": 518,
+      "text": "5.2209%\n5.1149%\n5.1988%",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 950,
+      "page_start": 316,
+      "page_end": 316,
+      "text": "3.\t \u0007Solid returns As Buffett knew when he made his $1 million",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 741,
+      "page_start": 268,
+      "page_end": 268,
+      "text": "0.0224\n0.0184\n0.0250\n0.0288\n0.0195\n0.0121\n0.0205\n0.0078\n0.0383\n0.1132\n0.3386",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 614,
+      "page_start": 244,
+      "page_end": 244,
+      "text": "2.\t Establish the risky portfolio (asset allocation):\n\na.\t Calculate the optimal risky portfolio, P (Equation 7.13).\n\nb.\t Calculate the properties of portfolio P using the weights determined in step (a)",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1197,
+      "page_start": 430,
+      "page_end": 430,
+      "text": "4.\t The various limits to arbitrage mean that even if prices do not equal intrinsic value, it still may be",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1283,
+      "page_start": 471,
+      "page_end": 471,
+      "text": "107.34\n107.34",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 533,
+      "page_start": 222,
+      "page_end": 222,
+      "text": "2.\t The less risk-averse investor has a shallower indifference curve. An increase in risk requires less",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 742,
+      "page_start": 268,
+      "page_end": 268,
+      "text": "0.6112\n0.8778\n–0.2140\n–0.5097\n0.0695\n0.2055\n–0.0402\n1.0000",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 979,
+      "page_start": 324,
+      "page_end": 324,
+      "text": "2.\t There is a limited supply of shares of any stock to be borrowed by would-be short",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 867,
+      "page_start": 303,
+      "page_end": 303,
+      "text": "0.1833\n0.1466",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1343,
+      "page_start": 497,
+      "page_end": 497,
+      "text": "10. The principal amount of the issue was $2 billion.\nThe notes were sold at 99.11% of their principal\nvalue.",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 655,
+      "page_start": 257,
+      "page_end": 257,
+      "text": "7.\t In practice, portfolio managers will arrive at different efficient portfolios because of differences",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 903,
+      "page_start": 306,
+      "page_end": 306,
+      "text": "5.\t Practitioners routinely estimate the index model using total rather than excess rates of return. This",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 305,
+      "page_start": 163,
+      "page_end": 163,
+      "text": "0.3100\n0.1400\n–0.0675",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1589,
+      "page_start": 567,
+      "page_end": 567,
+      "text": "3.\t The future value of reinvested coupons = ($100 × 1.07) + $100 = $207\n4.\t The 2-year return = ​ $207 + ($1,187.44 − $1,091.29) \n \n \n_________________________ \n \n$1,091.29 \n​ = 0.278, or 27.8%​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 142,
+      "page_start": 89,
+      "page_end": 89,
+      "text": "6.\t The payoff to the call option is $10 per share at expiration. The option cost is $8.45 per share.",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1150,
+      "page_start": 403,
+      "page_end": 403,
+      "text": "8.\t By and large, the performance record of professionally managed funds lends little credence to",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1328,
+      "page_start": 494,
+      "page_end": 494,
+      "text": "1.\t Coverage ratios—Ratios of company earnings to fixed costs. For example, the",
+      "reason": "guess_worked_example",
+      "guess": "worked_example",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 1,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 78,
+      "page_start": 60,
+      "page_end": 60,
+      "text": "2.1\t The Money Market",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 872,
+      "page_start": 303,
+      "page_end": 303,
+      "text": "0.2375\n1.3258",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 881,
+      "page_start": 303,
+      "page_end": 303,
+      "text": "0.0072\n0.0648\n0.0320\n0.0320\n0.0884",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1137,
+      "page_start": 390,
+      "page_end": 390,
+      "text": "18.4\n16.9\n16.1\n15.7\n15.0\n15.0\n14.4\n13.9\n13.0\n11.6",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1180,
+      "page_start": 411,
+      "page_end": 411,
+      "text": "12.1\t The Behavioral Critique",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1227,
+      "page_start": 437,
+      "page_end": 437,
+      "text": "4.\t By the time the news of the recession affects bond yields, it also ought to affect stock prices.",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1517,
+      "page_start": 539,
+      "page_end": 539,
+      "text": "16.1\t Interest Rate Risk",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1093,
+      "page_start": 363,
+      "page_end": 363,
+      "text": "9.\t The multifactor extension of the single-factor CAPM, the ICAPM, predicts the same multidimen­",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 318,
+      "page_start": 168,
+      "page_end": 168,
+      "text": "95.44%\n99.74%",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1585,
+      "page_start": 566,
+      "page_end": 566,
+      "text": "2.\t The intermarket spread swap is pursued when an investor believes that the yield",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 739,
+      "page_start": 268,
+      "page_end": 268,
+      "text": "0.0288\n0.0299\n0.0438\n0.0515\n0.0301\n0.0183\n0.0305\n–0.0065",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1600,
+      "page_start": 568,
+      "page_end": 568,
+      "text": "8.\t Horizon analysis is a type of interest rate forecasting. In this procedure, the analyst forecasts the",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1090,
+      "page_start": 363,
+      "page_end": 363,
+      "text": "6.\t In a single-factor security market, all well-diversified portfolios have to satisfy the expected",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1349,
+      "page_start": 503,
+      "page_end": 503,
+      "text": "1.\t Fixed-income securities are distinguished by their promise to pay a fixed or specified stream of",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 992,
+      "page_start": 335,
+      "page_end": 335,
+      "text": "1.\t The CAPM assumes that investors are single-period planners who agree on a common input list",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1329,
+      "page_start": 494,
+      "page_end": 494,
+      "text": "2.\t Leverage (e.g., debt-to-equity) ratios—A too-high leverage ratio indicates excessive",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1089,
+      "page_start": 363,
+      "page_end": 363,
+      "text": "5.\t Portfolios are called “well diversified” if they include a large number of securities and the",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 218,
+      "page_start": 131,
+      "page_end": 131,
+      "text": "60.20\n44.80\n26.53\n40.14\n–1.26\n32.24\n26.62",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1273,
+      "page_start": 464,
+      "page_end": 464,
+      "text": "6.\t The equity premium puzzle originates from the observation that equity returns exceeded the\nFirst-pass regression equation: ri t − rf t = ai + bi (rMt − rf t ) + ei t",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 477,
+      "page_start": 213,
+      "page_end": 213,
+      "text": "0.30\n0.2000\n0.2080\n0.2165\n0.2240\n0.1291",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 865,
+      "page_start": 303,
+      "page_end": 303,
+      "text": "0.1520\n0.3298\n0.1934",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 496,
+      "page_start": 218,
+      "page_end": 218,
+      "text": "aversion coefficient A = 4. Comparing your answer to Problem 6, what do you conclude?",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 3,
+        "solution": 1,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 714,
+      "page_start": 265,
+      "page_end": 265,
+      "text": "0.8\n0.2\n12.0\n16.76",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 571,
+      "page_start": 232,
+      "page_end": 232,
+      "text": "7.2\t Portfolios of Two Risky Assets",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 711,
+      "page_start": 265,
+      "page_end": 265,
+      "text": "0.5\n0.5\n10.5\n12.88",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1144,
+      "page_start": 403,
+      "page_end": 403,
+      "text": "2.\t Market participants distinguish among three forms of the efficient market hypothesis. The weak",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1593,
+      "page_start": 568,
+      "page_end": 568,
+      "text": "1.\t Even default-free bonds such as Treasury issues are subject to interest rate risk. Longer-term bonds",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 891,
+      "page_start": 303,
+      "page_end": 303,
+      "text": "1.0000\n0.0600\n0.1206\n0.4975",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 220,
+      "page_start": 136,
+      "page_end": 136,
+      "text": "4.4\t Costs of Investing in Mutual Funds",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1392,
+      "page_start": 509,
+      "page_end": 509,
+      "text": "2.\t At a semiannual interest rate of 3%, the bond is worth $40 × Annuity factor(3%, 60) + $1,000 × PV",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 734,
+      "page_start": 268,
+      "page_end": 268,
+      "text": "0.060\n0.053\n0.070\n0.080",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1259,
+      "page_start": 450,
+      "page_end": 450,
+      "text": "0.4\n0.6\n0.8\n1.0\n1.2\n0.0",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 652,
+      "page_start": 257,
+      "page_end": 257,
+      "text": "4.\t The greater an asset’s covariance with the other assets in the portfolio, the more it contributes to",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1120,
+      "page_start": 371,
+      "page_end": 371,
+      "text": "11.1\t Random Walks and Efficient Markets",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 295,
+      "page_start": 162,
+      "page_end": 162,
+      "text": "5.3\t Risk and Risk Premiums",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 985,
+      "page_start": 327,
+      "page_end": 327,
+      "text": "2.\t Would you rather have wealth of $1 million and a real interest rate of 10% or",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 899,
+      "page_start": 306,
+      "page_end": 306,
+      "text": "1.\t A single-factor model of the economy classifies sources of uncertainty as systematic (macro­",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 479,
+      "page_start": 214,
+      "page_end": 214,
+      "text": "6.6\t Passive Strategies: The Capital Market Line",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 712,
+      "page_start": 265,
+      "page_end": 265,
+      "text": "0.6\n0.4\n11.0\n13.99",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 886,
+      "page_start": 303,
+      "page_end": 303,
+      "text": "0.0025\n1.6613\n0.1022",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1455,
+      "page_start": 523,
+      "page_end": 523,
+      "text": "4.0\n0\n1\n2\n3\n4\n5\nMaturity",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 484,
+      "page_start": 216,
+      "page_end": 216,
+      "text": "3.\t Investors’ preferences toward the expected return and volatility of a portfolio may be expressed",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 470,
+      "page_start": 213,
+      "page_end": 213,
+      "text": "0.0902\n0.0363\n0.0443\n0.0528\n0.0603\n0.0528",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1568,
+      "page_start": 561,
+      "page_end": 561,
+      "text": "2.\t What if rates increase by 200 bp?",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 2,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1263,
+      "page_start": 456,
+      "page_end": 456,
+      "text": "13.4\t Liquidity and Asset Pricing",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 904,
+      "page_start": 306,
+      "page_end": 306,
+      "text": "6.\t Betas show a tendency to evolve toward 1 over time. Beta forecasting rules attempt to predict this",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1327,
+      "page_start": 492,
+      "page_end": 492,
+      "text": "14.5\t Default Risk and Bond Pricing",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1085,
+      "page_start": 363,
+      "page_end": 363,
+      "text": "1.\t Multifactor models seek to improve the explanatory power of single-factor models by explicitly",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 565,
+      "page_start": 228,
+      "page_end": 228,
+      "text": "1.\t Suppose that your wealth is $250,000. You buy a $200,000 house and invest the remainder",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 759,
+      "page_start": 271,
+      "page_end": 271,
+      "text": "0.0300\n0.1000\n0.1200\n0.1400\n0.1600\n0.1800\n0.2000\n0.2200\n0.2400",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 747,
+      "page_start": 268,
+      "page_end": 268,
+      "text": "0.0400\n0.1135\n0.3525\n0.6195\n0.8083\n–0.2029\n–0.4610\n0.0748\n0.1987\n–0.0374\n0.0466",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1541,
+      "page_start": 543,
+      "page_end": 543,
+      "text": "0.5\n1\n1.5\n2\nSum:",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1117,
+      "page_start": 369,
+      "page_end": 369,
+      "text": "2.\t a.\t \u0007This portfolio is not well diversified. The weight on the first security does not decline as n",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 350,
+      "page_start": 181,
+      "page_end": 181,
+      "text": "0.88%\n0.79%\n0.88%\n0.79%\n0.62%",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1316,
+      "page_start": 487,
+      "page_end": 487,
+      "text": "14.4\t Bond Prices over Time",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 805,
+      "page_start": 286,
+      "page_end": 286,
+      "text": "3. \u0007The unexpected component of return in any period due to",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 285,
+      "page_start": 158,
+      "page_end": 158,
+      "text": "5.2\t Interest Rates and Inflation Rates",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1461,
+      "page_start": 526,
+      "page_end": 526,
+      "text": "2020. The onset of this",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 186,
+      "page_start": 124,
+      "page_end": 124,
+      "text": "margin call?\n\tc.\t How would your answer to (b) change if you had financed the initial purchase with only",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 1,
+        "solution": 1,
+        "worked_example": 0,
+        "calculation": 0,
+        "formula": 0
+      }
+    },
+    {
+      "index": 469,
+      "page_start": 213,
+      "page_end": 213,
+      "text": "0.08\n0.0328\n0.0408\n0.0493\n0.0568\n0.0491",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 869,
+      "page_start": 303,
+      "page_end": 303,
+      "text": "0.1599\n0.1999\n0.6280",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1241,
+      "page_start": 443,
+      "page_end": 443,
+      "text": "1968. The results are summarized in Table 13.1, which shows average values of coefficients\nand t-statistics. For the most part, their results were broadly supportive of the CAPM. The\nestimate of the intercept, γ0, was small (8 basis points per month) and, more important,\nwas not even close to statistical significance. The coefficient on beta, γ1, was positive and\nhighly significant, indicating that average return rose along with beta. ­However, the rela­\ntion was shallower than predicted. Whereas the CAPM predicted that coefficient should",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1034,
+      "page_start": 342,
+      "page_end": 342,
+      "text": "2.\t a.\t \u0007Substituting the historical mean and standard deviation in Equation 9.2 yields a coefficient of\n​ = 2.16​\n​E​(​r​ M​)​ − ​r​ f​ = ​ ¯ \nA​σ​ M​ \n2 ​ = 3.5 × ​.203​2​ = .144 = 14.4%​\n​E​(​r​ M​)​ − ​r​ f​ = ​ ¯ \nA​σ​ M​ \n2 ​ = 3.5 × ​.203​2​ = .144 = 14.4%​\n​​β​ P​​ =​ ​w​ Ford​ ​β​ Ford​ + ​w​ Toyota​ ​β​ Toyota​​ \n \n \n​​ =​ ​(.75 × 1.25)​ + ​(.25 × 1.10)​ = 1.2125​\n​​β​ P​​ =​ ​w​ Ford​ ​β​ Ford​ + ​w​ Toyota​ ​β​ Toyota​​ \n \n \n​​ =​ ​(.75 × 1.25)​ + ​(.25 × 1.10)​ = 1.2125​\n​E​(​r​ P​)​ − ​r​ f​​ =​ ​β​ P​[​E​(​r​ M​)​ − ​r​ f ​]​​ \n \n​\n​ = 1.2125 × 8 = 9.7%",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1520,
+      "page_start": 540,
+      "page_end": 540,
+      "text": "3.\t Prices of long-term bonds tend to be more sensitive to interest rate changes than",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 609,
+      "page_start": 244,
+      "page_end": 244,
+      "text": "0.08\n0.12\n0.3\n0.0072",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 197,
+      "page_start": 126,
+      "page_end": 126,
+      "text": "4.\t Check out the online education services. Which look best to you?",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 2,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 397,
+      "page_start": 194,
+      "page_end": 194,
+      "text": "1.\t a.\t EAR = (1 + .01)12 − 1 = .1268 = 12.68%",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1235,
+      "page_start": 441,
+      "page_end": 441,
+      "text": "1.\t There is a single testable hypothesis associated with the CAPM: The market",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 361,
+      "page_start": 189,
+      "page_end": 189,
+      "text": "4.\t Investors face a trade-off between risk and expected return. Historical data confirm our intuition",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 320,
+      "page_start": 169,
+      "page_end": 169,
+      "text": "5.5\t Deviations from Normality and Tail Risk",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 234,
+      "page_start": 148,
+      "page_end": 148,
+      "text": "1.\t Unit investment trusts, closed-end management companies, and open-end management com­",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1394,
+      "page_start": 509,
+      "page_end": 509,
+      "text": "4.\t a.\t \u0007The bond with the 6% coupon rate currently sells for 30 × Annuity factor(3.5%, 20) +\n5.\t Price = $70 × Annuity factor(8%, 1) + $1,000 × PV factor(8%, 1) = $990.74 ​Rate of return to investor = ​ $70 + ($990.74 − $982.17) \n \n \n_____________________ \n \n$982.17 \n​ = .080 = 8%​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 143,
+      "page_start": 90,
+      "page_end": 90,
+      "text": "3.1\t How Firms Issue Securities",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 405,
+      "page_start": 195,
+      "page_end": 195,
+      "text": "6.\t (1 + Required rate)(1 − .40) = 1",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 806,
+      "page_start": 286,
+      "page_end": 286,
+      "text": "4. \u0007The variance attributable to the uncertainty of the common macro­",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 981,
+      "page_start": 325,
+      "page_end": 325,
+      "text": "2.\t Because each investor will still choose his or her optimal risky portfolio from the",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 176,
+      "page_start": 122,
+      "page_end": 122,
+      "text": "1.\t Firms issue securities to raise the capital necessary to finance their investments. Investment bank­",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 754,
+      "page_start": 268,
+      "page_end": 268,
+      "text": "0.0700\n0.1771\n0.3953\n0.7699\n–0.4465\n–0.0014\n0.4185\n0.1704\n0.0752\n0.0139\n0.0727",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 717,
+      "page_start": 265,
+      "page_end": 265,
+      "text": "0.1981\n0.8019\n8.99\n11.29 minimum variance portfolio",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 995,
+      "page_start": 335,
+      "page_end": 335,
+      "text": "4.\t The CAPM market portfolio is value-weighted. Each security is held in a proportion equal to its\n​E​(​r​ M​)​ − ​r​ f​ = ​ ¯ \nA​ ​σ​ M​ \n2 ​\n​E​(​r​ i​)​ − ​r​ f​ = ​β​ i​[E​(​r​ M​)​ − ​r​ f ​]​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 902,
+      "page_start": 306,
+      "page_end": 306,
+      "text": "4.\t The index model is estimated by applying regression analysis to excess rates of return. The slope",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 315,
+      "page_start": 166,
+      "page_end": 166,
+      "text": "5.4\t The Normal Distribution",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 654,
+      "page_start": 257,
+      "page_end": 257,
+      "text": "6.\t A portfolio manager identifies the efficient frontier by first establishing estimates for asset",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 859,
+      "page_start": 302,
+      "page_end": 302,
+      "text": "10.\t Compute the variance of the optimal risky portfolio from the variance of the index",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 1,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1352,
+      "page_start": 503,
+      "page_end": 503,
+      "text": "4.\t Put bonds give the bondholder rather than the issuer the option to terminate or extend the life of",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 403,
+      "page_start": 194,
+      "page_end": 194,
+      "text": "5.\t If the probabilities in Spreadsheet 5.2 represented the true return distribution, we would use\n6.\t (1 + Required rate)(1 − .40) = 1 7.\t a.\t Arithmetic return = (1/3)(.2869) + (1/3)(.1088) + (1/3)(0.0491) = .1483 = 14.83%",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1069,
+      "page_start": 355,
+      "page_end": 355,
+      "text": "10.4\t A Multifactor APT",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 80,
+      "page_start": 65,
+      "page_end": 65,
+      "text": "0.5\n1.0\n1.5\n2.0\n2.5\n3.0\n3.5\n4.0\n4.5\n5.0\n5.5\n6.0",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 207,
+      "page_start": 128,
+      "page_end": 128,
+      "text": "4.1\t Investment Companies",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 736,
+      "page_start": 268,
+      "page_end": 268,
+      "text": "0.0195\n0.0204\n0.0259\n0.0301\n0.0261\n0.0147\n0.0234\n0.0009",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    }
+  ],
+  "worked_example": [
+    {
+      "index": 1670,
+      "page_start": 595,
+      "page_end": 595,
+      "text": "Examples of NAICS \nindustry codes",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 0,
+        "formula": 0
+      }
+    }
+  ],
+  "calculation": [
+    {
+      "index": 544,
+      "page_start": 224,
+      "page_end": 224,
+      "text": "​y = ​ \n.08 \n__________ \n1.1 × .0484 ​ = 1.50​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1535,
+      "page_start": 543,
+      "page_end": 543,
+      "text": "=F5*C5\n=F6*C6\n=F7*C7\n=SUM(G4:G7)",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 2
+      }
+    },
+    {
+      "index": 399,
+      "page_start": 194,
+      "page_end": 194,
+      "text": "rnom = 11.24%\nb.\t 1 + rnom = (1.03)(1.10) = 1.133",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 602,
+      "page_start": 241,
+      "page_end": 241,
+      "text": "= 8wD + 13wE\nσp = ​[​w​ D​ \n2 ​ ​σ​ D​ \n2 ​ + ​w​ E​ \n2 ​ ​σ​ E​ \n2 ​ + 2 wDwE Cov(rD , rE)​]​1/2",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 2
+      }
+    },
+    {
+      "index": 448,
+      "page_start": 206,
+      "page_end": 206,
+      "text": "​S = ​ rise \n____ \nrun ​ = ​ E​(​r​ P​)​ − ​r​ f​ \n_______ \n​σ​ P​ \n​ = ​ 8 \n___ \n22 ​\t\n(6.5)",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 2
+      }
+    },
+    {
+      "index": 1400,
+      "page_start": 509,
+      "page_end": 509,
+      "text": "​HPR = ​ 80 + (946.70 − 1,000) \n \n_________________ \n \n1,000 \n​ = .0267 = 2.67%​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 463,
+      "page_start": 212,
+      "page_end": 212,
+      "text": "σc = 0.0902\nσP = 0.22",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1540,
+      "page_start": 543,
+      "page_end": 543,
+      "text": "=E10/E$14\n=E11/E$14\n=E12/E$14\n=E13/E$14\n=SUM(F10:F13)",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 2
+      }
+    },
+    {
+      "index": 856,
+      "page_start": 302,
+      "page_end": 302,
+      "text": "their sum, that is, ​w​ i​ = ​  ​w​ i​ 0​ \n_____ \n​ ∑ \ni = 1",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 2
+      }
+    },
+    {
+      "index": 731,
+      "page_start": 266,
+      "page_end": 266,
+      "text": "n = ​ 1,800 \n_____ \n49  ​ = 36.73",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 828,
+      "page_start": 292,
+      "page_end": 292,
+      "text": "​ Estimated value − Hypothesized value \n \n \n_______________________________ \n \n \nStandard error \n​ = ​  2.030 − 1 \n_________ \n.424 \n​ = 2.43​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 2
+      }
+    },
+    {
+      "index": 541,
+      "page_start": 223,
+      "page_end": 223,
+      "text": "​E(​r​ C​)​ =​ .02 + (.55 × .08) = .064 (before: .0528)​ \n \n \n \n​σ​ C​​ =​ .55 × .22 = .121 (before: .0902) \n​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1037,
+      "page_start": 342,
+      "page_end": 342,
+      "text": "​E​(​r​ M​)​ − ​r​ f​ = ​ ¯ \nA​σ​ M​ \n2 ​ = 3.5 × ​.203​2​ = .144 = 14.4%​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1603,
+      "page_start": 568,
+      "page_end": 568,
+      "text": "Bond price risk: ​ ΔP \n___ \nP  ​ = −D × ​[​ ​ Δ​(​1 + y​)​ \n_ \n1 + y  ​]​ = −D* × Δy​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 2
+      }
+    },
+    {
+      "index": 846,
+      "page_start": 299,
+      "page_end": 299,
+      "text": "​ \n \n \n \n​σ​ P​ =​ [​β​ P​ \n2 ​ ​σ​ M​ \n2 ​ + ​σ​2​(​e​ P​)​]​ 1/2​ = ​[​σ​ M​ \n2 ​ ​(​ ∑",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1192,
+      "page_start": 428,
+      "page_end": 428,
+      "text": "​Trin = ​  265.7 / 663 \n____________ \n \n1,127.8 / 2,744 ​ = 1.02​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 937,
+      "page_start": 311,
+      "page_end": 311,
+      "text": "​ ​σ​ A​ \n2 ​​ =​ ​.9​2​ ​(20)​2​ + ​30​2​ = 1,224​ \n \n \n​σ​ A​​ =​ 35% \n​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1426,
+      "page_start": 516,
+      "page_end": 516,
+      "text": "r2 = 7.01%\nr1 = 5%\nr3 = 9.028%\nr4 = 11.06%",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1320,
+      "page_start": 488,
+      "page_end": 488,
+      "text": "Coupon = 12%\nCoupon = 4%",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 430,
+      "page_start": 203,
+      "page_end": 203,
+      "text": "​y = ​ 210,000 \n_______ \n300,000 ​ = .7 (risky assets)",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 939,
+      "page_start": 311,
+      "page_end": 311,
+      "text": "​ ​σ​ B​ \n2 ​​ =​ ​1.1​2​ ​(20)​2​ + ​10​2​ = 584​ \n \n \n​σ​ B​​ =​ 24% \n​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 598,
+      "page_start": 240,
+      "page_end": 240,
+      "text": "SB = ​ 9.5 − 5 \n_______ \n11.7  ​ = .38",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1039,
+      "page_start": 342,
+      "page_end": 342,
+      "text": "​​β​ P​​ =​ ​w​ Ford​ ​β​ Ford​ + ​w​ Toyota​ ​β​ Toyota​​ \n \n \n​​ =​ ​(.75 × 1.25)​ + ​(.25 × 1.10)​ = 1.2125​",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 459,
+      "page_start": 212,
+      "page_end": 212,
+      "text": "U = 0.044\nU = 0.03653\nU = 0.028\nU = 0.02",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1566,
+      "page_start": 559,
+      "page_end": 559,
+      "text": "1\n4\n800 × (1.09)4\n=\n$\b 1,129.27\n2\n3\n800 × (1.09)3\n=\n1,036.02\n3\n2\n800 × (1.09)2\n=\n  950.48\n4\n1\n800 × (1.09)1\n=\n  872.00\n5\n0\n800 × (1.09)0\n=\n  800.00\nSale of bond\n0\n10,800/1.09\n=\n\b\n9,908.26\n \n \n \n \n$\b14,696.02",
+      "reason": "guess_formula",
+      "guess": "formula",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    }
+  ],
+  "formula": [
+    {
+      "index": 12,
+      "page_start": 14,
+      "page_end": 14,
+      "text": "Protective Put / Covered Calls / Straddle / Spreads / \nCollars",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1291,
+      "page_start": 476,
+      "page_end": 476,
+      "text": "​]​ + Par value × ​ \n1 \n______ \n​(1 + r)​T​",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1289,
+      "page_start": 476,
+      "page_end": 476,
+      "text": "​[​1 − ​ \n1 \n_ \n​(1 + r)​T​",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 311,
+      "page_start": 164,
+      "page_end": 164,
+      "text": "σ = ​√",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1667,
+      "page_start": 593,
+      "page_end": 593,
+      "text": "Engineering/Construction",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 16,
+      "page_start": 16,
+      "page_end": 16,
+      "text": "Liquidity / Investment Horizon / Regulations / Tax \nConsiderations / Unique Needs",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 15,
+      "page_start": 16,
+      "page_end": 16,
+      "text": "\u0007Personal Trusts / Mutual Funds / Pension Funds /",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 847,
+      "page_start": 299,
+      "page_end": 299,
+      "text": "=",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 13,
+      "page_start": 15,
+      "page_end": 15,
+      "text": "\u0007Hedge Funds / Private Equity / Real Assets / Structured",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 961,
+      "page_start": 319,
+      "page_end": 319,
+      "text": "​\t\n(9.6)",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1253,
+      "page_start": 447,
+      "page_end": 447,
+      "text": "B\nVWNY\nIP\nEI\nUI\nCG\nGB\nConstant\n−2.403\n11.756\n−0.123\n−0.795\n8.274\n−5.905\n10.713\n(−0.633)\n(3.054)\n(−1.600)\n(−2.376)\n(2.972)\n(−1.879)\n(2.755)",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 583,
+      "page_start": 237,
+      "page_end": 237,
+      "text": "ρ = –1 ρ = 0",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 3,
+      "page_start": 10,
+      "page_end": 10,
+      "text": "Algorithmic Trading / High-Frequency Trading / Dark \nPools / Internalization / Bond Trading",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1333,
+      "page_start": 495,
+      "page_end": 495,
+      "text": "=",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 1
+      }
+    },
+    {
+      "index": 414,
+      "page_start": 200,
+      "page_end": 200,
+      "text": "​σ​ A​ ≤ ​σ​ B​",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 0,
+        "formula": 0
+      }
+    },
+    {
+      "index": 523,
+      "page_start": 221,
+      "page_end": 221,
+      "text": "Risk, σ",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 0,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1362,
+      "page_start": 504,
+      "page_end": 504,
+      "text": "​[​1 − ​ \n1 \n_ \n​(1 + r)​T​",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 92,
+      "page_start": 75,
+      "page_end": 75,
+      "text": "P/E",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1277,
+      "page_start": 465,
+      "page_end": 465,
+      "text": "7\n10.64 −31.55 −74.65\n50.18\n74.52\n15.38\n21.95 −43.95 −13.40\n28.95",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 956,
+      "page_start": 318,
+      "page_end": 318,
+      "text": "​ ​w​ i​ ​R​ i​ , ​R​ GE​)​\t\n(9.4)",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 270,
+      "page_start": 152,
+      "page_end": 152,
+      "text": "10% return, the investment will grow after n years to $9,600 × (1.10)n. The Class C shares have \nno front-end load. However, the net return to the investor after 12b-1 fees will be only 9.5%. \nIn addition, there is a back-end load that reduces the sales proceeds by a percentage equal to \n(5 – years until sale) until the fifth year, when the back-end load expires.",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 147,
+      "page_start": 99,
+      "page_end": 99,
+      "text": "−0.15 (−0.05%)",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 591,
+      "page_start": 239,
+      "page_end": 239,
+      "text": "ρ = 1\nρ = 0.30",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1514,
+      "page_start": 537,
+      "page_end": 537,
+      "text": "− 1 = .07 = 7.0%",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 803,
+      "page_start": 286,
+      "page_end": 286,
+      "text": "βi (rM − rf )",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 0,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1184,
+      "page_start": 417,
+      "page_end": 417,
+      "text": "−20\n−15\n−10\n−5\n5\n10\n15\n20\nChange in Wealth",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 569,
+      "page_start": 229,
+      "page_end": 229,
+      "text": "​​√ ​305.45​2​ = $93,301 =",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 271,
+      "page_start": 152,
+      "page_end": 152,
+      "text": "Horizon\n$9,600 × (1.10)n\n$10,000 × (1.095)n × (1 − Percentage exit fee)",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1311,
+      "page_start": 485,
+      "page_end": 485,
+      "text": "$1,100 \n= $1,100 100 × 1.10 = $   110",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1641,
+      "page_start": 583,
+      "page_end": 583,
+      "text": "12 × EPS",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1292,
+      "page_start": 476,
+      "page_end": 476,
+      "text": "​\t\n(14.2)",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1674,
+      "page_start": 599,
+      "page_end": 599,
+      "text": "Recovery/Boom",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 959,
+      "page_start": 318,
+      "page_end": 318,
+      "text": "​\t\n(9.5)",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 625,
+      "page_start": 251,
+      "page_end": 251,
+      "text": "​ ​ ∑",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 0,
+        "formula": 0
+      }
+    },
+    {
+      "index": 204,
+      "page_start": 126,
+      "page_end": 126,
+      "text": "−30%\n10,500\n5,450\n−49.5",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 843,
+      "page_start": 299,
+      "page_end": 299,
+      "text": "​\t\n(8.22)",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 366,
+      "page_start": 190,
+      "page_end": 190,
+      "text": "Arithmetic average of n returns: (r1 + r2 + · · · + rn ) / n Geometric average of n returns: [(1 + r1) (1 + r2) · · · (1 + rn)]1/n − 1",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1407,
+      "page_start": 511,
+      "page_end": 511,
+      "text": "1\n5%\n$952.38 = $1,000/1.05 \n2\n6\n$890.00 = $1,000/1.062 3\n7\n$816.30 = $1,000/1.073 4\n8\n$735.03 = $1,000/1.084",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 3,
+        "formula": 1
+      }
+    },
+    {
+      "index": 1251,
+      "page_start": 447,
+      "page_end": 447,
+      "text": "5.021\n14.009\n−0.128\n−0.848\n0.130\n−5.017\n6.409\n(1.218)\n(3.774)\n(−1.666)\n(−2.541)\n(2.855)\n(−1.576)\n(1.848)",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 353,
+      "page_start": 181,
+      "page_end": 181,
+      "text": "Expected shortfall (monthly)\n−14.47\n−13.96\n−18.08\n−22.76\n−20.27",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 849,
+      "page_start": 300,
+      "page_end": 300,
+      "text": "​\t\n(8.25)",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 160,
+      "page_start": 113,
+      "page_end": 113,
+      "text": "B17+ B18– B19\nB5* (B14/12)* B13 B20/B21\nB4",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 816,
+      "page_start": 288,
+      "page_end": 288,
+      "text": "​e​ i​\t\n(8.12)",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 5,
+      "page_start": 10,
+      "page_end": 10,
+      "text": "Load / 12b-1 Charges",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 326,
+      "page_start": 170,
+      "page_end": 170,
+      "text": "​]​ − 3\t\n(5.15) ​σ​ \n^ ​4​",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1669,
+      "page_start": 593,
+      "page_end": 593,
+      "text": "Hotel/Gaming",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1,
+      "page_start": 9,
+      "page_end": 9,
+      "text": "\u0007Robo Advice / Blockchains / Cryptocurrencies /",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 319,
+      "page_start": 168,
+      "page_end": 168,
+      "text": "–3σ\n–2σ\n–1σ\n0\n+1σ\n+2σ\n+3σ",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 2,
+        "formula": 0
+      }
+    },
+    {
+      "index": 415,
+      "page_start": 200,
+      "page_end": 200,
+      "text": "0\nσP",
+      "reason": "guess_question",
+      "guess": "question",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 0,
+      "page_start": 5,
+      "page_end": 5,
+      "text": "mheducation.com/highered",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 9,
+      "page_start": 13,
+      "page_end": 13,
+      "text": "\u0007Maturity / Inverse Floaters / Asset-Backed Bonds /",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    },
+    {
+      "index": 1075,
+      "page_start": 358,
+      "page_end": 358,
+      "text": "rf  + .425βterm struc − .051βint rate\n−  . 049βex rate  +  .041βbus cycle  −  .069βinflation  +  .530βother",
+      "reason": "guess_calculation",
+      "guess": "calculation",
+      "scores": {
+        "question": 0,
+        "solution": 0,
+        "worked_example": 0,
+        "calculation": 1,
+        "formula": 0
+      }
+    }
+  ]
+}

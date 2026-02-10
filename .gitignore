@@ -4,6 +4,4 @@ __pycache__/
 *.pyc
 *.md
 sentence_classifier.py
-inputs/
-outputs/
 paddle_cache/
