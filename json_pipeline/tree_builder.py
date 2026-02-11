@@ -192,7 +192,7 @@ class TreeBuilderJson:
             stack.append((node.level, node))
         return roots
 
-    def _calculate_page_ranges(self, nodes: List[SectionNode], total_pages: int, parent_end: int = -1):
+    def _calculate_page_ranges(self, nodes: List[SectionNode], total_pages: int, parent_end: int = -1) -> None:
         if parent_end == -1:
             parent_end = total_pages
         for i, node in enumerate(nodes):
@@ -206,10 +206,10 @@ class TreeBuilderJson:
             if node.children:
                 self._calculate_page_ranges(node.children, total_pages, parent_end=node.end_page)
 
-    def _assign_blocks_by_page(self, roots: List[SectionNode], blocks: List[ContentBlock]):
+    def _assign_blocks_by_page(self, roots: List[SectionNode], blocks: List[ContentBlock]) -> None:
         flat: List[SectionNode] = []
 
-        def collect(n: SectionNode):
+        def collect(n: SectionNode) -> None:
             flat.append(n)
             for c in n.children:
                 collect(c)
@@ -225,7 +225,7 @@ class TreeBuilderJson:
             candidates.sort(key=lambda s: (s.start_page, s.level), reverse=True)
             candidates[0].add_block(b)
 
-    def _assign_blocks_by_index(self, roots: List[SectionNode], blocks: List[ContentBlock]):
+    def _assign_blocks_by_index(self, roots: List[SectionNode], blocks: List[ContentBlock]) -> None:
         flat = self._flatten_nodes(roots)
         flat = [n for n in flat if n.start_idx is not None]
         flat.sort(key=lambda s: s.start_idx)
@@ -251,7 +251,7 @@ class TreeBuilderJson:
     def _flatten_nodes(self, roots: List[SectionNode]) -> List[SectionNode]:
         flat: List[SectionNode] = []
 
-        def collect(n: SectionNode):
+        def collect(n: SectionNode) -> None:
             flat.append(n)
             for c in n.children:
                 collect(c)

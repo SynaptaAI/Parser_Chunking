@@ -95,7 +95,11 @@ def align_toc_to_headers(toc: List[Dict[str, Any]], blocks: List[ContentBlock]) 
     return aligned
 
 
-def _find_header_match(title: str, blocks_by_page: Dict[int, List[ContentBlock]], window: range) -> Optional[ContentBlock]:
+def _find_header_match(
+    title: str,
+    blocks_by_page: Dict[int, List[ContentBlock]],
+    window: range,
+) -> Optional[ContentBlock]:
     norm_title = _normalize(title)
     if not norm_title:
         return None

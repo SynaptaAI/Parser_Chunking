@@ -6,7 +6,7 @@ from typing import Dict, List, Optional, Tuple
 from .json_adapter import blocks_from_mineru_json
 from .cleaning import filter_blocks, is_back_matter_title, is_main_body_title, is_special_term_text
 from .layout_corrector import LayoutCorrectorJson
-from .models import ContentBlock
+from .models import DocumentTree, SectionNode
 from .output_builder import ChunkerJson, build_elements, finalize_segments, mark_numbered_lists
 from .reference_extractor import link_references
 from .metadata_extractor import extract_metadata
@@ -92,7 +92,7 @@ def process_mineru_json(
     return elements_path, chunks_path
 
 
-def run_default():
+def run_default() -> None:
     base_dir = Path(__file__).resolve().parents[1]
     json_dir = base_dir / "outputs" / "MinerU-Parser"
     pdf_dir = base_dir / "inputs"
@@ -115,7 +115,7 @@ def run_default():
         logger.info("Wrote %s", chunks_path)
 
 
-def _filter_document_sections(doc, main_body_page):
+def _filter_document_sections(doc: DocumentTree, main_body_page: Optional[int]) -> None:
     # Determine main body start and back matter start among root sections.
     roots = doc.root_sections
     if not roots:
@@ -155,7 +155,7 @@ def _filter_document_sections(doc, main_body_page):
     doc.root_sections = kept_roots + back_roots
 
 
-def _filter_back_matter_section(section):
+def _filter_back_matter_section(section: SectionNode) -> None:
     filtered = []
     for b in section.blocks:
         if b.type == "formula":
@@ -171,13 +171,13 @@ def _filter_back_matter_section(section):
         _filter_back_matter_section(child)
 
 
-def _drop_blocks_before_page(section, min_page: int):
+def _drop_blocks_before_page(section: SectionNode, min_page: int) -> None:
     section.blocks = [b for b in section.blocks if b.page_idx >= min_page]
     for child in section.children:
         _drop_blocks_before_page(child, min_page)
 
 
-def _find_main_body_page(toc_entries):
+def _find_main_body_page(toc_entries: List[Dict]) -> Optional[int]:
     if not toc_entries:
         return None
     pages = []

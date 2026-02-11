@@ -3,7 +3,7 @@ import logging
 from .pipeline import run_default
 
 
-def main():
+def main() -> None:
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",

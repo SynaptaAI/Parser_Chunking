@@ -54,7 +54,13 @@ def extract_visual_crops(
         doc.close()
 
 
-def _safe_rect(x0: float, y0: float, x1: float, y1: float, page_rect) -> Optional["fitz.Rect"]:
+def _safe_rect(
+    x0: float,
+    y0: float,
+    x1: float,
+    y1: float,
+    page_rect,
+) -> Optional["fitz.Rect"]:
     if fitz is None:
         return None
     px0 = max(x0, page_rect.x0)

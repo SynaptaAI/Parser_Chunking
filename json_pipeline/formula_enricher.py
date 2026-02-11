@@ -1,6 +1,8 @@
 from pathlib import Path
-from typing import Any, Dict, List, Optional
+from typing import Any, Callable, Dict, List, Optional
 import sys
+
+from .enricher_utils import page_number
 
 
 def enrich_formula_chunks(chunks: List[Dict[str, Any]], doc_id: str = "book") -> None:
@@ -15,18 +17,18 @@ def enrich_formula_chunks(chunks: List[Dict[str, Any]], doc_id: str = "book") ->
         if not formula_text.strip():
             continue
         bbox = _bbox_from_chunk(chunk)
-        formula_data = extractor(
+        synapta_formula = extractor(
             formula_text=formula_text,
-            page_number=_page_number(chunk),
+            page_number=page_number(chunk),
             book_id=doc_id,
             heading_path=chunk.get("heading_path"),
             bbox=bbox,
         )
-        if formula_data:
-            chunk["formula_data"] = formula_data
+        if synapta_formula:
+            chunk["synapta_formula"] = synapta_formula
 
 
-def _load_formula_extractor():
+def _load_formula_extractor() -> Optional[Callable[..., Any]]:
     root = Path(__file__).resolve().parents[1] / "synapta-formula-segmentation"
     if root.exists():
         sys.path.insert(0, str(root))
@@ -35,13 +37,6 @@ def _load_formula_extractor():
         return extract_formula_item
     except Exception:
         return None
-
-
-def _page_number(chunk: Dict[str, Any]) -> int:
-    span = chunk.get("page_span") or []
-    if span and isinstance(span, list):
-        return int(span[0]) + 1 if span else 1
-    return 1
 
 
 def _bbox_from_chunk(chunk: Dict[str, Any]) -> Optional[Dict[str, float]]:

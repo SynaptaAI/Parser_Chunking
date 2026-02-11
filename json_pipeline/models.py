@@ -38,11 +38,11 @@ class SectionNode:
     blocks: List[ContentBlock] = field(default_factory=list)
     path: str = ""
 
-    def add_child(self, child: "SectionNode"):
+    def add_child(self, child: "SectionNode") -> None:
         child.parent = self
         self.children.append(child)
 
-    def add_block(self, block: ContentBlock):
+    def add_block(self, block: ContentBlock) -> None:
         self.blocks.append(block)
 
 

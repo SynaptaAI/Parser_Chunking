@@ -5,10 +5,14 @@ from .models import ContentBlock
 
 
 class LayoutCorrectorJson:
-    def __init__(self):
+    def __init__(self) -> None:
         self.para_indent_threshold = 20.0
 
-    def process(self, blocks: List[ContentBlock], page_sizes: Dict[int, Tuple[float, float]]) -> List[ContentBlock]:
+    def process(
+        self,
+        blocks: List[ContentBlock],
+        page_sizes: Dict[int, Tuple[float, float]],
+    ) -> List[ContentBlock]:
         if not blocks:
             return []
         ordered = self._sort_blocks(blocks)
@@ -16,7 +20,7 @@ class LayoutCorrectorJson:
         return stitched
 
     def _sort_blocks(self, blocks: List[ContentBlock]) -> List[ContentBlock]:
-        def key(b: ContentBlock):
+        def key(b: ContentBlock) -> Tuple[float, ...]:
             if b.metadata.get("index") is not None:
                 return (b.page_idx, b.metadata.get("index"))
             if b.bbox:
@@ -24,7 +28,11 @@ class LayoutCorrectorJson:
             return (b.page_idx, 0, 0)
         return sorted(blocks, key=key)
 
-    def _stitch_blocks(self, blocks: List[ContentBlock], page_sizes: Dict[int, Tuple[float, float]]) -> List[ContentBlock]:
+    def _stitch_blocks(
+        self,
+        blocks: List[ContentBlock],
+        page_sizes: Dict[int, Tuple[float, float]],
+    ) -> List[ContentBlock]:
         if not blocks:
             return []
         stitched: List[ContentBlock] = []

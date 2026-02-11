@@ -9,7 +9,7 @@ from .reference_extractor import extract_references
 
 
 class ChunkerJson:
-    def __init__(self, char_limit: int = 1500):
+    def __init__(self, char_limit: int = 1500) -> None:
         self.char_limit = char_limit
         self.counter = 0
         self.classifier = SentenceClassifier()
@@ -33,42 +33,28 @@ class ChunkerJson:
                 title_obj_type = detect_title_object(b.text) if raw_type == "title" else ""
                 if title_obj_type:
                     # Merge title with following text/list blocks into one structured chunk.
-                    content_parts = [b.text.strip()]
-                    pages = {b.page_idx}
-                    bboxes = []
-                    if b.bbox:
-                        bboxes.append((b.bbox.x0, b.bbox.y0, b.bbox.x1, b.bbox.y1))
-
-                    j = i + 1
-                    while j < len(section.blocks):
-                        nb = section.blocks[j]
-                        nb_raw = nb.metadata.get("raw_type")
-                        if nb_raw == "title" or nb.type == "heading":
-                            break
-                        if nb.type in ("table", "image", "formula"):
-                            break
-                        if nb.text:
-                            content_parts.append(nb.text.strip())
-                            pages.add(nb.page_idx)
-                            if nb.bbox:
-                                bboxes.append((nb.bbox.x0, nb.bbox.y0, nb.bbox.x1, nb.bbox.y1))
-                        j += 1
+                    content_parts, pages, bboxes, j = _collect_structured_content(
+                        section.blocks,
+                        i,
+                        max_text_blocks=None,
+                    )
+                    content = "\n".join([p for p in content_parts if p])
 
                     chunk_id = f"chunk_{self.counter:05d}"
                     self.counter += 1
                     chunks.append({
                         "id": chunk_id,
                         "heading_path": heading_path,
-                        "content": "\n".join([p for p in content_parts if p]),
+                        "content": content,
                         "type": title_obj_type,
-                        "POS": self.classifier.classify("\n".join(content_parts)),
+                        "POS": self.classifier.classify(content),
                         "page_range": sorted(pages),
                         "page_span": _page_span(pages),
                         "bbox": _bbox_union(bboxes),
                         "taxonomy_path": _taxonomy_path(heading_path),
                         "segment_type": title_obj_type,
                         "confidence": 1.0,
-                        "references": extract_references("\n".join(content_parts)),
+                        "references": extract_references(content),
                     })
                     i = j
                     continue
@@ -226,7 +212,7 @@ def build_elements(doc: DocumentTree) -> List[Dict[str, Any]]:
     elements: List[Dict[str, Any]] = []
     classifier = SentenceClassifier()
 
-    def emit_section(section: SectionNode):
+    def emit_section(section: SectionNode) -> None:
         heading_path = section.path or section.title
         elements.append({
             "heading_path": heading_path,
@@ -370,3 +356,38 @@ def _looks_like_list_continuation(text: str) -> bool:
     if t.startswith(("and ", "or ", "but ", "with ", "including ", "(")):
         return True
     return t[:1].islower()
+
+
+def _collect_structured_content(
+    blocks: List[Any],
+    start_index: int,
+    max_text_blocks: Optional[int] = None,
+) -> Tuple[List[str], set, List[Tuple[float, float, float, float]], int]:
+    b = blocks[start_index]
+    content_parts = [b.text.strip()]
+    pages = {b.page_idx}
+    bboxes: List[Tuple[float, float, float, float]] = []
+    if b.bbox:
+        bboxes.append((b.bbox.x0, b.bbox.y0, b.bbox.x1, b.bbox.y1))
+
+    j = start_index + 1
+    appended_text_blocks = 0
+    while j < len(blocks):
+        nb = blocks[j]
+        nb_raw = nb.metadata.get("raw_type")
+        if nb_raw == "title" or nb.type == "heading":
+            break
+        if nb.type in ("table", "image", "formula"):
+            break
+        if nb.text:
+            content_parts.append(nb.text.strip())
+            pages.add(nb.page_idx)
+            if nb.bbox:
+                bboxes.append((nb.bbox.x0, nb.bbox.y0, nb.bbox.x1, nb.bbox.y1))
+            appended_text_blocks += 1
+            if max_text_blocks is not None and appended_text_blocks >= max_text_blocks:
+                j += 1
+                break
+        j += 1
+
+    return content_parts, pages, bboxes, j

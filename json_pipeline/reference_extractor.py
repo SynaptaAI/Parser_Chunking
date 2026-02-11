@@ -1,5 +1,5 @@
 import re
-from typing import List, Dict, Tuple
+from typing import Any, Dict, List, Tuple
 
 
 PATTERNS = [
@@ -32,7 +32,7 @@ def _dedupe_refs(refs: List[Dict[str, str]]) -> List[Dict[str, str]]:
     return out
 
 
-def link_references(chunks: List[Dict[str, str]]) -> None:
+def link_references(chunks: List[Dict[str, Any]]) -> None:
     # Build index from captions in figure/table/formula chunks.
     index: Dict[Tuple[str, str], str] = {}
     for c in chunks:

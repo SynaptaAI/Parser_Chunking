@@ -1,5 +1,4 @@
 import re
-from typing import Optional
 
 
 LO_PATTERNS = [
@@ -15,17 +14,12 @@ KEY_TERMS_PATTERNS = [
     r"^\s*glossary\b",
 ]
 
-SUMMARY_PATTERNS = [
-    r"^\s*summary\b",
-    r"^\s*chapter summary\b",
-    r"^\s*summary and conclusions?\b",
-    r"^\s*in summary\b",
-    r"^\s*conclusion\b",
-]
-
 PROBLEM_SET_PATTERNS = [
     r"\bproblem sets?\b",
-    r"\bproblem set\b",
+    r"\bproblems?\b",
+    r"\bexercises?\b",
+    r"\breview questions?\b",
+    r"\bend[-\s]of[-\s]chapter problems?\b",
 ]
 
 CONCEPT_CHECK_PATTERNS = [
@@ -37,21 +31,7 @@ CONCEPT_CHECK_SOLUTION_PATTERNS = [
     r"\bconcept check solutions?\b",
     r"\bconcept check answers?\b",
     r"\banswers to concept checks?\b",
-]
-
-END_OF_CHAPTER_PATTERNS = [
-    r"\bend of chapter\b",
-    r"\bend-of-chapter\b",
-    r"\bchapter review\b",
-]
-
-THEOREM_PATTERNS = [
-    r"^\s*(theorem|lemma|proposition|corollary)\b",
-]
-
-RULE_PATTERNS = [
-    r"^\s*(rule|heuristic|key takeaway|takeaway)\b",
-    r"\b(?:rule of thumb)\b",
+    r"\bsolutions to concept checks?\b",
 ]
 
 PROCEDURE_PATTERNS = [
@@ -69,16 +49,15 @@ BULLET_PATTERNS = [
 
 TITLE_OBJECT_KEYWORDS = {
     "problem_sets": PROBLEM_SET_PATTERNS,
-    "concept_check": CONCEPT_CHECK_PATTERNS,
     "concept_check_solution": CONCEPT_CHECK_SOLUTION_PATTERNS,
+    "concept_check": CONCEPT_CHECK_PATTERNS,
     "key_terms": KEY_TERMS_PATTERNS,
-    "summary": SUMMARY_PATTERNS,
     "learning_objectives": LO_PATTERNS,
-    "end_of_chapter": END_OF_CHAPTER_PATTERNS,
+    "references": [r"^\s*references?\b", r"^\s*bibliography\b"],
 }
 
 
-def _matches_any(patterns, text: str) -> bool:
+def _matches_any(patterns: list[str], text: str) -> bool:
     return any(re.search(p, text, re.IGNORECASE) for p in patterns)
 
 
@@ -105,10 +84,6 @@ def detect_text_object(text: str, heading_path: str = "", list_context: bool = F
         return "key_terms"
     if "learning objective" in hp or "learning objectives" in hp:
         return "learning_objectives"
-    if "summary" in hp or "conclusion" in hp:
-        return "summary"
-    if "end of chapter" in hp or "chapter review" in hp:
-        return "end_of_chapter"
     if "references" in hp or "bibliography" in hp:
         return "references"
 
@@ -116,22 +91,12 @@ def detect_text_object(text: str, heading_path: str = "", list_context: bool = F
         return "learning_objectives"
     if _matches_any(KEY_TERMS_PATTERNS, t):
         return "key_terms"
-    if _matches_any(SUMMARY_PATTERNS, t):
-        return "summary"
     if _matches_any(PROBLEM_SET_PATTERNS, t):
         return "problem_sets"
     if _matches_any(CONCEPT_CHECK_SOLUTION_PATTERNS, t):
         return "concept_check_solution"
     if _matches_any(CONCEPT_CHECK_PATTERNS, t):
         return "concept_check"
-    if _matches_any(END_OF_CHAPTER_PATTERNS, t):
-        return "end_of_chapter"
-
-    if _matches_any(THEOREM_PATTERNS, t):
-        return "theorem"
-    if _matches_any(RULE_PATTERNS, t):
-        return "rule"
-
     if _matches_any(PROCEDURE_PATTERNS, t):
         return "procedure"
     if _matches_any(BULLET_PATTERNS, t):
