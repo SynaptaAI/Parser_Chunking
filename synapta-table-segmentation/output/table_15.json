@@ -1,52 +1,67 @@
 {
-  "segment_id": "table_p111_idx14",
+  "segment_id": "table_p99_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "of $10,000 worth of stock to the market value of the securities. To illustrate, suppose",
+  "caption": "",
   "row_headers": [
     [
-      "Value of stock"
+      "286.95"
     ],
     [
-      ""
+      "286.94"
+    ],
+    [
+      "286.93"
+    ],
+    [
+      "286.92"
+    ],
+    [
+      "286.91"
     ]
   ],
   "col_headers": [
-    "Assets",
-    "",
-    "",
-    "",
-    "Liabilities and Owners’ Equity",
-    "",
-    ""
+    "Price",
+    "Shares",
+    "Price",
+    "Shares"
   ],
   "cells": [
     [
-      "Assets",
-      "",
-      "",
-      "",
-      "Liabilities and Owners’ Equity",
-      "",
-      ""
+      "Price",
+      "Shares",
+      "Price",
+      "Shares"
     ],
     [
-      "Value of stock",
-      "",
-      "$10,000",
-      "",
-      "Loan from broker",
-      "",
-      "$4,000"
+      "286.95",
+      "90",
+      "286.97",
+      "200"
     ],
     [
-      "",
-      "",
-      "",
-      "",
-      "Equity",
-      "",
-      "6,000"
+      "286.94",
+      "100",
+      "286.98",
+      "500"
+    ],
+    [
+      "286.93",
+      "300",
+      "286.99",
+      "480"
+    ],
+    [
+      "286.92",
+      "17",
+      "287.00",
+      "307"
+    ],
+    [
+      "286.91",
+      "267",
+      "287.01",
+      "180"
     ]
   ],
   "cell_meta": [
@@ -54,14 +69,14 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 62.0,
+        "y0": 63.0,
+        "x1": 117.0,
+        "y1": 94.0
       },
       "cell_type": "text",
-      "raw_value": "Assets",
-      "normalized_value": "Assets",
+      "raw_value": "Price",
+      "normalized_value": "Price",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -71,14 +86,14 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 196.0,
+        "y0": 67.0,
+        "x1": 273.0,
+        "y1": 84.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Shares",
+      "normalized_value": "Shares",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -88,14 +103,14 @@
       "row_index": 0,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 353.0,
+        "y0": 63.0,
+        "x1": 409.0,
+        "y1": 94.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Price",
+      "normalized_value": "Price",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -105,65 +120,14 @@
       "row_index": 0,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 490.0,
+        "y0": 67.0,
+        "x1": 566.0,
+        "y1": 84.0
       },
       "cell_type": "text",
-      "raw_value": "Liabilities and Owners’ Equity",
-      "normalized_value": "Liabilities and Owners’ Equity",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "raw_value": "Shares",
+      "normalized_value": "Shares",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -173,235 +137,337 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Value of stock",
-      "normalized_value": "Value of stock",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "currency",
-      "raw_value": "$10,000",
-      "normalized_value": 10000.0,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Loan from broker",
-      "normalized_value": "Loan from broker",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "currency",
-      "raw_value": "$4,000",
-      "normalized_value": 4000.0,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Equity",
-      "normalized_value": "Equity",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 55.0,
+        "y0": 109.0,
+        "x1": 125.0,
+        "y1": 124.0
       },
       "cell_type": "number",
-      "raw_value": "6,000",
-      "normalized_value": 6000,
+      "raw_value": "286.95",
+      "normalized_value": 286.95,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 229.0,
+        "y0": 109.0,
+        "x1": 254.0,
+        "y1": 124.0
+      },
+      "cell_type": "number",
+      "raw_value": "90",
+      "normalized_value": 90,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 346.0,
+        "y0": 109.0,
+        "x1": 416.0,
+        "y1": 124.0
+      },
+      "cell_type": "number",
+      "raw_value": "286.97",
+      "normalized_value": 286.97,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 509.0,
+        "y0": 109.0,
+        "x1": 547.0,
+        "y1": 124.0
+      },
+      "cell_type": "number",
+      "raw_value": "200",
+      "normalized_value": 200,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 55.0,
+        "y0": 153.0,
+        "x1": 125.0,
+        "y1": 168.0
+      },
+      "cell_type": "number",
+      "raw_value": "286.94",
+      "normalized_value": 286.94,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 217.0,
+        "y0": 153.0,
+        "x1": 254.0,
+        "y1": 168.0
+      },
+      "cell_type": "number",
+      "raw_value": "100",
+      "normalized_value": 100,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 346.0,
+        "y0": 153.0,
+        "x1": 416.0,
+        "y1": 168.0
+      },
+      "cell_type": "number",
+      "raw_value": "286.98",
+      "normalized_value": 286.98,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 509.0,
+        "y0": 153.0,
+        "x1": 547.0,
+        "y1": 168.0
+      },
+      "cell_type": "number",
+      "raw_value": "500",
+      "normalized_value": 500,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 55.0,
+        "y0": 197.0,
+        "x1": 124.0,
+        "y1": 212.0
+      },
+      "cell_type": "number",
+      "raw_value": "286.93",
+      "normalized_value": 286.93,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 216.0,
+        "y0": 197.0,
+        "x1": 254.0,
+        "y1": 212.0
+      },
+      "cell_type": "number",
+      "raw_value": "300",
+      "normalized_value": 300,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 346.0,
+        "y0": 197.0,
+        "x1": 416.0,
+        "y1": 212.0
+      },
+      "cell_type": "number",
+      "raw_value": "286.99",
+      "normalized_value": 286.99,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 508.0,
+        "y0": 197.0,
+        "x1": 547.0,
+        "y1": 212.0
+      },
+      "cell_type": "number",
+      "raw_value": "480",
+      "normalized_value": 480,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 55.0,
+        "y0": 241.0,
+        "x1": 124.0,
+        "y1": 256.0
+      },
+      "cell_type": "number",
+      "raw_value": "286.92",
+      "normalized_value": 286.92,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 230.0,
+        "y0": 241.0,
+        "x1": 253.0,
+        "y1": 256.0
+      },
+      "cell_type": "number",
+      "raw_value": "17",
+      "normalized_value": 17,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 346.0,
+        "y0": 241.0,
+        "x1": 416.0,
+        "y1": 256.0
+      },
+      "cell_type": "number",
+      "raw_value": "287.00",
+      "normalized_value": 287.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 509.0,
+        "y0": 241.0,
+        "x1": 547.0,
+        "y1": 256.0
+      },
+      "cell_type": "number",
+      "raw_value": "307",
+      "normalized_value": 307,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 55.0,
+        "y0": 284.0,
+        "x1": 121.0,
+        "y1": 299.0
+      },
+      "cell_type": "number",
+      "raw_value": "286.91",
+      "normalized_value": 286.91,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 216.0,
+        "y0": 284.0,
+        "x1": 253.0,
+        "y1": 299.0
+      },
+      "cell_type": "number",
+      "raw_value": "267",
+      "normalized_value": 267,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 346.0,
+        "y0": 284.0,
+        "x1": 413.0,
+        "y1": 299.0
+      },
+      "cell_type": "number",
+      "raw_value": "287.01",
+      "normalized_value": 287.01,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 3,
+      "bbox": {
+        "x0": 510.0,
+        "y0": 284.0,
+        "x1": 547.0,
+        "y1": 299.0
+      },
+      "cell_type": "number",
+      "raw_value": "180",
+      "normalized_value": 180,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -413,27 +479,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "of $10,000 worth of stock to the market value of the securities. To illustrate, suppose This table contains 3 rows and 7 columns.",
-  "table_summary": "of $10,000 worth of stock to the market value of the securities. To illustrate, suppose This table contains 3 rows and 7 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
   "linked_concept_ids": [],
   "links": [],
   "source_anchor": {
-    "page_number": 111,
+    "page_number": 99,
     "bbox": {
-      "x0": 210.65410265,
-      "y0": 555.0400583916667,
-      "x1": 500.34589735000003,
-      "y1": 602.75
+      "x0": 55.0,
+      "y0": 63.0,
+      "x1": 566.0,
+      "y1": 299.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "3 3 > Order Book",
   "page_span": [
-    111,
-    111
-  ]
+    99,
+    99
+  ],
+  "source_chunk_id": "chunk_00542",
+  "page_start": 99,
+  "page_end": 99
 }

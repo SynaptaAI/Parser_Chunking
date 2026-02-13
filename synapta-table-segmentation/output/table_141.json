@@ -1,208 +1,130 @@
 {
-  "segment_id": "table_p610_idx140",
+  "segment_id": "table_p454_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "Macroeconomic and Industry Analysis CHAPTER 17",
+  "caption": "",
   "row_headers": [
     [
-      "Population 18–29 years old\n(percentage change)"
+      "Size: Stock market capitalization"
     ],
     [
-      "Number of households with\nincome more than $35,000\n(percentage change)"
+      "Book-to-market ratio"
     ],
     [
-      "Number of households with\nincome less than $35,000\n(percentage change)"
+      "Momentum: Return in past year"
     ],
     [
-      "Number of cars 5–15 years\nold (percentage change)"
+      "Stock issues: Growth in shares outstanding"
     ],
     [
-      "Automotive aftermarket industry\nretail sales (percentage change)"
+      "Accruals: Change in net working capital"
     ],
     [
-      "Consumer expenditures on\nautomotive parts and accessories\n(percentage change)"
+      "Profitability: Return on assets"
     ],
     [
-      "Sales growth of retail autoparts\ncompanies with 100 or more stores"
+      "Asset growth: Growth in total assets"
     ],
     [
-      "Market share of retail autoparts\ncompanies with 100 or more\nstores"
+      "Dividend yield"
     ],
     [
-      "Average operating margin of\nretail autoparts companies with\n100 or more stores"
+      "Beta: Single index model"
     ],
     [
-      "Average operating margin of all\nretail autoparts companies"
+      "Volatility: Standard deviation of stock returns"
+    ],
+    [
+      "Turnover: Shares traded as a fraction of outstanding"
+    ],
+    [
+      "Sales: Total sales as multiple of market capitalization"
     ]
   ],
   "col_headers": [
     "",
     "",
-    "2022",
-    "2021",
-    "2020",
-    "2019",
-    "2018",
-    "2017",
-    "2016",
-    "2015",
-    "2014",
-    "2013"
+    "Slope",
+    "t-Statistic"
   ],
   "cells": [
     [
       "",
       "",
-      "2022",
-      "2021",
-      "2020",
-      "2019",
-      "2018",
-      "2017",
-      "2016",
-      "2015",
-      "2014",
-      "2013"
+      "Slope",
+      "t-Statistic"
     ],
     [
-      "Population 18–29 years old\n(percentage change)",
+      "Size: Stock market capitalization",
       "",
-      "−1.8%",
-      "−2.0%",
-      "−2.1%",
-      "−1.4%",
-      "−0.8%",
-      "−0.9%",
-      "−1.1%",
-      "−0.9%",
-      "−0.7%",
-      "−0.3%"
+      "",
+      "—5.01"
     ],
     [
-      "Number of households with\nincome more than $35,000\n(percentage change)",
+      "Book-to-market ratio",
       "",
-      "6.0%",
-      "4.0%",
-      "8.0%",
-      "4.5%",
-      "2.7%",
-      "3.1%",
-      "1.6%",
-      "3.6%",
-      "4.2%",
-      "2.2%"
+      "35",
+      "6.18"
     ],
     [
-      "Number of households with\nincome less than $35,000\n(percentage change)",
+      "Momentum: Return in past year",
       "",
-      "3.0%",
-      "−1.0%",
-      "4.9%",
-      "2.3%",
-      "−1.4%",
-      "2.5%",
-      "1.4%",
-      "−1.3%",
-      "0.6%",
-      "0.1%"
+      "96",
+      "6.86"
     ],
     [
-      "Number of cars 5–15 years\nold (percentage change)",
+      "Stock issues: Growth in shares outstanding",
       "",
-      "0.9%",
-      "−1.3%",
-      "−6.0%",
-      "1.9%",
-      "3.3%",
-      "2.4%",
-      "−2.3%",
-      "−2.2%",
-      "−8.0%",
-      "1.6%"
+      "-.35",
+      ""
     ],
     [
-      "Automotive aftermarket industry\nretail sales (percentage change)",
+      "Accruals: Change in net working capital",
       "",
-      "5.7%",
-      "1.9%",
-      "3.1%",
-      "3.7%",
-      "4.3%",
-      "2.6%",
-      "1.3%",
-      "0.2%",
-      "3.7%",
-      "2.4%"
+      "-1.38",
+      "=5.69)"
     ],
     [
-      "Consumer expenditures on\nautomotive parts and accessories\n(percentage change)",
+      "Profitability: Return on assets",
       "",
-      "2.4%",
-      "1.8%",
-      "2.1%",
-      "6.5%",
-      "3.6%",
-      "9.2%",
-      "1.3%",
-      "6.2%",
-      "6.7%",
-      "6.5%"
+      "1.43",
+      "3.57"
     ],
     [
-      "Sales growth of retail autoparts\ncompanies with 100 or more stores",
+      "Asset growth: Growth in total assets",
       "",
-      "17.0%",
-      "16.0%",
-      "16.5%",
-      "14.0%",
-      "15.5%",
-      "16.8%",
-      "12.0%",
-      "15.7%",
-      "19.0%",
-      "16.0%"
+      "-.54",
+      "-4.49"
     ],
     [
-      "Market share of retail autoparts\ncompanies with 100 or more\nstores",
+      "Dividend yield",
       "",
-      "19.0%",
-      "18.5%",
-      "18.3%",
-      "18.1%",
-      "17.0%",
-      "17.2%",
-      "17.0%",
-      "16.9%",
-      "15.0%",
-      "14.0%"
+      "-.46",
+      "-.27"
     ],
     [
-      "Average operating margin of\nretail autoparts companies with\n100 or more stores",
+      "Beta: Single index model",
       "",
-      "12.0%",
-      "11.8%",
-      "11.2%",
-      "11.5%",
-      "10.6%",
-      "10.6%",
-      "10.0%",
-      "10.4%",
-      "9.8%",
-      "9.0%"
+      "ssh",
+      "3.05"
     ],
     [
-      "Average operating margin of all\nretail autoparts companies",
+      "Volatility: Standard deviation of stock returns",
       "",
-      "5.5%",
-      "5.7%",
-      "5.6%",
-      "5.8%",
-      "6.0%",
-      "6.5%",
-      "7.0%",
-      "7.2%",
-      "7.1%",
-      "7.2%"
+      "-1.45",
+      "-1.40"
+    ],
+    [
+      "Turnover: Shares traded as a fraction of outstanding",
+      "shares",
+      "",
+      "-3.68"
+    ],
+    [
+      "Sales: Total sales as multiple of market capitalization",
+      "",
+      "04",
+      "3.10"
     ]
   ],
   "cell_meta": [
@@ -244,1408 +166,456 @@
       "row_index": 0,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2022",
-      "normalized_value": 2022,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2021",
-      "normalized_value": 2021,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2020",
-      "normalized_value": 2020,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2019",
-      "normalized_value": 2019,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2018",
-      "normalized_value": 2018,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 7,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2017",
-      "normalized_value": 2017,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 8,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2016",
-      "normalized_value": 2016,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 9,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2015",
-      "normalized_value": 2015,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 10,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2014",
-      "normalized_value": 2014,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 11,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2013",
-      "normalized_value": 2013,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "Population 18–29 years old\n(percentage change)",
-      "normalized_value": "Population 18–29 years old\n(percentage change)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−1.8%",
-      "normalized_value": "−1.8%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−2.0%",
-      "normalized_value": "−2.0%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−2.1%",
-      "normalized_value": "−2.1%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−1.4%",
-      "normalized_value": "−1.4%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−0.8%",
-      "normalized_value": "−0.8%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 7,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−0.9%",
-      "normalized_value": "−0.9%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 8,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−1.1%",
-      "normalized_value": "−1.1%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 9,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−0.9%",
-      "normalized_value": "−0.9%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 10,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−0.7%",
-      "normalized_value": "−0.7%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 11,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−0.3%",
-      "normalized_value": "−0.3%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "Number of households with\nincome more than $35,000\n(percentage change)",
-      "normalized_value": "Number of households with\nincome more than $35,000\n(percentage change)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "6.0%",
-      "normalized_value": 0.06,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "4.0%",
-      "normalized_value": 0.04,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "8.0%",
-      "normalized_value": 0.08,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "4.5%",
-      "normalized_value": 0.045,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "2.7%",
-      "normalized_value": 0.027000000000000003,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 7,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "3.1%",
-      "normalized_value": 0.031,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 8,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "1.6%",
-      "normalized_value": 0.016,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 9,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "3.6%",
-      "normalized_value": 0.036000000000000004,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 10,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "4.2%",
-      "normalized_value": 0.042,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 11,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "2.2%",
-      "normalized_value": 0.022000000000000002,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "Number of households with\nincome less than $35,000\n(percentage change)",
-      "normalized_value": "Number of households with\nincome less than $35,000\n(percentage change)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "3.0%",
-      "normalized_value": 0.03,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−1.0%",
-      "normalized_value": "−1.0%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "4.9%",
-      "normalized_value": 0.049,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "2.3%",
-      "normalized_value": 0.023,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−1.4%",
-      "normalized_value": "−1.4%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 7,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "2.5%",
-      "normalized_value": 0.025,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 8,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "1.4%",
-      "normalized_value": 0.013999999999999999,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 9,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−1.3%",
-      "normalized_value": "−1.3%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 10,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "0.6%",
-      "normalized_value": 0.006,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 11,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "0.1%",
-      "normalized_value": 0.001,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "Number of cars 5–15 years\nold (percentage change)",
-      "normalized_value": "Number of cars 5–15 years\nold (percentage change)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "0.9%",
-      "normalized_value": 0.009000000000000001,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−1.3%",
-      "normalized_value": "−1.3%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−6.0%",
-      "normalized_value": "−6.0%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "1.9%",
-      "normalized_value": 0.019,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "3.3%",
-      "normalized_value": 0.033,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 7,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "2.4%",
-      "normalized_value": 0.024,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 8,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−2.3%",
-      "normalized_value": "−2.3%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 9,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−2.2%",
-      "normalized_value": "−2.2%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 10,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "−8.0%",
-      "normalized_value": "−8.0%",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 11,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "1.6%",
-      "normalized_value": 0.016,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "Automotive aftermarket industry\nretail sales (percentage change)",
-      "normalized_value": "Automotive aftermarket industry\nretail sales (percentage change)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "5.7%",
-      "normalized_value": 0.057,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "1.9%",
-      "normalized_value": 0.019,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "3.1%",
-      "normalized_value": 0.031,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "3.7%",
-      "normalized_value": 0.037000000000000005,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "4.3%",
-      "normalized_value": 0.043,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 7,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "2.6%",
-      "normalized_value": 0.026000000000000002,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 8,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "1.3%",
-      "normalized_value": 0.013000000000000001,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 9,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "0.2%",
-      "normalized_value": 0.002,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 10,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "3.7%",
-      "normalized_value": 0.037000000000000005,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 11,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "2.4%",
-      "normalized_value": 0.024,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "Consumer expenditures on\nautomotive parts and accessories\n(percentage change)",
-      "normalized_value": "Consumer expenditures on\nautomotive parts and accessories\n(percentage change)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "2.4%",
-      "normalized_value": 0.024,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "1.8%",
-      "normalized_value": 0.018000000000000002,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "2.1%",
-      "normalized_value": 0.021,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "6.5%",
-      "normalized_value": 0.065,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "3.6%",
-      "normalized_value": 0.036000000000000004,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 7,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "9.2%",
-      "normalized_value": 0.092,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 8,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "1.3%",
-      "normalized_value": 0.013000000000000001,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 9,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "6.2%",
-      "normalized_value": 0.062,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 10,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "6.7%",
-      "normalized_value": 0.067,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 11,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "6.5%",
-      "normalized_value": 0.065,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 710.0,
+        "y0": 26.0,
+        "x1": 766.0,
+        "y1": 45.0
       },
       "cell_type": "text",
-      "raw_value": "Sales growth of retail autoparts\ncompanies with 100 or more stores",
-      "normalized_value": "Sales growth of retail autoparts\ncompanies with 100 or more stores",
+      "raw_value": "Slope",
+      "normalized_value": "Slope",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 876.0,
+        "y0": 26.0,
+        "x1": 970.0,
+        "y1": 41.0
+      },
+      "cell_type": "text",
+      "raw_value": "t-Statistic",
+      "normalized_value": "t-Statistic",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 68.0,
+        "x1": 341.0,
+        "y1": 87.0
+      },
+      "cell_type": "text",
+      "raw_value": "Size: Stock market capitalization",
+      "normalized_value": "Size: Stock market capitalization",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 900.0,
+        "y0": 68.0,
+        "x1": 954.0,
+        "y1": 83.0
+      },
+      "cell_type": "text",
+      "raw_value": "—5.01",
+      "normalized_value": "—5.01",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 38.0,
+        "y0": 105.0,
+        "x1": 231.0,
+        "y1": 120.0
+      },
+      "cell_type": "text",
+      "raw_value": "Book-to-market ratio",
+      "normalized_value": "Book-to-market ratio",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 740.0,
+        "y0": 105.0,
+        "x1": 768.0,
+        "y1": 120.0
+      },
+      "cell_type": "number",
+      "raw_value": "35",
+      "normalized_value": 35,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 915.0,
+        "y0": 105.0,
+        "x1": 957.0,
+        "y1": 120.0
+      },
+      "cell_type": "number",
+      "raw_value": "6.18",
+      "normalized_value": 6.18,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 38.0,
+        "y0": 142.0,
+        "x1": 333.0,
+        "y1": 162.0
+      },
+      "cell_type": "text",
+      "raw_value": "Momentum: Return in past year",
+      "normalized_value": "Momentum: Return in past year",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 740.0,
+        "y0": 142.0,
+        "x1": 769.0,
+        "y1": 157.0
+      },
+      "cell_type": "number",
+      "raw_value": "96",
+      "normalized_value": 96,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 915.0,
+        "y0": 142.0,
+        "x1": 957.0,
+        "y1": 157.0
+      },
+      "cell_type": "number",
+      "raw_value": "6.86",
+      "normalized_value": 6.86,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 179.0,
+        "x1": 444.0,
+        "y1": 199.0
+      },
+      "cell_type": "text",
+      "raw_value": "Stock issues: Growth in shares outstanding",
+      "normalized_value": "Stock issues: Growth in shares outstanding",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 724.0,
+        "y0": 179.0,
+        "x1": 768.0,
+        "y1": 194.0
+      },
+      "cell_type": "text",
+      "raw_value": "-.35",
+      "normalized_value": "-.35",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 36.0,
+        "y0": 216.0,
+        "x1": 412.0,
+        "y1": 236.0
+      },
+      "cell_type": "text",
+      "raw_value": "Accruals: Change in net working capital",
+      "normalized_value": "Accruals: Change in net working capital",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 711.0,
+        "y0": 216.0,
+        "x1": 768.0,
+        "y1": 231.0
+      },
+      "cell_type": "text",
+      "raw_value": "-1.38",
+      "normalized_value": "-1.38",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 3,
+      "bbox": {
+        "x0": 900.0,
+        "y0": 216.0,
+        "x1": 957.0,
+        "y1": 231.0
+      },
+      "cell_type": "formula",
+      "raw_value": "=5.69)",
+      "normalized_value": "=5.69)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 0,
+      "bbox": {
+        "x0": 38.0,
+        "y0": 253.0,
+        "x1": 309.0,
+        "y1": 273.0
+      },
+      "cell_type": "text",
+      "raw_value": "Profitability: Return on assets",
+      "normalized_value": "Profitability: Return on assets",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
+      "bbox": {
+        "x0": 729.0,
+        "y0": 253.0,
+        "x1": 768.0,
+        "y1": 268.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.43",
+      "normalized_value": 1.43,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 3,
+      "bbox": {
+        "x0": 916.0,
+        "y0": 253.0,
+        "x1": 957.0,
+        "y1": 268.0
+      },
+      "cell_type": "number",
+      "raw_value": "3.57",
+      "normalized_value": 3.57,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 36.0,
+        "y0": 290.0,
+        "x1": 377.0,
+        "y1": 310.0
+      },
+      "cell_type": "text",
+      "raw_value": "Asset growth: Growth in total assets",
+      "normalized_value": "Asset growth: Growth in total assets",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -1672,14 +642,14 @@
       "row_index": 7,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 724.0,
+        "y0": 290.0,
+        "x1": 768.0,
+        "y1": 305.0
       },
-      "cell_type": "percent",
-      "raw_value": "17.0%",
-      "normalized_value": 0.17,
+      "cell_type": "text",
+      "raw_value": "-.54",
+      "normalized_value": "-.54",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -1689,150 +659,14 @@
       "row_index": 7,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 900.0,
+        "y0": 290.0,
+        "x1": 957.0,
+        "y1": 305.0
       },
-      "cell_type": "percent",
-      "raw_value": "16.0%",
-      "normalized_value": 0.16,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "16.5%",
-      "normalized_value": 0.165,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "14.0%",
-      "normalized_value": 0.14,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "15.5%",
-      "normalized_value": 0.155,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 7,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "16.8%",
-      "normalized_value": 0.168,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 8,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "12.0%",
-      "normalized_value": 0.12,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 9,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "15.7%",
-      "normalized_value": 0.157,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 10,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "19.0%",
-      "normalized_value": 0.19,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 11,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "16.0%",
-      "normalized_value": 0.16,
+      "cell_type": "text",
+      "raw_value": "-4.49",
+      "normalized_value": "-4.49",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -1842,14 +676,14 @@
       "row_index": 8,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 38.0,
+        "y0": 327.0,
+        "x1": 171.0,
+        "y1": 347.0
       },
       "cell_type": "text",
-      "raw_value": "Market share of retail autoparts\ncompanies with 100 or more\nstores",
-      "normalized_value": "Market share of retail autoparts\ncompanies with 100 or more\nstores",
+      "raw_value": "Dividend yield",
+      "normalized_value": "Dividend yield",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -1876,14 +710,14 @@
       "row_index": 8,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 724.0,
+        "y0": 327.0,
+        "x1": 769.0,
+        "y1": 342.0
       },
-      "cell_type": "percent",
-      "raw_value": "19.0%",
-      "normalized_value": 0.19,
+      "cell_type": "text",
+      "raw_value": "-.46",
+      "normalized_value": "-.46",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -1893,150 +727,14 @@
       "row_index": 8,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 913.0,
+        "y0": 327.0,
+        "x1": 957.0,
+        "y1": 342.0
       },
-      "cell_type": "percent",
-      "raw_value": "18.5%",
-      "normalized_value": 0.185,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "18.3%",
-      "normalized_value": 0.183,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "18.1%",
-      "normalized_value": 0.18100000000000002,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "17.0%",
-      "normalized_value": 0.17,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 7,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "17.2%",
-      "normalized_value": 0.172,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 8,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "17.0%",
-      "normalized_value": 0.17,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 9,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "16.9%",
-      "normalized_value": 0.16899999999999998,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 10,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "15.0%",
-      "normalized_value": 0.15,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 11,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "14.0%",
-      "normalized_value": 0.14,
+      "cell_type": "text",
+      "raw_value": "-.27",
+      "normalized_value": "-.27",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -2046,14 +744,14 @@
       "row_index": 9,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 38.0,
+        "y0": 364.0,
+        "x1": 273.0,
+        "y1": 384.0
       },
       "cell_type": "text",
-      "raw_value": "Average operating margin of\nretail autoparts companies with\n100 or more stores",
-      "normalized_value": "Average operating margin of\nretail autoparts companies with\n100 or more stores",
+      "raw_value": "Beta: Single index model",
+      "normalized_value": "Beta: Single index model",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -2080,14 +778,14 @@
       "row_index": 9,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 740.0,
+        "y0": 360.0,
+        "x1": 771.0,
+        "y1": 388.0
       },
-      "cell_type": "percent",
-      "raw_value": "12.0%",
-      "normalized_value": 0.12,
+      "cell_type": "text",
+      "raw_value": "ssh",
+      "normalized_value": "ssh",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -2097,150 +795,14 @@
       "row_index": 9,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 916.0,
+        "y0": 364.0,
+        "x1": 957.0,
+        "y1": 379.0
       },
-      "cell_type": "percent",
-      "raw_value": "11.8%",
-      "normalized_value": 0.11800000000000001,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "11.2%",
-      "normalized_value": 0.11199999999999999,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "11.5%",
-      "normalized_value": 0.115,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "10.6%",
-      "normalized_value": 0.106,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 7,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "10.6%",
-      "normalized_value": 0.106,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 8,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "10.0%",
-      "normalized_value": 0.1,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 9,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "10.4%",
-      "normalized_value": 0.10400000000000001,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 10,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "9.8%",
-      "normalized_value": 0.098,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 11,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "9.0%",
-      "normalized_value": 0.09,
+      "cell_type": "number",
+      "raw_value": "3.05",
+      "normalized_value": 3.05,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -2250,14 +812,14 @@
       "row_index": 10,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 401.0,
+        "x1": 459.0,
+        "y1": 421.0
       },
       "cell_type": "text",
-      "raw_value": "Average operating margin of all\nretail autoparts companies",
-      "normalized_value": "Average operating margin of all\nretail autoparts companies",
+      "raw_value": "Volatility: Standard deviation of stock returns",
+      "normalized_value": "Volatility: Standard deviation of stock returns",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -2284,14 +846,14 @@
       "row_index": 10,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 711.0,
+        "y0": 401.0,
+        "x1": 768.0,
+        "y1": 416.0
       },
-      "cell_type": "percent",
-      "raw_value": "5.5%",
-      "normalized_value": 0.055,
+      "cell_type": "text",
+      "raw_value": "-1.45",
+      "normalized_value": "-1.45",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -2301,150 +863,150 @@
       "row_index": 10,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 900.0,
+        "y0": 401.0,
+        "x1": 957.0,
+        "y1": 416.0
       },
-      "cell_type": "percent",
-      "raw_value": "5.7%",
-      "normalized_value": 0.057,
+      "cell_type": "text",
+      "raw_value": "-1.40",
+      "normalized_value": "-1.40",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 10,
-      "col_index": 4,
+      "row_index": 11,
+      "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 37.0,
+        "y0": 434.0,
+        "x1": 529.0,
+        "y1": 462.0
       },
-      "cell_type": "percent",
-      "raw_value": "5.6%",
-      "normalized_value": 0.055999999999999994,
+      "cell_type": "text",
+      "raw_value": "Turnover: Shares traded as a fraction of outstanding",
+      "normalized_value": "Turnover: Shares traded as a fraction of outstanding",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 10,
-      "col_index": 5,
+      "row_index": 11,
+      "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 537.0,
+        "y0": 438.0,
+        "x1": 599.0,
+        "y1": 453.0
       },
-      "cell_type": "percent",
-      "raw_value": "5.8%",
-      "normalized_value": 0.057999999999999996,
+      "cell_type": "text",
+      "raw_value": "shares",
+      "normalized_value": "shares",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 10,
-      "col_index": 6,
+      "row_index": 11,
+      "col_index": 2,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "percent",
-      "raw_value": "6.0%",
-      "normalized_value": 0.06,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 10,
-      "col_index": 7,
+      "row_index": 11,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 900.0,
+        "y0": 438.0,
+        "x1": 957.0,
+        "y1": 453.0
       },
-      "cell_type": "percent",
-      "raw_value": "6.5%",
-      "normalized_value": 0.065,
+      "cell_type": "text",
+      "raw_value": "-3.68",
+      "normalized_value": "-3.68",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 10,
-      "col_index": 8,
+      "row_index": 12,
+      "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 37.0,
+        "y0": 475.0,
+        "x1": 532.0,
+        "y1": 494.0
       },
-      "cell_type": "percent",
-      "raw_value": "7.0%",
-      "normalized_value": 0.07,
+      "cell_type": "text",
+      "raw_value": "Sales: Total sales as multiple of market capitalization",
+      "normalized_value": "Sales: Total sales as multiple of market capitalization",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 10,
-      "col_index": 9,
+      "row_index": 12,
+      "col_index": 1,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "percent",
-      "raw_value": "7.2%",
-      "normalized_value": 0.07200000000000001,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 10,
-      "col_index": 10,
+      "row_index": 12,
+      "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 740.0,
+        "y0": 475.0,
+        "x1": 768.0,
+        "y1": 490.0
       },
-      "cell_type": "percent",
-      "raw_value": "7.1%",
-      "normalized_value": 0.071,
+      "cell_type": "number",
+      "raw_value": "04",
+      "normalized_value": 4,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 10,
-      "col_index": 11,
+      "row_index": 12,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 916.0,
+        "y0": 475.0,
+        "x1": 957.0,
+        "y1": 490.0
       },
-      "cell_type": "percent",
-      "raw_value": "7.2%",
-      "normalized_value": 0.07200000000000001,
+      "cell_type": "number",
+      "raw_value": "3.10",
+      "normalized_value": 3.1,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -2456,48 +1018,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "Macroeconomic and Industry Analysis CHAPTER 17 This table contains 11 rows and 12 columns.",
-  "table_summary": "Macroeconomic and Industry Analysis CHAPTER 17 This table contains 11 rows and 12 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
-  "linked_concept_ids": [
-    "financial_analysis"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "financial_analysis",
-      "source_anchor": {
-        "page_number": 610,
-        "bbox": {
-          "x0": 108.25,
-          "y0": 18.25,
-          "x1": 564.25,
-          "y1": 326.5191969500001
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.33 + Keywords: ROE",
-      "confidence": 0.5291839659214019
-    }
-  ],
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
-    "page_number": 610,
+    "page_number": 454,
     "bbox": {
-      "x0": 108.25,
-      "y0": 18.25,
-      "x1": 564.25,
-      "y1": 326.5191969500001
+      "x0": 36.0,
+      "y0": 26.0,
+      "x1": 970.0,
+      "y1": 494.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part III: Equilibrium in Capital Markets > Table 13.3 > 13.3: Fama-French-Type Factor Models > The Factor Zoo",
   "page_span": [
-    610,
-    610
-  ]
+    454,
+    454
+  ],
+  "source_chunk_id": "chunk_03560",
+  "page_start": 454,
+  "page_end": 454
 }

@@ -159,6 +159,29 @@ class ContextProcessor:
         for seg in sorted_segments:
             if seg.bbox is None:
                 seg.needs_human_review = True
+            if isinstance(seg, WorkedExampleSegment):
+                merged_text = "\n".join(
+                    x for x in [
+                        seg.title or "",
+                        seg.example_prompt or "",
+                        seg.text_content or "",
+                        "\n".join(seg.steps or []),
+                        seg.final_answer or "",
+                    ]
+                    if x
+                )
+                if not seg.title:
+                    first = (seg.example_prompt or seg.text_content or "").splitlines()[0].strip() if (seg.example_prompt or seg.text_content) else ""
+                    if re.match(r'^\s*example\s+\d+(?:\.\d+)*', first, re.IGNORECASE):
+                        seg.title = first
+                if not seg.given_data:
+                    seg.given_data = self._extract_given_data_simple(merged_text)
+                if not seg.output_variables:
+                    seg.output_variables = self._extract_output_variables_simple(merged_text)
+                if not seg.output_variables:
+                    seg.output_variables = ["computed_result"]
+                if not seg.final_answer:
+                    seg.final_answer = self._extract_final_answer_simple(merged_text)
 
         return sorted_segments
 
@@ -230,10 +253,164 @@ class ContextProcessor:
                     break
                 if parts and prompt_missing:
                     seg.example_prompt = "\n".join(parts)
+                if not seg.title and seg.example_prompt:
+                    first_line = seg.example_prompt.splitlines()[0].strip()
+                    if re.match(r'^\s*example\s+\d+(?:\.\d+)*', first_line, re.IGNORECASE):
+                        seg.title = first_line
                 if step_parts:
                     seg.steps = step_parts
+                # After prompt/steps merge, backfill structured example fields.
+                merged_text = "\n".join(
+                    x for x in [
+                        seg.title or "",
+                        seg.example_prompt or "",
+                        seg.text_content or "",
+                        "\n".join(seg.steps or []),
+                    ]
+                    if x
+                )
+                if not seg.given_data:
+                    seg.given_data = self._extract_given_data_simple(merged_text)
+                if not seg.output_variables:
+                    seg.output_variables = self._extract_output_variables_simple(merged_text)
+                if not seg.output_variables:
+                    seg.output_variables = ["computed_result"]
+                if not seg.final_answer:
+                    seg.final_answer = self._extract_final_answer_simple(merged_text)
             out.append(seg)
         return out
+
+    def _extract_given_data_simple(self, text: str) -> Dict[str, str]:
+        out: Dict[str, str] = {}
+        t = (text or "").strip()
+        if not t:
+            return out
+        norm = self._normalize_math_text(t).replace("$", "")
+        match = re.search(
+            r'given[:\s]+(.*?)(?:\n|\.|;|$|find|calculate|determine|solve)',
+            norm,
+            re.IGNORECASE | re.DOTALL,
+        )
+        search_text = match.group(1) if match else norm[:500]
+        for k, v in re.findall(
+            r'([A-Za-z][A-Za-z0-9_{}\s]*)\s*(?:=|:)\s*'
+            r'(-?\d[\d,]*(?:\.\d+)?\s*%?)',
+            search_text,
+        ):
+            key = re.sub(r'\s+', '', k)
+            out[key] = v.replace(" ", "")
+        # Narrative assignments: "... maintenance margin is 30%" / "... price was 100"
+        narrative = re.findall(
+            r'([A-Za-z][A-Za-z0-9\s\-]{2,40})\s+(?:is|are|was|were|at)\s+'
+            r'(-?\d[\d,]*(?:\.\d+)?\s*%?)',
+            search_text,
+            re.IGNORECASE,
+        )
+        for phrase, val in narrative[:8]:
+            key = self._phrase_to_key(phrase)
+            if key and key not in out:
+                out[key] = val.replace(" ", "")
+        # Fallback: pull first few numeric assignments from the whole text.
+        if not out:
+            for k, v in re.findall(
+                r'([A-Za-z][A-Za-z0-9_{}\s]{0,18})\s*=\s*(-?\d[\d,]*(?:\.\d+)?\s*%?)',
+                norm,
+            )[:6]:
+                key = re.sub(r'\s+', '', k)
+                out[key] = v.replace(" ", "")
+        # Last fallback: store a few numeric clues to avoid empty given_data.
+        if not out:
+            nums = re.findall(r'-?\d[\d,]*(?:\.\d+)?\s*%?', norm)
+            for i, v in enumerate(nums[:4], 1):
+                out[f"value_{i}"] = v.replace(" ", "")
+        return out
+
+    def _extract_output_variables_simple(self, text: str) -> List[str]:
+        t = (text or "").strip()
+        if not t:
+            return []
+        norm = self._normalize_math_text(t).replace("$", "")
+        cands: List[str] = []
+        for m in re.findall(
+            r'(?:find|calculate|determine|solve\s+for|compute|estimate)\s+([A-Za-z][A-Za-z0-9_{}]*)',
+            norm,
+            re.IGNORECASE,
+        ):
+            cands.append(m)
+        question_patterns = [
+            r'what\s+is\s+the\s+([A-Za-z][A-Za-z0-9\s\-]{2,40})\?',
+            r'what\s+does\s+this\s+imply\s+about\s+the\s+([A-Za-z][A-Za-z0-9\s\-]{2,40})\?',
+            r'how\s+(?:far|much)\s+can\s+the\s+([A-Za-z][A-Za-z0-9\s\-]{2,40})\s+(?:fall|rise|change)\b',
+            r'how\s+far\s+could\s+the\s+([A-Za-z][A-Za-z0-9\s\-]{2,40})\s+(?:fall|rise)\b',
+        ]
+        for pat in question_patterns:
+            for phrase in re.findall(pat, norm, re.IGNORECASE):
+                key = self._phrase_to_key(phrase)
+                if key:
+                    cands.append(key)
+        eq = re.findall(r'([A-Za-z][A-Za-z0-9_{}\s]{0,20})\s*=', norm)
+        if eq:
+            cands.append(re.sub(r'\s+', '', eq[-1]))
+        out: List[str] = []
+        seen = set()
+        for c in cands:
+            c = c.strip()
+            if not c:
+                continue
+            if c not in seen:
+                seen.add(c)
+                out.append(c)
+        if out:
+            return out[:5]
+        # Conservative fallback when example clearly computes something.
+        if re.search(r'\b(?:answer|therefore|thus|hence|we get|we find)\b', norm, re.IGNORECASE) or "=" in norm:
+            return ["computed_result"]
+        return []
+
+    def _extract_final_answer_simple(self, text: str) -> Optional[str]:
+        t = (text or "").strip()
+        if not t:
+            return None
+        norm = self._normalize_math_text(t)
+        lines = [ln.strip() for ln in norm.splitlines() if ln.strip()]
+        if lines:
+            for ln in reversed(lines):
+                if re.match(r'^\s*example\s+\d+(?:\.\d+)*', ln, re.IGNORECASE):
+                    continue
+                if re.search(r'\b(?:final answer|answer|therefore|thus|hence|we get|we find)\b', ln, re.IGNORECASE):
+                    return ln
+            for ln in reversed(lines):
+                if re.match(r'^\s*example\s+\d+(?:\.\d+)*', ln, re.IGNORECASE):
+                    continue
+                if "=" in ln:
+                    return ln
+            for ln in reversed(lines):
+                if re.match(r'^\s*example\s+\d+(?:\.\d+)*', ln, re.IGNORECASE):
+                    continue
+                if re.search(r'-?\d[\d,]*(?:\.\d+)?\s*%?', ln):
+                    return ln
+            return lines[-1] if lines else None
+        return None
+
+    def _normalize_math_text(self, text: str) -> str:
+        t = text or ""
+        # Join spaced digits: "1 0 0" -> "100", ". 0 2" -> ".02"
+        t = re.sub(r'(?<=\d)\s+(?=\d)', '', t)
+        t = re.sub(r'(?<=\.)\s+(?=\d)', '', t)
+        # Normalize common OCR spacing around equals and symbols.
+        t = re.sub(r'\s*=\s*', ' = ', t)
+        t = re.sub(r'\s+', ' ', t)
+        return t.strip()
+
+    def _phrase_to_key(self, phrase: str) -> Optional[str]:
+        p = (phrase or "").strip().lower()
+        if not p:
+            return None
+        p = re.sub(r'[^a-z0-9\s_-]', ' ', p)
+        words = [w for w in p.split() if w not in {"the", "a", "an", "of", "to", "in", "on", "for"}]
+        if not words:
+            return None
+        return "_".join(words[:4])
 
     def _merge_question_continuations(self, segments: List[SegmentBase]) -> List[SegmentBase]:
         """

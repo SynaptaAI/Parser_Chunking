@@ -1,28 +1,52 @@
 {
-  "segment_id": "table_p168_idx31",
+  "segment_id": "table_p149_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "that the return on the index in Example 5.5 will be below 5.4 Concept Check",
+  "caption": "",
   "row_headers": [
     [
-      "Figure 5.4 The normal distribution with mean 10% and standard deviation 20%"
+      "A"
     ],
     [
-      ""
+      "B"
+    ],
+    [
+      "€"
+    ],
+    [
+      "D"
     ]
   ],
   "col_headers": [
-    "68.26%\n95.44%\n99.74%\n–3σ –2σ –1σ 0 +1σ +2σ +3σ\n–50% –30% –10% 10% 30% 50% 70%"
+    "Stock",
+    "Shares",
+    "Price"
   ],
   "cells": [
     [
-      "68.26%\n95.44%\n99.74%\n–3σ –2σ –1σ 0 +1σ +2σ +3σ\n–50% –30% –10% 10% 30% 50% 70%"
+      "Stock",
+      "Shares",
+      "Price"
     ],
     [
-      "Figure 5.4 The normal distribution with mean 10% and standard deviation 20%"
+      "A",
+      "200,000",
+      "$35"
     ],
     [
-      ""
+      "B",
+      "300,000",
+      "40"
+    ],
+    [
+      "€",
+      "400,000",
+      "20"
+    ],
+    [
+      "D",
+      "600,000",
+      "25"
     ]
   ],
   "cell_meta": [
@@ -30,14 +54,48 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 11.0,
+        "y0": 11.0,
+        "x1": 63.0,
+        "y1": 26.0
       },
-      "cell_type": "percent",
-      "raw_value": "68.26%\n95.44%\n99.74%\n–3σ –2σ –1σ 0 +1σ +2σ +3σ\n–50% –30% –10% 10% 30% 50% 70%",
-      "normalized_value": "68.26%\n95.44%\n99.74%\n–3σ –2σ –1σ 0 +1σ +2σ +3σ\n–50% –30% –10% 10% 30% 50% 70%",
+      "cell_type": "text",
+      "raw_value": "Stock",
+      "normalized_value": "Stock",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "bbox": {
+        "x0": 175.0,
+        "y0": 11.0,
+        "x1": 240.0,
+        "y1": 26.0
+      },
+      "cell_type": "text",
+      "raw_value": "Shares",
+      "normalized_value": "Shares",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 352.0,
+        "y0": 11.0,
+        "x1": 398.0,
+        "y1": 26.0
+      },
+      "cell_type": "text",
+      "raw_value": "Price",
+      "normalized_value": "Price",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -47,14 +105,48 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 30.0,
+        "y0": 59.0,
+        "x1": 43.0,
+        "y1": 74.0
       },
-      "cell_type": "percent",
-      "raw_value": "Figure 5.4 The normal distribution with mean 10% and standard deviation 20%",
-      "normalized_value": "Figure 5.4 The normal distribution with mean 10% and standard deviation 20%",
+      "cell_type": "text",
+      "raw_value": "A",
+      "normalized_value": "A",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 167.0,
+        "y0": 59.0,
+        "x1": 248.0,
+        "y1": 77.0
+      },
+      "cell_type": "number",
+      "raw_value": "200,000",
+      "normalized_value": 200000,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 356.0,
+        "y0": 57.0,
+        "x1": 393.0,
+        "y1": 76.0
+      },
+      "cell_type": "currency",
+      "raw_value": "$35",
+      "normalized_value": 35.0,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -64,14 +156,150 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 32.0,
+        "y0": 94.0,
+        "x1": 42.0,
+        "y1": 109.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "B",
+      "normalized_value": "B",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 167.0,
+        "y0": 94.0,
+        "x1": 248.0,
+        "y1": 112.0
+      },
+      "cell_type": "number",
+      "raw_value": "300,000",
+      "normalized_value": 300000,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 369.0,
+        "y0": 94.0,
+        "x1": 393.0,
+        "y1": 109.0
+      },
+      "cell_type": "number",
+      "raw_value": "40",
+      "normalized_value": 40,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 30.0,
+        "y0": 128.0,
+        "x1": 43.0,
+        "y1": 143.0
+      },
+      "cell_type": "text",
+      "raw_value": "€",
+      "normalized_value": "€",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 167.0,
+        "y0": 128.0,
+        "x1": 248.0,
+        "y1": 146.0
+      },
+      "cell_type": "number",
+      "raw_value": "400,000",
+      "normalized_value": 400000,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 369.0,
+        "y0": 128.0,
+        "x1": 393.0,
+        "y1": 143.0
+      },
+      "cell_type": "number",
+      "raw_value": "20",
+      "normalized_value": 20,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 31.0,
+        "y0": 162.0,
+        "x1": 43.0,
+        "y1": 177.0
+      },
+      "cell_type": "text",
+      "raw_value": "D",
+      "normalized_value": "D",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 167.0,
+        "y0": 162.0,
+        "x1": 248.0,
+        "y1": 180.0
+      },
+      "cell_type": "number",
+      "raw_value": "600,000",
+      "normalized_value": 600000,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 369.0,
+        "y0": 162.0,
+        "x1": 393.0,
+        "y1": 177.0
+      },
+      "cell_type": "number",
+      "raw_value": "25",
+      "normalized_value": 25,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -83,27 +311,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "that the return on the index in Example 5.5 will be below 5.4 Concept Check This table contains 3 rows and 1 columns.",
-  "table_summary": "that the return on the index in Example 5.5 will be below 5.4 Concept Check This table contains 3 rows and 1 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
   "linked_concept_ids": [],
   "links": [],
   "source_anchor": {
-    "page_number": 168,
+    "page_number": 149,
     "bbox": {
-      "x0": 108.26814936250003,
-      "y0": 86.81600000000003,
-      "x1": 467.498,
-      "y1": 303.288
+      "x0": 11.0,
+      "y0": 11.0,
+      "x1": 398.0,
+      "y1": 180.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "3 3 > PROBLEM SETS",
   "page_span": [
-    168,
-    168
-  ]
+    149,
+    149
+  ],
+  "source_chunk_id": "chunk_00963",
+  "page_start": 149,
+  "page_end": 149
 }

@@ -1475,6 +1475,12 @@ class TextBlockExtractor(BaseExtractor):
         Detect explanatory/prose text that might be misclassified.
         Returns True if it's likely prose, not a formula.
         """
+        # Let derivation-like text pass to derivation detection instead of
+        # being swallowed by prose classification.
+        deriv_score, reasons = self._derivation_score(text)
+        if deriv_score >= 4 and self._has_derivation_math_anchor(text, reasons):
+            return False
+
         # Long text with low math content
         if len(text.split()) > 20:
             math_symbols = {'=', '∑', '√', '∫', 'σ', 'π', 'θ', 'λ', '+', '−', '×', '÷', '^', '**'}
@@ -1650,6 +1656,7 @@ class TextBlockExtractor(BaseExtractor):
 
             # Derivations
             if self._is_derivation(clean_text):
+                 deriv_steps = self._extract_derivation_steps(clean_text)
                  seg = DerivationSegment(
                     segment_id=str(uuid.uuid4()),
                     book_id=book_id,
@@ -1658,7 +1665,7 @@ class TextBlockExtractor(BaseExtractor):
                     page_end=page_num,
                     bbox=BBox(page=page_num, x0=x0, y0=y0, x1=x1, y1=y1),
                     text_content=clean_text,
-                    steps=[clean_text],
+                    steps=deriv_steps if deriv_steps else [clean_text],
                     doc_uri=doc_uri,
                 )
                  segments.append(seg)
@@ -1715,6 +1722,8 @@ class TextBlockExtractor(BaseExtractor):
                     steps = self._fallback_example_steps(clean_text)
                 if not example_prompt:
                     example_prompt = clean_text
+                if not final_answer:
+                    final_answer = self._extract_final_answer(clean_text)
                 
                 seg = WorkedExampleSegment(
                     segment_id=str(uuid.uuid4()),
@@ -1872,32 +1881,105 @@ class TextBlockExtractor(BaseExtractor):
 
     def _extract_given_data(self, text: str) -> Dict[str, Any]:
         """Extract given data as key-value pairs."""
-        given_data = {}
-        # Pattern: "Given: X = 5, Y = 10" or "X = 5, Y = 10"
-        given_match = re.search(r'given[:\s]+(.*?)(?:\.|$|find|calculate|determine)', text, re.IGNORECASE | re.DOTALL)
-        if given_match:
-            given_text = given_match.group(1)
-            # Extract key-value pairs
-            pairs = re.findall(r'([A-Za-z_][A-Za-z0-9_]*)\s*[=:]\s*([0-9.]+)', given_text)
-            for key, value in pairs:
-                try:
-                    given_data[key] = float(value) if '.' in value else int(value)
-                except:
-                    given_data[key] = value
+        given_data: Dict[str, Any] = {}
+        raw = (text or "").strip()
+        if not raw:
+            return given_data
+
+        # Prefer "Given: ..." clause when present.
+        given_match = re.search(
+            r'given[:\s]+(.*?)(?:\n|\.|;|$|find|calculate|determine|solve)',
+            raw,
+            re.IGNORECASE | re.DOTALL,
+        )
+        search_text = given_match.group(1) if given_match else raw[:420]
+
+        # Symbol/value pairs: x = 5, r_f = 2%, P0: $1,000, sigma = 0.22
+        pair_pattern = re.compile(
+            r'([A-Za-z][A-Za-z0-9_{}]*)\s*(?:=|:)\s*'
+            r'(\$?\s*-?\d[\d,]*(?:\.\d+)?\s*%?)'
+        )
+        for key, value in pair_pattern.findall(search_text):
+            cleaned = value.replace(" ", "")
+            given_data[key] = cleaned
+
+        # Finance-specific scalar cues often used in examples.
+        cue_patterns = {
+            "rate": r'\b(?:rate|yield|return)\s*(?:of|=|:)?\s*(\d+(?:\.\d+)?\s*%)',
+            "time_period": r'\b(?:for|over)\s+(\d+(?:\.\d+)?)\s*(?:years?|months?)\b',
+            "price": r'\b(?:price|value|cost)\s*(?:of|=|:)?\s*(\$?\s*\d[\d,]*(?:\.\d+)?)',
+        }
+        for name, pat in cue_patterns.items():
+            if name in given_data:
+                continue
+            m = re.search(pat, search_text, re.IGNORECASE)
+            if m:
+                given_data[name] = m.group(1).strip()
+
         return given_data
 
     def _extract_output_variables(self, text: str) -> List[str]:
         """Extract what the example solves for."""
-        output_vars = []
-        # Patterns: "find X", "calculate Y", "determine Z"
-        patterns = [
-            r'(?:find|calculate|determine|solve for|compute)\s+([A-Za-z_][A-Za-z0-9_]*)',
-            r'([A-Za-z_][A-Za-z0-9_]*)\s*=\s*[^=]+$'  # Last assignment
-        ]
-        for pattern in patterns:
-            matches = re.findall(pattern, text, re.IGNORECASE)
-            output_vars.extend(matches)
-        return list(set(output_vars))[:5]  # Top 5
+        output_vars: List[str] = []
+        raw = (text or "").strip()
+        if not raw:
+            return output_vars
+
+        # Intent patterns: "find X", "solve for y", "determine r_f", etc.
+        for m in re.findall(
+            r'(?:find|calculate|determine|solve\s+for|compute|estimate)\s+([A-Za-z][A-Za-z0-9_{}]*)',
+            raw,
+            re.IGNORECASE,
+        ):
+            output_vars.append(m)
+
+        # Last equation LHS fallback.
+        eq_matches = re.findall(r'([A-Za-z][A-Za-z0-9_{}]*)\s*=', raw)
+        if eq_matches:
+            output_vars.append(eq_matches[-1])
+
+        # Keep deterministic order + dedupe.
+        out: List[str] = []
+        seen = set()
+        for v in output_vars:
+            vv = v.strip()
+            if not vv or vv.lower() in {"the", "a", "an"}:
+                continue
+            if vv not in seen:
+                seen.add(vv)
+                out.append(vv)
+        return out[:5]  # Top 5
+
+    def _extract_final_answer(self, text: str) -> Optional[str]:
+        """Extract final answer line from worked-example text when LLM output is missing."""
+        raw = (text or "").strip()
+        if not raw:
+            return None
+
+        lines = [ln.strip() for ln in raw.splitlines() if ln.strip()]
+        if lines:
+            # Strong cue line first.
+            for ln in reversed(lines):
+                if re.search(r'\b(?:final answer|answer|therefore|thus|hence|we get|we find)\b', ln, re.IGNORECASE):
+                    return ln
+            # Otherwise take the last equation-like line.
+            for ln in reversed(lines):
+                if "=" in ln:
+                    return ln
+            # Last line fallback.
+            return lines[-1]
+
+        # Sentence fallback.
+        sents = [s.strip() for s in re.split(r'(?<=[.!?])\s+', raw) if s.strip()]
+        if not sents:
+            return None
+        for s in reversed(sents):
+            if re.search(r'\b(?:final answer|answer|therefore|thus|hence|we get|we find)\b', s, re.IGNORECASE):
+                return s
+        for s in reversed(sents):
+            if "=" in s:
+                return s
+        return sents[-1]
 
     def _fallback_example_steps(self, text: str) -> List[str]:
         """Fallback steps when LLM structure is missing."""
@@ -2069,11 +2151,162 @@ class TextBlockExtractor(BaseExtractor):
         return False
 
     def _is_derivation(self, text: str) -> bool:
-        start_lower = text.lower()[:50]
-        keywords = ["proof", "derivation", "we can show", "substituting"]
-        for k in keywords:
-            if k in start_lower: return True
+        score, reasons = self._derivation_score(text)
+        if score < 4:
+            return False
+        if not self._has_derivation_math_anchor(text, reasons):
+            return False
+        rs = set(reasons)
+        if "strong_heading" in rs:
+            return True
+        if "transform_verb" in rs or "eq_ref_transform" in rs:
+            return True
+        if "derivation_word" in rs and (
+            "multi_eq_lines" in rs
+            or "eq_with_result" in rs
+            or "by_definition_math" in rs
+            or "symbolic_chain" in rs
+        ):
+            return True
         return False
+
+    def _has_derivation_math_anchor(self, text: str, reasons: Optional[List[str]] = None) -> bool:
+        """Require at least one math anchor unless heading is explicitly derivation/proof."""
+        t = (text or "").lower()
+        rs = set(reasons or [])
+        if "strong_heading" in rs:
+            return True
+        if (
+            "equation_ref" in rs
+            or "eq_ref_transform" in rs
+            or "multi_eq_lines" in rs
+            or "eq_with_result" in rs
+            or "symbolic_chain" in rs
+            or "by_definition_math" in rs
+        ):
+            return True
+        if "=" in t:
+            return True
+        if "->" in t or "=>" in t or "⇒" in t:
+            return True
+        if re.search(r'\b(?:eq\.?|equation)\s*\(?\d+(?:\.\d+)*\)?', t):
+            return True
+        return False
+
+    def _derivation_score(self, text: str) -> Tuple[int, List[str]]:
+        """Heuristic score for derivation/proof-like segments."""
+        t = (text or "").strip()
+        if not t:
+            return 0, []
+        low = t.lower()
+        reasons: List[str] = []
+        score = 0
+
+        strong_heading = re.search(
+            r'^\s*(?:\d+\s*[.)]\s*)?(?:here is a quick\s+)?'
+            r'(?:derivation|proof|we now derive|deriving)\b',
+            low
+        )
+        if strong_heading:
+            score += 4
+            reasons.append("strong_heading")
+
+        if re.search(r'\bderivation\b|\bderive(?:d|s|ing)?\b|\bproof\b', low):
+            score += 3
+            reasons.append("derivation_word")
+
+        if re.search(r'\bsubstitut(?:e|ed|ing|ion)\b|\brearrang(?:e|ed|ing)\b|\bsolve\s+for\b', low):
+            score += 2
+            reasons.append("transform_verb")
+        if re.search(r'\b(?:rewrite|plug(?:ging)?\s+in|set\s+equal|differentiat(?:e|ed|ing|ion)|integrat(?:e|ed|ing|ion))\b', low):
+            score += 2
+            reasons.append("transform_verb")
+        if re.search(r'\bby\s+definition\b', low) and ('=' in t or re.search(r'\b(?:eq\.?|equation)\s*\(?\d+(?:\.\d+)*\)?', low)):
+            score += 2
+            reasons.append("by_definition_math")
+
+        if re.search(r'\b(?:therefore|thus|hence|which yields|implies)\b', low):
+            score += 1
+            reasons.append("result_discourse")
+
+        has_eq_ref = bool(re.search(r'\b(?:eq\.?|equation)\s*\(?\d+(?:\.\d+)*\)?', low))
+        has_eq_sign = "=" in t
+        if has_eq_ref:
+            score += 1
+            reasons.append("equation_ref")
+        if has_eq_ref and re.search(r'\b(?:substitut|rearrang|derive|therefore|thus|hence)\b', low):
+            score += 2
+            reasons.append("eq_ref_transform")
+        if re.search(r'\b(?:eq\.?|equation)\s*\(?\d+(?:\.\d+)*\)?\s+(?:shows|tells|implies|demonstrates|reflects)\b', low):
+            score -= 3
+            reasons.append("equation_commentary")
+
+        lines = [ln.strip() for ln in t.splitlines() if ln.strip()]
+        eq_lines = sum(1 for ln in lines if '=' in ln)
+        if eq_lines >= 2:
+            score += 3
+            reasons.append("multi_eq_lines")
+        elif has_eq_sign and re.search(r'\b(?:therefore|thus|hence)\b', low):
+            score += 2
+            reasons.append("eq_with_result")
+        if t.count("=") >= 2 and eq_lines <= 1:
+            score += 2
+            reasons.append("symbolic_chain")
+        if "->" in t or "=>" in t or "⇒" in t:
+            score += 2
+            reasons.append("symbolic_chain")
+
+        # Reduce obvious non-math false positives.
+        if re.search(r'\bproof of ownership\b|\bsubstitute products?\b', low):
+            score -= 4
+            reasons.append("non_math_phrase")
+
+        if len(t.split()) < 6 and not has_eq_sign and not has_eq_ref:
+            score -= 2
+            reasons.append("too_short")
+
+        return score, reasons
+
+    def _extract_derivation_steps(self, text: str) -> List[str]:
+        """Extract ordered derivation steps while preserving key math lines."""
+        t = (text or "").strip()
+        if not t:
+            return []
+
+        # Support both true multi-line derivations and single-line symbolic chains.
+        lines = [ln.strip() for ln in re.split(r'[\n;]+', t) if ln.strip()]
+        if len(lines) > 1:
+            steps: List[str] = []
+            for ln in lines:
+                low = ln.lower()
+                if (
+                    '=' in ln
+                    or '->' in ln
+                    or '=>' in ln
+                    or '⇒' in ln
+                    or re.search(r'\b(?:therefore|thus|hence|substitut|rearrang|derive|rewrite|differentiat|integrat|by\s+definition|eq\.?|equation)\b', low)
+                ):
+                    steps.append(ln)
+            if steps:
+                return steps[:12]
+            return lines[:12]
+
+        sentences = re.split(r'(?<=[.!?])\s+', t)
+        kept = []
+        for s in sentences:
+            ss = s.strip()
+            if not ss:
+                continue
+            low = ss.lower()
+            if (
+                '=' in ss
+                or '->' in ss
+                or '=>' in ss
+                or '⇒' in ss
+                or re.search(r'\b(?:therefore|thus|hence|substitut|rearrang|derive|rewrite|differentiat|integrat|by\s+definition|eq\.?|equation)\b', low)
+            ):
+                kept.append(ss)
+        return (kept or [t])[:12]
     
     def _is_calculation_block(self, text: str) -> bool:
         """
@@ -2145,6 +2378,10 @@ class TextBlockExtractor(BaseExtractor):
         
         # Skip very short text
         if len(text_lower) < 10:
+            return False
+
+        # Let derivation classifier take precedence on math-transform text.
+        if self._is_derivation(text):
             return False
         
         # Only detect solutions in "Solutions to Concept Checks" or similar sections
@@ -2842,25 +3079,87 @@ class Linker:
             source_text += " " + (source_seg.context_before or "").lower()
         if source_seg.context_after:
             source_text += " " + (source_seg.context_after or "").lower()
-        scored: List[Tuple[int, str]] = []
+        source_page = getattr(source_seg, "page_start", None)
+
+        def _main_ch(ch: Optional[str]) -> Optional[str]:
+            if not ch or ch == "Unknown":
+                return None
+            m = re.match(r'^\s*(\d+)', ch)
+            return m.group(1) if m else None
+
+        source_main_ch = _main_ch(getattr(source_seg, "chapter_number", None))
+        source_tokens = set(re.findall(r"\b[a-zA-Z][a-zA-Z0-9_]*\b", source_text))
+        eq_ref_hint = bool(re.search(r'\b(?:eq\.?|equation)\b', source_text))
+        common_singletons = {"a", "b", "c", "d", "e", "i", "j", "k", "m", "n", "p", "q", "r", "s", "t", "x", "y", "z"}
+
+        scored: List[Tuple[float, str]] = []
         for fid, formula in all_formulas.items():
             if fid == getattr(source_seg, "segment_id", None):
                 continue
-            overlap = 0
+
+            # Constrain by chapter/page proximity to avoid global formula hubs.
+            form_main_ch = _main_ch(getattr(formula, "chapter_number", None))
+            if source_main_ch and form_main_ch and source_main_ch != form_main_ch:
+                continue
+            if source_page and getattr(formula, "page_start", None):
+                if abs(int(formula.page_start) - int(source_page)) > 40:
+                    continue
+
+            overlap = 0.0
             for var in formula.variables:
-                sym, meaning = var.symbol.lower(), (var.meaning or "").lower()
-                if sym and sym in source_text:
-                    overlap += 1
-                if meaning and len(meaning) > 2 and meaning in source_text:
-                    overlap += 1
-            if overlap > 0:
-                scored.append((overlap, fid))
+                sym = (var.symbol or "").strip().lower()
+                meaning = (var.meaning or "").strip().lower()
+                if sym:
+                    # Single-letter symbols are noisy; require token-level exact hit.
+                    if len(sym) == 1:
+                        if sym not in common_singletons and sym in source_tokens:
+                            overlap += 0.5
+                    else:
+                        if sym in source_tokens:
+                            overlap += 1.0
+                if meaning and len(meaning) >= 4 and meaning in source_text:
+                    overlap += 1.5
+
+            # Require stronger evidence unless there is explicit equation reference cue.
+            if overlap < 1.5 and not (eq_ref_hint and formula.equation_number and overlap >= 1.0):
+                continue
+
+            # Penalize long-distance links.
+            dist_penalty = 0.0
+            if source_page and getattr(formula, "page_start", None):
+                dist = abs(int(formula.page_start) - int(source_page))
+                dist_penalty = min(dist / 50.0, 0.8)
+            score = overlap - dist_penalty
+            if score > 0:
+                scored.append((score, fid))
+
         scored.sort(key=lambda x: (-x[0], x[1]))
         linked: List[str] = []
         for _, fid in scored[:max_refs]:
             if fid not in source_seg.referenced_formula_ids:
                 source_seg.referenced_formula_ids.append(fid)
                 linked.append(fid)
+
+        # Conservative fallback for pedagogical blocks:
+        # if no variable-overlap link is found, attach the nearest equation-labeled
+        # formula in the same chapter window to preserve explain/example chains.
+        if not linked and isinstance(source_seg, (WorkedExampleSegment, DerivationSegment, CalculationSegment)):
+            nearby: List[Tuple[int, str]] = []
+            for fid, formula in all_formulas.items():
+                if fid == getattr(source_seg, "segment_id", None):
+                    continue
+                form_main_ch = _main_ch(getattr(formula, "chapter_number", None))
+                if source_main_ch and form_main_ch and source_main_ch != form_main_ch:
+                    continue
+                if source_page and getattr(formula, "page_start", None):
+                    dist = abs(int(formula.page_start) - int(source_page))
+                    if dist <= 20:
+                        nearby.append((dist, fid))
+            nearby.sort(key=lambda x: (x[0], x[1]))
+            for _, fid in nearby[:1]:
+                if fid not in source_seg.referenced_formula_ids:
+                    source_seg.referenced_formula_ids.append(fid)
+                    linked.append(fid)
         return linked
 
     def _normalize_eq_num(self, eq_num: str) -> str:

@@ -1,32 +1,59 @@
 {
-  "segment_id": "table_p239_idx50",
+  "segment_id": "table_p193_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "Portfolio Theory and Practice",
+  "caption": "",
   "row_headers": [
     [
-      "ρ = –1\nρ = 0"
+      "Probability"
     ],
     [
-      ""
+      "Stock"
+    ],
+    [
+      "Stock"
     ]
   ],
   "col_headers": [
-    "E\nρ = –1\nρ = 0\nρ = 0.30\nρ = 1\nD",
-    ""
+    "",
+    "",
+    "Bear Market",
+    "Normal",
+    "Market",
+    "Bull Market"
   ],
   "cells": [
     [
-      "E\nρ = –1\nρ = 0\nρ = 0.30\nρ = 1\nD",
-      ""
-    ],
-    [
-      "ρ = –1\nρ = 0",
-      "ρ = 0.30\nρ = 1\nD"
-    ],
-    [
       "",
-      ""
+      "",
+      "Bear Market",
+      "Normal",
+      "Market",
+      "Bull Market"
+    ],
+    [
+      "Probability",
+      "",
+      "0.2",
+      "",
+      "0.5",
+      "0.3"
+    ],
+    [
+      "Stock",
+      "X",
+      "—20%",
+      "",
+      "18%",
+      "50%"
+    ],
+    [
+      "Stock",
+      "Y",
+      "—15%",
+      "",
+      "20%",
+      "10%"
     ]
   ],
   "cell_meta": [
@@ -39,9 +66,9 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "formula",
-      "raw_value": "E\nρ = –1\nρ = 0\nρ = 0.30\nρ = 1\nD",
-      "normalized_value": "E\nρ = –1\nρ = 0\nρ = 0.30\nρ = 1\nD",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -65,17 +92,85 @@
       "units": null
     },
     {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 174.0,
+        "y0": 10.0,
+        "x1": 290.0,
+        "y1": 25.0
+      },
+      "cell_type": "text",
+      "raw_value": "Bear Market",
+      "normalized_value": "Bear Market",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 360.0,
+        "y0": 10.0,
+        "x1": 427.0,
+        "y1": 25.0
+      },
+      "cell_type": "text",
+      "raw_value": "Normal",
+      "normalized_value": "Normal",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 4,
+      "bbox": {
+        "x0": 436.0,
+        "y0": 10.0,
+        "x1": 501.0,
+        "y1": 25.0
+      },
+      "cell_type": "text",
+      "raw_value": "Market",
+      "normalized_value": "Market",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 5,
+      "bbox": {
+        "x0": 570.0,
+        "y0": 10.0,
+        "x1": 677.0,
+        "y1": 25.0
+      },
+      "cell_type": "text",
+      "raw_value": "Bull Market",
+      "normalized_value": "Bull Market",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 11.0,
+        "y0": 57.0,
+        "x1": 105.0,
+        "y1": 84.0
       },
-      "cell_type": "formula",
-      "raw_value": "ρ = –1\nρ = 0",
-      "normalized_value": "ρ = –1\nρ = 0",
+      "cell_type": "text",
+      "raw_value": "Probability",
+      "normalized_value": "Probability",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -90,9 +185,77 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "formula",
-      "raw_value": "ρ = 0.30\nρ = 1\nD",
-      "normalized_value": "ρ = 0.30\nρ = 1\nD",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 217.0,
+        "y0": 61.0,
+        "x1": 245.0,
+        "y1": 76.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.2",
+      "normalized_value": 0.2,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 4,
+      "bbox": {
+        "x0": 415.0,
+        "y0": 61.0,
+        "x1": 444.0,
+        "y1": 76.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.5",
+      "normalized_value": 0.5,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 5,
+      "bbox": {
+        "x0": 609.0,
+        "y0": 61.0,
+        "x1": 637.0,
+        "y1": 76.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.3",
+      "normalized_value": 0.3,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -101,6 +264,57 @@
     {
       "row_index": 2,
       "col_index": 0,
+      "bbox": {
+        "x0": 11.0,
+        "y0": 94.0,
+        "x1": 62.0,
+        "y1": 109.0
+      },
+      "cell_type": "text",
+      "raw_value": "Stock",
+      "normalized_value": "Stock",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 69.0,
+        "y0": 94.0,
+        "x1": 82.0,
+        "y1": 109.0
+      },
+      "cell_type": "text",
+      "raw_value": "X",
+      "normalized_value": "X",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 204.0,
+        "y0": 94.0,
+        "x1": 260.0,
+        "y1": 109.0
+      },
+      "cell_type": "percent",
+      "raw_value": "—20%",
+      "normalized_value": "—20%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -117,7 +331,92 @@
     },
     {
       "row_index": 2,
+      "col_index": 4,
+      "bbox": {
+        "x0": 412.0,
+        "y0": 94.0,
+        "x1": 450.0,
+        "y1": 109.0
+      },
+      "cell_type": "percent",
+      "raw_value": "18%",
+      "normalized_value": 0.18,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 5,
+      "bbox": {
+        "x0": 604.0,
+        "y0": 94.0,
+        "x1": 644.0,
+        "y1": 109.0
+      },
+      "cell_type": "percent",
+      "raw_value": "50%",
+      "normalized_value": 0.5,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 11.0,
+        "y0": 127.0,
+        "x1": 62.0,
+        "y1": 142.0
+      },
+      "cell_type": "text",
+      "raw_value": "Stock",
+      "normalized_value": "Stock",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
       "col_index": 1,
+      "bbox": {
+        "x0": 69.0,
+        "y0": 127.0,
+        "x1": 82.0,
+        "y1": 142.0
+      },
+      "cell_type": "text",
+      "raw_value": "Y",
+      "normalized_value": "Y",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 204.0,
+        "y0": 127.0,
+        "x1": 260.0,
+        "y1": 142.0
+      },
+      "cell_type": "percent",
+      "raw_value": "—15%",
+      "normalized_value": "—15%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -127,6 +426,40 @@
       "cell_type": "blank",
       "raw_value": "",
       "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 4,
+      "bbox": {
+        "x0": 410.0,
+        "y0": 127.0,
+        "x1": 450.0,
+        "y1": 142.0
+      },
+      "cell_type": "percent",
+      "raw_value": "20%",
+      "normalized_value": 0.2,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 5,
+      "bbox": {
+        "x0": 605.0,
+        "y0": 127.0,
+        "x1": 644.0,
+        "y1": 142.0
+      },
+      "cell_type": "percent",
+      "raw_value": "10%",
+      "normalized_value": 0.1,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -135,121 +468,33 @@
   ],
   "footnotes": [],
   "units": [],
-  "formula_cells": [
-    {
-      "cell_address": "A1",
-      "formula_text": "E\nρ = –1\nρ = 0\nρ = 0.30\nρ = 1\nD",
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "source_anchor": {
-        "page_number": 239,
-        "bbox": {
-          "x0": 129.44495072499998,
-          "y0": 51.79516856666661,
-          "x1": 327.39900105000004,
-          "y1": 233.75216910000003
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "confidence": 0.9
-    },
-    {
-      "cell_address": "A2",
-      "formula_text": "ρ = –1\nρ = 0",
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "source_anchor": {
-        "page_number": 239,
-        "bbox": {
-          "x0": 129.44495072499998,
-          "y0": 51.79516856666661,
-          "x1": 327.39900105000004,
-          "y1": 233.75216910000003
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "confidence": 0.9
-    },
-    {
-      "cell_address": "B2",
-      "formula_text": "ρ = 0.30\nρ = 1\nD",
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "source_anchor": {
-        "page_number": 239,
-        "bbox": {
-          "x0": 129.44495072499998,
-          "y0": 51.79516856666661,
-          "x1": 327.39900105000004,
-          "y1": 233.75216910000003
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "confidence": 0.9
-    }
-  ],
+  "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "Portfolio Theory and Practice This table contains 3 rows and 2 columns.",
-  "table_summary": "Portfolio Theory and Practice This table contains 3 rows and 2 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
-  "linked_concept_ids": [
-    "portfolio_theory"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "portfolio_theory",
-      "source_anchor": {
-        "page_number": 239,
-        "bbox": {
-          "x0": 129.44495072499998,
-          "y0": 51.79516856666661,
-          "x1": 327.39900105000004,
-          "y1": 233.75216910000003
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.39 + Keywords: portfolio, Portfolio Theory",
-      "confidence": 0.5864433765411377
-    }
-  ],
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
-    "page_number": 239,
+    "page_number": 193,
     "bbox": {
-      "x0": 129.44495072499998,
-      "y0": 51.79516856666661,
-      "x1": 327.39900105000004,
-      "y1": 233.75216910000003
+      "x0": 11.0,
+      "y0": 10.0,
+      "x1": 677.0,
+      "y1": 142.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part II: Portfolio Theory and Practice > PROBLEM SETS",
   "page_span": [
-    239,
-    239
-  ]
+    193,
+    193
+  ],
+  "source_chunk_id": "chunk_01300",
+  "page_start": 193,
+  "page_end": 193
 }

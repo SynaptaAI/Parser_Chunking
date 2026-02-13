@@ -1,52 +1,100 @@
 {
-  "segment_id": "table_p116_idx19",
+  "segment_id": "table_p115_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "will then be Let’s say that you have $50,000 in Treasury bills. Your account with",
+  "caption": "",
   "row_headers": [
     [
-      "Cash"
+      "Time Action"
     ],
     [
-      "T-bills"
+      "Buy share"
+    ],
+    [
+      "1 Receive dividend,"
+    ],
+    [
+      "Profit = (Ending price + Dividend)"
+    ],
+    [
+      ""
+    ],
+    [
+      "Time Action"
+    ],
+    [
+      "(0) Borrow share;"
+    ],
+    [
+      "1 Repay dividend"
+    ],
+    [
+      "replace the share"
+    ],
+    [
+      "Profit = Initial price — (Ending"
     ]
   ],
   "col_headers": [
-    "Assets",
     "",
-    "",
-    "",
-    "Liabilities and Owners’ Equity",
-    "",
+    "Purchase of Stock",
     ""
   ],
   "cells": [
     [
-      "Assets",
       "",
-      "",
-      "",
-      "Liabilities and Owners’ Equity",
-      "",
+      "Purchase of Stock",
       ""
     ],
     [
+      "Time Action",
       "Cash",
-      "",
-      "$100,000",
-      "",
-      "Short position in Dot Bomb\nstock (1,000 shares owed)",
-      "",
-      "$100,000"
+      "Flow*"
     ],
     [
-      "T-bills",
+      "Buy share",
+      "—",
+      "Initial price"
+    ],
+    [
+      "1 Receive dividend,",
+      "sell share Ending",
+      "price + Dividend"
+    ],
+    [
+      "Profit = (Ending price + Dividend)",
+      "— Initial price",
+      ""
+    ],
+    [
       "",
-      "50,000",
-      "",
-      "Equity",
-      "",
-      "50,000"
+      "Short Sale of Stock",
+      ""
+    ],
+    [
+      "Time Action",
+      "Cash",
+      "Flow*"
+    ],
+    [
+      "(0) Borrow share;",
+      "sell it +",
+      "Initial price"
+    ],
+    [
+      "1 Repay dividend",
+      "and buy share to —",
+      "(Ending price + Dividend)"
+    ],
+    [
+      "replace the share",
+      "originally borrowed",
+      ""
+    ],
+    [
+      "Profit = Initial price — (Ending",
+      "price + Dividend)",
+      ""
     ]
   ],
   "cell_meta": [
@@ -59,9 +107,9 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "Assets",
-      "normalized_value": "Assets",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -71,14 +119,14 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 407.0,
+        "y0": 25.0,
+        "x1": 586.0,
+        "y1": 40.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Purchase of Stock",
+      "normalized_value": "Purchase of Stock",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -102,68 +150,17 @@
       "units": null
     },
     {
-      "row_index": 0,
-      "col_index": 3,
+      "row_index": 1,
+      "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 72.0,
+        "x1": 262.0,
+        "y1": 101.0
       },
       "cell_type": "text",
-      "raw_value": "Liabilities and Owners’ Equity",
-      "normalized_value": "Liabilities and Owners’ Equity",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "raw_value": "Time Action",
+      "normalized_value": "Time Action",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -171,12 +168,12 @@
     },
     {
       "row_index": 1,
-      "col_index": 0,
+      "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 666.0,
+        "y0": 76.0,
+        "x1": 715.0,
+        "y1": 91.0
       },
       "cell_type": "text",
       "raw_value": "Cash",
@@ -188,101 +185,16 @@
     },
     {
       "row_index": 1,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "currency",
-      "raw_value": "$100,000",
-      "normalized_value": 100000.0,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 724.0,
+        "y0": 76.0,
+        "x1": 777.0,
+        "y1": 91.0
       },
       "cell_type": "text",
-      "raw_value": "Short position in Dot Bomb\nstock (1,000 shares owed)",
-      "normalized_value": "Short position in Dot Bomb\nstock (1,000 shares owed)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "currency",
-      "raw_value": "$100,000",
-      "normalized_value": 100000.0,
+      "raw_value": "Flow*",
+      "normalized_value": "Flow*",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -292,14 +204,14 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 200.0,
+        "y0": 125.0,
+        "x1": 293.0,
+        "y1": 145.0
       },
       "cell_type": "text",
-      "raw_value": "T-bills",
-      "normalized_value": "T-bills",
+      "raw_value": "Buy share",
+      "normalized_value": "Buy share",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -309,14 +221,14 @@
       "row_index": 2,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 667.0,
+        "y0": 133.0,
+        "x1": 680.0,
+        "y1": 135.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "—",
+      "normalized_value": "—",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -326,56 +238,107 @@
       "row_index": 2,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "50,000",
-      "normalized_value": 50000,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 688.0,
+        "y0": 125.0,
+        "x1": 788.0,
+        "y1": 144.0
       },
       "cell_type": "text",
-      "raw_value": "Equity",
-      "normalized_value": "Equity",
+      "raw_value": "Initial price",
+      "normalized_value": "Initial price",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 2,
-      "col_index": 5,
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 62.0,
+        "y0": 157.0,
+        "x1": 368.0,
+        "y1": 175.0
+      },
+      "cell_type": "text",
+      "raw_value": "1 Receive dividend,",
+      "normalized_value": "1 Receive dividend,",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 376.0,
+        "y0": 157.0,
+        "x1": 731.0,
+        "y1": 177.0
+      },
+      "cell_type": "text",
+      "raw_value": "sell share Ending",
+      "normalized_value": "sell share Ending",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 740.0,
+        "y0": 157.0,
+        "x1": 897.0,
+        "y1": 176.0
+      },
+      "cell_type": "text",
+      "raw_value": "price + Dividend",
+      "normalized_value": "price + Dividend",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 194.0,
+        "x1": 354.0,
+        "y1": 214.0
+      },
+      "cell_type": "formula",
+      "raw_value": "Profit = (Ending price + Dividend)",
+      "normalized_value": "Profit = (Ending price + Dividend)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 361.0,
+        "y0": 194.0,
+        "x1": 483.0,
+        "y1": 213.0
+      },
+      "cell_type": "text",
+      "raw_value": "— Initial price",
+      "normalized_value": "— Initial price",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -391,17 +354,306 @@
       "units": null
     },
     {
-      "row_index": 2,
-      "col_index": 6,
+      "row_index": 5,
+      "col_index": 0,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "number",
-      "raw_value": "50,000",
-      "normalized_value": 50000,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 401.0,
+        "y0": 245.0,
+        "x1": 591.0,
+        "y1": 260.0
+      },
+      "cell_type": "text",
+      "raw_value": "Short Sale of Stock",
+      "normalized_value": "Short Sale of Stock",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 0,
+      "bbox": {
+        "x0": 36.0,
+        "y0": 292.0,
+        "x1": 262.0,
+        "y1": 321.0
+      },
+      "cell_type": "text",
+      "raw_value": "Time Action",
+      "normalized_value": "Time Action",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 1,
+      "bbox": {
+        "x0": 666.0,
+        "y0": 296.0,
+        "x1": 715.0,
+        "y1": 311.0
+      },
+      "cell_type": "text",
+      "raw_value": "Cash",
+      "normalized_value": "Cash",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
+      "bbox": {
+        "x0": 724.0,
+        "y0": 296.0,
+        "x1": 777.0,
+        "y1": 311.0
+      },
+      "cell_type": "text",
+      "raw_value": "Flow*",
+      "normalized_value": "Flow*",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 55.0,
+        "y0": 340.0,
+        "x1": 331.0,
+        "y1": 366.0
+      },
+      "cell_type": "text",
+      "raw_value": "(0) Borrow share;",
+      "normalized_value": "(0) Borrow share;",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 1,
+      "bbox": {
+        "x0": 338.0,
+        "y0": 344.0,
+        "x1": 680.0,
+        "y1": 360.0
+      },
+      "cell_type": "text",
+      "raw_value": "sell it +",
+      "normalized_value": "sell it +",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 2,
+      "bbox": {
+        "x0": 688.0,
+        "y0": 344.0,
+        "x1": 788.0,
+        "y1": 363.0
+      },
+      "cell_type": "text",
+      "raw_value": "Initial price",
+      "normalized_value": "Initial price",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 0,
+      "bbox": {
+        "x0": 62.0,
+        "y0": 377.0,
+        "x1": 346.0,
+        "y1": 396.0
+      },
+      "cell_type": "text",
+      "raw_value": "1 Repay dividend",
+      "normalized_value": "1 Repay dividend",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 1,
+      "bbox": {
+        "x0": 354.0,
+        "y0": 377.0,
+        "x1": 680.0,
+        "y1": 396.0
+      },
+      "cell_type": "text",
+      "raw_value": "and buy share to —",
+      "normalized_value": "and buy share to —",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 2,
+      "bbox": {
+        "x0": 688.0,
+        "y0": 377.0,
+        "x1": 929.0,
+        "y1": 397.0
+      },
+      "cell_type": "text",
+      "raw_value": "(Ending price + Dividend)",
+      "normalized_value": "(Ending price + Dividend)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 0,
+      "bbox": {
+        "x0": 200.0,
+        "y0": 408.0,
+        "x1": 366.0,
+        "y1": 427.0
+      },
+      "cell_type": "text",
+      "raw_value": "replace the share",
+      "normalized_value": "replace the share",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 1,
+      "bbox": {
+        "x0": 373.0,
+        "y0": 408.0,
+        "x1": 556.0,
+        "y1": 428.0
+      },
+      "cell_type": "text",
+      "raw_value": "originally borrowed",
+      "normalized_value": "originally borrowed",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 445.0,
+        "x1": 311.0,
+        "y1": 465.0
+      },
+      "cell_type": "formula",
+      "raw_value": "Profit = Initial price — (Ending",
+      "normalized_value": "Profit = Initial price — (Ending",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 1,
+      "bbox": {
+        "x0": 320.0,
+        "y0": 445.0,
+        "x1": 483.0,
+        "y1": 464.0
+      },
+      "cell_type": "text",
+      "raw_value": "price + Dividend)",
+      "normalized_value": "price + Dividend)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -413,27 +665,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "will then be Let’s say that you have $50,000 in Treasury bills. Your account with This table contains 3 rows and 7 columns.",
-  "table_summary": "will then be Let’s say that you have $50,000 in Treasury bills. Your account with This table contains 3 rows and 7 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
   "linked_concept_ids": [],
   "links": [],
   "source_anchor": {
-    "page_number": 116,
+    "page_number": 115,
     "bbox": {
-      "x0": 120.25,
-      "y0": 289.8699965699999,
-      "x1": 455.38914875000006,
-      "y1": 347.57990175
+      "x0": 36.0,
+      "y0": 25.0,
+      "x1": 929.0,
+      "y1": 465.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "3 3 > Table 3.2",
   "page_span": [
-    116,
-    116
-  ]
+    115,
+    115
+  ],
+  "source_chunk_id": "chunk_00678",
+  "page_start": 115,
+  "page_end": 115
 }

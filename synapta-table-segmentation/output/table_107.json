@@ -1,58 +1,125 @@
 {
-  "segment_id": "table_p498_idx106",
+  "segment_id": "table_p317_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "payments, but at the maturity but the firm is having financial difficulties. Investors believe that",
+  "caption": "",
   "row_headers": [
     [
-      "Coupon payment"
+      "Weights"
     ],
     [
-      "Number of semiannual periods"
+      "wy"
     ],
     [
-      "Final payment"
+      "We"
     ],
     [
-      "Price"
+      "Wee"
+    ],
+    [
+      "Wh"
     ]
   ],
   "col_headers": [
+    "Portfolio",
     "",
-    "Expected YTM",
-    "Stated YTM"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "cells": [
     [
+      "Portfolio",
       "",
-      "Expected YTM",
-      "Stated YTM"
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     [
-      "Coupon payment",
-      "$45",
-      "$45"
+      "Weights",
+      "",
+      "Ww,",
+      "",
+      "",
+      "Wee",
+      "",
+      "Wh",
+      ""
     ],
     [
-      "Number of semiannual periods",
-      "20 periods",
-      "20 periods"
+      "wy",
+      "",
+      "Ri)",
+      "Ro)",
+      "",
+      "",
+      "Ree)",
+      "",
+      "Rp)"
     ],
     [
-      "Final payment",
-      "$700",
-      "$1,000"
+      "We",
+      "Cov(R2,",
+      "Ri)",
+      "Ro)",
+      "Covi(R2,",
+      "",
+      "Ree)",
+      "",
+      "Rn)"
     ],
     [
-      "Price",
-      "$750",
-      "$750"
+      "Wee",
+      "Cov(Ree,",
+      "",
+      "Ro)",
+      "",
+      "",
+      "Ree)",
+      "Cov(Ree,",
+      "Rn)"
+    ],
+    [
+      "Wh",
+      "Cov(Rp,",
+      "R1)",
+      "R2)",
+      "",
+      "",
+      "Ree)",
+      "Cov(Rn,",
+      "Rn)"
     ]
   ],
   "cell_meta": [
     {
       "row_index": 0,
       "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 25.0,
+        "x1": 121.0,
+        "y1": 40.0
+      },
+      "cell_type": "text",
+      "raw_value": "Portfolio",
+      "normalized_value": "Portfolio",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -69,16 +136,16 @@
     },
     {
       "row_index": 0,
-      "col_index": 1,
+      "col_index": 2,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "Expected YTM",
-      "normalized_value": "Expected YTM",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -86,16 +153,101 @@
     },
     {
       "row_index": 0,
-      "col_index": 2,
+      "col_index": 3,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "Stated YTM",
-      "normalized_value": "Stated YTM",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 6,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 7,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 8,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -105,14 +257,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 34.0,
+        "y0": 48.0,
+        "x1": 119.0,
+        "y1": 76.0
       },
       "cell_type": "text",
-      "raw_value": "Coupon payment",
-      "normalized_value": "Coupon payment",
+      "raw_value": "Weights",
+      "normalized_value": "Weights",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -127,9 +279,9 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "currency",
-      "raw_value": "$45",
-      "normalized_value": 45.0,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -139,14 +291,116 @@
       "row_index": 1,
       "col_index": 2,
       "bbox": {
+        "x0": 218.0,
+        "y0": 48.0,
+        "x1": 241.0,
+        "y1": 76.0
+      },
+      "cell_type": "text",
+      "raw_value": "Ww,",
+      "normalized_value": "Ww,",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "currency",
-      "raw_value": "$45",
-      "normalized_value": 45.0,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 5,
+      "bbox": {
+        "x0": 633.0,
+        "y0": 57.0,
+        "x1": 669.0,
+        "y1": 72.0
+      },
+      "cell_type": "text",
+      "raw_value": "Wee",
+      "normalized_value": "Wee",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 6,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 7,
+      "bbox": {
+        "x0": 845.0,
+        "y0": 57.0,
+        "x1": 869.0,
+        "y1": 72.0
+      },
+      "cell_type": "text",
+      "raw_value": "Wh",
+      "normalized_value": "Wh",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 8,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -156,14 +410,14 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 37.0,
+        "y0": 108.0,
+        "x1": 57.0,
+        "y1": 124.0
       },
       "cell_type": "text",
-      "raw_value": "Number of semiannual periods",
-      "normalized_value": "Number of semiannual periods",
+      "raw_value": "wy",
+      "normalized_value": "wy",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -178,9 +432,9 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "20 periods",
-      "normalized_value": "20 periods",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -190,14 +444,116 @@
       "row_index": 2,
       "col_index": 2,
       "bbox": {
+        "x0": 248.0,
+        "y0": 104.0,
+        "x1": 274.0,
+        "y1": 124.0
+      },
+      "cell_type": "text",
+      "raw_value": "Ri)",
+      "normalized_value": "Ri)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 415.0,
+        "y0": 104.0,
+        "x1": 441.0,
+        "y1": 124.0
+      },
+      "cell_type": "text",
+      "raw_value": "Ro)",
+      "normalized_value": "Ro)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 4,
+      "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 6,
+      "bbox": {
+        "x0": 665.0,
+        "y0": 104.0,
+        "x1": 702.0,
+        "y1": 124.0
+      },
       "cell_type": "text",
-      "raw_value": "20 periods",
-      "normalized_value": "20 periods",
+      "raw_value": "Ree)",
+      "normalized_value": "Ree)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 7,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 8,
+      "bbox": {
+        "x0": 921.0,
+        "y0": 104.0,
+        "x1": 946.0,
+        "y1": 124.0
+      },
+      "cell_type": "text",
+      "raw_value": "Rp)",
+      "normalized_value": "Rp)",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -207,14 +563,14 @@
       "row_index": 3,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 37.0,
+        "y0": 141.0,
+        "x1": 59.0,
+        "y1": 157.0
       },
       "cell_type": "text",
-      "raw_value": "Final payment",
-      "normalized_value": "Final payment",
+      "raw_value": "We",
+      "normalized_value": "We",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -224,14 +580,14 @@
       "row_index": 3,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 173.0,
+        "y0": 137.0,
+        "x1": 241.0,
+        "y1": 157.0
       },
-      "cell_type": "currency",
-      "raw_value": "$700",
-      "normalized_value": 700.0,
+      "cell_type": "text",
+      "raw_value": "Cov(R2,",
+      "normalized_value": "Cov(R2,",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -241,14 +597,116 @@
       "row_index": 3,
       "col_index": 2,
       "bbox": {
+        "x0": 248.0,
+        "y0": 137.0,
+        "x1": 274.0,
+        "y1": 157.0
+      },
+      "cell_type": "text",
+      "raw_value": "Ri)",
+      "normalized_value": "Ri)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 415.0,
+        "y0": 137.0,
+        "x1": 441.0,
+        "y1": 157.0
+      },
+      "cell_type": "text",
+      "raw_value": "Ro)",
+      "normalized_value": "Ro)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 4,
+      "bbox": {
+        "x0": 589.0,
+        "y0": 137.0,
+        "x1": 657.0,
+        "y1": 157.0
+      },
+      "cell_type": "text",
+      "raw_value": "Covi(R2,",
+      "normalized_value": "Covi(R2,",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 5,
+      "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "currency",
-      "raw_value": "$1,000",
-      "normalized_value": 1000.0,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 6,
+      "bbox": {
+        "x0": 665.0,
+        "y0": 137.0,
+        "x1": 702.0,
+        "y1": 157.0
+      },
+      "cell_type": "text",
+      "raw_value": "Ree)",
+      "normalized_value": "Ree)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 7,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 8,
+      "bbox": {
+        "x0": 921.0,
+        "y0": 137.0,
+        "x1": 946.0,
+        "y1": 157.0
+      },
+      "cell_type": "text",
+      "raw_value": "Rn)",
+      "normalized_value": "Rn)",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -258,14 +716,14 @@
       "row_index": 4,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 37.0,
+        "y0": 222.0,
+        "x1": 70.0,
+        "y1": 255.0
       },
       "cell_type": "text",
-      "raw_value": "Price",
-      "normalized_value": "Price",
+      "raw_value": "Wee",
+      "normalized_value": "Wee",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -275,14 +733,14 @@
       "row_index": 4,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 173.0,
+        "y0": 225.0,
+        "x1": 252.0,
+        "y1": 245.0
       },
-      "cell_type": "currency",
-      "raw_value": "$750",
-      "normalized_value": 750.0,
+      "cell_type": "text",
+      "raw_value": "Cov(Ree,",
+      "normalized_value": "Cov(Ree,",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -297,9 +755,264 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "currency",
-      "raw_value": "$750",
-      "normalized_value": 750.0,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 426.0,
+        "y0": 225.0,
+        "x1": 452.0,
+        "y1": 245.0
+      },
+      "cell_type": "text",
+      "raw_value": "Ro)",
+      "normalized_value": "Ro)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 6,
+      "bbox": {
+        "x0": 676.0,
+        "y0": 225.0,
+        "x1": 712.0,
+        "y1": 245.0
+      },
+      "cell_type": "text",
+      "raw_value": "Ree)",
+      "normalized_value": "Ree)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 7,
+      "bbox": {
+        "x0": 845.0,
+        "y0": 225.0,
+        "x1": 924.0,
+        "y1": 245.0
+      },
+      "cell_type": "text",
+      "raw_value": "Cov(Ree,",
+      "normalized_value": "Cov(Ree,",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 8,
+      "bbox": {
+        "x0": 931.0,
+        "y0": 225.0,
+        "x1": 956.0,
+        "y1": 245.0
+      },
+      "cell_type": "text",
+      "raw_value": "Rn)",
+      "normalized_value": "Rn)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 317.0,
+        "x1": 59.0,
+        "y1": 332.0
+      },
+      "cell_type": "text",
+      "raw_value": "Wh",
+      "normalized_value": "Wh",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 173.0,
+        "y0": 313.0,
+        "x1": 240.0,
+        "y1": 332.0
+      },
+      "cell_type": "text",
+      "raw_value": "Cov(Rp,",
+      "normalized_value": "Cov(Rp,",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 249.0,
+        "y0": 313.0,
+        "x1": 274.0,
+        "y1": 332.0
+      },
+      "cell_type": "text",
+      "raw_value": "R1)",
+      "normalized_value": "R1)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 3,
+      "bbox": {
+        "x0": 415.0,
+        "y0": 313.0,
+        "x1": 441.0,
+        "y1": 332.0
+      },
+      "cell_type": "text",
+      "raw_value": "R2)",
+      "normalized_value": "R2)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 6,
+      "bbox": {
+        "x0": 665.0,
+        "y0": 313.0,
+        "x1": 702.0,
+        "y1": 332.0
+      },
+      "cell_type": "text",
+      "raw_value": "Ree)",
+      "normalized_value": "Ree)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 7,
+      "bbox": {
+        "x0": 845.0,
+        "y0": 313.0,
+        "x1": 912.0,
+        "y1": 332.0
+      },
+      "cell_type": "text",
+      "raw_value": "Cov(Rn,",
+      "normalized_value": "Cov(Rn,",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 8,
+      "bbox": {
+        "x0": 921.0,
+        "y0": 313.0,
+        "x1": 946.0,
+        "y1": 332.0
+      },
+      "cell_type": "text",
+      "raw_value": "Rn)",
+      "normalized_value": "Rn)",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -311,48 +1024,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "payments, but at the maturity but the firm is having financial difficulties. Investors believe that This table contains 5 rows and 3 columns.",
-  "table_summary": "payments, but at the maturity but the firm is having financial difficulties. Investors believe that This table contains 5 rows and 3 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
-  "linked_concept_ids": [
-    "financial_analysis"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "financial_analysis",
-      "source_anchor": {
-        "page_number": 498,
-        "bbox": {
-          "x0": 140.25,
-          "y0": 114.25,
-          "x1": 436.25,
-          "y1": 186.59985045
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.37 + Keywords: financial",
-      "confidence": 0.5722977042198181
-    }
-  ],
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
-    "page_number": 498,
+    "page_number": 317,
     "bbox": {
-      "x0": 140.25,
-      "y0": 114.25,
-      "x1": 436.25,
-      "y1": 186.59985045
+      "x0": 34.0,
+      "y0": 25.0,
+      "x1": 956.0,
+      "y1": 332.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part III: Equilibrium in Capital Markets > Concept Check 9.2 > Expected Returns on Individual Securities",
   "page_span": [
-    498,
-    498
-  ]
+    317,
+    317
+  ],
+  "source_chunk_id": "chunk_02523",
+  "page_start": 317,
+  "page_end": 317
 }

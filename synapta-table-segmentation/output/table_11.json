@@ -1,32 +1,32 @@
 {
-  "segment_id": "table_p82_idx10",
+  "segment_id": "table_p82_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "Asset Classes and Financial Instruments CHAPTER 2",
+  "caption": "",
   "row_headers": [
     [
-      "Developed Markets"
+      "Developed Markets Emerging"
     ],
     [
-      "EAFE (Europe, Australia, Far East)"
+      "EAFE (Europe, Australia, Far East) Emerging"
     ],
     [
-      "Europe"
+      "Europe EM Asia"
     ],
     [
-      "European Monetary Union (EMU)"
+      "European Monetary Union (EMU) EM Eastern"
     ],
     [
-      "Far East"
+      "Far East EM Europe"
     ],
     [
-      "Kokusai (World excluding Japan)"
+      "Kokusai (World excluding Japan) EM Europe"
     ],
     [
-      "Nordic countries"
+      "Nordic countries EM Far"
     ],
     [
-      "North America"
+      "North America EM Latin"
     ],
     [
       "Pacific"
@@ -80,236 +80,158 @@
   "col_headers": [
     "Regional Indexes",
     "",
-    "",
-    "",
     "Countries",
-    "",
     ""
   ],
   "cells": [
     [
       "Regional Indexes",
       "",
-      "",
-      "",
       "Countries",
-      "",
       ""
     ],
     [
+      "Developed Markets Emerging",
+      "Markets",
       "Developed Markets",
-      "",
-      "Emerging Markets",
-      "",
-      "Developed Markets",
-      "",
       "Emerging Markets"
     ],
     [
-      "EAFE (Europe, Australia, Far East)",
-      "",
-      "Emerging Markets (EM)",
-      "",
+      "EAFE (Europe, Australia, Far East) Emerging",
+      "Markets (EM)",
       "Australia",
-      "",
       "Brazil"
     ],
     [
-      "Europe",
-      "",
-      "EM Asia",
+      "Europe EM Asia",
       "",
       "Austria",
-      "",
       "Chile"
     ],
     [
-      "European Monetary Union (EMU)",
-      "",
-      "EM Eastern Europe",
-      "",
+      "European Monetary Union (EMU) EM Eastern",
+      "Europe",
       "Belgium",
-      "",
       "China"
     ],
     [
-      "Far East",
-      "",
-      "EM Europe",
+      "Far East EM Europe",
       "",
       "Canada",
-      "",
       "Colombia"
     ],
     [
-      "Kokusai (World excluding Japan)",
-      "",
-      "EM Europe and Middle East",
-      "",
+      "Kokusai (World excluding Japan) EM Europe",
+      "and Middle East",
       "Denmark",
-      "",
       "Czech Republic"
     ],
     [
-      "Nordic countries",
-      "",
-      "EM Far East",
-      "",
+      "Nordic countries EM Far",
+      "East",
       "Finland",
-      "",
       "Egypt"
     ],
     [
-      "North America",
-      "",
-      "EM Latin America",
-      "",
+      "North America EM Latin",
+      "America",
       "France",
-      "",
       "Greece"
     ],
     [
       "Pacific",
       "",
-      "",
-      "",
       "Germany",
-      "",
       "Hungary"
     ],
     [
       "World",
       "",
-      "",
-      "",
       "Hong Kong",
-      "",
       "India"
     ],
     [
       "World excluding U.S.",
       "",
-      "",
-      "",
       "Ireland",
-      "",
       "Indonesia"
     ],
     [
       "",
       "",
-      "",
-      "",
       "Israel",
-      "",
       "Korea"
     ],
     [
       "",
       "",
-      "",
-      "",
       "Italy",
-      "",
       "Malaysia"
     ],
     [
       "",
       "",
-      "",
-      "",
       "Japan",
-      "",
       "Mexico"
     ],
     [
       "",
       "",
-      "",
-      "",
       "Netherlands",
-      "",
       "Peru"
     ],
     [
       "",
       "",
-      "",
-      "",
       "New Zealand",
-      "",
       "Philippines"
     ],
     [
       "",
       "",
-      "",
-      "",
       "Norway",
-      "",
       "Poland"
     ],
     [
       "",
       "",
-      "",
-      "",
       "Portugal",
-      "",
       "Russia"
     ],
     [
       "",
       "",
-      "",
-      "",
       "Singapore",
-      "",
       "South Africa"
     ],
     [
       "",
       "",
-      "",
-      "",
       "Spain",
-      "",
       "Taiwan"
     ],
     [
       "",
       "",
-      "",
-      "",
       "Sweden",
-      "",
       "Thailand"
     ],
     [
       "",
       "",
-      "",
-      "",
       "Switzerland",
-      "",
       "Turkey"
     ],
     [
       "",
       "",
-      "",
-      "",
       "U.K.",
-      "",
       ""
     ],
     [
       "",
       "",
-      "",
-      "",
-      "U.S.",
-      "",
+      "US.",
       ""
     ]
   ],
@@ -318,10 +240,10 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 274.0,
+        "y0": 26.0,
+        "x1": 443.0,
+        "y1": 46.0
       },
       "cell_type": "text",
       "raw_value": "Regional Indexes",
@@ -352,44 +274,10 @@
       "row_index": 0,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 937.0,
+        "y0": 26.0,
+        "x1": 1034.0,
+        "y1": 41.0
       },
       "cell_type": "text",
       "raw_value": "Countries",
@@ -401,24 +289,7 @@
     },
     {
       "row_index": 0,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 6,
+      "col_index": 3,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -437,14 +308,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 77.0,
+        "x1": 513.0,
+        "y1": 97.0
       },
       "cell_type": "text",
-      "raw_value": "Developed Markets",
-      "normalized_value": "Developed Markets",
+      "raw_value": "Developed Markets Emerging",
+      "normalized_value": "Developed Markets Emerging",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -454,14 +325,14 @@
       "row_index": 1,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 521.0,
+        "y0": 77.0,
+        "x1": 601.0,
+        "y1": 92.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Markets",
+      "normalized_value": "Markets",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -471,44 +342,10 @@
       "row_index": 1,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Emerging Markets",
-      "normalized_value": "Emerging Markets",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 749.0,
+        "y0": 77.0,
+        "x1": 943.0,
+        "y1": 96.0
       },
       "cell_type": "text",
       "raw_value": "Developed Markets",
@@ -520,29 +357,12 @@
     },
     {
       "row_index": 1,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 77.0,
+        "x1": 1194.0,
+        "y1": 97.0
       },
       "cell_type": "text",
       "raw_value": "Emerging Markets",
@@ -556,14 +376,14 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 126.0,
+        "x1": 508.0,
+        "y1": 146.0
       },
       "cell_type": "text",
-      "raw_value": "EAFE (Europe, Australia, Far East)",
-      "normalized_value": "EAFE (Europe, Australia, Far East)",
+      "raw_value": "EAFE (Europe, Australia, Far East) Emerging",
+      "normalized_value": "EAFE (Europe, Australia, Far East) Emerging",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -573,14 +393,14 @@
       "row_index": 2,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 517.0,
+        "y0": 126.0,
+        "x1": 637.0,
+        "y1": 145.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Markets (EM)",
+      "normalized_value": "Markets (EM)",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -590,44 +410,10 @@
       "row_index": 2,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Emerging Markets (EM)",
-      "normalized_value": "Emerging Markets (EM)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 744.0,
+        "y0": 122.0,
+        "x1": 829.0,
+        "y1": 149.0
       },
       "cell_type": "text",
       "raw_value": "Australia",
@@ -639,29 +425,12 @@
     },
     {
       "row_index": 2,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 126.0,
+        "x1": 1062.0,
+        "y1": 141.0
       },
       "cell_type": "text",
       "raw_value": "Brazil",
@@ -675,14 +444,14 @@
       "row_index": 3,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 158.0,
+        "x1": 493.0,
+        "y1": 177.0
       },
       "cell_type": "text",
-      "raw_value": "Europe",
-      "normalized_value": "Europe",
+      "raw_value": "Europe EM Asia",
+      "normalized_value": "Europe EM Asia",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -709,44 +478,10 @@
       "row_index": 3,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "EM Asia",
-      "normalized_value": "EM Asia",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 748.0,
+        "y0": 154.0,
+        "x1": 812.0,
+        "y1": 181.0
       },
       "cell_type": "text",
       "raw_value": "Austria",
@@ -758,29 +493,12 @@
     },
     {
       "row_index": 3,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1012.0,
+        "y0": 158.0,
+        "x1": 1059.0,
+        "y1": 173.0
       },
       "cell_type": "text",
       "raw_value": "Chile",
@@ -794,14 +512,14 @@
       "row_index": 4,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 191.0,
+        "x1": 524.0,
+        "y1": 211.0
       },
       "cell_type": "text",
-      "raw_value": "European Monetary Union (EMU)",
-      "normalized_value": "European Monetary Union (EMU)",
+      "raw_value": "European Monetary Union (EMU) EM Eastern",
+      "normalized_value": "European Monetary Union (EMU) EM Eastern",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -811,14 +529,14 @@
       "row_index": 4,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 533.0,
+        "y0": 191.0,
+        "x1": 600.0,
+        "y1": 210.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Europe",
+      "normalized_value": "Europe",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -828,44 +546,10 @@
       "row_index": 4,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "EM Eastern Europe",
-      "normalized_value": "EM Eastern Europe",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 191.0,
+        "x1": 824.0,
+        "y1": 211.0
       },
       "cell_type": "text",
       "raw_value": "Belgium",
@@ -877,29 +561,12 @@
     },
     {
       "row_index": 4,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1012.0,
+        "y0": 191.0,
+        "x1": 1065.0,
+        "y1": 206.0
       },
       "cell_type": "text",
       "raw_value": "China",
@@ -913,14 +580,14 @@
       "row_index": 5,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 224.0,
+        "x1": 522.0,
+        "y1": 243.0
       },
       "cell_type": "text",
-      "raw_value": "Far East",
-      "normalized_value": "Far East",
+      "raw_value": "Far East EM Europe",
+      "normalized_value": "Far East EM Europe",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -947,44 +614,10 @@
       "row_index": 5,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "EM Europe",
-      "normalized_value": "EM Europe",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 749.0,
+        "y0": 224.0,
+        "x1": 821.0,
+        "y1": 239.0
       },
       "cell_type": "text",
       "raw_value": "Canada",
@@ -996,29 +629,12 @@
     },
     {
       "row_index": 5,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1012.0,
+        "y0": 224.0,
+        "x1": 1101.0,
+        "y1": 239.0
       },
       "cell_type": "text",
       "raw_value": "Colombia",
@@ -1032,14 +648,14 @@
       "row_index": 6,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 257.0,
+        "x1": 522.0,
+        "y1": 277.0
       },
       "cell_type": "text",
-      "raw_value": "Kokusai (World excluding Japan)",
-      "normalized_value": "Kokusai (World excluding Japan)",
+      "raw_value": "Kokusai (World excluding Japan) EM Europe",
+      "normalized_value": "Kokusai (World excluding Japan) EM Europe",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -1049,14 +665,14 @@
       "row_index": 6,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 530.0,
+        "y0": 257.0,
+        "x1": 681.0,
+        "y1": 272.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "and Middle East",
+      "normalized_value": "and Middle East",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -1066,44 +682,10 @@
       "row_index": 6,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "EM Europe and Middle East",
-      "normalized_value": "EM Europe and Middle East",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 253.0,
+        "x1": 835.0,
+        "y1": 280.0
       },
       "cell_type": "text",
       "raw_value": "Denmark",
@@ -1115,29 +697,12 @@
     },
     {
       "row_index": 6,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1012.0,
+        "y0": 257.0,
+        "x1": 1160.0,
+        "y1": 276.0
       },
       "cell_type": "text",
       "raw_value": "Czech Republic",
@@ -1151,14 +716,14 @@
       "row_index": 7,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 290.0,
+        "x1": 484.0,
+        "y1": 305.0
       },
       "cell_type": "text",
-      "raw_value": "Nordic countries",
-      "normalized_value": "Nordic countries",
+      "raw_value": "Nordic countries EM Far",
+      "normalized_value": "Nordic countries EM Far",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -1168,14 +733,14 @@
       "row_index": 7,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 491.0,
+        "y0": 290.0,
+        "x1": 530.0,
+        "y1": 305.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "East",
+      "normalized_value": "East",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -1185,44 +750,10 @@
       "row_index": 7,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "EM Far East",
-      "normalized_value": "EM Far East",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 290.0,
+        "x1": 816.0,
+        "y1": 305.0
       },
       "cell_type": "text",
       "raw_value": "Finland",
@@ -1234,29 +765,12 @@
     },
     {
       "row_index": 7,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 290.0,
+        "x1": 1065.0,
+        "y1": 310.0
       },
       "cell_type": "text",
       "raw_value": "Egypt",
@@ -1270,14 +784,14 @@
       "row_index": 8,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 323.0,
+        "x1": 497.0,
+        "y1": 338.0
       },
       "cell_type": "text",
-      "raw_value": "North America",
-      "normalized_value": "North America",
+      "raw_value": "North America EM Latin",
+      "normalized_value": "North America EM Latin",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -1287,14 +801,14 @@
       "row_index": 8,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 505.0,
+        "y0": 323.0,
+        "x1": 582.0,
+        "y1": 338.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "America",
+      "normalized_value": "America",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -1304,44 +818,10 @@
       "row_index": 8,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "EM Latin America",
-      "normalized_value": "EM Latin America",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 323.0,
+        "x1": 813.0,
+        "y1": 338.0
       },
       "cell_type": "text",
       "raw_value": "France",
@@ -1353,29 +833,12 @@
     },
     {
       "row_index": 8,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1012.0,
+        "y0": 323.0,
+        "x1": 1082.0,
+        "y1": 338.0
       },
       "cell_type": "text",
       "raw_value": "Greece",
@@ -1389,10 +852,10 @@
       "row_index": 9,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 32.0,
+        "y0": 351.0,
+        "x1": 95.0,
+        "y1": 379.0
       },
       "cell_type": "text",
       "raw_value": "Pacific",
@@ -1423,44 +886,10 @@
       "row_index": 9,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 749.0,
+        "y0": 355.0,
+        "x1": 835.0,
+        "y1": 375.0
       },
       "cell_type": "text",
       "raw_value": "Germany",
@@ -1472,29 +901,12 @@
     },
     {
       "row_index": 9,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 355.0,
+        "x1": 1092.0,
+        "y1": 375.0
       },
       "cell_type": "text",
       "raw_value": "Hungary",
@@ -1508,10 +920,10 @@
       "row_index": 10,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 35.0,
+        "y0": 384.0,
+        "x1": 88.0,
+        "y1": 412.0
       },
       "cell_type": "text",
       "raw_value": "World",
@@ -1542,44 +954,10 @@
       "row_index": 10,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 10,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 10,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 388.0,
+        "x1": 855.0,
+        "y1": 408.0
       },
       "cell_type": "text",
       "raw_value": "Hong Kong",
@@ -1591,29 +969,12 @@
     },
     {
       "row_index": 10,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 10,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 388.0,
+        "x1": 1056.0,
+        "y1": 403.0
       },
       "cell_type": "text",
       "raw_value": "India",
@@ -1627,10 +988,10 @@
       "row_index": 11,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 35.0,
+        "y0": 421.0,
+        "x1": 229.0,
+        "y1": 441.0
       },
       "cell_type": "text",
       "raw_value": "World excluding U.S.",
@@ -1661,44 +1022,10 @@
       "row_index": 11,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 11,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 11,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 421.0,
+        "x1": 812.0,
+        "y1": 436.0
       },
       "cell_type": "text",
       "raw_value": "Ireland",
@@ -1710,29 +1037,12 @@
     },
     {
       "row_index": 11,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 11,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 421.0,
+        "x1": 1103.0,
+        "y1": 436.0
       },
       "cell_type": "text",
       "raw_value": "Indonesia",
@@ -1780,44 +1090,10 @@
       "row_index": 12,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 12,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 12,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 454.0,
+        "x1": 798.0,
+        "y1": 469.0
       },
       "cell_type": "text",
       "raw_value": "Israel",
@@ -1829,29 +1105,12 @@
     },
     {
       "row_index": 12,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 12,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 454.0,
+        "x1": 1066.0,
+        "y1": 469.0
       },
       "cell_type": "text",
       "raw_value": "Korea",
@@ -1899,44 +1158,10 @@
       "row_index": 13,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 13,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 13,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 487.0,
+        "x1": 786.0,
+        "y1": 507.0
       },
       "cell_type": "text",
       "raw_value": "Italy",
@@ -1948,29 +1173,12 @@
     },
     {
       "row_index": 13,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 13,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 487.0,
+        "x1": 1092.0,
+        "y1": 507.0
       },
       "cell_type": "text",
       "raw_value": "Malaysia",
@@ -2018,44 +1226,10 @@
       "row_index": 14,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 14,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 14,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 748.0,
+        "y0": 519.0,
+        "x1": 805.0,
+        "y1": 538.0
       },
       "cell_type": "text",
       "raw_value": "Japan",
@@ -2067,29 +1241,12 @@
     },
     {
       "row_index": 14,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 14,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 519.0,
+        "x1": 1079.0,
+        "y1": 534.0
       },
       "cell_type": "text",
       "raw_value": "Mexico",
@@ -2137,44 +1294,10 @@
       "row_index": 15,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 15,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 15,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 548.0,
+        "x1": 864.0,
+        "y1": 577.0
       },
       "cell_type": "text",
       "raw_value": "Netherlands",
@@ -2186,29 +1309,12 @@
     },
     {
       "row_index": 15,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 15,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 552.0,
+        "x1": 1054.0,
+        "y1": 567.0
       },
       "cell_type": "text",
       "raw_value": "Peru",
@@ -2256,44 +1362,10 @@
       "row_index": 16,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 16,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 16,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 585.0,
+        "x1": 874.0,
+        "y1": 600.0
       },
       "cell_type": "text",
       "raw_value": "New Zealand",
@@ -2305,29 +1377,12 @@
     },
     {
       "row_index": 16,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 16,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 585.0,
+        "x1": 1114.0,
+        "y1": 604.0
       },
       "cell_type": "text",
       "raw_value": "Philippines",
@@ -2375,44 +1430,10 @@
       "row_index": 17,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 17,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 17,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 618.0,
+        "x1": 821.0,
+        "y1": 637.0
       },
       "cell_type": "text",
       "raw_value": "Norway",
@@ -2424,29 +1445,12 @@
     },
     {
       "row_index": 17,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 17,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 618.0,
+        "x1": 1076.0,
+        "y1": 633.0
       },
       "cell_type": "text",
       "raw_value": "Poland",
@@ -2494,44 +1498,10 @@
       "row_index": 18,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 18,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 18,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 647.0,
+        "x1": 826.0,
+        "y1": 675.0
       },
       "cell_type": "text",
       "raw_value": "Portugal",
@@ -2543,29 +1513,12 @@
     },
     {
       "row_index": 18,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 18,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1013.0,
+        "y0": 651.0,
+        "x1": 1072.0,
+        "y1": 666.0
       },
       "cell_type": "text",
       "raw_value": "Russia",
@@ -2613,44 +1566,10 @@
       "row_index": 19,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 19,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 19,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 749.0,
+        "y0": 684.0,
+        "x1": 846.0,
+        "y1": 704.0
       },
       "cell_type": "text",
       "raw_value": "Singapore",
@@ -2662,29 +1581,12 @@
     },
     {
       "row_index": 19,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 19,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1012.0,
+        "y0": 684.0,
+        "x1": 1125.0,
+        "y1": 699.0
       },
       "cell_type": "text",
       "raw_value": "South Africa",
@@ -2732,44 +1634,10 @@
       "row_index": 20,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 20,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 20,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 749.0,
+        "y0": 712.0,
+        "x1": 800.0,
+        "y1": 739.0
       },
       "cell_type": "text",
       "raw_value": "Spain",
@@ -2781,29 +1649,12 @@
     },
     {
       "row_index": 20,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 20,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1012.0,
+        "y0": 716.0,
+        "x1": 1076.0,
+        "y1": 731.0
       },
       "cell_type": "text",
       "raw_value": "Taiwan",
@@ -2851,44 +1702,10 @@
       "row_index": 21,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 21,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 21,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 749.0,
+        "y0": 749.0,
+        "x1": 825.0,
+        "y1": 764.0
       },
       "cell_type": "text",
       "raw_value": "Sweden",
@@ -2900,29 +1717,12 @@
     },
     {
       "row_index": 21,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 21,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1012.0,
+        "y0": 749.0,
+        "x1": 1091.0,
+        "y1": 764.0
       },
       "cell_type": "text",
       "raw_value": "Thailand",
@@ -2970,44 +1770,10 @@
       "row_index": 22,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 22,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 22,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 749.0,
+        "y0": 778.0,
+        "x1": 857.0,
+        "y1": 806.0
       },
       "cell_type": "text",
       "raw_value": "Switzerland",
@@ -3019,29 +1785,12 @@
     },
     {
       "row_index": 22,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 22,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1012.0,
+        "y0": 782.0,
+        "x1": 1075.0,
+        "y1": 802.0
       },
       "cell_type": "text",
       "raw_value": "Turkey",
@@ -3089,44 +1838,10 @@
       "row_index": 23,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 23,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 23,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 815.0,
+        "x1": 784.0,
+        "y1": 830.0
       },
       "cell_type": "text",
       "raw_value": "U.K.",
@@ -3138,24 +1853,7 @@
     },
     {
       "row_index": 23,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 23,
-      "col_index": 6,
+      "col_index": 3,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -3208,14 +1906,14 @@
       "row_index": 24,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 750.0,
+        "y0": 848.0,
+        "x1": 784.0,
+        "y1": 863.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "US.",
+      "normalized_value": "US.",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -3237,57 +1935,6 @@
       "colspan": 1,
       "formula_text": null,
       "units": null
-    },
-    {
-      "row_index": 24,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "U.S.",
-      "normalized_value": "U.S.",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 24,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 24,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
     }
   ],
   "footnotes": [],
@@ -3295,67 +1942,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "Asset Classes and Financial Instruments CHAPTER 2 This table contains 25 rows and 7 columns.",
-  "table_summary": "Asset Classes and Financial Instruments CHAPTER 2 This table contains 25 rows and 7 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
-  "linked_concept_ids": [
-    "asset_pricing",
-    "financial_analysis"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "asset_pricing",
-      "source_anchor": {
-        "page_number": 82,
-        "bbox": {
-          "x0": 117.25,
-          "y0": 27.249722309999992,
-          "x1": 555.2649004999996,
-          "y1": 341.4980997499999
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.35 + Keywords: asset",
-      "confidence": 0.5504575788974762
-    },
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "financial_analysis",
-      "source_anchor": {
-        "page_number": 82,
-        "bbox": {
-          "x0": 117.25,
-          "y0": 27.249722309999992,
-          "x1": 555.2649004999996,
-          "y1": 341.4980997499999
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.32 + Keywords: financial",
-      "confidence": 0.5220905661582946
-    }
-  ],
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
     "page_number": 82,
     "bbox": {
-      "x0": 117.25,
-      "y0": 27.249722309999992,
-      "x1": 555.2649004999996,
-      "y1": 341.4980997499999
+      "x0": 32.0,
+      "y0": 26.0,
+      "x1": 1194.0,
+      "y1": 863.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part I: Introduction > Concept Check 2.5 > Equally Weighted Indexes",
   "page_span": [
     82,
     82
-  ]
+  ],
+  "source_chunk_id": "chunk_00412",
+  "page_start": 82,
+  "page_end": 82
 }

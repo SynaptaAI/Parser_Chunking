@@ -1,54 +1,60 @@
 {
-  "segment_id": "table_p621_idx142",
+  "segment_id": "table_p455_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "that g assumption is that the discrepancy will value and the market price will disappear,",
+  "caption": "",
   "row_headers": [
     [
+      "Financial"
+    ],
+    [
+      "Microstructure"
+    ],
+    [
+      "Behavioral"
+    ],
+    [
       ""
     ],
     [
-      "P 0 = $48 P 1 = $48 × 1.04 = $49.92"
-    ],
-    [
-      ""
+      "Accounting"
     ]
   ],
   "col_headers": [
-    "Now Next Year",
-    "",
-    "",
-    "",
+    "Risk Type",
+    "Description",
     ""
   ],
   "cells": [
     [
-      "Now Next Year",
-      "",
-      "",
-      "",
+      "Risk Type",
+      "Description",
       ""
     ],
     [
+      "Financial",
+      "Idiosyncratic financial risk such as firm-specific",
+      "volatility or tail risk"
+    ],
+    [
+      "Microstructure",
+      "Firm-level frictions such as short-sale",
+      "constraints or transaction costs"
+    ],
+    [
+      "Behavioral",
+      "Firm-level information issues such",
+      "as dispersion of analyst forecasts or media"
+    ],
+    [
       "",
-      "V 0 = $50",
-      "",
-      "V 1 = $50 × 1.04 = $52",
+      "coverage",
       ""
     ],
     [
-      "P 0 = $48 P 1 = $48 × 1.04 = $49.92",
-      "",
-      "",
-      "",
-      ""
-    ],
-    [
-      "",
-      "V 0 − P 0 = $2",
-      "",
-      "V 1 − P 1 = $2 × 1.04 = $2.08",
-      ""
+      "Accounting",
+      "Firm-level accounting variables such",
+      "as P/E ratio or debt-to-equity ratio"
     ]
   ],
   "cell_meta": [
@@ -56,14 +62,14 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 32.0,
+        "y0": 25.0,
+        "x1": 127.0,
+        "y1": 45.0
       },
       "cell_type": "text",
-      "raw_value": "Now Next Year",
-      "normalized_value": "Now Next Year",
+      "raw_value": "Risk Type",
+      "normalized_value": "Risk Type",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -73,14 +79,14 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 221.0,
+        "y0": 25.0,
+        "x1": 333.0,
+        "y1": 44.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Description",
+      "normalized_value": "Description",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -89,40 +95,6 @@
     {
       "row_index": 0,
       "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 4,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -141,14 +113,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 32.0,
+        "y0": 74.0,
+        "x1": 113.0,
+        "y1": 89.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Financial",
+      "normalized_value": "Financial",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -158,14 +130,14 @@
       "row_index": 1,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 221.0,
+        "y0": 74.0,
+        "x1": 660.0,
+        "y1": 94.0
       },
-      "cell_type": "formula",
-      "raw_value": "V 0 = $50",
-      "normalized_value": "V 0 = $50",
+      "cell_type": "text",
+      "raw_value": "Idiosyncratic financial risk such as firm-specific",
+      "normalized_value": "Idiosyncratic financial risk such as firm-specific",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -175,48 +147,14 @@
       "row_index": 1,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 666.0,
+        "y0": 74.0,
+        "x1": 840.0,
+        "y1": 94.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "formula",
-      "raw_value": "V 1 = $50 × 1.04 = $52",
-      "normalized_value": "V 1 = $50 × 1.04 = $52",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "volatility or tail risk",
+      "normalized_value": "volatility or tail risk",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -226,14 +164,14 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 32.0,
+        "y0": 107.0,
+        "x1": 166.0,
+        "y1": 122.0
       },
-      "cell_type": "formula",
-      "raw_value": "P 0 = $48 P 1 = $48 × 1.04 = $49.92",
-      "normalized_value": "P 0 = $48 P 1 = $48 × 1.04 = $49.92",
+      "cell_type": "text",
+      "raw_value": "Microstructure",
+      "normalized_value": "Microstructure",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -243,14 +181,14 @@
       "row_index": 2,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 221.0,
+        "y0": 107.0,
+        "x1": 570.0,
+        "y1": 122.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Firm-level frictions such as short-sale",
+      "normalized_value": "Firm-level frictions such as short-sale",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -260,48 +198,14 @@
       "row_index": 2,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 578.0,
+        "y0": 108.0,
+        "x1": 871.0,
+        "y1": 122.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "constraints or transaction costs",
+      "normalized_value": "constraints or transaction costs",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -309,6 +213,57 @@
     },
     {
       "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 32.0,
+        "y0": 139.0,
+        "x1": 130.0,
+        "y1": 154.0
+      },
+      "cell_type": "text",
+      "raw_value": "Behavioral",
+      "normalized_value": "Behavioral",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 221.0,
+        "y0": 139.0,
+        "x1": 540.0,
+        "y1": 154.0
+      },
+      "cell_type": "text",
+      "raw_value": "Firm-level information issues such",
+      "normalized_value": "Firm-level information issues such",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 549.0,
+        "y0": 139.0,
+        "x1": 954.0,
+        "y1": 159.0
+      },
+      "cell_type": "text",
+      "raw_value": "as dispersion of analyst forecasts or media",
+      "normalized_value": "as dispersion of analyst forecasts or media",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
       "col_index": 0,
       "bbox": {
         "x0": 0,
@@ -325,24 +280,24 @@
       "units": null
     },
     {
-      "row_index": 3,
+      "row_index": 4,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 220.0,
+        "y0": 174.0,
+        "x1": 309.0,
+        "y1": 190.0
       },
-      "cell_type": "formula",
-      "raw_value": "V 0 − P 0 = $2",
-      "normalized_value": "V 0 − P 0 = $2",
+      "cell_type": "text",
+      "raw_value": "coverage",
+      "normalized_value": "coverage",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 3,
+      "row_index": 4,
       "col_index": 2,
       "bbox": {
         "x0": 0,
@@ -359,34 +314,51 @@
       "units": null
     },
     {
-      "row_index": 3,
-      "col_index": 3,
+      "row_index": 5,
+      "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 31.0,
+        "y0": 203.0,
+        "x1": 137.0,
+        "y1": 223.0
       },
-      "cell_type": "formula",
-      "raw_value": "V 1 − P 1 = $2 × 1.04 = $2.08",
-      "normalized_value": "V 1 − P 1 = $2 × 1.04 = $2.08",
+      "cell_type": "text",
+      "raw_value": "Accounting",
+      "normalized_value": "Accounting",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 3,
-      "col_index": 4,
+      "row_index": 5,
+      "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 221.0,
+        "y0": 203.0,
+        "x1": 565.0,
+        "y1": 223.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Firm-level accounting variables such",
+      "normalized_value": "Firm-level accounting variables such",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 574.0,
+        "y0": 203.0,
+        "x1": 893.0,
+        "y1": 222.0
+      },
+      "cell_type": "text",
+      "raw_value": "as P/E ratio or debt-to-equity ratio",
+      "normalized_value": "as P/E ratio or debt-to-equity ratio",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -395,146 +367,33 @@
   ],
   "footnotes": [],
   "units": [],
-  "formula_cells": [
-    {
-      "cell_address": "B2",
-      "formula_text": "V 0 = $50",
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "source_anchor": {
-        "page_number": 621,
-        "bbox": {
-          "x0": 261.42980186666665,
-          "y0": 124.25,
-          "x1": 449.5701981333334,
-          "y1": 183.52990020000007
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "confidence": 0.9
-    },
-    {
-      "cell_address": "D2",
-      "formula_text": "V 1 = $50 × 1.04 = $52",
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "source_anchor": {
-        "page_number": 621,
-        "bbox": {
-          "x0": 261.42980186666665,
-          "y0": 124.25,
-          "x1": 449.5701981333334,
-          "y1": 183.52990020000007
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "confidence": 0.9
-    },
-    {
-      "cell_address": "A3",
-      "formula_text": "P 0 = $48 P 1 = $48 × 1.04 = $49.92",
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "source_anchor": {
-        "page_number": 621,
-        "bbox": {
-          "x0": 261.42980186666665,
-          "y0": 124.25,
-          "x1": 449.5701981333334,
-          "y1": 183.52990020000007
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "confidence": 0.9
-    },
-    {
-      "cell_address": "B4",
-      "formula_text": "V 0 − P 0 = $2",
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "source_anchor": {
-        "page_number": 621,
-        "bbox": {
-          "x0": 261.42980186666665,
-          "y0": 124.25,
-          "x1": 449.5701981333334,
-          "y1": 183.52990020000007
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "confidence": 0.9
-    },
-    {
-      "cell_address": "D4",
-      "formula_text": "V 1 − P 1 = $2 × 1.04 = $2.08",
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "source_anchor": {
-        "page_number": 621,
-        "bbox": {
-          "x0": 261.42980186666665,
-          "y0": 124.25,
-          "x1": 449.5701981333334,
-          "y1": 183.52990020000007
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "confidence": 0.9
-    }
-  ],
+  "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "that g assumption is that the discrepancy will value and the market price will disappear, This table contains 4 rows and 5 columns.",
-  "table_summary": "that g assumption is that the discrepancy will value and the market price will disappear, This table contains 4 rows and 5 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
   "linked_concept_ids": [],
   "links": [],
   "source_anchor": {
-    "page_number": 621,
+    "page_number": 455,
     "bbox": {
-      "x0": 261.42980186666665,
-      "y0": 124.25,
-      "x1": 449.5701981333334,
-      "y1": 183.52990020000007
+      "x0": 31.0,
+      "y0": 25.0,
+      "x1": 954.0,
+      "y1": 223.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part III: Equilibrium in Capital Markets > Table 13.3 > 13.3: Fama-French-Type Factor Models > The Factor Zoo",
   "page_span": [
-    621,
-    621
-  ]
+    455,
+    455
+  ],
+  "source_chunk_id": "chunk_03565",
+  "page_start": 455,
+  "page_end": 455
 }

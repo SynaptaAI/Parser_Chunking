@@ -1,8 +1,8 @@
 {
-  "segment_id": "table_p84_idx11",
+  "segment_id": "table_p84_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "CHAPTER",
+  "caption": "",
   "row_headers": [
     [
       "6-Aug-2021"
@@ -25,75 +25,51 @@
   ],
   "col_headers": [
     "Expiration",
-    "",
     "Strike",
-    "",
     "Call",
-    "",
     "Put"
   ],
   "cells": [
     [
       "Expiration",
-      "",
       "Strike",
-      "",
       "Call",
-      "",
       "Put"
     ],
     [
       "6-Aug-2021",
-      "",
       "280",
-      "",
       "7.74",
-      "",
       "5.18"
     ],
     [
       "6-Aug-2021",
-      "",
       "285",
-      "",
       "5.06",
-      "",
-      "7.48"
+      "748"
     ],
     [
       "6-Aug-2021",
-      "",
       "290",
-      "",
-      "3.31",
       "",
       "10.35"
     ],
     [
       "17-Sep-2021",
-      "",
       "280",
-      "",
       "10.97",
-      "",
       "8.59"
     ],
     [
       "17-Sep-2021",
-      "",
       "285",
-      "",
       "8.45",
-      "",
       "10.79"
     ],
     [
       "17-Sep-2021",
-      "",
       "290",
-      "",
       "6.22",
-      "",
       "13.98"
     ]
   ],
@@ -102,10 +78,10 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 22.0,
+        "x1": 135.0,
+        "y1": 49.0
       },
       "cell_type": "text",
       "raw_value": "Expiration",
@@ -119,27 +95,10 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 268.0,
+        "y0": 26.0,
+        "x1": 326.0,
+        "y1": 41.0
       },
       "cell_type": "text",
       "raw_value": "Strike",
@@ -151,29 +110,12 @@
     },
     {
       "row_index": 0,
-      "col_index": 3,
+      "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 461.0,
+        "y0": 22.0,
+        "x1": 498.0,
+        "y1": 49.0
       },
       "cell_type": "text",
       "raw_value": "Call",
@@ -185,29 +127,12 @@
     },
     {
       "row_index": 0,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 639.0,
+        "y0": 26.0,
+        "x1": 672.0,
+        "y1": 41.0
       },
       "cell_type": "text",
       "raw_value": "Put",
@@ -221,10 +146,10 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 75.0,
+        "x1": 147.0,
+        "y1": 95.0
       },
       "cell_type": "text",
       "raw_value": "6-Aug-2021",
@@ -238,27 +163,10 @@
       "row_index": 1,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 279.0,
+        "y0": 75.0,
+        "x1": 316.0,
+        "y1": 90.0
       },
       "cell_type": "number",
       "raw_value": "280",
@@ -270,29 +178,12 @@
     },
     {
       "row_index": 1,
-      "col_index": 3,
+      "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 466.0,
+        "y0": 75.0,
+        "x1": 507.0,
+        "y1": 90.0
       },
       "cell_type": "number",
       "raw_value": "7.74",
@@ -304,29 +195,12 @@
     },
     {
       "row_index": 1,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 642.0,
+        "y0": 75.0,
+        "x1": 682.0,
+        "y1": 90.0
       },
       "cell_type": "number",
       "raw_value": "5.18",
@@ -340,10 +214,10 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 108.0,
+        "x1": 147.0,
+        "y1": 128.0
       },
       "cell_type": "text",
       "raw_value": "6-Aug-2021",
@@ -357,27 +231,10 @@
       "row_index": 2,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 279.0,
+        "y0": 108.0,
+        "x1": 315.0,
+        "y1": 123.0
       },
       "cell_type": "number",
       "raw_value": "285",
@@ -389,29 +246,12 @@
     },
     {
       "row_index": 2,
-      "col_index": 3,
+      "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 466.0,
+        "y0": 108.0,
+        "x1": 507.0,
+        "y1": 123.0
       },
       "cell_type": "number",
       "raw_value": "5.06",
@@ -423,33 +263,16 @@
     },
     {
       "row_index": 2,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 641.0,
+        "y0": 108.0,
+        "x1": 682.0,
+        "y1": 123.0
       },
       "cell_type": "number",
-      "raw_value": "7.48",
-      "normalized_value": 7.48,
+      "raw_value": "748",
+      "normalized_value": 748,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -459,10 +282,10 @@
       "row_index": 3,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 140.0,
+        "x1": 147.0,
+        "y1": 160.0
       },
       "cell_type": "text",
       "raw_value": "6-Aug-2021",
@@ -476,14 +299,14 @@
       "row_index": 3,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 279.0,
+        "y0": 140.0,
+        "x1": 315.0,
+        "y1": 155.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "290",
+      "normalized_value": 290,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -498,9 +321,9 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "number",
-      "raw_value": "290",
-      "normalized_value": 290,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -510,61 +333,10 @@
       "row_index": 3,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "3.31",
-      "normalized_value": 3.31,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 630.0,
+        "y0": 140.0,
+        "x1": 683.0,
+        "y1": 155.0
       },
       "cell_type": "number",
       "raw_value": "10.35",
@@ -578,10 +350,10 @@
       "row_index": 4,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 38.0,
+        "y0": 173.0,
+        "x1": 159.0,
+        "y1": 192.0
       },
       "cell_type": "text",
       "raw_value": "17-Sep-2021",
@@ -595,27 +367,10 @@
       "row_index": 4,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 279.0,
+        "y0": 173.0,
+        "x1": 315.0,
+        "y1": 188.0
       },
       "cell_type": "number",
       "raw_value": "280",
@@ -627,29 +382,12 @@
     },
     {
       "row_index": 4,
-      "col_index": 3,
+      "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 455.0,
+        "y0": 173.0,
+        "x1": 507.0,
+        "y1": 188.0
       },
       "cell_type": "number",
       "raw_value": "10.97",
@@ -661,29 +399,12 @@
     },
     {
       "row_index": 4,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 641.0,
+        "y0": 173.0,
+        "x1": 682.0,
+        "y1": 188.0
       },
       "cell_type": "number",
       "raw_value": "8.59",
@@ -697,10 +418,10 @@
       "row_index": 5,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 38.0,
+        "y0": 206.0,
+        "x1": 159.0,
+        "y1": 225.0
       },
       "cell_type": "text",
       "raw_value": "17-Sep-2021",
@@ -714,27 +435,10 @@
       "row_index": 5,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 279.0,
+        "y0": 206.0,
+        "x1": 315.0,
+        "y1": 221.0
       },
       "cell_type": "number",
       "raw_value": "285",
@@ -746,29 +450,12 @@
     },
     {
       "row_index": 5,
-      "col_index": 3,
+      "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 465.0,
+        "y0": 206.0,
+        "x1": 507.0,
+        "y1": 221.0
       },
       "cell_type": "number",
       "raw_value": "8.45",
@@ -780,29 +467,12 @@
     },
     {
       "row_index": 5,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 630.0,
+        "y0": 206.0,
+        "x1": 682.0,
+        "y1": 221.0
       },
       "cell_type": "number",
       "raw_value": "10.79",
@@ -816,10 +486,10 @@
       "row_index": 6,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 38.0,
+        "y0": 239.0,
+        "x1": 159.0,
+        "y1": 258.0
       },
       "cell_type": "text",
       "raw_value": "17-Sep-2021",
@@ -833,27 +503,10 @@
       "row_index": 6,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 279.0,
+        "y0": 239.0,
+        "x1": 315.0,
+        "y1": 254.0
       },
       "cell_type": "number",
       "raw_value": "290",
@@ -865,29 +518,12 @@
     },
     {
       "row_index": 6,
-      "col_index": 3,
+      "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 465.0,
+        "y0": 239.0,
+        "x1": 506.0,
+        "y1": 254.0
       },
       "cell_type": "number",
       "raw_value": "6.22",
@@ -899,29 +535,12 @@
     },
     {
       "row_index": 6,
-      "col_index": 5,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 630.0,
+        "y0": 239.0,
+        "x1": 682.0,
+        "y1": 254.0
       },
       "cell_type": "number",
       "raw_value": "13.98",
@@ -937,48 +556,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "CHAPTER This table contains 7 rows and 7 columns.",
-  "table_summary": "CHAPTER This table contains 7 rows and 7 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
-  "linked_concept_ids": [
-    "options_pricing"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "options_pricing",
-      "source_anchor": {
-        "page_number": 84,
-        "bbox": {
-          "x0": 117.20530705333334,
-          "y0": 27.25,
-          "x1": 368.7488514999999,
-          "y1": 122.23979674999998
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.33 + Keywords: call, put, strike",
-      "confidence": 0.530110102891922
-    }
-  ],
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
     "page_number": 84,
     "bbox": {
-      "x0": 117.20530705333334,
-      "y0": 27.25,
-      "x1": 368.7488514999999,
-      "y1": 122.23979674999998
+      "x0": 36.0,
+      "y0": 22.0,
+      "x1": 683.0,
+      "y1": 258.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part I: Introduction > Concept Check 2.5 > 2.5: Derivative Markets > Options",
   "page_span": [
     84,
     84
-  ]
+  ],
+  "source_chunk_id": "chunk_00428",
+  "page_start": 84,
+  "page_end": 84
 }

@@ -1,48 +1,76 @@
 {
-  "segment_id": "table_p168_idx32",
+  "segment_id": "table_p151_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "68.26%",
+  "caption": "",
   "row_headers": [
     [
-      ""
+      "18.40/"
     ],
     [
-      ""
+      "Expense Ratio"
+    ],
+    [
+      "0.820%"
+    ],
+    [
+      "Category"
+    ],
+    [
+      "Large Blend"
+    ],
+    [
+      "Status"
+    ],
+    [
+      "Open"
     ]
   ],
   "col_headers": [
-    "",
-    "",
-    "95.",
-    "44%",
-    "",
-    ""
+    "NAV / 1-Day Return",
+    "Total Assets",
+    "Adj. Expense Ratio"
   ],
   "cells": [
     [
-      "",
-      "",
-      "95.",
-      "44%",
-      "",
-      ""
+      "NAV / 1-Day Return",
+      "Total Assets",
+      "Adj. Expense Ratio"
     ],
     [
-      "",
-      "",
-      "99.",
-      "74%",
-      "",
-      ""
+      "18.40/",
+      "2.8 Bil",
+      "0.820%"
     ],
     [
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "Expense Ratio",
+      "Fee Level",
+      "Longest Manager Tenure"
+    ],
+    [
+      "0.820%",
+      "Average",
+      "20.30 years"
+    ],
+    [
+      "Category",
+      "Investment Style",
+      "Min. Initial Investment"
+    ],
+    [
+      "Large Blend",
+      "FRA Large Blend",
+      "2,500"
+    ],
+    [
+      "Status",
+      "TTM Yield",
+      "Turnover"
+    ],
+    [
+      "Open",
+      "0.73%",
+      "11%"
     ]
   ],
   "cell_meta": [
@@ -50,14 +78,14 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 13.0,
+        "y0": 23.0,
+        "x1": 164.0,
+        "y1": 51.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "NAV / 1-Day Return",
+      "normalized_value": "NAV / 1-Day Return",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -67,14 +95,14 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 356.0,
+        "y0": 27.0,
+        "x1": 449.0,
+        "y1": 43.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Total Assets",
+      "normalized_value": "Total Assets",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -84,65 +112,14 @@
       "row_index": 0,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 701.0,
+        "y0": 27.0,
+        "x1": 846.0,
+        "y1": 46.0
       },
       "cell_type": "text",
-      "raw_value": "95.",
-      "normalized_value": "95.",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "44%",
-      "normalized_value": 0.44,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "raw_value": "Adj. Expense Ratio",
+      "normalized_value": "Adj. Expense Ratio",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -152,14 +129,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 14.0,
+        "y0": 59.0,
+        "x1": 69.0,
+        "y1": 76.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "18.40/",
+      "normalized_value": "18.40/",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -169,14 +146,14 @@
       "row_index": 1,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 357.0,
+        "y0": 59.0,
+        "x1": 406.0,
+        "y1": 76.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "2.8 Bil",
+      "normalized_value": "2.8 Bil",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -186,65 +163,14 @@
       "row_index": 1,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "99.",
-      "normalized_value": "99.",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 701.0,
+        "y0": 58.0,
+        "x1": 761.0,
+        "y1": 77.0
       },
       "cell_type": "percent",
-      "raw_value": "74%",
-      "normalized_value": 0.74,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "raw_value": "0.820%",
+      "normalized_value": 0.008199999999999999,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -254,14 +180,14 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 13.0,
+        "y0": 113.0,
+        "x1": 121.0,
+        "y1": 132.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Expense Ratio",
+      "normalized_value": "Expense Ratio",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -271,14 +197,14 @@
       "row_index": 2,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 357.0,
+        "y0": 113.0,
+        "x1": 427.0,
+        "y1": 129.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Fee Level",
+      "normalized_value": "Fee Level",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -288,65 +214,269 @@
       "row_index": 2,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 702.0,
+        "y0": 113.0,
+        "x1": 893.0,
+        "y1": 132.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Longest Manager Tenure",
+      "normalized_value": "Longest Manager Tenure",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 2,
-      "col_index": 3,
+      "row_index": 3,
+      "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 13.0,
+        "y0": 143.0,
+        "x1": 72.0,
+        "y1": 161.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "percent",
+      "raw_value": "0.820%",
+      "normalized_value": 0.008199999999999999,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 2,
-      "col_index": 4,
+      "row_index": 3,
+      "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 357.0,
+        "y0": 143.0,
+        "x1": 423.0,
+        "y1": 165.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Average",
+      "normalized_value": "Average",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 2,
-      "col_index": 5,
+      "row_index": 3,
+      "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 702.0,
+        "y0": 143.0,
+        "x1": 795.0,
+        "y1": 165.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "20.30 years",
+      "normalized_value": "20.30 years",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 12.0,
+        "y0": 198.0,
+        "x1": 80.0,
+        "y1": 217.0
+      },
+      "cell_type": "text",
+      "raw_value": "Category",
+      "normalized_value": "Category",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 357.0,
+        "y0": 198.0,
+        "x1": 485.0,
+        "y1": 217.0
+      },
+      "cell_type": "text",
+      "raw_value": "Investment Style",
+      "normalized_value": "Investment Style",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 702.0,
+        "y0": 198.0,
+        "x1": 878.0,
+        "y1": 213.0
+      },
+      "cell_type": "text",
+      "raw_value": "Min. Initial Investment",
+      "normalized_value": "Min. Initial Investment",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 13.0,
+        "y0": 228.0,
+        "x1": 110.0,
+        "y1": 250.0
+      },
+      "cell_type": "text",
+      "raw_value": "Large Blend",
+      "normalized_value": "Large Blend",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 360.0,
+        "y0": 223.0,
+        "x1": 494.0,
+        "y1": 250.0
+      },
+      "cell_type": "text",
+      "raw_value": "FRA Large Blend",
+      "normalized_value": "FRA Large Blend",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 702.0,
+        "y0": 228.0,
+        "x1": 745.0,
+        "y1": 247.0
+      },
+      "cell_type": "number",
+      "raw_value": "2,500",
+      "normalized_value": 2500,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 0,
+      "bbox": {
+        "x0": 12.0,
+        "y0": 291.0,
+        "x1": 61.0,
+        "y1": 307.0
+      },
+      "cell_type": "text",
+      "raw_value": "Status",
+      "normalized_value": "Status",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 1,
+      "bbox": {
+        "x0": 356.0,
+        "y0": 292.0,
+        "x1": 435.0,
+        "y1": 307.0
+      },
+      "cell_type": "text",
+      "raw_value": "TTM Yield",
+      "normalized_value": "TTM Yield",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
+      "bbox": {
+        "x0": 700.0,
+        "y0": 292.0,
+        "x1": 767.0,
+        "y1": 307.0
+      },
+      "cell_type": "text",
+      "raw_value": "Turnover",
+      "normalized_value": "Turnover",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 13.0,
+        "y0": 321.0,
+        "x1": 54.0,
+        "y1": 343.0
+      },
+      "cell_type": "text",
+      "raw_value": "Open",
+      "normalized_value": "Open",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 1,
+      "bbox": {
+        "x0": 357.0,
+        "y0": 321.0,
+        "x1": 406.0,
+        "y1": 339.0
+      },
+      "cell_type": "percent",
+      "raw_value": "0.73%",
+      "normalized_value": 0.0073,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 2,
+      "bbox": {
+        "x0": 703.0,
+        "y0": 321.0,
+        "x1": 736.0,
+        "y1": 339.0
+      },
+      "cell_type": "percent",
+      "raw_value": "11%",
+      "normalized_value": 0.11,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -358,27 +488,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "68.26% This table contains 3 rows and 6 columns.",
-  "table_summary": "68.26% This table contains 3 rows and 6 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
   "linked_concept_ids": [],
   "links": [],
   "source_anchor": {
-    "page_number": 168,
+    "page_number": 151,
     "bbox": {
-      "x0": 160.7489929,
-      "y0": 154.370004,
-      "x1": 409.1279929,
-      "y1": 232.82600268000002
+      "x0": 12.0,
+      "y0": 23.0,
+      "x1": 893.0,
+      "y1": 343.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "3 3 > PROBLEM SETS",
   "page_span": [
-    168,
-    168
-  ]
+    151,
+    151
+  ],
+  "source_chunk_id": "chunk_00966",
+  "page_start": 151,
+  "page_end": 151
 }

@@ -1,92 +1,252 @@
 {
-  "segment_id": "table_p654_idx155",
+  "segment_id": "table_p493_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "$572.36 liabilities and shareholders’ equity $307.31 shareholders’ equity 147.31 earnings",
+  "caption": "",
   "row_headers": [
     [
-      "Total operating expenses"
+      "Moody’s"
     ],
     [
-      "Operating profit"
+      ""
     ],
     [
-      "Gain on sale"
+      ""
     ],
     [
-      "Earnings before interest, taxes, depreciation, & amortization (EBITDA)"
+      ""
     ],
     [
-      "Depreciation and amortization"
+      ""
     ],
     [
-      "Earnings before interest & taxes (EBIT)"
+      ""
     ],
     [
-      "Interest"
+      ""
     ],
     [
-      "Income tax expense"
+      ""
     ],
     [
-      "Net income"
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      ""
     ]
   ],
   "col_headers": [
-    "Revenue",
-    "",
-    "$300.80"
+    "Standard",
+    "& Poor’s AAA AA A BBB",
+    "BB B ccc D"
   ],
   "cells": [
     [
-      "Revenue",
-      "",
-      "$300.80"
+      "Standard",
+      "& Poor’s AAA AA A BBB",
+      "BB B ccc D"
     ],
     [
-      "Total operating expenses",
-      "",
-      "(173.74)"
+      "Moody’s",
+      "Aaa Aa A Baa",
+      "Ba B Caa C"
     ],
     [
-      "Operating profit",
       "",
-      "$127.06"
+      "At times both Moody’s and Standard & Poor’s",
+      "have used adjustments to these ratings:"
     ],
     [
-      "Gain on sale",
       "",
-      "4.00"
+      "S&P uses plus and minus signs: A+ is the strongest",
+      "A rating and A— the weakest."
     ],
     [
-      "Earnings before interest, taxes, depreciation, & amortization (EBITDA)",
       "",
-      "$131.06"
+      "Moody’s uses a 1, 2, or 3 designation, with 1",
+      "indicating the strongest."
     ],
     [
-      "Depreciation and amortization",
       "",
-      "(71.17)"
+      "AAA Debt rated Aaa and AAA has the",
+      "highest rating. Capacity to pay interest"
     ],
     [
-      "Earnings before interest & taxes (EBIT)",
       "",
-      "$ 59.89"
+      "and principal is extremely strong.",
+      ""
     ],
     [
-      "Interest",
       "",
-      "(16.80)"
+      "AA Debt rated Aa and AA has a very",
+      "strong capacity to pay interest and repay"
     ],
     [
-      "Income tax expense",
       "",
-      "(12.93)"
+      "principal. Together with the highest",
+      "rating, this group comprises the high-"
     ],
     [
-      "Net income",
       "",
-      "$ 30.16"
+      "grade bond class.",
+      ""
+    ],
+    [
+      "",
+      "Debt rated A has a strong capacity",
+      "to pay interest and repay principal,"
+    ],
+    [
+      "",
+      "although it is somewhat more susceptible",
+      "to the adverse effects of"
+    ],
+    [
+      "",
+      "changes in circumstances and economic",
+      "conditions than debt in"
+    ],
+    [
+      "",
+      "higher-rated categories.",
+      ""
+    ],
+    [
+      "",
+      "BBB Debt rated Baa and BBB is regarded",
+      "as having an adequate capacity to"
+    ],
+    [
+      "",
+      "pay interest and repay principal.",
+      "Whereas it normally exhibits adequate"
+    ],
+    [
+      "",
+      "protection parameters, adverse",
+      "economic conditions or changing"
+    ],
+    [
+      "",
+      "circumstances are more likely to",
+      "lead to a weakened capacity to pay"
+    ],
+    [
+      "",
+      "interest and repay principal for debt",
+      "in this category than in higher-rated"
+    ],
+    [
+      "",
+      "categories. These bonds are medium-grade",
+      "obligations."
+    ],
+    [
+      "",
+      "BB Debt rated in these categories is",
+      "regarded, on balance, as predominantly"
+    ],
+    [
+      "",
+      "speculative with respect to capacity",
+      "to pay interest and repay principal in"
+    ],
+    [
+      "",
+      "ccc accordance with the terms of the",
+      "obligation. BB and Ba indicate the lowest"
+    ],
+    [
+      "",
+      "cc degree of speculation, and CC and",
+      "Ca the highest degree of speculation."
+    ],
+    [
+      "",
+      "Although such debt will likely have",
+      "some quality and protective"
+    ],
+    [
+      "",
+      "characteristics, these are outweighed",
+      "by large uncertainties or major risk"
+    ],
+    [
+      "",
+      "exposures to adverse conditions.",
+      "Some issues may be in default."
+    ],
+    [
+      "",
+      "This rating is reserved for income",
+      "bonds on which no interest is being paid."
+    ],
+    [
+      "",
+      "Debt rated D is in default, and payment",
+      "of interest and/or repayment of"
+    ],
+    [
+      "",
+      "principal is in arrears.",
+      ""
     ]
   ],
   "cell_meta": [
@@ -94,14 +254,14 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 24.0,
+        "y0": 153.0,
+        "x1": 110.0,
+        "y1": 169.0
       },
       "cell_type": "text",
-      "raw_value": "Revenue",
-      "normalized_value": "Revenue",
+      "raw_value": "Standard",
+      "normalized_value": "Standard",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -111,14 +271,14 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 117.0,
+        "y0": 153.0,
+        "x1": 569.0,
+        "y1": 168.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "& Poor’s AAA AA A BBB",
+      "normalized_value": "& Poor’s AAA AA A BBB",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -128,14 +288,14 @@
       "row_index": 0,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 694.0,
+        "y0": 153.0,
+        "x1": 972.0,
+        "y1": 169.0
       },
-      "cell_type": "currency",
-      "raw_value": "$300.80",
-      "normalized_value": 300.8,
+      "cell_type": "text",
+      "raw_value": "BB B ccc D",
+      "normalized_value": "BB B ccc D",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -145,14 +305,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 25.0,
+        "y0": 186.0,
+        "x1": 104.0,
+        "y1": 206.0
       },
       "cell_type": "text",
-      "raw_value": "Total operating expenses",
-      "normalized_value": "Total operating expenses",
+      "raw_value": "Moody’s",
+      "normalized_value": "Moody’s",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -162,14 +322,14 @@
       "row_index": 1,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 299.0,
+        "y0": 186.0,
+        "x1": 564.0,
+        "y1": 201.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Aaa Aa A Baa",
+      "normalized_value": "Aaa Aa A Baa",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -179,14 +339,14 @@
       "row_index": 1,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 694.0,
+        "y0": 186.0,
+        "x1": 972.0,
+        "y1": 202.0
       },
       "cell_type": "text",
-      "raw_value": "(173.74)",
-      "normalized_value": "(173.74)",
+      "raw_value": "Ba B Caa C",
+      "normalized_value": "Ba B Caa C",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -195,23 +355,6 @@
     {
       "row_index": 2,
       "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Operating profit",
-      "normalized_value": "Operating profit",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 1,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -228,16 +371,33 @@
     },
     {
       "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 140.0,
+        "y0": 220.0,
+        "x1": 578.0,
+        "y1": 240.0
+      },
+      "cell_type": "text",
+      "raw_value": "At times both Moody’s and Standard & Poor’s",
+      "normalized_value": "At times both Moody’s and Standard & Poor’s",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 586.0,
+        "y0": 220.0,
+        "x1": 970.0,
+        "y1": 240.0
       },
-      "cell_type": "currency",
-      "raw_value": "$127.06",
-      "normalized_value": 127.06,
+      "cell_type": "text",
+      "raw_value": "have used adjustments to these ratings:",
+      "normalized_value": "have used adjustments to these ratings:",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -252,23 +412,6 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "Gain on sale",
-      "normalized_value": "Gain on sale",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
       "cell_type": "blank",
       "raw_value": "",
       "normalized_value": "",
@@ -279,16 +422,33 @@
     },
     {
       "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 141.0,
+        "y0": 247.0,
+        "x1": 637.0,
+        "y1": 267.0
+      },
+      "cell_type": "text",
+      "raw_value": "S&P uses plus and minus signs: A+ is the strongest",
+      "normalized_value": "S&P uses plus and minus signs: A+ is the strongest",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 643.0,
+        "y0": 247.0,
+        "x1": 928.0,
+        "y1": 267.0
       },
-      "cell_type": "number",
-      "raw_value": "4.00",
-      "normalized_value": 4.0,
+      "cell_type": "text",
+      "raw_value": "A rating and A— the weakest.",
+      "normalized_value": "A rating and A— the weakest.",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -297,23 +457,6 @@
     {
       "row_index": 4,
       "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Earnings before interest, taxes, depreciation, & amortization (EBITDA)",
-      "normalized_value": "Earnings before interest, taxes, depreciation, & amortization (EBITDA)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 1,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -330,16 +473,33 @@
     },
     {
       "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 141.0,
+        "y0": 275.0,
+        "x1": 559.0,
+        "y1": 295.0
+      },
+      "cell_type": "text",
+      "raw_value": "Moody’s uses a 1, 2, or 3 designation, with 1",
+      "normalized_value": "Moody’s uses a 1, 2, or 3 designation, with 1",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 567.0,
+        "y0": 275.0,
+        "x1": 798.0,
+        "y1": 295.0
       },
-      "cell_type": "currency",
-      "raw_value": "$131.06",
-      "normalized_value": 131.06,
+      "cell_type": "text",
+      "raw_value": "indicating the strongest.",
+      "normalized_value": "indicating the strongest.",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -348,23 +508,6 @@
     {
       "row_index": 5,
       "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Depreciation and amortization",
-      "normalized_value": "Depreciation and amortization",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 1,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -381,16 +524,33 @@
     },
     {
       "row_index": 5,
-      "col_index": 2,
+      "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 143.0,
+        "y0": 370.0,
+        "x1": 573.0,
+        "y1": 385.0
       },
       "cell_type": "text",
-      "raw_value": "(71.17)",
-      "normalized_value": "(71.17)",
+      "raw_value": "AAA Debt rated Aaa and AAA has the",
+      "normalized_value": "AAA Debt rated Aaa and AAA has the",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 581.0,
+        "y0": 370.0,
+        "x1": 952.0,
+        "y1": 390.0
+      },
+      "cell_type": "text",
+      "raw_value": "highest rating. Capacity to pay interest",
+      "normalized_value": "highest rating. Capacity to pay interest",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -399,23 +559,6 @@
     {
       "row_index": 6,
       "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Earnings before interest & taxes (EBIT)",
-      "normalized_value": "Earnings before interest & taxes (EBIT)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 1,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -432,41 +575,24 @@
     },
     {
       "row_index": 6,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "$ 59.89",
-      "normalized_value": "$ 59.89",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Interest",
-      "normalized_value": "Interest",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
       "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 397.0,
+        "x1": 576.0,
+        "y1": 417.0
+      },
+      "cell_type": "text",
+      "raw_value": "and principal is extremely strong.",
+      "normalized_value": "and principal is extremely strong.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -483,16 +609,50 @@
     },
     {
       "row_index": 7,
-      "col_index": 2,
+      "col_index": 0,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 1,
+      "bbox": {
+        "x0": 143.0,
+        "y0": 427.0,
+        "x1": 575.0,
+        "y1": 455.0
+      },
       "cell_type": "text",
-      "raw_value": "(16.80)",
-      "normalized_value": "(16.80)",
+      "raw_value": "AA Debt rated Aa and AA has a very",
+      "normalized_value": "AA Debt rated Aa and AA has a very",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 2,
+      "bbox": {
+        "x0": 581.0,
+        "y0": 431.0,
+        "x1": 977.0,
+        "y1": 451.0
+      },
+      "cell_type": "text",
+      "raw_value": "strong capacity to pay interest and repay",
+      "normalized_value": "strong capacity to pay interest and repay",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -501,23 +661,6 @@
     {
       "row_index": 8,
       "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Income tax expense",
-      "normalized_value": "Income tax expense",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 1,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -534,16 +677,33 @@
     },
     {
       "row_index": 8,
-      "col_index": 2,
+      "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 258.0,
+        "y0": 459.0,
+        "x1": 597.0,
+        "y1": 479.0
       },
       "cell_type": "text",
-      "raw_value": "(12.93)",
-      "normalized_value": "(12.93)",
+      "raw_value": "principal. Together with the highest",
+      "normalized_value": "principal. Together with the highest",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 2,
+      "bbox": {
+        "x0": 604.0,
+        "y0": 459.0,
+        "x1": 964.0,
+        "y1": 479.0
+      },
+      "cell_type": "text",
+      "raw_value": "rating, this group comprises the high-",
+      "normalized_value": "rating, this group comprises the high-",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -552,23 +712,6 @@
     {
       "row_index": 9,
       "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Net income",
-      "normalized_value": "Net income",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 1,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -585,6 +728,23 @@
     },
     {
       "row_index": 9,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 486.0,
+        "x1": 428.0,
+        "y1": 506.0
+      },
+      "cell_type": "text",
+      "raw_value": "grade bond class.",
+      "normalized_value": "grade bond class.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
       "col_index": 2,
       "bbox": {
         "x0": 0,
@@ -592,9 +752,1029 @@
         "x1": 0,
         "y1": 0
       },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 516.0,
+        "x1": 592.0,
+        "y1": 544.0
+      },
       "cell_type": "text",
-      "raw_value": "$ 30.16",
-      "normalized_value": "$ 30.16",
+      "raw_value": "Debt rated A has a strong capacity",
+      "normalized_value": "Debt rated A has a strong capacity",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 2,
+      "bbox": {
+        "x0": 598.0,
+        "y0": 520.0,
+        "x1": 933.0,
+        "y1": 540.0
+      },
+      "cell_type": "text",
+      "raw_value": "to pay interest and repay principal,",
+      "normalized_value": "to pay interest and repay principal,",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 11,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 11,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 547.0,
+        "x1": 659.0,
+        "y1": 567.0
+      },
+      "cell_type": "text",
+      "raw_value": "although it is somewhat more susceptible",
+      "normalized_value": "although it is somewhat more susceptible",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 11,
+      "col_index": 2,
+      "bbox": {
+        "x0": 665.0,
+        "y0": 547.0,
+        "x1": 902.0,
+        "y1": 562.0
+      },
+      "cell_type": "text",
+      "raw_value": "to the adverse effects of",
+      "normalized_value": "to the adverse effects of",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 12,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 12,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 575.0,
+        "x1": 650.0,
+        "y1": 595.0
+      },
+      "cell_type": "text",
+      "raw_value": "changes in circumstances and economic",
+      "normalized_value": "changes in circumstances and economic",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 12,
+      "col_index": 2,
+      "bbox": {
+        "x0": 657.0,
+        "y0": 575.0,
+        "x1": 877.0,
+        "y1": 590.0
+      },
+      "cell_type": "text",
+      "raw_value": "conditions than debt in",
+      "normalized_value": "conditions than debt in",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 13,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 13,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 603.0,
+        "x1": 488.0,
+        "y1": 623.0
+      },
+      "cell_type": "text",
+      "raw_value": "higher-rated categories.",
+      "normalized_value": "higher-rated categories.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 13,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 14,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 14,
+      "col_index": 1,
+      "bbox": {
+        "x0": 144.0,
+        "y0": 636.0,
+        "x1": 609.0,
+        "y1": 656.0
+      },
+      "cell_type": "text",
+      "raw_value": "BBB Debt rated Baa and BBB is regarded",
+      "normalized_value": "BBB Debt rated Baa and BBB is regarded",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 14,
+      "col_index": 2,
+      "bbox": {
+        "x0": 617.0,
+        "y0": 636.0,
+        "x1": 947.0,
+        "y1": 656.0
+      },
+      "cell_type": "text",
+      "raw_value": "as having an adequate capacity to",
+      "normalized_value": "as having an adequate capacity to",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 15,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 15,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 664.0,
+        "x1": 567.0,
+        "y1": 684.0
+      },
+      "cell_type": "text",
+      "raw_value": "pay interest and repay principal.",
+      "normalized_value": "pay interest and repay principal.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 15,
+      "col_index": 2,
+      "bbox": {
+        "x0": 574.0,
+        "y0": 664.0,
+        "x1": 944.0,
+        "y1": 684.0
+      },
+      "cell_type": "text",
+      "raw_value": "Whereas it normally exhibits adequate",
+      "normalized_value": "Whereas it normally exhibits adequate",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 16,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 16,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 692.0,
+        "x1": 560.0,
+        "y1": 711.0
+      },
+      "cell_type": "text",
+      "raw_value": "protection parameters, adverse",
+      "normalized_value": "protection parameters, adverse",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 16,
+      "col_index": 2,
+      "bbox": {
+        "x0": 568.0,
+        "y0": 692.0,
+        "x1": 889.0,
+        "y1": 712.0
+      },
+      "cell_type": "text",
+      "raw_value": "economic conditions or changing",
+      "normalized_value": "economic conditions or changing",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 17,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 17,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 720.0,
+        "x1": 569.0,
+        "y1": 740.0
+      },
+      "cell_type": "text",
+      "raw_value": "circumstances are more likely to",
+      "normalized_value": "circumstances are more likely to",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 17,
+      "col_index": 2,
+      "bbox": {
+        "x0": 577.0,
+        "y0": 720.0,
+        "x1": 920.0,
+        "y1": 740.0
+      },
+      "cell_type": "text",
+      "raw_value": "lead to a weakened capacity to pay",
+      "normalized_value": "lead to a weakened capacity to pay",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 18,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 18,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 747.0,
+        "x1": 604.0,
+        "y1": 767.0
+      },
+      "cell_type": "text",
+      "raw_value": "interest and repay principal for debt",
+      "normalized_value": "interest and repay principal for debt",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 18,
+      "col_index": 2,
+      "bbox": {
+        "x0": 611.0,
+        "y0": 747.0,
+        "x1": 953.0,
+        "y1": 767.0
+      },
+      "cell_type": "text",
+      "raw_value": "in this category than in higher-rated",
+      "normalized_value": "in this category than in higher-rated",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 19,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 19,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 775.0,
+        "x1": 681.0,
+        "y1": 795.0
+      },
+      "cell_type": "text",
+      "raw_value": "categories. These bonds are medium-grade",
+      "normalized_value": "categories. These bonds are medium-grade",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 19,
+      "col_index": 2,
+      "bbox": {
+        "x0": 689.0,
+        "y0": 775.0,
+        "x1": 798.0,
+        "y1": 795.0
+      },
+      "cell_type": "text",
+      "raw_value": "obligations.",
+      "normalized_value": "obligations.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 20,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 20,
+      "col_index": 1,
+      "bbox": {
+        "x0": 144.0,
+        "y0": 809.0,
+        "x1": 572.0,
+        "y1": 829.0
+      },
+      "cell_type": "text",
+      "raw_value": "BB Debt rated in these categories is",
+      "normalized_value": "BB Debt rated in these categories is",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 20,
+      "col_index": 2,
+      "bbox": {
+        "x0": 580.0,
+        "y0": 809.0,
+        "x1": 965.0,
+        "y1": 829.0
+      },
+      "cell_type": "text",
+      "raw_value": "regarded, on balance, as predominantly",
+      "normalized_value": "regarded, on balance, as predominantly",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 21,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 21,
+      "col_index": 1,
+      "bbox": {
+        "x0": 257.0,
+        "y0": 836.0,
+        "x1": 603.0,
+        "y1": 856.0
+      },
+      "cell_type": "text",
+      "raw_value": "speculative with respect to capacity",
+      "normalized_value": "speculative with respect to capacity",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 21,
+      "col_index": 2,
+      "bbox": {
+        "x0": 609.0,
+        "y0": 836.0,
+        "x1": 961.0,
+        "y1": 856.0
+      },
+      "cell_type": "text",
+      "raw_value": "to pay interest and repay principal in",
+      "normalized_value": "to pay interest and repay principal in",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 22,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 22,
+      "col_index": 1,
+      "bbox": {
+        "x0": 144.0,
+        "y0": 864.0,
+        "x1": 575.0,
+        "y1": 880.0
+      },
+      "cell_type": "text",
+      "raw_value": "ccc accordance with the terms of the",
+      "normalized_value": "ccc accordance with the terms of the",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 22,
+      "col_index": 2,
+      "bbox": {
+        "x0": 582.0,
+        "y0": 864.0,
+        "x1": 979.0,
+        "y1": 884.0
+      },
+      "cell_type": "text",
+      "raw_value": "obligation. BB and Ba indicate the lowest",
+      "normalized_value": "obligation. BB and Ba indicate the lowest",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 23,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 23,
+      "col_index": 1,
+      "bbox": {
+        "x0": 144.0,
+        "y0": 892.0,
+        "x1": 594.0,
+        "y1": 912.0
+      },
+      "cell_type": "text",
+      "raw_value": "cc degree of speculation, and CC and",
+      "normalized_value": "cc degree of speculation, and CC and",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 23,
+      "col_index": 2,
+      "bbox": {
+        "x0": 602.0,
+        "y0": 892.0,
+        "x1": 965.0,
+        "y1": 912.0
+      },
+      "cell_type": "text",
+      "raw_value": "Ca the highest degree of speculation.",
+      "normalized_value": "Ca the highest degree of speculation.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 24,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 24,
+      "col_index": 1,
+      "bbox": {
+        "x0": 257.0,
+        "y0": 920.0,
+        "x1": 592.0,
+        "y1": 940.0
+      },
+      "cell_type": "text",
+      "raw_value": "Although such debt will likely have",
+      "normalized_value": "Although such debt will likely have",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 24,
+      "col_index": 2,
+      "bbox": {
+        "x0": 599.0,
+        "y0": 920.0,
+        "x1": 867.0,
+        "y1": 940.0
+      },
+      "cell_type": "text",
+      "raw_value": "some quality and protective",
+      "normalized_value": "some quality and protective",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 25,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 25,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 947.0,
+        "x1": 619.0,
+        "y1": 967.0
+      },
+      "cell_type": "text",
+      "raw_value": "characteristics, these are outweighed",
+      "normalized_value": "characteristics, these are outweighed",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 25,
+      "col_index": 2,
+      "bbox": {
+        "x0": 627.0,
+        "y0": 947.0,
+        "x1": 961.0,
+        "y1": 967.0
+      },
+      "cell_type": "text",
+      "raw_value": "by large uncertainties or major risk",
+      "normalized_value": "by large uncertainties or major risk",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 26,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 26,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 975.0,
+        "x1": 577.0,
+        "y1": 994.0
+      },
+      "cell_type": "text",
+      "raw_value": "exposures to adverse conditions.",
+      "normalized_value": "exposures to adverse conditions.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 26,
+      "col_index": 2,
+      "bbox": {
+        "x0": 585.0,
+        "y0": 975.0,
+        "x1": 884.0,
+        "y1": 995.0
+      },
+      "cell_type": "text",
+      "raw_value": "Some issues may be in default.",
+      "normalized_value": "Some issues may be in default.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 27,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 27,
+      "col_index": 1,
+      "bbox": {
+        "x0": 257.0,
+        "y0": 1009.0,
+        "x1": 580.0,
+        "y1": 1029.0
+      },
+      "cell_type": "text",
+      "raw_value": "This rating is reserved for income",
+      "normalized_value": "This rating is reserved for income",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 27,
+      "col_index": 2,
+      "bbox": {
+        "x0": 588.0,
+        "y0": 1009.0,
+        "x1": 984.0,
+        "y1": 1029.0
+      },
+      "cell_type": "text",
+      "raw_value": "bonds on which no interest is being paid.",
+      "normalized_value": "bonds on which no interest is being paid.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 28,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 28,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 1037.0,
+        "x1": 637.0,
+        "y1": 1067.0
+      },
+      "cell_type": "text",
+      "raw_value": "Debt rated D is in default, and payment",
+      "normalized_value": "Debt rated D is in default, and payment",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 28,
+      "col_index": 2,
+      "bbox": {
+        "x0": 643.0,
+        "y0": 1041.0,
+        "x1": 945.0,
+        "y1": 1062.0
+      },
+      "cell_type": "text",
+      "raw_value": "of interest and/or repayment of",
+      "normalized_value": "of interest and/or repayment of",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 29,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 29,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 1070.0,
+        "x1": 461.0,
+        "y1": 1089.0
+      },
+      "cell_type": "text",
+      "raw_value": "principal is in arrears.",
+      "normalized_value": "principal is in arrears.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 29,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -606,48 +1786,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "$572.36 liabilities and shareholders’ equity $307.31 shareholders’ equity 147.31 earnings This table contains 10 rows and 3 columns.",
-  "table_summary": "$572.36 liabilities and shareholders’ equity $307.31 shareholders’ equity 147.31 earnings This table contains 10 rows and 3 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
-  "linked_concept_ids": [
-    "financial_analysis"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "financial_analysis",
-      "source_anchor": {
-        "page_number": 654,
-        "bbox": {
-          "x0": 107.9241905220588,
-          "y0": 349.48119975000003,
-          "x1": 467.5759999205882,
-          "y1": 474.18094645
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.45",
-      "confidence": 0.451768159866333
-    }
-  ],
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
-    "page_number": 654,
+    "page_number": 493,
     "bbox": {
-      "x0": 107.9241905220588,
-      "y0": 349.48119975000003,
-      "x1": 467.5759999205882,
-      "y1": 474.18094645
+      "x0": 24.0,
+      "y0": 153.0,
+      "x1": 984.0,
+      "y1": 1089.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part IV: Fixed-Income Securities > Concept Check 14.7 > 14.5: Default Risk and Bond Pricing > Junk Bonds",
   "page_span": [
-    654,
-    654
-  ]
+    493,
+    493
+  ],
+  "source_chunk_id": "chunk_03906",
+  "page_start": 493,
+  "page_end": 493
 }

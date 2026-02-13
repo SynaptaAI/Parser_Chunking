@@ -1,104 +1,49 @@
 {
-  "segment_id": "table_p291_idx67",
+  "segment_id": "table_p234_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "Theory and Practice",
+  "caption": "",
   "row_headers": [
     [
-      "Multiple R"
+      "Wy = .10"
     ],
     [
-      "R-Square"
+      "wy =.30"
     ],
     [
-      "Adjusted R-Square"
-    ],
-    [
-      "Standard Error"
-    ],
-    [
-      "Observations"
-    ],
-    [
-      "Explanatory variable"
-    ],
-    [
-      "Intercept"
-    ],
-    [
-      "Market index"
+      "wz = .40"
     ]
   ],
   "col_headers": [
-    "Regression Statistics",
-    "",
-    "",
-    "",
-    ""
+    "Weights",
+    "Wx = .10",
+    "wy =",
+    ".40"
   ],
   "cells": [
     [
-      "Regression Statistics",
-      "",
-      "",
-      "",
-      ""
+      "Weights",
+      "Wx = .10",
+      "wy =",
+      ".40"
     ],
     [
-      "Multiple R",
-      "0.532",
-      "",
-      "",
-      ""
+      "Wy = .10",
+      "26.25",
+      "8.91",
+      "5.52"
     ],
     [
-      "R-Square",
-      "0.283",
-      "",
-      "",
-      ""
+      "wy =.30",
+      "8.91",
+      "15.98",
+      "12.16"
     ],
     [
-      "Adjusted R-Square",
-      "0.271",
-      "",
-      "",
-      ""
-    ],
-    [
-      "Standard Error",
-      "15.171",
-      "",
-      "",
-      ""
-    ],
-    [
-      "Observations",
-      "60",
-      "",
-      "",
-      ""
-    ],
-    [
-      "Explanatory variable",
-      "Coefficient",
-      "Standard Error",
-      "t-Statistic",
-      "p-Value"
-    ],
-    [
-      "Intercept",
-      "−2.034",
-      "2.052",
-      "−0.991",
-      "0.326"
-    ],
-    [
-      "Market index",
-      "2.030",
-      "0.424",
-      "4.785",
-      "0.000"
+      "wz = .40",
+      "5.52",
+      "12.16",
+      "9.38"
     ]
   ],
   "cell_meta": [
@@ -106,14 +51,14 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 39.0,
+        "y0": 15.0,
+        "x1": 120.0,
+        "y1": 52.0
       },
       "cell_type": "text",
-      "raw_value": "Regression Statistics",
-      "normalized_value": "Regression Statistics",
+      "raw_value": "Weights",
+      "normalized_value": "Weights",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -123,14 +68,14 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 195.0,
+        "y0": 27.0,
+        "x1": 282.0,
+        "y1": 46.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "formula",
+      "raw_value": "Wx = .10",
+      "normalized_value": "Wx = .10",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -140,14 +85,14 @@
       "row_index": 0,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 353.0,
+        "y0": 31.0,
+        "x1": 401.0,
+        "y1": 46.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "formula",
+      "raw_value": "wy =",
+      "normalized_value": "wy =",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -157,31 +102,14 @@
       "row_index": 0,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 566.0,
+        "y0": 27.0,
+        "x1": 598.0,
+        "y1": 42.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": ".40",
+      "normalized_value": ".40",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -191,14 +119,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 62.0,
+        "x1": 123.0,
+        "y1": 99.0
       },
-      "cell_type": "text",
-      "raw_value": "Multiple R",
-      "normalized_value": "Multiple R",
+      "cell_type": "formula",
+      "raw_value": "Wy = .10",
+      "normalized_value": "Wy = .10",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -208,14 +136,14 @@
       "row_index": 1,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 208.0,
+        "y0": 75.0,
+        "x1": 263.0,
+        "y1": 90.0
       },
       "cell_type": "number",
-      "raw_value": "0.532",
-      "normalized_value": 0.532,
+      "raw_value": "26.25",
+      "normalized_value": 26.25,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -225,14 +153,14 @@
       "row_index": 1,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 380.0,
+        "y0": 75.0,
+        "x1": 418.0,
+        "y1": 90.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "8.91",
+      "normalized_value": 8.91,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -242,31 +170,14 @@
       "row_index": 1,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 538.0,
+        "y0": 75.0,
+        "x1": 579.0,
+        "y1": 90.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "5.52",
+      "normalized_value": 5.52,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -276,14 +187,14 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 108.0,
+        "x1": 122.0,
+        "y1": 128.0
       },
-      "cell_type": "text",
-      "raw_value": "R-Square",
-      "normalized_value": "R-Square",
+      "cell_type": "formula",
+      "raw_value": "wy =.30",
+      "normalized_value": "wy =.30",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -293,14 +204,14 @@
       "row_index": 2,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 221.0,
+        "y0": 108.0,
+        "x1": 259.0,
+        "y1": 123.0
       },
       "cell_type": "number",
-      "raw_value": "0.283",
-      "normalized_value": 0.283,
+      "raw_value": "8.91",
+      "normalized_value": 8.91,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -310,14 +221,14 @@
       "row_index": 2,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 369.0,
+        "y0": 108.0,
+        "x1": 421.0,
+        "y1": 123.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "15.98",
+      "normalized_value": 15.98,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -327,31 +238,14 @@
       "row_index": 2,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 527.0,
+        "y0": 108.0,
+        "x1": 579.0,
+        "y1": 123.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "12.16",
+      "normalized_value": 12.16,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -361,14 +255,14 @@
       "row_index": 3,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 141.0,
+        "x1": 121.0,
+        "y1": 160.0
       },
-      "cell_type": "text",
-      "raw_value": "Adjusted R-Square",
-      "normalized_value": "Adjusted R-Square",
+      "cell_type": "formula",
+      "raw_value": "wz = .40",
+      "normalized_value": "wz = .40",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -378,14 +272,14 @@
       "row_index": 3,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 222.0,
+        "y0": 141.0,
+        "x1": 262.0,
+        "y1": 156.0
       },
       "cell_type": "number",
-      "raw_value": "0.271",
-      "normalized_value": 0.271,
+      "raw_value": "5.52",
+      "normalized_value": 5.52,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -395,14 +289,14 @@
       "row_index": 3,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 369.0,
+        "y0": 141.0,
+        "x1": 421.0,
+        "y1": 156.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "12.16",
+      "normalized_value": 12.16,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -412,456 +306,14 @@
       "row_index": 3,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Standard Error",
-      "normalized_value": "Standard Error",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 538.0,
+        "y0": 141.0,
+        "x1": 579.0,
+        "y1": 156.0
       },
       "cell_type": "number",
-      "raw_value": "15.171",
-      "normalized_value": 15.171,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Observations",
-      "normalized_value": "Observations",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "60",
-      "normalized_value": 60,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Explanatory variable",
-      "normalized_value": "Explanatory variable",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Coefficient",
-      "normalized_value": "Coefficient",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Standard Error",
-      "normalized_value": "Standard Error",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "t-Statistic",
-      "normalized_value": "t-Statistic",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "p-Value",
-      "normalized_value": "p-Value",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Intercept",
-      "normalized_value": "Intercept",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "−2.034",
-      "normalized_value": "−2.034",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2.052",
-      "normalized_value": 2.052,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "−0.991",
-      "normalized_value": "−0.991",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "0.326",
-      "normalized_value": 0.326,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Market index",
-      "normalized_value": "Market index",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2.030",
-      "normalized_value": 2.03,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "0.424",
-      "normalized_value": 0.424,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "4.785",
-      "normalized_value": 4.785,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "0.000",
-      "normalized_value": 0.0,
+      "raw_value": "9.38",
+      "normalized_value": 9.38,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -873,27 +325,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "Theory and Practice This table contains 9 rows and 5 columns.",
-  "table_summary": "Theory and Practice This table contains 9 rows and 5 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
   "linked_concept_ids": [],
   "links": [],
   "source_anchor": {
-    "page_number": 291,
+    "page_number": 234,
     "bbox": {
-      "x0": 189.25,
-      "y0": 27.25,
-      "x1": 525.7248504500002,
-      "y1": 159.62975065000006
+      "x0": 36.0,
+      "y0": 15.0,
+      "x1": 598.0,
+      "y1": 160.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part II: Portfolio Theory and Practice > Example 7.1 Volatility of a Three-Asset Portfolio",
   "page_span": [
-    291,
-    291
-  ]
+    234,
+    234
+  ],
+  "source_chunk_id": "chunk_01692",
+  "page_start": 234,
+  "page_end": 234
 }

@@ -1,49 +1,196 @@
 {
-  "segment_id": "table_p114_idx17",
+  "segment_id": "table_p113_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "CHAPTER 3",
+  "caption": "",
   "row_headers": [
     [
-      "30% increase"
+      "1"
     ],
     [
-      "No change"
+      "2"
     ],
     [
-      "30% decrease"
+      "3"
+    ],
+    [
+      "4 | Initial Equity Investment $10,000.00"
+    ],
+    [
+      "5 | Amount Borrowed $10,000.00"
+    ],
+    [
+      "6 | Initial Stock Price $50.00"
+    ],
+    [
+      "7 | Shares Purchased"
+    ],
+    [
+      "8 | Ending Stock Price $40.00"
+    ],
+    [
+      "9 | Cash Dividends During Hold Per.| $0.60"
+    ],
+    [
+      "10 | Initial Margin Percentage 50.00%"
+    ],
+    [
+      "411 | Maintenance Margin Percentage 30.00%"
+    ],
+    [
+      "12"
+    ],
+    [
+      "13 | Rate on Margin Loan 8.00%"
+    ],
+    [
+      "14 | Holding Period in Months"
+    ],
+    [
+      "15"
+    ],
+    [
+      "16 | Return on Investment"
+    ],
+    [
+      "Capital Gain on Stock"
+    ],
+    [
+      "Dividends $240.00"
+    ],
+    [
+      "Interest on Margin Loan $400.00"
+    ],
+    [
+      "20| Net Income"
+    ],
+    [
+      "Initial Investment $10,000.00"
+    ],
+    [
+      "22 | Return on Investment —41.60%"
     ]
   ],
   "col_headers": [
-    "Change in Stock\nPrice",
-    "End-of-Year Value\nof Shares",
-    "Repayment of Principal\nand Interest*",
-    "Investor’s Rate\nof Return"
+    "A B",
+    "c D E",
+    "G H"
   ],
   "cells": [
     [
-      "Change in Stock\nPrice",
-      "End-of-Year Value\nof Shares",
-      "Repayment of Principal\nand Interest*",
-      "Investor’s Rate\nof Return"
+      "A B",
+      "c D E",
+      "G H"
     ],
     [
-      "30% increase",
-      "$26,000",
-      "$10,900",
-      "51%"
+      "1",
+      "",
+      ""
     ],
     [
-      "No change",
-      "20,000",
-      "10,900",
-      "−9"
+      "2",
+      "Action or Formula | Ending Return on",
+      "Return with"
     ],
     [
-      "30% decrease",
-      "14,000",
-      "10,900",
-      "−69"
+      "3",
+      "for Column B St Price | Investment",
+      "St Price| No Margin"
+    ],
+    [
+      "4 | Initial Equity Investment $10,000.00",
+      "Enter data -41.60%",
+      ""
+    ],
+    [
+      "5 | Amount Borrowed $10,000.00",
+      "(B4/B10)-B4 $20.00 | -121.60%",
+      "$20.00] -58.80%"
+    ],
+    [
+      "6 | Initial Stock Price $50.00",
+      "Enter data 25.00 |",
+      "25.00| -48.80%"
+    ],
+    [
+      "7 | Shares Purchased",
+      "400 (B4/B10)—B6 30.00",
+      "-38.80%"
+    ],
+    [
+      "8 | Ending Stock Price $40.00",
+      "Enter data 35.00",
+      "35.00| -28.80%"
+    ],
+    [
+      "9 | Cash Dividends During Hold Per.| $0.60",
+      "Enter data 40.00 —41.60%",
+      "40.00 -18.80%"
+    ],
+    [
+      "10 | Initial Margin Percentage 50.00%",
+      "Enter data 45.00 =21.60%",
+      "45.00 -8.80%"
+    ],
+    [
+      "411 | Maintenance Margin Percentage 30.00%",
+      "Enter data 50.00",
+      "50.00 1.20%"
+    ],
+    [
+      "12",
+      "55.00 18.40%",
+      "55.00 11.20%"
+    ],
+    [
+      "13 | Rate on Margin Loan 8.00%",
+      "Enter data 60.00 38.40%",
+      "60.00 21.20%"
+    ],
+    [
+      "14 | Holding Period in Months",
+      "6 Enter data 65.00 58.40%",
+      "65.00 31.20%"
+    ],
+    [
+      "15",
+      "B13-B14 70.00 78.40%",
+      "70.00 41.20%"
+    ],
+    [
+      "16 | Return on Investment",
+      "B4 75.00 98.40%",
+      "75.00 51.20%"
+    ],
+    [
+      "Capital Gain on Stock",
+      "B7* 80.00 118.40%",
+      "80.00 61.20%"
+    ],
+    [
+      "Dividends $240.00",
+      "B7*B9",
+      ""
+    ],
+    [
+      "Interest on Margin Loan $400.00",
+      "| B5*(B14/12)*B13",
+      ""
+    ],
+    [
+      "20| Net Income",
+      "B17+B18-B19",
+      "LEGEND:"
+    ],
+    [
+      "Initial Investment $10,000.00",
+      "B4",
+      "Enter data"
+    ],
+    [
+      "22 | Return on Investment —41.60%",
+      "B20/B21",
+      "Value calculated"
     ]
   ],
   "cell_meta": [
@@ -51,14 +198,14 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 188.0,
+        "y0": 12.0,
+        "x1": 424.0,
+        "y1": 26.0
       },
       "cell_type": "text",
-      "raw_value": "Change in Stock\nPrice",
-      "normalized_value": "Change in Stock\nPrice",
+      "raw_value": "A B",
+      "normalized_value": "A B",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -68,14 +215,14 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 569.0,
+        "y0": 12.0,
+        "x1": 826.0,
+        "y1": 26.0
       },
       "cell_type": "text",
-      "raw_value": "End-of-Year Value\nof Shares",
-      "normalized_value": "End-of-Year Value\nof Shares",
+      "raw_value": "c D E",
+      "normalized_value": "c D E",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -85,31 +232,14 @@
       "row_index": 0,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1006.0,
+        "y0": 12.0,
+        "x1": 1120.0,
+        "y1": 26.0
       },
       "cell_type": "text",
-      "raw_value": "Repayment of Principal\nand Interest*",
-      "normalized_value": "Repayment of Principal\nand Interest*",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Investor’s Rate\nof Return",
-      "normalized_value": "Investor’s Rate\nof Return",
+      "raw_value": "G H",
+      "normalized_value": "G H",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -119,14 +249,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 28.0,
+        "y0": 38.0,
+        "x1": 35.0,
+        "y1": 52.0
       },
-      "cell_type": "text",
-      "raw_value": "30% increase",
-      "normalized_value": "30% increase",
+      "cell_type": "number",
+      "raw_value": "1",
+      "normalized_value": 1,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -141,9 +271,9 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "currency",
-      "raw_value": "$26,000",
-      "normalized_value": 26000.0,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -158,67 +288,152 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "currency",
-      "raw_value": "$10,900",
-      "normalized_value": 10900.0,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 1,
-      "col_index": 3,
+      "row_index": 2,
+      "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 27.0,
+        "y0": 63.0,
+        "x1": 38.0,
+        "y1": 77.0
+      },
+      "cell_type": "number",
+      "raw_value": "2",
+      "normalized_value": 2,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 488.0,
+        "y0": 59.0,
+        "x1": 881.0,
+        "y1": 85.0
+      },
+      "cell_type": "text",
+      "raw_value": "Action or Formula | Ending Return on",
+      "normalized_value": "Action or Formula | Ending Return on",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 1064.0,
+        "y0": 62.0,
+        "x1": 1170.0,
+        "y1": 76.0
+      },
+      "cell_type": "text",
+      "raw_value": "Return with",
+      "normalized_value": "Return with",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 27.0,
+        "y0": 88.0,
+        "x1": 38.0,
+        "y1": 102.0
+      },
+      "cell_type": "number",
+      "raw_value": "3",
+      "normalized_value": 3,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 511.0,
+        "y0": 83.0,
+        "x1": 880.0,
+        "y1": 109.0
+      },
+      "cell_type": "text",
+      "raw_value": "for Column B St Price | Investment",
+      "normalized_value": "for Column B St Price | Investment",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 979.0,
+        "y0": 87.0,
+        "x1": 1168.0,
+        "y1": 105.0
+      },
+      "cell_type": "text",
+      "raw_value": "St Price| No Margin",
+      "normalized_value": "St Price| No Margin",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 26.0,
+        "y0": 108.0,
+        "x1": 468.0,
+        "y1": 135.0
+      },
+      "cell_type": "text",
+      "raw_value": "4 | Initial Equity Investment $10,000.00",
+      "normalized_value": "4 | Initial Equity Investment $10,000.00",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 526.0,
+        "y0": 113.0,
+        "x1": 879.0,
+        "y1": 129.0
       },
       "cell_type": "percent",
-      "raw_value": "51%",
-      "normalized_value": 0.51,
+      "raw_value": "Enter data -41.60%",
+      "normalized_value": "Enter data -41.60%",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 2,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "No change",
-      "normalized_value": "No change",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "20,000",
-      "normalized_value": 20000,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
+      "row_index": 4,
       "col_index": 2,
       "bbox": {
         "x0": 0,
@@ -226,67 +441,713 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "number",
-      "raw_value": "10,900",
-      "normalized_value": 10900,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 2,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "−9",
-      "normalized_value": "−9",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
+      "row_index": 5,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 27.0,
+        "y0": 131.0,
+        "x1": 468.0,
+        "y1": 160.0
       },
       "cell_type": "text",
-      "raw_value": "30% decrease",
-      "normalized_value": "30% decrease",
+      "raw_value": "5 | Amount Borrowed $10,000.00",
+      "normalized_value": "5 | Amount Borrowed $10,000.00",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 3,
+      "row_index": 5,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 511.0,
+        "y0": 132.0,
+        "x1": 879.0,
+        "y1": 161.0
       },
-      "cell_type": "number",
-      "raw_value": "14,000",
-      "normalized_value": 14000,
+      "cell_type": "percent",
+      "raw_value": "(B4/B10)-B4 $20.00 | -121.60%",
+      "normalized_value": "(B4/B10)-B4 $20.00 | -121.60%",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 3,
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 981.0,
+        "y0": 136.0,
+        "x1": 1166.0,
+        "y1": 154.0
+      },
+      "cell_type": "percent",
+      "raw_value": "$20.00] -58.80%",
+      "normalized_value": "$20.00] -58.80%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 0,
+      "bbox": {
+        "x0": 26.0,
+        "y0": 158.0,
+        "x1": 468.0,
+        "y1": 187.0
+      },
+      "cell_type": "text",
+      "raw_value": "6 | Initial Stock Price $50.00",
+      "normalized_value": "6 | Initial Stock Price $50.00",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 1,
+      "bbox": {
+        "x0": 527.0,
+        "y0": 158.0,
+        "x1": 773.0,
+        "y1": 187.0
+      },
+      "cell_type": "text",
+      "raw_value": "Enter data 25.00 |",
+      "normalized_value": "Enter data 25.00 |",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
+      "bbox": {
+        "x0": 993.0,
+        "y0": 162.0,
+        "x1": 1166.0,
+        "y1": 178.0
+      },
+      "cell_type": "percent",
+      "raw_value": "25.00| -48.80%",
+      "normalized_value": "25.00| -48.80%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 27.0,
+        "y0": 184.0,
+        "x1": 221.0,
+        "y1": 211.0
+      },
+      "cell_type": "text",
+      "raw_value": "7 | Shares Purchased",
+      "normalized_value": "7 | Shares Purchased",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 1,
+      "bbox": {
+        "x0": 432.0,
+        "y0": 188.0,
+        "x1": 752.0,
+        "y1": 206.0
+      },
+      "cell_type": "text",
+      "raw_value": "400 (B4/B10)—B6 30.00",
+      "normalized_value": "400 (B4/B10)—B6 30.00",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 2,
+      "bbox": {
+        "x0": 1084.0,
+        "y0": 187.0,
+        "x1": 1166.0,
+        "y1": 202.0
+      },
+      "cell_type": "percent",
+      "raw_value": "-38.80%",
+      "normalized_value": -0.38799999999999996,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 0,
+      "bbox": {
+        "x0": 26.0,
+        "y0": 209.0,
+        "x1": 468.0,
+        "y1": 236.0
+      },
+      "cell_type": "text",
+      "raw_value": "8 | Ending Stock Price $40.00",
+      "normalized_value": "8 | Ending Stock Price $40.00",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 1,
+      "bbox": {
+        "x0": 527.0,
+        "y0": 213.0,
+        "x1": 752.0,
+        "y1": 228.0
+      },
+      "cell_type": "text",
+      "raw_value": "Enter data 35.00",
+      "normalized_value": "Enter data 35.00",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 2,
+      "bbox": {
+        "x0": 993.0,
+        "y0": 212.0,
+        "x1": 1166.0,
+        "y1": 228.0
+      },
+      "cell_type": "percent",
+      "raw_value": "35.00| -28.80%",
+      "normalized_value": "35.00| -28.80%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 0,
+      "bbox": {
+        "x0": 26.0,
+        "y0": 234.0,
+        "x1": 468.0,
+        "y1": 260.0
+      },
+      "cell_type": "text",
+      "raw_value": "9 | Cash Dividends During Hold Per.| $0.60",
+      "normalized_value": "9 | Cash Dividends During Hold Per.| $0.60",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 1,
+      "bbox": {
+        "x0": 527.0,
+        "y0": 237.0,
+        "x1": 879.0,
+        "y1": 253.0
+      },
+      "cell_type": "percent",
+      "raw_value": "Enter data 40.00 —41.60%",
+      "normalized_value": "Enter data 40.00 —41.60%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 2,
+      "bbox": {
+        "x0": 993.0,
+        "y0": 237.0,
+        "x1": 1166.0,
+        "y1": 253.0
+      },
+      "cell_type": "percent",
+      "raw_value": "40.00 -18.80%",
+      "normalized_value": "40.00 -18.80%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 0,
+      "bbox": {
+        "x0": 15.0,
+        "y0": 259.0,
+        "x1": 468.0,
+        "y1": 286.0
+      },
+      "cell_type": "percent",
+      "raw_value": "10 | Initial Margin Percentage 50.00%",
+      "normalized_value": "10 | Initial Margin Percentage 50.00%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 1,
+      "bbox": {
+        "x0": 527.0,
+        "y0": 262.0,
+        "x1": 879.0,
+        "y1": 278.0
+      },
+      "cell_type": "formula",
+      "raw_value": "Enter data 45.00 =21.60%",
+      "normalized_value": "Enter data 45.00 =21.60%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 2,
+      "bbox": {
+        "x0": 993.0,
+        "y0": 262.0,
+        "x1": 1166.0,
+        "y1": 278.0
+      },
+      "cell_type": "percent",
+      "raw_value": "45.00 -8.80%",
+      "normalized_value": "45.00 -8.80%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 11,
+      "col_index": 0,
+      "bbox": {
+        "x0": 15.0,
+        "y0": 283.0,
+        "x1": 468.0,
+        "y1": 311.0
+      },
+      "cell_type": "percent",
+      "raw_value": "411 | Maintenance Margin Percentage 30.00%",
+      "normalized_value": "411 | Maintenance Margin Percentage 30.00%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 11,
+      "col_index": 1,
+      "bbox": {
+        "x0": 527.0,
+        "y0": 289.0,
+        "x1": 752.0,
+        "y1": 304.0
+      },
+      "cell_type": "text",
+      "raw_value": "Enter data 50.00",
+      "normalized_value": "Enter data 50.00",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 11,
+      "col_index": 2,
+      "bbox": {
+        "x0": 994.0,
+        "y0": 287.0,
+        "x1": 1166.0,
+        "y1": 303.0
+      },
+      "cell_type": "percent",
+      "raw_value": "50.00 1.20%",
+      "normalized_value": "50.00 1.20%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 12,
+      "col_index": 0,
+      "bbox": {
+        "x0": 15.0,
+        "y0": 314.0,
+        "x1": 38.0,
+        "y1": 328.0
+      },
+      "cell_type": "number",
+      "raw_value": "12",
+      "normalized_value": 12,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 12,
+      "col_index": 1,
+      "bbox": {
+        "x0": 699.0,
+        "y0": 312.0,
+        "x1": 879.0,
+        "y1": 329.0
+      },
+      "cell_type": "percent",
+      "raw_value": "55.00 18.40%",
+      "normalized_value": "55.00 18.40%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 12,
+      "col_index": 2,
+      "bbox": {
+        "x0": 994.0,
+        "y0": 313.0,
+        "x1": 1166.0,
+        "y1": 328.0
+      },
+      "cell_type": "percent",
+      "raw_value": "55.00 11.20%",
+      "normalized_value": "55.00 11.20%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 13,
+      "col_index": 0,
+      "bbox": {
+        "x0": 15.0,
+        "y0": 335.0,
+        "x1": 468.0,
+        "y1": 363.0
+      },
+      "cell_type": "percent",
+      "raw_value": "13 | Rate on Margin Loan 8.00%",
+      "normalized_value": "13 | Rate on Margin Loan 8.00%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 13,
+      "col_index": 1,
+      "bbox": {
+        "x0": 527.0,
+        "y0": 338.0,
+        "x1": 879.0,
+        "y1": 354.0
+      },
+      "cell_type": "percent",
+      "raw_value": "Enter data 60.00 38.40%",
+      "normalized_value": "Enter data 60.00 38.40%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 13,
+      "col_index": 2,
+      "bbox": {
+        "x0": 993.0,
+        "y0": 338.0,
+        "x1": 1166.0,
+        "y1": 354.0
+      },
+      "cell_type": "percent",
+      "raw_value": "60.00 21.20%",
+      "normalized_value": "60.00 21.20%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 14,
+      "col_index": 0,
+      "bbox": {
+        "x0": 15.0,
+        "y0": 359.0,
+        "x1": 288.0,
+        "y1": 386.0
+      },
+      "cell_type": "text",
+      "raw_value": "14 | Holding Period in Months",
+      "normalized_value": "14 | Holding Period in Months",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 14,
+      "col_index": 1,
+      "bbox": {
+        "x0": 457.0,
+        "y0": 363.0,
+        "x1": 879.0,
+        "y1": 379.0
+      },
+      "cell_type": "percent",
+      "raw_value": "6 Enter data 65.00 58.40%",
+      "normalized_value": "6 Enter data 65.00 58.40%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 14,
+      "col_index": 2,
+      "bbox": {
+        "x0": 993.0,
+        "y0": 363.0,
+        "x1": 1166.0,
+        "y1": 379.0
+      },
+      "cell_type": "percent",
+      "raw_value": "65.00 31.20%",
+      "normalized_value": "65.00 31.20%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 15,
+      "col_index": 0,
+      "bbox": {
+        "x0": 15.0,
+        "y0": 389.0,
+        "x1": 38.0,
+        "y1": 403.0
+      },
+      "cell_type": "number",
+      "raw_value": "15",
+      "normalized_value": 15,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 15,
+      "col_index": 1,
+      "bbox": {
+        "x0": 527.0,
+        "y0": 388.0,
+        "x1": 879.0,
+        "y1": 404.0
+      },
+      "cell_type": "percent",
+      "raw_value": "B13-B14 70.00 78.40%",
+      "normalized_value": "B13-B14 70.00 78.40%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 15,
+      "col_index": 2,
+      "bbox": {
+        "x0": 993.0,
+        "y0": 388.0,
+        "x1": 1166.0,
+        "y1": 404.0
+      },
+      "cell_type": "percent",
+      "raw_value": "70.00 41.20%",
+      "normalized_value": "70.00 41.20%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 16,
+      "col_index": 0,
+      "bbox": {
+        "x0": 15.0,
+        "y0": 409.0,
+        "x1": 258.0,
+        "y1": 438.0
+      },
+      "cell_type": "text",
+      "raw_value": "16 | Return on Investment",
+      "normalized_value": "16 | Return on Investment",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 16,
+      "col_index": 1,
+      "bbox": {
+        "x0": 561.0,
+        "y0": 413.0,
+        "x1": 879.0,
+        "y1": 429.0
+      },
+      "cell_type": "percent",
+      "raw_value": "B4 75.00 98.40%",
+      "normalized_value": "B4 75.00 98.40%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 16,
+      "col_index": 2,
+      "bbox": {
+        "x0": 993.0,
+        "y0": 413.0,
+        "x1": 1166.0,
+        "y1": 429.0
+      },
+      "cell_type": "percent",
+      "raw_value": "75.00 51.20%",
+      "normalized_value": "75.00 51.20%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 17,
+      "col_index": 0,
+      "bbox": {
+        "x0": 65.0,
+        "y0": 439.0,
+        "x1": 261.0,
+        "y1": 457.0
+      },
+      "cell_type": "text",
+      "raw_value": "Capital Gain on Stock",
+      "normalized_value": "Capital Gain on Stock",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 17,
+      "col_index": 1,
+      "bbox": {
+        "x0": 516.0,
+        "y0": 439.0,
+        "x1": 879.0,
+        "y1": 454.0
+      },
+      "cell_type": "percent",
+      "raw_value": "B7* 80.00 118.40%",
+      "normalized_value": "B7* 80.00 118.40%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 17,
+      "col_index": 2,
+      "bbox": {
+        "x0": 993.0,
+        "y0": 439.0,
+        "x1": 1166.0,
+        "y1": 454.0
+      },
+      "cell_type": "percent",
+      "raw_value": "80.00 61.20%",
+      "normalized_value": "80.00 61.20%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 18,
+      "col_index": 0,
+      "bbox": {
+        "x0": 65.0,
+        "y0": 458.0,
+        "x1": 468.0,
+        "y1": 479.0
+      },
+      "cell_type": "text",
+      "raw_value": "Dividends $240.00",
+      "normalized_value": "Dividends $240.00",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 18,
+      "col_index": 1,
+      "bbox": {
+        "x0": 543.0,
+        "y0": 465.0,
+        "x1": 603.0,
+        "y1": 479.0
+      },
+      "cell_type": "text",
+      "raw_value": "B7*B9",
+      "normalized_value": "B7*B9",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 18,
       "col_index": 2,
       "bbox": {
         "x0": 0,
@@ -294,26 +1155,213 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "number",
-      "raw_value": "10,900",
-      "normalized_value": 10900,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 3,
-      "col_index": 3,
+      "row_index": 19,
+      "col_index": 0,
+      "bbox": {
+        "x0": 65.0,
+        "y0": 487.0,
+        "x1": 468.0,
+        "y1": 507.0
+      },
+      "cell_type": "text",
+      "raw_value": "Interest on Margin Loan $400.00",
+      "normalized_value": "Interest on Margin Loan $400.00",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 19,
+      "col_index": 1,
+      "bbox": {
+        "x0": 474.0,
+        "y0": 483.0,
+        "x1": 653.0,
+        "y1": 512.0
+      },
+      "cell_type": "text",
+      "raw_value": "| B5*(B14/12)*B13",
+      "normalized_value": "| B5*(B14/12)*B13",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 19,
+      "col_index": 2,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 20,
+      "col_index": 0,
+      "bbox": {
+        "x0": 14.0,
+        "y0": 514.0,
+        "x1": 169.0,
+        "y1": 529.0
+      },
       "cell_type": "text",
-      "raw_value": "−69",
-      "normalized_value": "−69",
+      "raw_value": "20| Net Income",
+      "normalized_value": "20| Net Income",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 20,
+      "col_index": 1,
+      "bbox": {
+        "x0": 496.0,
+        "y0": 514.0,
+        "x1": 646.0,
+        "y1": 529.0
+      },
+      "cell_type": "text",
+      "raw_value": "B17+B18-B19",
+      "normalized_value": "B17+B18-B19",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 20,
+      "col_index": 2,
+      "bbox": {
+        "x0": 931.0,
+        "y0": 514.0,
+        "x1": 1015.0,
+        "y1": 528.0
+      },
+      "cell_type": "text",
+      "raw_value": "LEGEND:",
+      "normalized_value": "LEGEND:",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 21,
+      "col_index": 0,
+      "bbox": {
+        "x0": 65.0,
+        "y0": 537.0,
+        "x1": 468.0,
+        "y1": 556.0
+      },
+      "cell_type": "text",
+      "raw_value": "Initial Investment $10,000.00",
+      "normalized_value": "Initial Investment $10,000.00",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 21,
+      "col_index": 1,
+      "bbox": {
+        "x0": 561.0,
+        "y0": 539.0,
+        "x1": 584.0,
+        "y1": 553.0
+      },
+      "cell_type": "text",
+      "raw_value": "B4",
+      "normalized_value": "B4",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 21,
+      "col_index": 2,
+      "bbox": {
+        "x0": 925.0,
+        "y0": 539.0,
+        "x1": 1021.0,
+        "y1": 554.0
+      },
+      "cell_type": "text",
+      "raw_value": "Enter data",
+      "normalized_value": "Enter data",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 22,
+      "col_index": 0,
+      "bbox": {
+        "x0": 14.0,
+        "y0": 559.0,
+        "x1": 468.0,
+        "y1": 584.0
+      },
+      "cell_type": "percent",
+      "raw_value": "22 | Return on Investment —41.60%",
+      "normalized_value": "22 | Return on Investment —41.60%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 22,
+      "col_index": 1,
+      "bbox": {
+        "x0": 532.0,
+        "y0": 563.0,
+        "x1": 610.0,
+        "y1": 577.0
+      },
+      "cell_type": "text",
+      "raw_value": "B20/B21",
+      "normalized_value": "B20/B21",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 22,
+      "col_index": 2,
+      "bbox": {
+        "x0": 896.0,
+        "y0": 565.0,
+        "x1": 1050.0,
+        "y1": 580.0
+      },
+      "cell_type": "text",
+      "raw_value": "Value calculated",
+      "normalized_value": "Value calculated",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -325,67 +1373,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "CHAPTER 3 This table shows an amortization schedule with payment breakdowns.",
-  "table_summary": "CHAPTER 3 This table shows an amortization schedule with payment breakdowns.",
-  "table_schema_hint": "amortization schedule",
-  "linked_concept_ids": [
-    "amortization",
-    "financial_analysis"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "amortization",
-      "source_anchor": {
-        "page_number": 114,
-        "bbox": {
-          "x0": 117.17551175555556,
-          "y0": 27.25,
-          "x1": 457.67415055,
-          "y1": 96.77990020000004
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.62 + Keywords: amortization, payment, principal",
-      "confidence": 0.8168678998947143
-    },
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "financial_analysis",
-      "source_anchor": {
-        "page_number": 114,
-        "bbox": {
-          "x0": 117.17551175555556,
-          "y0": 27.25,
-          "x1": 457.67415055,
-          "y1": 96.77990020000004
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.45",
-      "confidence": 0.4455985128879547
-    }
-  ],
+  "description": "",
+  "table_summary": "",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
-    "page_number": 114,
+    "page_number": 113,
     "bbox": {
-      "x0": 117.17551175555556,
-      "y0": 27.25,
-      "x1": 457.67415055,
-      "y1": 96.77990020000004
+      "x0": 14.0,
+      "y0": 12.0,
+      "x1": 1170.0,
+      "y1": 584.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "3 3 > Excel Questions",
   "page_span": [
-    114,
-    114
-  ]
+    113,
+    113
+  ],
+  "source_chunk_id": "chunk_00658",
+  "page_start": 113,
+  "page_end": 113
 }

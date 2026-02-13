@@ -1,46 +1,49 @@
 {
-  "segment_id": "table_p363_idx80",
+  "segment_id": "table_p262_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "Final PDF to",
+  "caption": "",
   "row_headers": [
     [
-      ""
+      "A"
     ],
     [
-      ""
-    ],
-    [
-      ""
+      "fo}"
     ],
     [
       ""
     ]
   ],
   "col_headers": [
-    "",
-    ""
+    "Stock",
+    "A",
+    "B",
+    "iS"
   ],
   "cells": [
     [
+      "Stock",
+      "A",
+      "B",
+      "iS"
+    ],
+    [
+      "A",
+      "1.00",
+      "0.90",
+      "0.50"
+    ],
+    [
+      "fo}",
       "",
-      ""
+      "1.00",
+      "0.10"
     ],
     [
       "",
-      ""
-    ],
-    [
       "",
-      "SUMMARY 1. Multifactor models seek to improve the explanatory power of single-factor models by explicitly\naccounting for the various components of systematic risk. These models use indicators intended\nto capture a wide range of macroeconomic risk factors.\n2. Once we allow for multiple risk factors, we conclude that the security market line also ought to\nbe multidimensional, with exposure to each risk factor contributing to the total risk premium of\nthe security.\n3. A (risk-free) arbitrage opportunity arises when two or more security prices enable investors to\nconstruct a zero-net-investment portfolio that will yield a sure profit. The presence of arbitrage\nopportunities will generate a large volume of trades that puts pressure on security prices. This\npressure will continue until prices reach levels that preclude such arbitrage.\n4. When securities are priced so that there are no risk-free arbitrage opportunities, we say that they\nsatisfy the no-arbitrage condition. Price relationships that satisfy the no-arbitrage condition are\nimportant because we expect them to hold in real-world markets.\n5. Portfolios are called “well diversified” if they include a large number of securities and the\ninvestment proportion in each is sufficiently small. The proportion of any particular security\nin a well-diversified portfolio is small enough so that, for all practical purposes, a reasonable\nchange in that security’s rate of return will have a negligible effect on the portfolio’s rate\nof return.\n6. In a single-factor security market, all well-diversified portfolios have to satisfy the expected\nreturn–beta relationship of the CAPM to satisfy the no-arbitrage condition. If all well-diversified\nportfolios satisfy the expected return–beta relationship, then individual securities also must\nsatisfy this relationship, at least approximately.\n7. The APT does not require the restrictive assumptions of the CAPM and its (unobservable) market\nportfolio. The price of this generality is that the APT does not guarantee this relationship for all\nsecurities at all times.\n8. A multifactor APT generalizes the single-factor model to accommodate several sources of\nsystematic risk. The multidimensional security market line predicts that exposure to each risk fac-\ntor contributes to the security’s total risk premium by an amount equal to the security’s factor beta\ntimes the risk premium of the factor portfolio that tracks that source of risk.\n9. The multifactor extension of the single-factor CAPM, the ICAPM, predicts the same multidimen-\nsional security market line as the multifactor APT. The ICAPM suggests that priced extra-market\nrisk factors will be the ones that lead to significant hedging demand by a substantial fraction of\ninvestors. Other approaches to the multifactor APT are more empirically based, where the extra-\nmarket factors are selected based on past ability to predict risk premiums."
-    ],
-    [
       "",
-      "KEY TERMS single-factor model arbitrage pricing theory (APT) well-diversified portfolio\nmultifactor model arbitrage factor portfolio\nfactor loading Law of One Price\nfactor beta risk arbitrage"
-    ],
-    [
-      "",
-      "KEY EQUATIONS Single-factor model: R i = E(R i ) + βi F + e i\nMultifactor model (here, 2 factors, F 1 and F 2 ): R i = E(R i ) + βi1 F 1 + βi2 F 2 + e i\nSingle-index model: R i = αi + βi R M + e i"
+      "1.00"
     ]
   ],
   "cell_meta": [
@@ -48,14 +51,14 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 10.0,
+        "y0": 28.0,
+        "x1": 62.0,
+        "y1": 43.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Stock",
+      "normalized_value": "Stock",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -65,123 +68,191 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "formula",
-      "raw_value": "SUMMARY 1. Multifactor models seek to improve the explanatory power of single-factor models by explicitly\naccounting for the various components of systematic risk. These models use indicators intended\nto capture a wide range of macroeconomic risk factors.\n2. Once we allow for multiple risk factors, we conclude that the security market line also ought to\nbe multidimensional, with exposure to each risk factor contributing to the total risk premium of\nthe security.\n3. A (risk-free) arbitrage opportunity arises when two or more security prices enable investors to\nconstruct a zero-net-investment portfolio that will yield a sure profit. The presence of arbitrage\nopportunities will generate a large volume of trades that puts pressure on security prices. This\npressure will continue until prices reach levels that preclude such arbitrage.\n4. When securities are priced so that there are no risk-free arbitrage opportunities, we say that they\nsatisfy the no-arbitrage condition. Price relationships that satisfy the no-arbitrage condition are\nimportant because we expect them to hold in real-world markets.\n5. Portfolios are called “well diversified” if they include a large number of securities and the\ninvestment proportion in each is sufficiently small. The proportion of any particular security\nin a well-diversified portfolio is small enough so that, for all practical purposes, a reasonable\nchange in that security’s rate of return will have a negligible effect on the portfolio’s rate\nof return.\n6. In a single-factor security market, all well-diversified portfolios have to satisfy the expected\nreturn–beta relationship of the CAPM to satisfy the no-arbitrage condition. If all well-diversified\nportfolios satisfy the expected return–beta relationship, then individual securities also must\nsatisfy this relationship, at least approximately.\n7. The APT does not require the restrictive assumptions of the CAPM and its (unobservable) market\nportfolio. The price of this generality is that the APT does not guarantee this relationship for all\nsecurities at all times.\n8. A multifactor APT generalizes the single-factor model to accommodate several sources of\nsystematic risk. The multidimensional security market line predicts that exposure to each risk fac-\ntor contributes to the security’s total risk premium by an amount equal to the security’s factor beta\ntimes the risk premium of the factor portfolio that tracks that source of risk.\n9. The multifactor extension of the single-factor CAPM, the ICAPM, predicts the same multidimen-\nsional security market line as the multifactor APT. The ICAPM suggests that priced extra-market\nrisk factors will be the ones that lead to significant hedging demand by a substantial fraction of\ninvestors. Other approaches to the multifactor APT are more empirically based, where the extra-\nmarket factors are selected based on past ability to predict risk premiums.",
-      "normalized_value": "SUMMARY 1. Multifactor models seek to improve the explanatory power of single-factor models by explicitly\naccounting for the various components of systematic risk. These models use indicators intended\nto capture a wide range of macroeconomic risk factors.\n2. Once we allow for multiple risk factors, we conclude that the security market line also ought to\nbe multidimensional, with exposure to each risk factor contributing to the total risk premium of\nthe security.\n3. A (risk-free) arbitrage opportunity arises when two or more security prices enable investors to\nconstruct a zero-net-investment portfolio that will yield a sure profit. The presence of arbitrage\nopportunities will generate a large volume of trades that puts pressure on security prices. This\npressure will continue until prices reach levels that preclude such arbitrage.\n4. When securities are priced so that there are no risk-free arbitrage opportunities, we say that they\nsatisfy the no-arbitrage condition. Price relationships that satisfy the no-arbitrage condition are\nimportant because we expect them to hold in real-world markets.\n5. Portfolios are called “well diversified” if they include a large number of securities and the\ninvestment proportion in each is sufficiently small. The proportion of any particular security\nin a well-diversified portfolio is small enough so that, for all practical purposes, a reasonable\nchange in that security’s rate of return will have a negligible effect on the portfolio’s rate\nof return.\n6. In a single-factor security market, all well-diversified portfolios have to satisfy the expected\nreturn–beta relationship of the CAPM to satisfy the no-arbitrage condition. If all well-diversified\nportfolios satisfy the expected return–beta relationship, then individual securities also must\nsatisfy this relationship, at least approximately.\n7. The APT does not require the restrictive assumptions of the CAPM and its (unobservable) market\nportfolio. The price of this generality is that the APT does not guarantee this relationship for all\nsecurities at all times.\n8. A multifactor APT generalizes the single-factor model to accommodate several sources of\nsystematic risk. The multidimensional security market line predicts that exposure to each risk fac-\ntor contributes to the security’s total risk premium by an amount equal to the security’s factor beta\ntimes the risk premium of the factor portfolio that tracks that source of risk.\n9. The multifactor extension of the single-factor CAPM, the ICAPM, predicts the same multidimen-\nsional security market line as the multifactor APT. The ICAPM suggests that priced extra-market\nrisk factors will be the ones that lead to significant hedging demand by a substantial fraction of\ninvestors. Other approaches to the multifactor APT are more empirically based, where the extra-\nmarket factors are selected based on past ability to predict risk premiums.",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 144.0,
+        "y0": 28.0,
+        "x1": 158.0,
+        "y1": 43.0
       },
       "cell_type": "text",
-      "raw_value": "KEY TERMS single-factor model arbitrage pricing theory (APT) well-diversified portfolio\nmultifactor model arbitrage factor portfolio\nfactor loading Law of One Price\nfactor beta risk arbitrage",
-      "normalized_value": "KEY TERMS single-factor model arbitrage pricing theory (APT) well-diversified portfolio\nmultifactor model arbitrage factor portfolio\nfactor loading Law of One Price\nfactor beta risk arbitrage",
+      "raw_value": "A",
+      "normalized_value": "A",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 4,
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 28.0,
+        "x1": 271.0,
+        "y1": 43.0
+      },
+      "cell_type": "text",
+      "raw_value": "B",
+      "normalized_value": "B",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 370.0,
+        "y0": 28.0,
+        "x1": 384.0,
+        "y1": 43.0
+      },
+      "cell_type": "text",
+      "raw_value": "iS",
+      "normalized_value": "iS",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 8.0,
+        "y0": 79.0,
+        "x1": 21.0,
+        "y1": 94.0
+      },
+      "cell_type": "text",
+      "raw_value": "A",
+      "normalized_value": "A",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 134.0,
+        "y0": 79.0,
+        "x1": 173.0,
+        "y1": 94.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.00",
+      "normalized_value": 1.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 243.0,
+        "y0": 79.0,
+        "x1": 285.0,
+        "y1": 94.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.90",
+      "normalized_value": 0.9,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 356.0,
+        "y0": 79.0,
+        "x1": 398.0,
+        "y1": 94.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.50",
+      "normalized_value": 0.5,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 9.0,
+        "y0": 114.0,
+        "x1": 22.0,
+        "y1": 129.0
+      },
+      "cell_type": "text",
+      "raw_value": "fo}",
+      "normalized_value": "fo}",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 246.0,
+        "y0": 114.0,
+        "x1": 285.0,
+        "y1": 129.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.00",
+      "normalized_value": 1.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 356.0,
+        "y0": 114.0,
+        "x1": 398.0,
+        "y1": 129.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.10",
+      "normalized_value": 0.1,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
       "col_index": 0,
       "bbox": {
         "x0": 0,
@@ -198,7 +269,7 @@
       "units": null
     },
     {
-      "row_index": 4,
+      "row_index": 3,
       "col_index": 1,
       "bbox": {
         "x0": 0,
@@ -206,9 +277,43 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "formula",
-      "raw_value": "KEY EQUATIONS Single-factor model: R i = E(R i ) + βi F + e i\nMultifactor model (here, 2 factors, F 1 and F 2 ): R i = E(R i ) + βi1 F 1 + βi2 F 2 + e i\nSingle-index model: R i = αi + βi R M + e i",
-      "normalized_value": "KEY EQUATIONS Single-factor model: R i = E(R i ) + βi F + e i\nMultifactor model (here, 2 factors, F 1 and F 2 ): R i = E(R i ) + βi1 F 1 + βi2 F 2 + e i\nSingle-index model: R i = αi + βi R M + e i",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 359.0,
+        "y0": 148.0,
+        "x1": 398.0,
+        "y1": 163.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.00",
+      "normalized_value": 1.0,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -217,77 +322,33 @@
   ],
   "footnotes": [],
   "units": [],
-  "formula_cells": [
-    {
-      "cell_address": "B3",
-      "formula_text": "SUMMARY 1. Multifactor models seek to improve the explanatory power of single-factor models by explicitly\naccounting for the various components of systematic risk. These models use indicators intended\nto capture a wide range of macroeconomic risk factors.\n2. Once we allow for multiple risk factors, we conclude that the security market line also ought to\nbe multidimensional, with exposure to each risk factor contributing to the total risk premium of\nthe security.\n3. A (risk-free) arbitrage opportunity arises when two or more security prices enable investors to\nconstruct a zero-net-investment portfolio that will yield a sure profit. The presence of arbitrage\nopportunities will generate a large volume of trades that puts pressure on security prices. This\npressure will continue until prices reach levels that preclude such arbitrage.\n4. When securities are priced so that there are no risk-free arbitrage opportunities, we say that they\nsatisfy the no-arbitrage condition. Price relationships that satisfy the no-arbitrage condition are\nimportant because we expect them to hold in real-world markets.\n5. Portfolios are called “well diversified” if they include a large number of securities and the\ninvestment proportion in each is sufficiently small. The proportion of any particular security\nin a well-diversified portfolio is small enough so that, for all practical purposes, a reasonable\nchange in that security’s rate of return will have a negligible effect on the portfolio’s rate\nof return.\n6. In a single-factor security market, all well-diversified portfolios have to satisfy the expected\nreturn–beta relationship of the CAPM to satisfy the no-arbitrage condition. If all well-diversified\nportfolios satisfy the expected return–beta relationship, then individual securities also must\nsatisfy this relationship, at least approximately.\n7. The APT does not require the restrictive assumptions of the CAPM and its (unobservable) market\nportfolio. The price of this generality is that the APT does not guarantee this relationship for all\nsecurities at all times.\n8. A multifactor APT generalizes the single-factor model to accommodate several sources of\nsystematic risk. The multidimensional security market line predicts that exposure to each risk fac-\ntor contributes to the security’s total risk premium by an amount equal to the security’s factor beta\ntimes the risk premium of the factor portfolio that tracks that source of risk.\n9. The multifactor extension of the single-factor CAPM, the ICAPM, predicts the same multidimen-\nsional security market line as the multifactor APT. The ICAPM suggests that priced extra-market\nrisk factors will be the ones that lead to significant hedging demand by a substantial fraction of\ninvestors. Other approaches to the multifactor APT are more empirically based, where the extra-\nmarket factors are selected based on past ability to predict risk premiums.",
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "source_anchor": {
-        "page_number": 363,
-        "bbox": {
-          "x0": 18.0,
-          "y0": -63.0,
-          "x1": 625.5,
-          "y1": 693.0
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "confidence": 0.9
-    },
-    {
-      "cell_address": "B5",
-      "formula_text": "KEY EQUATIONS Single-factor model: R i = E(R i ) + βi F + e i\nMultifactor model (here, 2 factors, F 1 and F 2 ): R i = E(R i ) + βi1 F 1 + βi2 F 2 + e i\nSingle-index model: R i = αi + βi R M + e i",
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "source_anchor": {
-        "page_number": 363,
-        "bbox": {
-          "x0": 18.0,
-          "y0": -63.0,
-          "x1": 625.5,
-          "y1": 693.0
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "confidence": 0.9
-    }
-  ],
+  "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "Final PDF to This table contains 5 rows and 2 columns.",
-  "table_summary": "Final PDF to This table contains 5 rows and 2 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
   "linked_concept_ids": [],
   "links": [],
   "source_anchor": {
-    "page_number": 363,
+    "page_number": 262,
     "bbox": {
-      "x0": 18.0,
-      "y0": -63.0,
-      "x1": 625.5,
-      "y1": 693.0
+      "x0": 8.0,
+      "y0": 28.0,
+      "x1": 398.0,
+      "y1": 163.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part II: Portfolio Theory and Practice > KEY EQUATIONS",
   "page_span": [
-    363,
-    363
-  ]
+    262,
+    262
+  ],
+  "source_chunk_id": "chunk_01952",
+  "page_start": 262,
+  "page_end": 262
 }

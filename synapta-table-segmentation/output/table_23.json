@@ -1,76 +1,76 @@
 {
-  "segment_id": "table_p137_idx22",
+  "segment_id": "table_p124_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "the trade-off between the front-end loads lists fees for different classes of the BNY Mellon",
+  "caption": "",
   "row_headers": [
     [
-      "Front-end load"
+      "Price"
     ],
     [
-      "Back-end load"
+      "$49.75"
     ],
     [
-      "12b-1 feesc"
+      "49.50"
     ],
     [
-      "Expense ratio"
+      "49.25"
+    ],
+    [
+      "49.00."
+    ],
+    [
+      "48.50"
     ]
   ],
   "col_headers": [
-    "",
-    "",
-    "Class A",
-    "",
-    "Class C",
-    "",
-    "Class I"
+    "Limit Buy",
+    "Orders",
+    "Limit Sell",
+    "Orders"
   ],
   "cells": [
     [
-      "",
-      "",
-      "Class A",
-      "",
-      "Class C",
-      "",
-      "Class I"
+      "Limit Buy",
+      "Orders",
+      "Limit Sell",
+      "Orders"
     ],
     [
-      "Front-end load",
-      "",
-      "0–4.5%a",
-      "",
-      "0",
-      "",
-      "0"
+      "Price",
+      "Shares",
+      "Price",
+      "Shares"
     ],
     [
-      "Back-end load",
-      "",
-      "0",
-      "",
-      "0–1%b",
-      "",
-      "0%"
+      "$49.75",
+      "500",
+      "$50.25",
+      "100"
     ],
     [
-      "12b-1 feesc",
-      "",
-      "0.25%",
-      "",
-      "1.0%",
-      "",
-      "0%"
+      "49.50",
+      "800",
+      "51.50",
+      "100"
     ],
     [
-      "Expense ratio",
+      "49.25",
+      "500",
+      "54.75",
+      "300"
+    ],
+    [
+      "49.00.",
+      "200",
+      "58.25",
+      "100"
+    ],
+    [
+      "48.50",
+      "600",
       "",
-      "0.7%",
-      "",
-      "0.7%",
-      "",
-      "0.7%"
+      ""
     ]
   ],
   "cell_meta": [
@@ -78,14 +78,14 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 18.0,
+        "y0": 12.0,
+        "x1": 122.0,
+        "y1": 34.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Limit Buy",
+      "normalized_value": "Limit Buy",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -95,14 +95,14 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 129.0,
+        "y0": 12.0,
+        "x1": 205.0,
+        "y1": 29.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Orders",
+      "normalized_value": "Orders",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -112,14 +112,14 @@
       "row_index": 0,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 293.0,
+        "y0": 12.0,
+        "x1": 393.0,
+        "y1": 29.0
       },
       "cell_type": "text",
-      "raw_value": "Class A",
-      "normalized_value": "Class A",
+      "raw_value": "Limit Sell",
+      "normalized_value": "Limit Sell",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -129,65 +129,14 @@
       "row_index": 0,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 402.0,
+        "y0": 12.0,
+        "x1": 478.0,
+        "y1": 29.0
       },
       "cell_type": "text",
-      "raw_value": "Class C",
-      "normalized_value": "Class C",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Class I",
-      "normalized_value": "Class I",
+      "raw_value": "Orders",
+      "normalized_value": "Orders",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -197,14 +146,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 16.0,
+        "y0": 61.0,
+        "x1": 66.0,
+        "y1": 90.0
       },
       "cell_type": "text",
-      "raw_value": "Front-end load",
-      "normalized_value": "Front-end load",
+      "raw_value": "Price",
+      "normalized_value": "Price",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -214,14 +163,14 @@
       "row_index": 1,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 147.0,
+        "y0": 65.0,
+        "x1": 212.0,
+        "y1": 80.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Shares",
+      "normalized_value": "Shares",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -231,14 +180,14 @@
       "row_index": 1,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 290.0,
+        "y0": 61.0,
+        "x1": 340.0,
+        "y1": 90.0
       },
       "cell_type": "text",
-      "raw_value": "0–4.5%a",
-      "normalized_value": "0–4.5%a",
+      "raw_value": "Price",
+      "normalized_value": "Price",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -248,201 +197,99 @@
       "row_index": 1,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 421.0,
+        "y0": 65.0,
+        "x1": 486.0,
+        "y1": 80.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Shares",
+      "normalized_value": "Shares",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 1,
-      "col_index": 4,
+      "row_index": 2,
+      "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 9.0,
+        "y0": 114.0,
+        "x1": 76.0,
+        "y1": 133.0
+      },
+      "cell_type": "currency",
+      "raw_value": "$49.75",
+      "normalized_value": 49.75,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 162.0,
+        "y0": 116.0,
+        "x1": 198.0,
+        "y1": 131.0
       },
       "cell_type": "number",
-      "raw_value": "0",
-      "normalized_value": 0,
+      "raw_value": "500",
+      "normalized_value": 500,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 1,
-      "col_index": 5,
+      "row_index": 2,
+      "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 283.0,
+        "y0": 114.0,
+        "x1": 350.0,
+        "y1": 133.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "currency",
+      "raw_value": "$50.25",
+      "normalized_value": 50.25,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 1,
-      "col_index": 6,
+      "row_index": 2,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 438.0,
+        "y0": 116.0,
+        "x1": 472.0,
+        "y1": 131.0
       },
       "cell_type": "number",
-      "raw_value": "0",
-      "normalized_value": 0,
+      "raw_value": "100",
+      "normalized_value": 100,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 2,
+      "row_index": 3,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Back-end load",
-      "normalized_value": "Back-end load",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 22.0,
+        "y0": 150.0,
+        "x1": 77.0,
+        "y1": 165.0
       },
       "cell_type": "number",
-      "raw_value": "0",
-      "normalized_value": 0,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "0–1%b",
-      "normalized_value": "0–1%b",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "0%",
-      "normalized_value": 0.0,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "12b-1 feesc",
-      "normalized_value": "12b-1 feesc",
+      "raw_value": "49.50",
+      "normalized_value": 49.5,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -452,14 +299,14 @@
       "row_index": 3,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 161.0,
+        "y0": 150.0,
+        "x1": 198.0,
+        "y1": 165.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "800",
+      "normalized_value": 800,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -469,14 +316,14 @@
       "row_index": 3,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 297.0,
+        "y0": 150.0,
+        "x1": 351.0,
+        "y1": 165.0
       },
-      "cell_type": "percent",
-      "raw_value": "0.25%",
-      "normalized_value": 0.0025,
+      "cell_type": "number",
+      "raw_value": "51.50",
+      "normalized_value": 51.5,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -486,65 +333,14 @@
       "row_index": 3,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 438.0,
+        "y0": 150.0,
+        "x1": 472.0,
+        "y1": 165.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "1.0%",
-      "normalized_value": 0.01,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "0%",
-      "normalized_value": 0.0,
+      "cell_type": "number",
+      "raw_value": "100",
+      "normalized_value": 100,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -554,14 +350,14 @@
       "row_index": 4,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 22.0,
+        "y0": 184.0,
+        "x1": 76.0,
+        "y1": 199.0
       },
-      "cell_type": "text",
-      "raw_value": "Expense ratio",
-      "normalized_value": "Expense ratio",
+      "cell_type": "number",
+      "raw_value": "49.25",
+      "normalized_value": 49.25,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -570,6 +366,159 @@
     {
       "row_index": 4,
       "col_index": 1,
+      "bbox": {
+        "x0": 162.0,
+        "y0": 184.0,
+        "x1": 198.0,
+        "y1": 199.0
+      },
+      "cell_type": "number",
+      "raw_value": "500",
+      "normalized_value": 500,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 297.0,
+        "y0": 184.0,
+        "x1": 350.0,
+        "y1": 199.0
+      },
+      "cell_type": "number",
+      "raw_value": "54.75",
+      "normalized_value": 54.75,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 436.0,
+        "y0": 184.0,
+        "x1": 472.0,
+        "y1": 199.0
+      },
+      "cell_type": "number",
+      "raw_value": "300",
+      "normalized_value": 300,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 22.0,
+        "y0": 214.0,
+        "x1": 81.0,
+        "y1": 242.0
+      },
+      "cell_type": "text",
+      "raw_value": "49.00.",
+      "normalized_value": "49.00.",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 161.0,
+        "y0": 218.0,
+        "x1": 198.0,
+        "y1": 233.0
+      },
+      "cell_type": "number",
+      "raw_value": "200",
+      "normalized_value": 200,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 297.0,
+        "y0": 218.0,
+        "x1": 350.0,
+        "y1": 233.0
+      },
+      "cell_type": "number",
+      "raw_value": "58.25",
+      "normalized_value": 58.25,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 3,
+      "bbox": {
+        "x0": 438.0,
+        "y0": 218.0,
+        "x1": 472.0,
+        "y1": 233.0
+      },
+      "cell_type": "number",
+      "raw_value": "100",
+      "normalized_value": 100,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 0,
+      "bbox": {
+        "x0": 22.0,
+        "y0": 253.0,
+        "x1": 77.0,
+        "y1": 268.0
+      },
+      "cell_type": "number",
+      "raw_value": "48.50",
+      "normalized_value": 48.5,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 1,
+      "bbox": {
+        "x0": 161.0,
+        "y0": 253.0,
+        "x1": 198.0,
+        "y1": 268.0
+      },
+      "cell_type": "number",
+      "raw_value": "600",
+      "normalized_value": 600,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -585,24 +534,7 @@
       "units": null
     },
     {
-      "row_index": 4,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "0.7%",
-      "normalized_value": 0.006999999999999999,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
+      "row_index": 6,
       "col_index": 3,
       "bbox": {
         "x0": 0,
@@ -613,57 +545,6 @@
       "cell_type": "blank",
       "raw_value": "",
       "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "0.7%",
-      "normalized_value": 0.006999999999999999,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "0.7%",
-      "normalized_value": 0.006999999999999999,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -675,27 +556,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "the trade-off between the front-end loads lists fees for different classes of the BNY Mellon This table contains 5 rows and 7 columns.",
-  "table_summary": "the trade-off between the front-end loads lists fees for different classes of the BNY Mellon This table contains 5 rows and 7 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
   "linked_concept_ids": [],
   "links": [],
   "source_anchor": {
-    "page_number": 137,
+    "page_number": 124,
     "bbox": {
-      "x0": 232.55000155000002,
-      "y0": 400.5749984499999,
-      "x1": 477.59989625,
-      "y1": 471.92484895000007
+      "x0": 9.0,
+      "y0": 12.0,
+      "x1": 486.0,
+      "y1": 268.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "3 3 > PROBLEM SETS",
   "page_span": [
-    137,
-    137
-  ]
+    124,
+    124
+  ],
+  "source_chunk_id": "chunk_00749",
+  "page_start": 124,
+  "page_end": 124
 }

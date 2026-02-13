@@ -1,17 +1,36 @@
 {
-  "segment_id": "table_p423_idx84",
+  "segment_id": "table_p264_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "Equilibrium in Capital Markets PART III",
-  "row_headers": [],
+  "caption": "",
+  "row_headers": [
+    [
+      "D"
+    ],
+    [
+      "E"
+    ]
+  ],
   "col_headers": [
-    "12.2",
-    "Technical Analysis and Behavioral Finance"
+    "Fund",
+    "D",
+    "E"
   ],
   "cells": [
     [
-      "12.2",
-      "Technical Analysis and Behavioral Finance"
+      "Fund",
+      "D",
+      "E"
+    ],
+    [
+      "D",
+      "144",
+      "60"
+    ],
+    [
+      "E",
+      "60",
+      "400"
     ]
   ],
   "cell_meta": [
@@ -19,14 +38,14 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 7.0,
+        "y0": 10.0,
+        "x1": 53.0,
+        "y1": 25.0
       },
-      "cell_type": "number",
-      "raw_value": "12.2",
-      "normalized_value": 12.2,
+      "cell_type": "text",
+      "raw_value": "Fund",
+      "normalized_value": "Fund",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -36,14 +55,133 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 127.0,
+        "y0": 10.0,
+        "x1": 141.0,
+        "y1": 25.0
       },
       "cell_type": "text",
-      "raw_value": "Technical Analysis and Behavioral Finance",
-      "normalized_value": "Technical Analysis and Behavioral Finance",
+      "raw_value": "D",
+      "normalized_value": "D",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 208.0,
+        "y0": 10.0,
+        "x1": 221.0,
+        "y1": 25.0
+      },
+      "cell_type": "text",
+      "raw_value": "E",
+      "normalized_value": "E",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 23.0,
+        "y0": 62.0,
+        "x1": 37.0,
+        "y1": 77.0
+      },
+      "cell_type": "text",
+      "raw_value": "D",
+      "normalized_value": "D",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 118.0,
+        "y0": 62.0,
+        "x1": 153.0,
+        "y1": 77.0
+      },
+      "cell_type": "number",
+      "raw_value": "144",
+      "normalized_value": 144,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 209.0,
+        "y0": 62.0,
+        "x1": 233.0,
+        "y1": 77.0
+      },
+      "cell_type": "number",
+      "raw_value": "60",
+      "normalized_value": 60,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 25.0,
+        "y0": 96.0,
+        "x1": 37.0,
+        "y1": 111.0
+      },
+      "cell_type": "text",
+      "raw_value": "E",
+      "normalized_value": "E",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 129.0,
+        "y0": 96.0,
+        "x1": 153.0,
+        "y1": 111.0
+      },
+      "cell_type": "number",
+      "raw_value": "60",
+      "normalized_value": 60,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 196.0,
+        "y0": 96.0,
+        "x1": 233.0,
+        "y1": 111.0
+      },
+      "cell_type": "number",
+      "raw_value": "400",
+      "normalized_value": 400,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -55,48 +193,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "Equilibrium in Capital Markets PART III This table contains 1 rows and 2 columns.",
-  "table_summary": "Equilibrium in Capital Markets PART III This table contains 1 rows and 2 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
-  "linked_concept_ids": [
-    "financial_analysis"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "financial_analysis",
-      "source_anchor": {
-        "page_number": 423,
-        "bbox": {
-          "x0": 80.005,
-          "y0": 18.100000000000023,
-          "x1": 535.505,
-          "y1": 43.0
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.42",
-      "confidence": 0.4198401868343353
-    }
-  ],
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
-    "page_number": 423,
+    "page_number": 264,
     "bbox": {
-      "x0": 80.005,
-      "y0": 18.100000000000023,
-      "x1": 535.505,
-      "y1": 43.0
+      "x0": 7.0,
+      "y0": 10.0,
+      "x1": 233.0,
+      "y1": 111.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part II: Portfolio Theory and Practice > SOLUTIONS TO CONCEPT CHECKS",
   "page_span": [
-    423,
-    423
-  ]
+    264,
+    264
+  ],
+  "source_chunk_id": "chunk_01969",
+  "page_start": 264,
+  "page_end": 264
 }

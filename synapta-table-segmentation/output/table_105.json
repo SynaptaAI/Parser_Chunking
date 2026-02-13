@@ -1,58 +1,87 @@
 {
-  "segment_id": "table_p484_idx104",
+  "segment_id": "table_p310_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "to call would be calculated 8% coupon, 30-year-maturity bond sells for $1,150 and is callable",
+  "caption": "",
   "row_headers": [
     [
-      "Coupon payment"
+      "Alpha"
     ],
     [
-      "Number of semiannual periods"
+      "Beta"
     ],
     [
-      "Final payment"
+      "R"
     ],
     [
-      "Price"
+      "Residual"
     ]
   ],
   "col_headers": [
+    "Statistic",
     "",
-    "Yield to Call",
-    "Yield to Maturity"
+    "",
+    "ABC",
+    "XYZ"
   ],
   "cells": [
     [
+      "Statistic",
       "",
-      "Yield to Call",
-      "Yield to Maturity"
+      "",
+      "ABC",
+      "XYZ"
     ],
     [
-      "Coupon payment",
-      "$40",
-      "$40"
+      "Alpha",
+      "",
+      "",
+      "—3.20%",
+      "7.3%"
     ],
     [
-      "Number of semiannual periods",
-      "20 periods",
-      "60 periods"
+      "Beta",
+      "",
+      "",
+      "0.60",
+      "0.97"
     ],
     [
-      "Final payment",
-      "$1,100",
-      "$1,000"
+      "R",
+      "",
+      "",
+      "0.35",
+      "0.17"
     ],
     [
-      "Price",
-      "$1,150",
-      "$1,150"
+      "Residual",
+      "standard",
+      "deviation",
+      "13.02%",
+      "21.45%"
     ]
   ],
   "cell_meta": [
     {
       "row_index": 0,
       "col_index": 0,
+      "bbox": {
+        "x0": 7.0,
+        "y0": 8.0,
+        "x1": 85.0,
+        "y1": 36.0
+      },
+      "cell_type": "text",
+      "raw_value": "Statistic",
+      "normalized_value": "Statistic",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -69,16 +98,16 @@
     },
     {
       "row_index": 0,
-      "col_index": 1,
+      "col_index": 2,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "Yield to Call",
-      "normalized_value": "Yield to Call",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -86,16 +115,33 @@
     },
     {
       "row_index": 0,
-      "col_index": 2,
+      "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 416.0,
+        "y0": 12.0,
+        "x1": 459.0,
+        "y1": 27.0
       },
       "cell_type": "text",
-      "raw_value": "Yield to Maturity",
-      "normalized_value": "Yield to Maturity",
+      "raw_value": "ABC",
+      "normalized_value": "ABC",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 4,
+      "bbox": {
+        "x0": 617.0,
+        "y0": 12.0,
+        "x1": 657.0,
+        "y1": 27.0
+      },
+      "cell_type": "text",
+      "raw_value": "XYZ",
+      "normalized_value": "XYZ",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -105,14 +151,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 11.0,
+        "y0": 58.0,
+        "x1": 64.0,
+        "y1": 77.0
       },
       "cell_type": "text",
-      "raw_value": "Coupon payment",
-      "normalized_value": "Coupon payment",
+      "raw_value": "Alpha",
+      "normalized_value": "Alpha",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -127,9 +173,9 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "currency",
-      "raw_value": "$40",
-      "normalized_value": 40.0,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -144,9 +190,43 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "currency",
-      "raw_value": "$40",
-      "normalized_value": 40.0,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 399.0,
+        "y0": 58.0,
+        "x1": 472.0,
+        "y1": 73.0
+      },
+      "cell_type": "percent",
+      "raw_value": "—3.20%",
+      "normalized_value": "—3.20%",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 4,
+      "bbox": {
+        "x0": 613.0,
+        "y0": 58.0,
+        "x1": 658.0,
+        "y1": 73.0
+      },
+      "cell_type": "percent",
+      "raw_value": "7.3%",
+      "normalized_value": 0.073,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -156,14 +236,14 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 12.0,
+        "y0": 92.0,
+        "x1": 53.0,
+        "y1": 107.0
       },
       "cell_type": "text",
-      "raw_value": "Number of semiannual periods",
-      "normalized_value": "Number of semiannual periods",
+      "raw_value": "Beta",
+      "normalized_value": "Beta",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -178,9 +258,9 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "20 periods",
-      "normalized_value": "20 periods",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -195,9 +275,43 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "60 periods",
-      "normalized_value": "60 periods",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 412.0,
+        "y0": 92.0,
+        "x1": 455.0,
+        "y1": 107.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.60",
+      "normalized_value": 0.6,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 4,
+      "bbox": {
+        "x0": 615.0,
+        "y0": 92.0,
+        "x1": 657.0,
+        "y1": 107.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.97",
+      "normalized_value": 0.97,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -207,14 +321,14 @@
       "row_index": 3,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 11.0,
+        "y0": 121.0,
+        "x1": 31.0,
+        "y1": 141.0
       },
       "cell_type": "text",
-      "raw_value": "Final payment",
-      "normalized_value": "Final payment",
+      "raw_value": "R",
+      "normalized_value": "R",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -229,9 +343,9 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "currency",
-      "raw_value": "$1,100",
-      "normalized_value": 1100.0,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -246,9 +360,43 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "currency",
-      "raw_value": "$1,000",
-      "normalized_value": 1000.0,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 412.0,
+        "y0": 126.0,
+        "x1": 454.0,
+        "y1": 141.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.35",
+      "normalized_value": 0.35,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 4,
+      "bbox": {
+        "x0": 615.0,
+        "y0": 126.0,
+        "x1": 657.0,
+        "y1": 141.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.17",
+      "normalized_value": 0.17,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -258,14 +406,14 @@
       "row_index": 4,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 12.0,
+        "y0": 161.0,
+        "x1": 90.0,
+        "y1": 176.0
       },
       "cell_type": "text",
-      "raw_value": "Price",
-      "normalized_value": "Price",
+      "raw_value": "Residual",
+      "normalized_value": "Residual",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -275,14 +423,14 @@
       "row_index": 4,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 98.0,
+        "y0": 161.0,
+        "x1": 179.0,
+        "y1": 176.0
       },
-      "cell_type": "currency",
-      "raw_value": "$1,150",
-      "normalized_value": 1150.0,
+      "cell_type": "text",
+      "raw_value": "standard",
+      "normalized_value": "standard",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -292,14 +440,48 @@
       "row_index": 4,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 188.0,
+        "y0": 161.0,
+        "x1": 273.0,
+        "y1": 176.0
       },
-      "cell_type": "currency",
-      "raw_value": "$1,150",
-      "normalized_value": 1150.0,
+      "cell_type": "text",
+      "raw_value": "deviation",
+      "normalized_value": "deviation",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 400.0,
+        "y0": 161.0,
+        "x1": 470.0,
+        "y1": 176.0
+      },
+      "cell_type": "percent",
+      "raw_value": "13.02%",
+      "normalized_value": 0.13019999999999998,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 4,
+      "bbox": {
+        "x0": 602.0,
+        "y0": 161.0,
+        "x1": 673.0,
+        "y1": 176.0
+      },
+      "cell_type": "percent",
+      "raw_value": "21.45%",
+      "normalized_value": 0.2145,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -311,48 +493,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "to call would be calculated 8% coupon, 30-year-maturity bond sells for $1,150 and is callable This table presents bond cashflow information.",
-  "table_summary": "to call would be calculated 8% coupon, 30-year-maturity bond sells for $1,150 and is callable This table presents bond cashflow information.",
-  "table_schema_hint": "bond cashflows",
-  "linked_concept_ids": [
-    "bond_pricing"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "bond_pricing",
-      "source_anchor": {
-        "page_number": 484,
-        "bbox": {
-          "x0": 140.25,
-          "y0": 350.24315069999994,
-          "x1": 436.25,
-          "y1": 422.59300114999996
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.56 + Keywords: bond, coupon, yield",
-      "confidence": 0.760157299041748
-    }
-  ],
+  "description": "",
+  "table_summary": "",
+  "table_schema_hint": null,
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
-    "page_number": 484,
+    "page_number": 310,
     "bbox": {
-      "x0": 140.25,
-      "y0": 350.24315069999994,
-      "x1": 436.25,
-      "y1": 422.59300114999996
+      "x0": 7.0,
+      "y0": 8.0,
+      "x1": 673.0,
+      "y1": 176.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part II: Portfolio Theory and Practice > PROBLEM SETS",
   "page_span": [
-    484,
-    484
-  ]
+    310,
+    310
+  ],
+  "source_chunk_id": "chunk_02436",
+  "page_start": 310,
+  "page_end": 310
 }

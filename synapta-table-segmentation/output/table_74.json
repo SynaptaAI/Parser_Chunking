@@ -1,74 +1,148 @@
 {
-  "segment_id": "table_p313_idx73",
+  "segment_id": "table_p256_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "same risk-free rate (Assumption 2[b]), in light of our assumptions, investors would calculate identical Portfolio",
+  "caption": "",
   "row_headers": [
     [
       ""
     ],
     [
-      ""
+      "1. Mean of average return"
     ],
     [
-      ""
+      "2. Mean of total return"
     ],
     [
-      "2."
+      "3. Standard deviation of total return"
     ],
     [
-      ""
+      "4. Standard deviation of average return"
     ],
     [
-      ""
+      "5. Prob(return > 0)"
     ],
     [
-      ""
+      "6. 1% VaR total return"
     ],
     [
-      ""
+      "7. Cumulative loss at 1% VaR"
+    ],
+    [
+      "8. 0.1% VaR total return"
+    ],
+    [
+      "9. Cumulative loss at 0.1% VaR"
     ]
   ],
   "col_headers": [
-    "1.",
-    "Individual behavior"
+    "",
+    "",
+    "",
+    "Investment",
+    "Horizon",
+    "(years)",
+    ""
   ],
   "cells": [
     [
-      "1.",
-      "Individual behavior"
+      "",
+      "",
+      "",
+      "Investment",
+      "Horizon",
+      "(years)",
+      ""
     ],
     [
       "",
-      "a. Investors are rational, mean-variance optimizers."
-    ],
-    [
+      "1",
+      "10",
+      "30",
       "",
-      "b. Their common planning horizon is a single period."
+      "Comment",
+      ""
     ],
     [
+      "1. Mean of average return",
+      "0.050",
+      "0.050",
+      "0.050",
+      "=.05",
       "",
-      "c. Investors all use identical input lists, an assumption often termed homogeneous\nexpectations. Homogeneous expectations are consistent with the assumption\nthat all relevant information is publicly available."
+      ""
     ],
     [
-      "2.",
-      "Market structure"
-    ],
-    [
+      "2. Mean of total return",
+      "0.050",
+      "0.500",
+      "1.500",
+      "=.05*T",
       "",
-      "a. All assets are publicly held and trade on public exchanges."
+      ""
     ],
     [
+      "3. Standard deviation of total return",
+      "0.300",
+      "0.949",
+      "1.643",
+      "=.30VT",
       "",
-      "b. Investors can borrow or lend at a common risk-free rate, and they can take\nshort positions on traded securities."
+      ""
     ],
     [
+      "4. Standard deviation of average return",
+      "0.300",
+      "0.095",
       "",
-      "c. No taxes."
+      "=.30/VT",
+      "",
+      ""
     ],
     [
+      "5. Prob(return > 0)",
+      "0.566",
+      "0.701",
+      "0.819",
+      "From normal",
+      "distribution",
+      ""
+    ],
+    [
+      "6. 1% VaR total return",
+      "-0.648",
       "",
-      "d. No trading costs."
+      "",
+      "Continuously",
+      "compounded",
+      "cumulative return"
+    ],
+    [
+      "7. Cumulative loss at 1% VaR",
+      "0.477",
+      "0.819",
+      "0.902",
+      "",
+      "return",
+      "from line 6)"
+    ],
+    [
+      "8. 0.1% VaR total return",
+      "",
+      "",
+      "-3.578",
+      "",
+      "compounded",
+      "return"
+    ],
+    [
+      "9. Cumulative loss at 0.1% VaR",
+      "0.584",
+      "0.912",
+      "0.972",
+      "",
+      "return",
+      "from line 8)"
     ]
   ],
   "cell_meta": [
@@ -81,9 +155,9 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "1.",
-      "normalized_value": "1.",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -98,17 +172,85 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "Individual behavior",
-      "normalized_value": "Individual behavior",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 1,
-      "col_index": 0,
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 689.0,
+        "y0": 25.0,
+        "x1": 800.0,
+        "y1": 40.0
+      },
+      "cell_type": "text",
+      "raw_value": "Investment",
+      "normalized_value": "Investment",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 4,
+      "bbox": {
+        "x0": 807.0,
+        "y0": 25.0,
+        "x1": 883.0,
+        "y1": 40.0
+      },
+      "cell_type": "text",
+      "raw_value": "Horizon",
+      "normalized_value": "Horizon",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 5,
+      "bbox": {
+        "x0": 891.0,
+        "y0": 25.0,
+        "x1": 957.0,
+        "y1": 45.0
+      },
+      "cell_type": "text",
+      "raw_value": "(years)",
+      "normalized_value": "(years)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 6,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -125,24 +267,109 @@
     },
     {
       "row_index": 1,
-      "col_index": 1,
+      "col_index": 0,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "a. Investors are rational, mean-variance optimizers.",
-      "normalized_value": "a. Investors are rational, mean-variance optimizers.",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 2,
-      "col_index": 0,
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 476.0,
+        "y0": 76.0,
+        "x1": 483.0,
+        "y1": 91.0
+      },
+      "cell_type": "number",
+      "raw_value": "1",
+      "normalized_value": 1,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 579.0,
+        "y0": 76.0,
+        "x1": 603.0,
+        "y1": 91.0
+      },
+      "cell_type": "number",
+      "raw_value": "10",
+      "normalized_value": 10,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 687.0,
+        "y0": 76.0,
+        "x1": 713.0,
+        "y1": 91.0
+      },
+      "cell_type": "number",
+      "raw_value": "30",
+      "normalized_value": 30,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 5,
+      "bbox": {
+        "x0": 939.0,
+        "y0": 76.0,
+        "x1": 1037.0,
+        "y1": 91.0
+      },
+      "cell_type": "text",
+      "raw_value": "Comment",
+      "normalized_value": "Comment",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 6,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -159,24 +386,109 @@
     },
     {
       "row_index": 2,
-      "col_index": 1,
+      "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 127.0,
+        "x1": 279.0,
+        "y1": 147.0
       },
       "cell_type": "text",
-      "raw_value": "b. Their common planning horizon is a single period.",
-      "normalized_value": "b. Their common planning horizon is a single period.",
+      "raw_value": "1. Mean of average return",
+      "normalized_value": "1. Mean of average return",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 3,
-      "col_index": 0,
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 460.0,
+        "y0": 127.0,
+        "x1": 516.0,
+        "y1": 142.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.050",
+      "normalized_value": 0.05,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 570.0,
+        "y0": 127.0,
+        "x1": 626.0,
+        "y1": 142.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.050",
+      "normalized_value": 0.05,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 681.0,
+        "y0": 127.0,
+        "x1": 736.0,
+        "y1": 142.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.050",
+      "normalized_value": 0.05,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 4,
+      "bbox": {
+        "x0": 774.0,
+        "y0": 127.0,
+        "x1": 824.0,
+        "y1": 142.0
+      },
+      "cell_type": "formula",
+      "raw_value": "=.05",
+      "normalized_value": "=.05",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 6,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -193,16 +505,118 @@
     },
     {
       "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 33.0,
+        "y0": 167.0,
+        "x1": 241.0,
+        "y1": 182.0
+      },
+      "cell_type": "text",
+      "raw_value": "2. Mean of total return",
+      "normalized_value": "2. Mean of total return",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
       "col_index": 1,
+      "bbox": {
+        "x0": 460.0,
+        "y0": 167.0,
+        "x1": 516.0,
+        "y1": 182.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.050",
+      "normalized_value": 0.05,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 570.0,
+        "y0": 167.0,
+        "x1": 626.0,
+        "y1": 182.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.500",
+      "normalized_value": 0.5,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 684.0,
+        "y0": 167.0,
+        "x1": 736.0,
+        "y1": 182.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.500",
+      "normalized_value": 1.5,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 4,
+      "bbox": {
+        "x0": 774.0,
+        "y0": 167.0,
+        "x1": 847.0,
+        "y1": 182.0
+      },
+      "cell_type": "formula",
+      "raw_value": "=.05*T",
+      "normalized_value": "=.05*T",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 5,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "c. Investors all use identical input lists, an assumption often termed homogeneous\nexpectations. Homogeneous expectations are consistent with the assumption\nthat all relevant information is publicly available.",
-      "normalized_value": "c. Investors all use identical input lists, an assumption often termed homogeneous\nexpectations. Homogeneous expectations are consistent with the assumption\nthat all relevant information is publicly available.",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 6,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -212,14 +626,14 @@
       "row_index": 4,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 33.0,
+        "y0": 207.0,
+        "x1": 367.0,
+        "y1": 222.0
       },
       "cell_type": "text",
-      "raw_value": "2.",
-      "normalized_value": "2.",
+      "raw_value": "3. Standard deviation of total return",
+      "normalized_value": "3. Standard deviation of total return",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -229,22 +643,90 @@
       "row_index": 4,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 460.0,
+        "y0": 207.0,
+        "x1": 516.0,
+        "y1": 222.0
       },
-      "cell_type": "text",
-      "raw_value": "Market structure",
-      "normalized_value": "Market structure",
+      "cell_type": "number",
+      "raw_value": "0.300",
+      "normalized_value": 0.3,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 5,
-      "col_index": 0,
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 570.0,
+        "y0": 207.0,
+        "x1": 625.0,
+        "y1": 222.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.949",
+      "normalized_value": 0.949,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 684.0,
+        "y0": 207.0,
+        "x1": 736.0,
+        "y1": 222.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.643",
+      "normalized_value": 1.643,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 4,
+      "bbox": {
+        "x0": 774.0,
+        "y0": 203.0,
+        "x1": 861.0,
+        "y1": 223.0
+      },
+      "cell_type": "formula",
+      "raw_value": "=.30VT",
+      "normalized_value": "=.30VT",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 6,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -261,24 +743,109 @@
     },
     {
       "row_index": 5,
-      "col_index": 1,
+      "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 33.0,
+        "y0": 247.0,
+        "x1": 405.0,
+        "y1": 267.0
       },
       "cell_type": "text",
-      "raw_value": "a. All assets are publicly held and trade on public exchanges.",
-      "normalized_value": "a. All assets are publicly held and trade on public exchanges.",
+      "raw_value": "4. Standard deviation of average return",
+      "normalized_value": "4. Standard deviation of average return",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 6,
-      "col_index": 0,
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 460.0,
+        "y0": 247.0,
+        "x1": 516.0,
+        "y1": 262.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.300",
+      "normalized_value": 0.3,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 570.0,
+        "y0": 247.0,
+        "x1": 625.0,
+        "y1": 262.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.095",
+      "normalized_value": 0.095,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 4,
+      "bbox": {
+        "x0": 774.0,
+        "y0": 242.0,
+        "x1": 868.0,
+        "y1": 262.0
+      },
+      "cell_type": "formula",
+      "raw_value": "=.30/VT",
+      "normalized_value": "=.30/VT",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 6,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -295,24 +862,109 @@
     },
     {
       "row_index": 6,
-      "col_index": 1,
+      "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 34.0,
+        "y0": 286.0,
+        "x1": 202.0,
+        "y1": 305.0
       },
       "cell_type": "text",
-      "raw_value": "b. Investors can borrow or lend at a common risk-free rate, and they can take\nshort positions on traded securities.",
-      "normalized_value": "b. Investors can borrow or lend at a common risk-free rate, and they can take\nshort positions on traded securities.",
+      "raw_value": "5. Prob(return > 0)",
+      "normalized_value": "5. Prob(return > 0)",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 7,
-      "col_index": 0,
+      "row_index": 6,
+      "col_index": 1,
+      "bbox": {
+        "x0": 460.0,
+        "y0": 286.0,
+        "x1": 516.0,
+        "y1": 301.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.566",
+      "normalized_value": 0.566,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
+      "bbox": {
+        "x0": 570.0,
+        "y0": 286.0,
+        "x1": 622.0,
+        "y1": 301.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.701",
+      "normalized_value": 0.701,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 3,
+      "bbox": {
+        "x0": 681.0,
+        "y0": 286.0,
+        "x1": 736.0,
+        "y1": 301.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.819",
+      "normalized_value": 0.819,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 4,
+      "bbox": {
+        "x0": 775.0,
+        "y0": 286.0,
+        "x1": 892.0,
+        "y1": 301.0
+      },
+      "cell_type": "text",
+      "raw_value": "From normal",
+      "normalized_value": "From normal",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 5,
+      "bbox": {
+        "x0": 901.0,
+        "y0": 286.0,
+        "x1": 1004.0,
+        "y1": 301.0
+      },
+      "cell_type": "text",
+      "raw_value": "distribution",
+      "normalized_value": "distribution",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 6,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -329,16 +981,118 @@
     },
     {
       "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 33.0,
+        "y0": 326.0,
+        "x1": 236.0,
+        "y1": 341.0
+      },
+      "cell_type": "text",
+      "raw_value": "6. 1% VaR total return",
+      "normalized_value": "6. 1% VaR total return",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
       "col_index": 1,
+      "bbox": {
+        "x0": 445.0,
+        "y0": 326.0,
+        "x1": 515.0,
+        "y1": 341.0
+      },
+      "cell_type": "text",
+      "raw_value": "-0.648",
+      "normalized_value": "-0.648",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 2,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 4,
+      "bbox": {
+        "x0": 774.0,
+        "y0": 326.0,
+        "x1": 898.0,
+        "y1": 346.0
+      },
       "cell_type": "text",
-      "raw_value": "c. No taxes.",
-      "normalized_value": "c. No taxes.",
+      "raw_value": "Continuously",
+      "normalized_value": "Continuously",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 5,
+      "bbox": {
+        "x0": 905.0,
+        "y0": 326.0,
+        "x1": 1031.0,
+        "y1": 345.0
+      },
+      "cell_type": "text",
+      "raw_value": "compounded",
+      "normalized_value": "compounded",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 6,
+      "bbox": {
+        "x0": 1039.0,
+        "y0": 326.0,
+        "x1": 1201.0,
+        "y1": 341.0
+      },
+      "cell_type": "text",
+      "raw_value": "cumulative return",
+      "normalized_value": "cumulative return",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -347,6 +1101,74 @@
     {
       "row_index": 8,
       "col_index": 0,
+      "bbox": {
+        "x0": 33.0,
+        "y0": 366.0,
+        "x1": 307.0,
+        "y1": 381.0
+      },
+      "cell_type": "text",
+      "raw_value": "7. Cumulative loss at 1% VaR",
+      "normalized_value": "7. Cumulative loss at 1% VaR",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 1,
+      "bbox": {
+        "x0": 460.0,
+        "y0": 366.0,
+        "x1": 515.0,
+        "y1": 381.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.477",
+      "normalized_value": 0.477,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 2,
+      "bbox": {
+        "x0": 570.0,
+        "y0": 366.0,
+        "x1": 625.0,
+        "y1": 381.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.819",
+      "normalized_value": 0.819,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 3,
+      "bbox": {
+        "x0": 681.0,
+        "y0": 366.0,
+        "x1": 736.0,
+        "y1": 381.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.902",
+      "normalized_value": 0.902,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 4,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -363,6 +1185,57 @@
     },
     {
       "row_index": 8,
+      "col_index": 5,
+      "bbox": {
+        "x0": 985.0,
+        "y0": 367.0,
+        "x1": 1039.0,
+        "y1": 381.0
+      },
+      "cell_type": "text",
+      "raw_value": "return",
+      "normalized_value": "return",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 6,
+      "bbox": {
+        "x0": 1047.0,
+        "y0": 366.0,
+        "x1": 1152.0,
+        "y1": 385.0
+      },
+      "cell_type": "text",
+      "raw_value": "from line 6)",
+      "normalized_value": "from line 6)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 0,
+      "bbox": {
+        "x0": 33.0,
+        "y0": 406.0,
+        "x1": 254.0,
+        "y1": 421.0
+      },
+      "cell_type": "text",
+      "raw_value": "8. 0.1% VaR total return",
+      "normalized_value": "8. 0.1% VaR total return",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
       "col_index": 1,
       "bbox": {
         "x0": 0,
@@ -370,9 +1243,213 @@
         "x1": 0,
         "y1": 0
       },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 3,
+      "bbox": {
+        "x0": 666.0,
+        "y0": 406.0,
+        "x1": 736.0,
+        "y1": 421.0
+      },
       "cell_type": "text",
-      "raw_value": "d. No trading costs.",
-      "normalized_value": "d. No trading costs.",
+      "raw_value": "-3.578",
+      "normalized_value": "-3.578",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 5,
+      "bbox": {
+        "x0": 905.0,
+        "y0": 406.0,
+        "x1": 1031.0,
+        "y1": 425.0
+      },
+      "cell_type": "text",
+      "raw_value": "compounded",
+      "normalized_value": "compounded",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 6,
+      "bbox": {
+        "x0": 1040.0,
+        "y0": 407.0,
+        "x1": 1093.0,
+        "y1": 421.0
+      },
+      "cell_type": "text",
+      "raw_value": "return",
+      "normalized_value": "return",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 0,
+      "bbox": {
+        "x0": 33.0,
+        "y0": 445.0,
+        "x1": 325.0,
+        "y1": 460.0
+      },
+      "cell_type": "text",
+      "raw_value": "9. Cumulative loss at 0.1% VaR",
+      "normalized_value": "9. Cumulative loss at 0.1% VaR",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 1,
+      "bbox": {
+        "x0": 460.0,
+        "y0": 445.0,
+        "x1": 515.0,
+        "y1": 460.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.584",
+      "normalized_value": 0.584,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 2,
+      "bbox": {
+        "x0": 570.0,
+        "y0": 445.0,
+        "x1": 625.0,
+        "y1": 460.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.912",
+      "normalized_value": 0.912,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 3,
+      "bbox": {
+        "x0": 681.0,
+        "y0": 445.0,
+        "x1": 736.0,
+        "y1": 460.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.972",
+      "normalized_value": 0.972,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 4,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 5,
+      "bbox": {
+        "x0": 985.0,
+        "y0": 446.0,
+        "x1": 1039.0,
+        "y1": 460.0
+      },
+      "cell_type": "text",
+      "raw_value": "return",
+      "normalized_value": "return",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 6,
+      "bbox": {
+        "x0": 1047.0,
+        "y0": 445.0,
+        "x1": 1152.0,
+        "y1": 464.0
+      },
+      "cell_type": "text",
+      "raw_value": "from line 8)",
+      "normalized_value": "from line 8)",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -384,48 +1461,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "same risk-free rate (Assumption 2[b]), in light of our assumptions, investors would calculate identical Portfolio This table contains 9 rows and 2 columns.",
-  "table_summary": "same risk-free rate (Assumption 2[b]), in light of our assumptions, investors would calculate identical Portfolio This table contains 9 rows and 2 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
-  "linked_concept_ids": [
-    "portfolio_theory"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "portfolio_theory",
-      "source_anchor": {
-        "page_number": 313,
-        "bbox": {
-          "x0": 212.94999844999995,
-          "y0": 474.86999755,
-          "x1": 526.9499984500001,
-          "y1": 620.74974825
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.36 + Keywords: portfolio, risk",
-      "confidence": 0.5578760027885437
-    }
-  ],
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
-    "page_number": 313,
+    "page_number": 256,
     "bbox": {
-      "x0": 212.94999844999995,
-      "y0": 474.86999755,
-      "x1": 526.9499984500001,
-      "y1": 620.74974825
+      "x0": 33.0,
+      "y0": 25.0,
+      "x1": 1201.0,
+      "y1": 464.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part II: Portfolio Theory and Practice > Concept Check 7.5 > 7.5: Risk Pooling, Risk Sharing, and Time Diversification > Time Diversification",
   "page_span": [
-    313,
-    313
-  ]
+    256,
+    256
+  ],
+  "source_chunk_id": "chunk_01912",
+  "page_start": 256,
+  "page_end": 256
 }

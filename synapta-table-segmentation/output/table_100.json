@@ -1,39 +1,139 @@
 {
-  "segment_id": "table_p465_idx99",
+  "segment_id": "table_p305_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "Final PDF to",
+  "caption": "",
   "row_headers": [
     [
       ""
     ],
     [
-      ""
+      "A. Weights in Optimal"
     ],
     [
-      ""
+      "Market index"
+    ],
+    [
+      "WMT (Walmart)"
+    ],
+    [
+      "TGT (Target)"
+    ],
+    [
+      "VZ (Verizon)"
+    ],
+    [
+      "T (AT&T)"
+    ],
+    [
+      "F (Ford)"
+    ],
+    [
+      "GM (General Motors)"
+    ],
+    [
+      "B. Portfolio Characteristics"
+    ],
+    [
+      "Risk premium"
+    ],
+    [
+      "Standard deviation"
+    ],
+    [
+      "Sharpe ratio"
     ]
   ],
   "col_headers": [
     "",
-    "436 PART III Equilibrium in Capital Markets\nprimarily from excess returns in the post–World War II period. It is plausible that the extent of\nthe economic success of the United States in the post-war period was unexpected, making histori-\ncal averages unrepresentative of prior expected values. Alternative estimates of expected returns\nusing the dividend growth model instead of average returns suggest that excess returns on stocks\nwere high largely because of unexpectedly large capital gains."
+    "",
+    "Index",
+    "Full-Covariance"
   ],
   "cells": [
     [
       "",
-      "436 PART III Equilibrium in Capital Markets\nprimarily from excess returns in the post–World War II period. It is plausible that the extent of\nthe economic success of the United States in the post-war period was unexpected, making histori-\ncal averages unrepresentative of prior expected values. Alternative estimates of expected returns\nusing the dividend growth model instead of average returns suggest that excess returns on stocks\nwere high largely because of unexpectedly large capital gains."
+      "",
+      "Index",
+      "Full-Covariance"
     ],
     [
       "",
-      "KEY TERMS first-pass regression second-pass regression benchmark error"
+      "",
+      "Model",
+      "Model"
     ],
     [
+      "A. Weights in Optimal",
+      "Risky Portfolio",
       "",
-      "KEY EQUATIONS First-pass regression equation: r i t − r f t = a i + b i (r Mt − r f t ) + e i t\nSecond-pass regression equation: ¯r i − r f = γ 0 + γ 1 b i\nFama-French three-factor model: E(r i ) − r f = a i + b i[E(r M) − r f ] + s i E[R SMB] + h i E[R HML]"
+      ""
     ],
     [
+      "Market index",
       "",
-      "PROBLEM SETS The following annual excess rates of return were obtained for nine individual stocks (A–I) and\na market index. Use this information to complete Problems 1–7.\nStock Excess Returns (%)\neXcel Market\nPlease visit us at Year Index A B C D E F G H I\nwww.mhhe.com/Bodie13e\n1 29.65 33.88 −25.20 36.48 42.89 −39.89 39.67 74.57 40.22 90.19\n2 −11.91 −49.87 24.70 −25.11 −54.39 44.92 −54.33 −79.76 −71.58 −26.64\n3 14.73 65.14 −25.04 18.91 −39.86 −3.91 −5.69 26.73 14.49 18.14\n4 27.68 14.46 −38.64 −23.31 −0.72 −3.21 92.39 −3.82 13.74 0.09\n5 5.18 15.67 61.93 63.95 −32.82 44.26 −42.96 101.67 24.24 8.98\n6 25.97 −32.17 44.94 −19.56 69.42 90.43 76.72 1.72 77.22 72.38\n7 10.64 −31.55 −74.65 50.18 74.52 15.38 21.95 −43.95 −13.40 28.95\n8 1.02 −23.79 47.02 −42.28 28.61 −17.64 28.83 98.01 28.12 39.41\n9 18.82 −4.59 28.69 −0.54 2.32 42.36 18.93 −2.45 37.65 94.67\n10 23.92 −8.03 48.61 23.65 26.26 −3.65 23.31 15.36 80.59 52.51\n11 −41.61 78.22 −85.02 −0.79 −68.70 −85.71 −45.64 2.27 −72.47 −80.26\n12 −6.64 4.75 42.95 −48.60 26.27 13.24 −34.34 −54.47 −1.50 −24.46\n1. Perform the first-pass regressions for a single-index model and tabulate the summary statistics.\n2. Specify the hypotheses for the second-pass regression used to test the SML of the CAPM.\n3. Perform the second-pass SML regression by regressing the average excess return of each\nportfolio on its beta.\n4. Summarize your test results and compare them to the results reported in the text.\n5. Group the nine stocks into three portfolios, maximizing the dispersion of the betas of the three\nresultant portfolios. Repeat the test and explain any changes in the results.\n6. Explain Roll’s critique as it applies to the tests performed in Problems 1–5.\n7. Plot the capital market line (CML), the nine stocks, and the three portfolios on a graph of\naverage returns versus standard deviation. Compare the mean-variance efficiency of the three\nportfolios and the market index. Does the comparison support the CAPM?"
+      "0.82",
+      "0.90"
+    ],
+    [
+      "WMT (Walmart)",
+      "",
+      "0.13",
+      "0.17"
+    ],
+    [
+      "TGT (Target)",
+      "",
+      "-0.07",
+      "-0.14"
+    ],
+    [
+      "VZ (Verizon)",
+      "",
+      "",
+      "-0.18"
+    ],
+    [
+      "T (AT&T)",
+      "",
+      "0.10",
+      "0.19"
+    ],
+    [
+      "F (Ford)",
+      "",
+      "0.07",
+      "0.08"
+    ],
+    [
+      "GM (General Motors)",
+      "",
+      "0.01",
+      "-0.03"
+    ],
+    [
+      "B. Portfolio Characteristics",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Risk premium",
+      "",
+      "0.0605",
+      "0.0639"
+    ],
+    [
+      "Standard deviation",
+      "",
+      "0.1172",
+      "0.1238"
+    ],
+    [
+      "Sharpe ratio",
+      "",
+      "0.5165",
+      "0.5163"
     ]
   ],
   "cell_meta": [
@@ -63,9 +163,43 @@
         "x1": 0,
         "y1": 0
       },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 530.0,
+        "y0": 26.0,
+        "x1": 583.0,
+        "y1": 41.0
+      },
       "cell_type": "text",
-      "raw_value": "436 PART III Equilibrium in Capital Markets\nprimarily from excess returns in the post–World War II period. It is plausible that the extent of\nthe economic success of the United States in the post-war period was unexpected, making histori-\ncal averages unrepresentative of prior expected values. Alternative estimates of expected returns\nusing the dividend growth model instead of average returns suggest that excess returns on stocks\nwere high largely because of unexpectedly large capital gains.",
-      "normalized_value": "436 PART III Equilibrium in Capital Markets\nprimarily from excess returns in the post–World War II period. It is plausible that the extent of\nthe economic success of the United States in the post-war period was unexpected, making histori-\ncal averages unrepresentative of prior expected values. Alternative estimates of expected returns\nusing the dividend growth model instead of average returns suggest that excess returns on stocks\nwere high largely because of unexpectedly large capital gains.",
+      "raw_value": "Index",
+      "normalized_value": "Index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 709.0,
+        "y0": 25.0,
+        "x1": 863.0,
+        "y1": 41.0
+      },
+      "cell_type": "text",
+      "raw_value": "Full-Covariance",
+      "normalized_value": "Full-Covariance",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -97,9 +231,43 @@
         "x1": 0,
         "y1": 0
       },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 526.0,
+        "y0": 49.0,
+        "x1": 586.0,
+        "y1": 78.0
+      },
       "cell_type": "text",
-      "raw_value": "KEY TERMS first-pass regression second-pass regression benchmark error",
-      "normalized_value": "KEY TERMS first-pass regression second-pass regression benchmark error",
+      "raw_value": "Model",
+      "normalized_value": "Model",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 756.0,
+        "y0": 53.0,
+        "x1": 816.0,
+        "y1": 68.0
+      },
+      "cell_type": "text",
+      "raw_value": "Model",
+      "normalized_value": "Model",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -108,6 +276,40 @@
     {
       "row_index": 2,
       "col_index": 0,
+      "bbox": {
+        "x0": 36.0,
+        "y0": 104.0,
+        "x1": 252.0,
+        "y1": 125.0
+      },
+      "cell_type": "text",
+      "raw_value": "A. Weights in Optimal",
+      "normalized_value": "A. Weights in Optimal",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 260.0,
+        "y0": 104.0,
+        "x1": 403.0,
+        "y1": 125.0
+      },
+      "cell_type": "text",
+      "raw_value": "Risky Portfolio",
+      "normalized_value": "Risky Portfolio",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -124,24 +326,7 @@
     },
     {
       "row_index": 2,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "formula",
-      "raw_value": "KEY EQUATIONS First-pass regression equation: r i t − r f t = a i + b i (r Mt − r f t ) + e i t\nSecond-pass regression equation: ¯r i − r f = γ 0 + γ 1 b i\nFama-French three-factor model: E(r i ) − r f = a i + b i[E(r M) − r f ] + s i E[R SMB] + h i E[R HML]",
-      "normalized_value": "KEY EQUATIONS First-pass regression equation: r i t − r f t = a i + b i (r Mt − r f t ) + e i t\nSecond-pass regression equation: ¯r i − r f = γ 0 + γ 1 b i\nFama-French three-factor model: E(r i ) − r f = a i + b i[E(r M) − r f ] + s i E[R SMB] + h i E[R HML]",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 0,
+      "col_index": 3,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -158,6 +343,23 @@
     },
     {
       "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 138.0,
+        "x1": 159.0,
+        "y1": 153.0
+      },
+      "cell_type": "text",
+      "raw_value": "Market index",
+      "normalized_value": "Market index",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
       "col_index": 1,
       "bbox": {
         "x0": 0,
@@ -165,9 +367,723 @@
         "x1": 0,
         "y1": 0
       },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 559.0,
+        "y0": 138.0,
+        "x1": 601.0,
+        "y1": 153.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.82",
+      "normalized_value": 0.82,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 792.0,
+        "y0": 138.0,
+        "x1": 835.0,
+        "y1": 153.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.90",
+      "normalized_value": 0.9,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 36.0,
+        "y0": 171.0,
+        "x1": 177.0,
+        "y1": 190.0
+      },
       "cell_type": "text",
-      "raw_value": "PROBLEM SETS The following annual excess rates of return were obtained for nine individual stocks (A–I) and\na market index. Use this information to complete Problems 1–7.\nStock Excess Returns (%)\neXcel Market\nPlease visit us at Year Index A B C D E F G H I\nwww.mhhe.com/Bodie13e\n1 29.65 33.88 −25.20 36.48 42.89 −39.89 39.67 74.57 40.22 90.19\n2 −11.91 −49.87 24.70 −25.11 −54.39 44.92 −54.33 −79.76 −71.58 −26.64\n3 14.73 65.14 −25.04 18.91 −39.86 −3.91 −5.69 26.73 14.49 18.14\n4 27.68 14.46 −38.64 −23.31 −0.72 −3.21 92.39 −3.82 13.74 0.09\n5 5.18 15.67 61.93 63.95 −32.82 44.26 −42.96 101.67 24.24 8.98\n6 25.97 −32.17 44.94 −19.56 69.42 90.43 76.72 1.72 77.22 72.38\n7 10.64 −31.55 −74.65 50.18 74.52 15.38 21.95 −43.95 −13.40 28.95\n8 1.02 −23.79 47.02 −42.28 28.61 −17.64 28.83 98.01 28.12 39.41\n9 18.82 −4.59 28.69 −0.54 2.32 42.36 18.93 −2.45 37.65 94.67\n10 23.92 −8.03 48.61 23.65 26.26 −3.65 23.31 15.36 80.59 52.51\n11 −41.61 78.22 −85.02 −0.79 −68.70 −85.71 −45.64 2.27 −72.47 −80.26\n12 −6.64 4.75 42.95 −48.60 26.27 13.24 −34.34 −54.47 −1.50 −24.46\n1. Perform the first-pass regressions for a single-index model and tabulate the summary statistics.\n2. Specify the hypotheses for the second-pass regression used to test the SML of the CAPM.\n3. Perform the second-pass SML regression by regressing the average excess return of each\nportfolio on its beta.\n4. Summarize your test results and compare them to the results reported in the text.\n5. Group the nine stocks into three portfolios, maximizing the dispersion of the betas of the three\nresultant portfolios. Repeat the test and explain any changes in the results.\n6. Explain Roll’s critique as it applies to the tests performed in Problems 1–5.\n7. Plot the capital market line (CML), the nine stocks, and the three portfolios on a graph of\naverage returns versus standard deviation. Compare the mean-variance efficiency of the three\nportfolios and the market index. Does the comparison support the CAPM?",
-      "normalized_value": "PROBLEM SETS The following annual excess rates of return were obtained for nine individual stocks (A–I) and\na market index. Use this information to complete Problems 1–7.\nStock Excess Returns (%)\neXcel Market\nPlease visit us at Year Index A B C D E F G H I\nwww.mhhe.com/Bodie13e\n1 29.65 33.88 −25.20 36.48 42.89 −39.89 39.67 74.57 40.22 90.19\n2 −11.91 −49.87 24.70 −25.11 −54.39 44.92 −54.33 −79.76 −71.58 −26.64\n3 14.73 65.14 −25.04 18.91 −39.86 −3.91 −5.69 26.73 14.49 18.14\n4 27.68 14.46 −38.64 −23.31 −0.72 −3.21 92.39 −3.82 13.74 0.09\n5 5.18 15.67 61.93 63.95 −32.82 44.26 −42.96 101.67 24.24 8.98\n6 25.97 −32.17 44.94 −19.56 69.42 90.43 76.72 1.72 77.22 72.38\n7 10.64 −31.55 −74.65 50.18 74.52 15.38 21.95 −43.95 −13.40 28.95\n8 1.02 −23.79 47.02 −42.28 28.61 −17.64 28.83 98.01 28.12 39.41\n9 18.82 −4.59 28.69 −0.54 2.32 42.36 18.93 −2.45 37.65 94.67\n10 23.92 −8.03 48.61 23.65 26.26 −3.65 23.31 15.36 80.59 52.51\n11 −41.61 78.22 −85.02 −0.79 −68.70 −85.71 −45.64 2.27 −72.47 −80.26\n12 −6.64 4.75 42.95 −48.60 26.27 13.24 −34.34 −54.47 −1.50 −24.46\n1. Perform the first-pass regressions for a single-index model and tabulate the summary statistics.\n2. Specify the hypotheses for the second-pass regression used to test the SML of the CAPM.\n3. Perform the second-pass SML regression by regressing the average excess return of each\nportfolio on its beta.\n4. Summarize your test results and compare them to the results reported in the text.\n5. Group the nine stocks into three portfolios, maximizing the dispersion of the betas of the three\nresultant portfolios. Repeat the test and explain any changes in the results.\n6. Explain Roll’s critique as it applies to the tests performed in Problems 1–5.\n7. Plot the capital market line (CML), the nine stocks, and the three portfolios on a graph of\naverage returns versus standard deviation. Compare the mean-variance efficiency of the three\nportfolios and the market index. Does the comparison support the CAPM?",
+      "raw_value": "WMT (Walmart)",
+      "normalized_value": "WMT (Walmart)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 559.0,
+        "y0": 171.0,
+        "x1": 601.0,
+        "y1": 186.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.13",
+      "normalized_value": 0.13,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 792.0,
+        "y0": 171.0,
+        "x1": 834.0,
+        "y1": 186.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.17",
+      "normalized_value": 0.17,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 36.0,
+        "y0": 203.0,
+        "x1": 151.0,
+        "y1": 223.0
+      },
+      "cell_type": "text",
+      "raw_value": "TGT (Target)",
+      "normalized_value": "TGT (Target)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 544.0,
+        "y0": 203.0,
+        "x1": 601.0,
+        "y1": 218.0
+      },
+      "cell_type": "text",
+      "raw_value": "-0.07",
+      "normalized_value": "-0.07",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 3,
+      "bbox": {
+        "x0": 777.0,
+        "y0": 203.0,
+        "x1": 834.0,
+        "y1": 218.0
+      },
+      "cell_type": "text",
+      "raw_value": "-0.14",
+      "normalized_value": "-0.14",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 0,
+      "bbox": {
+        "x0": 36.0,
+        "y0": 236.0,
+        "x1": 150.0,
+        "y1": 255.0
+      },
+      "cell_type": "text",
+      "raw_value": "VZ (Verizon)",
+      "normalized_value": "VZ (Verizon)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 3,
+      "bbox": {
+        "x0": 777.0,
+        "y0": 236.0,
+        "x1": 834.0,
+        "y1": 251.0
+      },
+      "cell_type": "text",
+      "raw_value": "-0.18",
+      "normalized_value": "-0.18",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 36.0,
+        "y0": 269.0,
+        "x1": 112.0,
+        "y1": 288.0
+      },
+      "cell_type": "text",
+      "raw_value": "T (AT&T)",
+      "normalized_value": "T (AT&T)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 2,
+      "bbox": {
+        "x0": 559.0,
+        "y0": 269.0,
+        "x1": 601.0,
+        "y1": 284.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.10",
+      "normalized_value": 0.1,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 3,
+      "bbox": {
+        "x0": 792.0,
+        "y0": 269.0,
+        "x1": 834.0,
+        "y1": 284.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.19",
+      "normalized_value": 0.19,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 302.0,
+        "x1": 107.0,
+        "y1": 321.0
+      },
+      "cell_type": "text",
+      "raw_value": "F (Ford)",
+      "normalized_value": "F (Ford)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 2,
+      "bbox": {
+        "x0": 559.0,
+        "y0": 302.0,
+        "x1": 601.0,
+        "y1": 317.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.07",
+      "normalized_value": 0.07,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 3,
+      "bbox": {
+        "x0": 792.0,
+        "y0": 302.0,
+        "x1": 834.0,
+        "y1": 317.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.08",
+      "normalized_value": 0.08,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 335.0,
+        "x1": 232.0,
+        "y1": 354.0
+      },
+      "cell_type": "text",
+      "raw_value": "GM (General Motors)",
+      "normalized_value": "GM (General Motors)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 2,
+      "bbox": {
+        "x0": 559.0,
+        "y0": 335.0,
+        "x1": 597.0,
+        "y1": 350.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.01",
+      "normalized_value": 0.01,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 9,
+      "col_index": 3,
+      "bbox": {
+        "x0": 777.0,
+        "y0": 335.0,
+        "x1": 834.0,
+        "y1": 350.0
+      },
+      "cell_type": "text",
+      "raw_value": "-0.03",
+      "normalized_value": "-0.03",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 367.0,
+        "x1": 303.0,
+        "y1": 383.0
+      },
+      "cell_type": "text",
+      "raw_value": "B. Portfolio Characteristics",
+      "normalized_value": "B. Portfolio Characteristics",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 10,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 11,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 400.0,
+        "x1": 163.0,
+        "y1": 419.0
+      },
+      "cell_type": "text",
+      "raw_value": "Risk premium",
+      "normalized_value": "Risk premium",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 11,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 11,
+      "col_index": 2,
+      "bbox": {
+        "x0": 533.0,
+        "y0": 400.0,
+        "x1": 601.0,
+        "y1": 415.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.0605",
+      "normalized_value": 0.0605,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 11,
+      "col_index": 3,
+      "bbox": {
+        "x0": 766.0,
+        "y0": 400.0,
+        "x1": 834.0,
+        "y1": 415.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.0639",
+      "normalized_value": 0.0639,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 12,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 433.0,
+        "x1": 214.0,
+        "y1": 448.0
+      },
+      "cell_type": "text",
+      "raw_value": "Standard deviation",
+      "normalized_value": "Standard deviation",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 12,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 12,
+      "col_index": 2,
+      "bbox": {
+        "x0": 533.0,
+        "y0": 433.0,
+        "x1": 601.0,
+        "y1": 448.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.1172",
+      "normalized_value": 0.1172,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 12,
+      "col_index": 3,
+      "bbox": {
+        "x0": 766.0,
+        "y0": 433.0,
+        "x1": 834.0,
+        "y1": 448.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.1238",
+      "normalized_value": 0.1238,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 13,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 466.0,
+        "x1": 151.0,
+        "y1": 485.0
+      },
+      "cell_type": "text",
+      "raw_value": "Sharpe ratio",
+      "normalized_value": "Sharpe ratio",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 13,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 13,
+      "col_index": 2,
+      "bbox": {
+        "x0": 533.0,
+        "y0": 466.0,
+        "x1": 601.0,
+        "y1": 481.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.5165",
+      "normalized_value": 0.5165,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 13,
+      "col_index": 3,
+      "bbox": {
+        "x0": 766.0,
+        "y0": 466.0,
+        "x1": 834.0,
+        "y1": 481.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.5163",
+      "normalized_value": 0.5163,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -176,75 +1092,33 @@
   ],
   "footnotes": [],
   "units": [],
-  "formula_cells": [
-    {
-      "cell_address": "B3",
-      "formula_text": "KEY EQUATIONS First-pass regression equation: r i t − r f t = a i + b i (r Mt − r f t ) + e i t\nSecond-pass regression equation: ¯r i − r f = γ 0 + γ 1 b i\nFama-French three-factor model: E(r i ) − r f = a i + b i[E(r M) − r f ] + s i E[R SMB] + h i E[R HML]",
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "source_anchor": {
-        "page_number": 465,
-        "bbox": {
-          "x0": 18.0,
-          "y0": -63.0,
-          "x1": 625.5,
-          "y1": 693.0
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "confidence": 0.9
-    }
-  ],
+  "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "Final PDF to This table contains 4 rows and 2 columns.",
-  "table_summary": "Final PDF to This table contains 4 rows and 2 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
-  "linked_concept_ids": [
-    "portfolio_theory"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "portfolio_theory",
-      "source_anchor": {
-        "page_number": 465,
-        "bbox": {
-          "x0": 18.0,
-          "y0": -63.0,
-          "x1": 625.5,
-          "y1": 693.0
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.31 + Keywords: return",
-      "confidence": 0.5051361441612243
-    }
-  ],
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
-    "page_number": 465,
+    "page_number": 305,
     "bbox": {
-      "x0": 18.0,
-      "y0": -63.0,
-      "x1": 625.5,
-      "y1": 693.0
+      "x0": 36.0,
+      "y0": 25.0,
+      "x1": 863.0,
+      "y1": 485.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part II: Portfolio Theory and Practice > Table 8.4",
   "page_span": [
-    465,
-    465
-  ]
+    305,
+    305
+  ],
+  "source_chunk_id": "chunk_02387",
+  "page_start": 305,
+  "page_end": 305
 }

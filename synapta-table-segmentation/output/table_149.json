@@ -1,88 +1,104 @@
 {
-  "segment_id": "table_p645_idx148",
+  "segment_id": "table_p469_idx0",
   "table_id": null,
   "table_number": null,
   "caption": "",
   "row_headers": [
     [
-      "Treasury bond yield"
+      "Aug 15 24 2.375"
     ],
     [
-      "Earnings yield"
+      "Aug 15 26 1.500"
     ],
     [
-      "Resulting P/E ratio"
+      "Aug 1530 0.625"
     ],
     [
-      "EPS forecast"
+      "Aug 1540 1.125"
     ],
     [
-      "Forecast for S&P 500"
+      "Aug 1540 3.875"
+    ],
+    [
+      "Nov 15 44 3.000"
+    ],
+    [
+      "Feb 1547 3.000"
+    ],
+    [
+      "Aug 15 49 2.250"
     ]
   ],
   "col_headers": [
-    "",
-    "",
-    "Pessimistic\nScenario",
-    "",
-    "Most Likely\nScenario",
-    "",
-    "Optimistic\nScenario"
+    "MATURITY COUPON",
+    "BID",
+    "ASK",
+    "CHANGE",
+    "YIELD (%)"
   ],
   "cells": [
     [
-      "",
-      "",
-      "Pessimistic\nScenario",
-      "",
-      "Most Likely\nScenario",
-      "",
-      "Optimistic\nScenario"
+      "MATURITY COUPON",
+      "BID",
+      "ASK",
+      "CHANGE",
+      "YIELD (%)"
     ],
     [
-      "Treasury bond yield",
-      "",
-      "2.25%",
-      "",
-      "1.75%",
-      "",
-      "1.25%"
+      "Aug 15 24 2.375",
+      "105.8188",
+      "105.8313",
+      "0.030",
+      "0.417"
     ],
     [
-      "Earnings yield",
-      "",
-      "4.25%",
-      "",
-      "3.75%",
-      "",
-      "3.25%"
+      "Aug 15 26 1.500",
+      "103.4563",
+      "103.4750",
+      "0.064",
+      "0.790"
     ],
     [
-      "Resulting P/E ratio",
-      "",
-      "23.53",
-      "",
-      "26.67",
-      "",
-      "30.77"
+      "Aug 1530 0.625",
+      "94.6938",
+      "94.7250",
+      "0.186",
+      "1.246"
     ],
     [
-      "EPS forecast",
-      "",
-      "$196.36",
-      "",
-      "$196.36",
-      "",
-      "$196.36"
+      "Aug 1540 1.125",
+      "88.4125",
+      "88.4750",
+      "1.002",
+      "1.847"
     ],
     [
-      "Forecast for S&P 500",
-      "",
-      "4,620",
-      "",
-      "5,236",
-      "",
-      "6,042"
+      "Aug 1540 3.875",
+      "134.1875",
+      "134.2500",
+      "1.748",
+      "1.749"
+    ],
+    [
+      "Nov 15 44 3.000",
+      "120.4500",
+      "120.5125",
+      "1.830",
+      "1.904"
+    ],
+    [
+      "Feb 1547 3.000",
+      "121.9750",
+      "122.0375",
+      "1.280",
+      "1.905"
+    ],
+    [
+      "Aug 15 49 2.250",
+      "106.6625",
+      "106.7250",
+      "1.948",
+      "1.938"
     ]
   ],
   "cell_meta": [
@@ -90,14 +106,14 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 13.0,
+        "y0": 9.0,
+        "x1": 232.0,
+        "y1": 24.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "MATURITY COUPON",
+      "normalized_value": "MATURITY COUPON",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -107,14 +123,14 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 267.0,
+        "y0": 9.0,
+        "x1": 302.0,
+        "y1": 24.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "BID",
+      "normalized_value": "BID",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -124,14 +140,14 @@
       "row_index": 0,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 369.0,
+        "y0": 4.0,
+        "x1": 415.0,
+        "y1": 34.0
       },
       "cell_type": "text",
-      "raw_value": "Pessimistic\nScenario",
-      "normalized_value": "Pessimistic\nScenario",
+      "raw_value": "ASK",
+      "normalized_value": "ASK",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -141,14 +157,14 @@
       "row_index": 0,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 460.0,
+        "y0": 9.0,
+        "x1": 550.0,
+        "y1": 24.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "CHANGE",
+      "normalized_value": "CHANGE",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -158,48 +174,14 @@
       "row_index": 0,
       "col_index": 4,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 562.0,
+        "y0": 8.0,
+        "x1": 661.0,
+        "y1": 29.0
       },
       "cell_type": "text",
-      "raw_value": "Most Likely\nScenario",
-      "normalized_value": "Most Likely\nScenario",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Optimistic\nScenario",
-      "normalized_value": "Optimistic\nScenario",
+      "raw_value": "YIELD (%)",
+      "normalized_value": "YIELD (%)",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -209,14 +191,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 13.0,
+        "y0": 56.0,
+        "x1": 208.0,
+        "y1": 76.0
       },
       "cell_type": "text",
-      "raw_value": "Treasury bond yield",
-      "normalized_value": "Treasury bond yield",
+      "raw_value": "Aug 15 24 2.375",
+      "normalized_value": "Aug 15 24 2.375",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -226,14 +208,14 @@
       "row_index": 1,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 232.0,
+        "y0": 56.0,
+        "x1": 326.0,
+        "y1": 71.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "105.8188",
+      "normalized_value": 105.8188,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -243,14 +225,14 @@
       "row_index": 1,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 347.0,
+        "y0": 56.0,
+        "x1": 442.0,
+        "y1": 71.0
       },
-      "cell_type": "percent",
-      "raw_value": "2.25%",
-      "normalized_value": 0.0225,
+      "cell_type": "number",
+      "raw_value": "105.8313",
+      "normalized_value": 105.8313,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -260,14 +242,14 @@
       "row_index": 1,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 493.0,
+        "y0": 57.0,
+        "x1": 549.0,
+        "y1": 72.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "0.030",
+      "normalized_value": 0.03,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -277,48 +259,14 @@
       "row_index": 1,
       "col_index": 4,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 582.0,
+        "y0": 56.0,
+        "x1": 641.0,
+        "y1": 72.0
       },
-      "cell_type": "percent",
-      "raw_value": "1.75%",
-      "normalized_value": 0.0175,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 1,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "1.25%",
-      "normalized_value": 0.0125,
+      "cell_type": "number",
+      "raw_value": "0.417",
+      "normalized_value": 0.417,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -328,14 +276,14 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 13.0,
+        "y0": 93.0,
+        "x1": 208.0,
+        "y1": 113.0
       },
       "cell_type": "text",
-      "raw_value": "Earnings yield",
-      "normalized_value": "Earnings yield",
+      "raw_value": "Aug 15 26 1.500",
+      "normalized_value": "Aug 15 26 1.500",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -345,14 +293,14 @@
       "row_index": 2,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 232.0,
+        "y0": 93.0,
+        "x1": 326.0,
+        "y1": 108.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "103.4563",
+      "normalized_value": 103.4563,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -362,14 +310,14 @@
       "row_index": 2,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 347.0,
+        "y0": 94.0,
+        "x1": 442.0,
+        "y1": 109.0
       },
-      "cell_type": "percent",
-      "raw_value": "4.25%",
-      "normalized_value": 0.0425,
+      "cell_type": "number",
+      "raw_value": "103.4750",
+      "normalized_value": 103.475,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -379,14 +327,14 @@
       "row_index": 2,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 493.0,
+        "y0": 94.0,
+        "x1": 549.0,
+        "y1": 109.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "0.064",
+      "normalized_value": 0.064,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -396,48 +344,14 @@
       "row_index": 2,
       "col_index": 4,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 582.0,
+        "y0": 93.0,
+        "x1": 641.0,
+        "y1": 109.0
       },
-      "cell_type": "percent",
-      "raw_value": "3.75%",
-      "normalized_value": 0.0375,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "percent",
-      "raw_value": "3.25%",
-      "normalized_value": 0.0325,
+      "cell_type": "number",
+      "raw_value": "0.790",
+      "normalized_value": 0.79,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -447,14 +361,14 @@
       "row_index": 3,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 13.0,
+        "y0": 131.0,
+        "x1": 208.0,
+        "y1": 151.0
       },
       "cell_type": "text",
-      "raw_value": "Resulting P/E ratio",
-      "normalized_value": "Resulting P/E ratio",
+      "raw_value": "Aug 1530 0.625",
+      "normalized_value": "Aug 1530 0.625",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -464,14 +378,14 @@
       "row_index": 3,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 243.0,
+        "y0": 131.0,
+        "x1": 326.0,
+        "y1": 146.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "94.6938",
+      "normalized_value": 94.6938,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -481,14 +395,14 @@
       "row_index": 3,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 359.0,
+        "y0": 131.0,
+        "x1": 442.0,
+        "y1": 146.0
       },
       "cell_type": "number",
-      "raw_value": "23.53",
-      "normalized_value": 23.53,
+      "raw_value": "94.7250",
+      "normalized_value": 94.725,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -498,14 +412,14 @@
       "row_index": 3,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 493.0,
+        "y0": 131.0,
+        "x1": 549.0,
+        "y1": 146.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "0.186",
+      "normalized_value": 0.186,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -515,48 +429,14 @@
       "row_index": 3,
       "col_index": 4,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 584.0,
+        "y0": 130.0,
+        "x1": 641.0,
+        "y1": 146.0
       },
       "cell_type": "number",
-      "raw_value": "26.67",
-      "normalized_value": 26.67,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "30.77",
-      "normalized_value": 30.77,
+      "raw_value": "1.246",
+      "normalized_value": 1.246,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -566,14 +446,14 @@
       "row_index": 4,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 13.0,
+        "y0": 168.0,
+        "x1": 208.0,
+        "y1": 188.0
       },
       "cell_type": "text",
-      "raw_value": "EPS forecast",
-      "normalized_value": "EPS forecast",
+      "raw_value": "Aug 1540 1.125",
+      "normalized_value": "Aug 1540 1.125",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -583,14 +463,14 @@
       "row_index": 4,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 244.0,
+        "y0": 168.0,
+        "x1": 326.0,
+        "y1": 183.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "88.4125",
+      "normalized_value": 88.4125,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -600,14 +480,14 @@
       "row_index": 4,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 359.0,
+        "y0": 168.0,
+        "x1": 442.0,
+        "y1": 183.0
       },
-      "cell_type": "currency",
-      "raw_value": "$196.36",
-      "normalized_value": 196.36,
+      "cell_type": "number",
+      "raw_value": "88.4750",
+      "normalized_value": 88.475,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -617,14 +497,14 @@
       "row_index": 4,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 494.0,
+        "y0": 168.0,
+        "x1": 549.0,
+        "y1": 183.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "1.002",
+      "normalized_value": 1.002,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -634,48 +514,14 @@
       "row_index": 4,
       "col_index": 4,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 584.0,
+        "y0": 167.0,
+        "x1": 641.0,
+        "y1": 183.0
       },
-      "cell_type": "currency",
-      "raw_value": "$196.36",
-      "normalized_value": 196.36,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 5,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 4,
-      "col_index": 6,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "currency",
-      "raw_value": "$196.36",
-      "normalized_value": 196.36,
+      "cell_type": "number",
+      "raw_value": "1.847",
+      "normalized_value": 1.847,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -685,14 +531,14 @@
       "row_index": 5,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 13.0,
+        "y0": 205.0,
+        "x1": 208.0,
+        "y1": 225.0
       },
       "cell_type": "text",
-      "raw_value": "Forecast for S&P 500",
-      "normalized_value": "Forecast for S&P 500",
+      "raw_value": "Aug 1540 3.875",
+      "normalized_value": "Aug 1540 3.875",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -702,14 +548,14 @@
       "row_index": 5,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 232.0,
+        "y0": 205.0,
+        "x1": 326.0,
+        "y1": 220.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "134.1875",
+      "normalized_value": 134.1875,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -719,14 +565,14 @@
       "row_index": 5,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 347.0,
+        "y0": 205.0,
+        "x1": 442.0,
+        "y1": 220.0
       },
       "cell_type": "number",
-      "raw_value": "4,620",
-      "normalized_value": 4620,
+      "raw_value": "134.2500",
+      "normalized_value": 134.25,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -736,14 +582,14 @@
       "row_index": 5,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 494.0,
+        "y0": 205.0,
+        "x1": 549.0,
+        "y1": 220.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "1.748",
+      "normalized_value": 1.748,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -753,48 +599,269 @@
       "row_index": 5,
       "col_index": 4,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 584.0,
+        "y0": 204.0,
+        "x1": 641.0,
+        "y1": 220.0
       },
       "cell_type": "number",
-      "raw_value": "5,236",
-      "normalized_value": 5236,
+      "raw_value": "1.749",
+      "normalized_value": 1.749,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 5,
-      "col_index": 5,
+      "row_index": 6,
+      "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 14.0,
+        "y0": 242.0,
+        "x1": 208.0,
+        "y1": 257.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Nov 15 44 3.000",
+      "normalized_value": "Nov 15 44 3.000",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 5,
-      "col_index": 6,
+      "row_index": 6,
+      "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 232.0,
+        "y0": 242.0,
+        "x1": 326.0,
+        "y1": 257.0
       },
       "cell_type": "number",
-      "raw_value": "6,042",
-      "normalized_value": 6042,
+      "raw_value": "120.4500",
+      "normalized_value": 120.45,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
+      "bbox": {
+        "x0": 347.0,
+        "y0": 242.0,
+        "x1": 442.0,
+        "y1": 257.0
+      },
+      "cell_type": "number",
+      "raw_value": "120.5125",
+      "normalized_value": 120.5125,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 3,
+      "bbox": {
+        "x0": 494.0,
+        "y0": 242.0,
+        "x1": 549.0,
+        "y1": 257.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.830",
+      "normalized_value": 1.83,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 4,
+      "bbox": {
+        "x0": 584.0,
+        "y0": 241.0,
+        "x1": 641.0,
+        "y1": 257.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.904",
+      "normalized_value": 1.904,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 14.0,
+        "y0": 279.0,
+        "x1": 208.0,
+        "y1": 294.0
+      },
+      "cell_type": "text",
+      "raw_value": "Feb 1547 3.000",
+      "normalized_value": "Feb 1547 3.000",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 1,
+      "bbox": {
+        "x0": 232.0,
+        "y0": 279.0,
+        "x1": 326.0,
+        "y1": 294.0
+      },
+      "cell_type": "number",
+      "raw_value": "121.9750",
+      "normalized_value": 121.975,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 2,
+      "bbox": {
+        "x0": 347.0,
+        "y0": 279.0,
+        "x1": 442.0,
+        "y1": 294.0
+      },
+      "cell_type": "number",
+      "raw_value": "122.0375",
+      "normalized_value": 122.0375,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 3,
+      "bbox": {
+        "x0": 494.0,
+        "y0": 279.0,
+        "x1": 549.0,
+        "y1": 294.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.280",
+      "normalized_value": 1.28,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 4,
+      "bbox": {
+        "x0": 584.0,
+        "y0": 278.0,
+        "x1": 641.0,
+        "y1": 294.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.905",
+      "normalized_value": 1.905,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 0,
+      "bbox": {
+        "x0": 12.0,
+        "y0": 314.0,
+        "x1": 208.0,
+        "y1": 334.0
+      },
+      "cell_type": "text",
+      "raw_value": "Aug 15 49 2.250",
+      "normalized_value": "Aug 15 49 2.250",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 1,
+      "bbox": {
+        "x0": 231.0,
+        "y0": 314.0,
+        "x1": 326.0,
+        "y1": 330.0
+      },
+      "cell_type": "number",
+      "raw_value": "106.6625",
+      "normalized_value": 106.6625,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 2,
+      "bbox": {
+        "x0": 347.0,
+        "y0": 314.0,
+        "x1": 442.0,
+        "y1": 330.0
+      },
+      "cell_type": "number",
+      "raw_value": "106.7250",
+      "normalized_value": 106.725,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 3,
+      "bbox": {
+        "x0": 494.0,
+        "y0": 314.0,
+        "x1": 549.0,
+        "y1": 330.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.948",
+      "normalized_value": 1.948,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 8,
+      "col_index": 4,
+      "bbox": {
+        "x0": 584.0,
+        "y0": 312.0,
+        "x1": 641.0,
+        "y1": 329.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.938",
+      "normalized_value": 1.938,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -806,27 +873,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "This table contains 6 rows and 7 columns.",
-  "table_summary": "This table contains 6 rows and 7 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
   "linked_concept_ids": [],
   "links": [],
   "source_anchor": {
-    "page_number": 645,
+    "page_number": 469,
     "bbox": {
-      "x0": 276.25,
-      "y0": 293.1620012999999,
-      "x1": 527.5022512000002,
-      "y1": 386.33184780000005
+      "x0": 12.0,
+      "y0": 4.0,
+      "x1": 661.0,
+      "y1": 334.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part IV: Fixed-Income Securities > Chapter 14: Bond Prices and Yields > 14.1: Bond Characteristics",
   "page_span": [
-    645,
-    645
-  ]
+    469,
+    469
+  ],
+  "source_chunk_id": "chunk_03660",
+  "page_start": 469,
+  "page_end": 469
 }

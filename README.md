@@ -1,46 +1,97 @@
-**Architecture Overview**  
-This project is a segmentation system orchestrated by `json_pipeline`. The pipeline builds document structure, segments content, and links references from MinerU outputs, then calls three submodules for enrich. The submodules return structured results that are written back into chunks, producing a unified JSON output.
+The pipeline does two things in one run:
+1. Builds unified MinerU outputs (`elements/chunks/qa/kg`) in `outputs/`.
+2. Produces module-native outputs for `formula/image/table` in each Synapta folder.
 
 **Module Responsibilities**  
-`json_pipeline/`: orchestration and data-structure layer, including cleaning, layout correction, TOC/heading alignment, tree construction, segmentation, and reference linking.  
-`synapta-image-segmentation/`: image/chart/diagram recognition and OCR, producing structured visual descriptions and summaries.  
-`synapta-table-segmentation/`: table detection and structured reconstruction, producing serializable table structures.  
-`synapta-formula-segmentation/`: formula/worked-example extraction and normalization, producing structured formula segments.  
+`Segmentation_pipeline/`  
+- Main orchestrator and schema normalizer.
+- Cleans MinerU blocks, fixes layout, builds TOC/tree, chunks text, links references, runs enrichers, writes sidecars.
 
-**Collaboration Flow (Technical Mainline)**  
-1. `json_pipeline` reads `outputs/MinerU-Parser/*.json`, parses into `ContentBlock`, and performs text cleaning and layout stitching to stabilize page order and paragraph boundaries.  
-2. If the matching PDF exists, page sizes are loaded and image/table/formula regions are cropped to `outputs/visuals/<doc_id>/` for later enrich.  
-3. TOC is preferred from the PDF and aligned to headings; if missing, heading blocks are used to infer hierarchy, building `DocumentTree` with full `heading_path`.  
-4. The tree emits `elements` (fine-grained) and `chunks` (semantic aggregation), with type tagging for lists/steps/definitions.  
-5. References are extracted on `chunks` (Figure/Table/Eq), and cross-segment reference links are created (referrer → target).  
-6. Enrich is triggered by chunk type: image → `synapta-image-segmentation`, table → `synapta-table-segmentation`, formula → `synapta-formula-segmentation`.  
-7. Submodule results are written back into the corresponding chunk fields, producing the final structured JSON output.  
+`synapta-formula-segmentation/`  
+- Formula extraction/normalization and QA-derivation linking support.
+- Integrated output mirror written to `synapta-formula-segmentation/outputs/`.
 
-**Key Control Points / Optional Paths / Fallbacks**  
-Control: visual cropping runs only if the PDF exists; otherwise the pipeline stays text/structure-only.  
-Control: TOC-first, heading-fallback ensures `heading_path` is always available.  
-Control: enrich is invoked only when both type and inputs are valid.  
-Optional: image/table/formula enrich can be enabled or skipped independently.  
-Optional: metadata fetch and external API dependencies can be disabled or run offline.  
-Fallback: missing submodules/dependencies will skip enrich without breaking `chunks` generation.  
-Fallback: crop failures do not write enrich fields, keeping the main output stable.  
+`synapta-image-segmentation/`  
+- Visual analysis (OCR + visual classification + summary).
+- Integrated output mirror written to `synapta-image-segmentation/output/`.
 
-**Integration Boundaries & Interfaces**  
-image enrich: triggered when `chunk.type == image` and a local crop exists.  
-Input: crop path, caption, page_no, heading_path, doc_id.  
-Method: PaddleOCR for text + Mistral Vision for visual classification/summary, assembled into structured visual metadata.  
-Output: writes to `chunk.image_data` (visual type, OCR text/blocks, summary, confidence).  
-table enrich: triggered when `chunk.type == table` and a local crop exists.  
-Input: crop path, page_no, caption.  
-Method: Tesseract OCR + row/column clustering to reconstruct table structure and produce headers/cells/metadata.  
-Output: writes to `chunk.table_data` (serializable table structure).  
-formula enrich: triggered when `chunk.type == formula` and text is non-empty.  
-Input: formula text, page_no, bbox, heading_path, doc_id.  
-Method: equation-number regex + normalized hashing + variable symbol extraction to build formula segments.  
-Output: writes to `chunk.synapta_formula`.  
-Note: if inputs are incomplete or dependencies are missing, the corresponding enrich is skipped.  
+`synapta-table-segmentation/`  
+- OCR-based table structure reconstruction.
+- Integrated output mirror written to `synapta-table-segmentation/output/`.
 
-**Outputs**  
-`outputs/*_elements.json`: fine-grained element sequence.  
-`outputs/*_chunks.json`: semantically aggregated chunks (including enrich results).  
-`outputs/visuals/<doc_id>/`: cropped images/tables/formulas for enrich.  
+**Pipeline Stages**  
+Running `python -m Segmentation_pipeline` prints coarse progress logs:
+1. Load and normalize MinerU JSON
+2. Layout correction and visual crop preparation
+3. TOC extraction and document tree build
+4. Build elements
+5. Build chunks
+6. Run table/image/formula enrichers
+7. Build QA/derivation sidecars
+8. Extract metadata and write outputs
+
+**Run Full Pipeline**  
+```bash
+cd /Users/keyvanzhuo/Documents/CodeProjects/Segmentation/MinerU
+venv/bin/python -m Segmentation_pipeline
+```
+
+Input convention:
+- MinerU JSON: `outputs/MinerU-Parser/<doc_id>.json`
+- PDF: `inputs/<doc_id>.pdf`
+
+**Output Layout**  
+Unified pipeline outputs:
+- `outputs/<doc_id>_elements.json`
+- `outputs/<doc_id>_chunks.json`
+- `outputs/<doc_id>_qa_segments.json`
+- `outputs/<doc_id>_kg_segments.json`
+- `outputs/<doc_id>_metadata.json`
+- `outputs/visuals/<doc_id>/` (local crops)
+
+Synapta-native mirrored outputs:
+- Formula: `synapta-formula-segmentation/outputs/<doc_id>_segments.json`
+  - Shape: `metadata`, `chapters`, `segments`, `edges`
+- Image: `synapta-image-segmentation/output/<doc_id>_visual_segments.json`
+- Image CSV: `synapta-image-segmentation/output/<doc_id>_visual_summary.csv`
+- Table summary: `synapta-table-segmentation/output/extraction_summary.json`
+- Table per-item files: `synapta-table-segmentation/output/table_<n>.json` and `table_<n>.md`
+
+**Integration Contract (Chunk-Level Writeback)**  
+Each enricher writes back into the corresponding chunk:
+- `formula` -> `chunk.synapta_formula`
+- `image` -> `chunk.image_data`
+- `table` -> `chunk.table_data`
+
+Each enricher also writes per-chunk status:
+- `chunk.enrichment_status.formula`
+- `chunk.enrichment_status.image`
+- `chunk.enrichment_status.table`
+
+Status values are coarse (`ok`, `skipped`, `empty`, `error`) and do not stop the pipeline.
+
+**Reference Linking**  
+`Segmentation_pipeline/reference_extractor.py` extracts and links:
+- `Figure/Fig.`
+- `Table/Tbl.`
+- `Equation/Eq.` including `Eq. (x.y)` style
+- `Appendix`
+
+Links are attached as `ref_target_id` in chunk `references`.
+
+**Validation**  
+```bash
+venv/bin/python scripts/check_qa_sidecar.py outputs/Investments_qa_segments.json --min-match-rate 0.98
+venv/bin/python scripts/check_kg_sidecar.py outputs/Investments_kg_segments.json
+```
+
+**Known Warnings / Runtime Notes**  
+- `NotOpenSSLWarning` from `urllib3`: compatibility warning on local Python SSL build, usually non-fatal.
+- `Mistral API error: 401`: invalid/unauthorized key; pipeline continues with degraded visual/LLM enrichment.
+- Missing external metadata APIs (Google/OpenLibrary): metadata falls back to local extraction (typically ISBN-first).
+
+**Design Principle**  
+Priority is end-to-end robustness:
+- Pipeline always produces unified outputs.
+- Submodule errors degrade gracefully and are surfaced via `enrichment_status`.
+- Module-native mirrored outputs are still emitted for audit and regression comparison.

@@ -1,52 +1,64 @@
 {
-  "segment_id": "table_p655_idx157",
+  "segment_id": "table_p498_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "Analysis",
+  "caption": "",
   "row_headers": [
     [
-      "Weighted-average shares outstanding"
+      "Coupon payment"
     ],
     [
-      "Dividend per share"
+      "Number of semiannual"
     ],
     [
-      "Earnings per share"
+      "Final payment"
     ],
     [
-      "Beta"
+      "Price"
     ]
   ],
   "col_headers": [
-    "Dividends paid (U.S. $ millions)",
     "",
-    "$3.20"
+    "",
+    "Expected",
+    "YTM",
+    "Stated YTM"
   ],
   "cells": [
     [
-      "Dividends paid (U.S. $ millions)",
       "",
-      "$3.20"
+      "",
+      "Expected",
+      "YTM",
+      "Stated YTM"
     ],
     [
-      "Weighted-average shares outstanding",
+      "Coupon payment",
       "",
-      "16,000,000"
+      "$45",
+      "",
+      "$45"
     ],
     [
-      "Dividend per share",
+      "Number of semiannual",
+      "periods",
+      "20 periods",
       "",
-      "$0.20"
+      "20 periods"
     ],
     [
-      "Earnings per share",
+      "Final payment",
       "",
-      "$1.89"
+      "$700",
+      "",
+      "$1,000"
     ],
     [
-      "Beta",
+      "Price",
       "",
-      "1.80"
+      "$750",
+      "",
+      "$750"
     ]
   ],
   "cell_meta": [
@@ -59,23 +71,6 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "Dividends paid (U.S. $ millions)",
-      "normalized_value": "Dividends paid (U.S. $ millions)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
       "cell_type": "blank",
       "raw_value": "",
       "normalized_value": "",
@@ -86,16 +81,67 @@
     },
     {
       "row_index": 0,
-      "col_index": 2,
+      "col_index": 1,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "currency",
-      "raw_value": "$3.20",
-      "normalized_value": 3.2,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 435.0,
+        "y0": 26.0,
+        "x1": 526.0,
+        "y1": 45.0
+      },
+      "cell_type": "text",
+      "raw_value": "Expected",
+      "normalized_value": "Expected",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 533.0,
+        "y0": 26.0,
+        "x1": 578.0,
+        "y1": 41.0
+      },
+      "cell_type": "text",
+      "raw_value": "YTM",
+      "normalized_value": "YTM",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 4,
+      "bbox": {
+        "x0": 684.0,
+        "y0": 26.0,
+        "x1": 800.0,
+        "y1": 41.0
+      },
+      "cell_type": "text",
+      "raw_value": "Stated YTM",
+      "normalized_value": "Stated YTM",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -105,14 +151,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 35.0,
+        "y0": 77.0,
+        "x1": 200.0,
+        "y1": 97.0
       },
       "cell_type": "text",
-      "raw_value": "Weighted-average shares outstanding",
-      "normalized_value": "Weighted-average shares outstanding",
+      "raw_value": "Coupon payment",
+      "normalized_value": "Coupon payment",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -139,90 +185,22 @@
       "row_index": 1,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "16,000,000",
-      "normalized_value": 16000000,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Dividend per share",
-      "normalized_value": "Dividend per share",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 2,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 455.0,
+        "y0": 75.0,
+        "x1": 491.0,
+        "y1": 94.0
       },
       "cell_type": "currency",
-      "raw_value": "$0.20",
-      "normalized_value": 0.2,
+      "raw_value": "$45",
+      "normalized_value": 45.0,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 3,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Earnings per share",
-      "normalized_value": "Earnings per share",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 3,
-      "col_index": 1,
+      "row_index": 1,
+      "col_index": 3,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -238,17 +216,187 @@
       "units": null
     },
     {
-      "row_index": 3,
-      "col_index": 2,
+      "row_index": 1,
+      "col_index": 4,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 693.0,
+        "y0": 75.0,
+        "x1": 730.0,
+        "y1": 94.0
       },
       "cell_type": "currency",
-      "raw_value": "$1.89",
-      "normalized_value": 1.89,
+      "raw_value": "$45",
+      "normalized_value": 45.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 36.0,
+        "y0": 110.0,
+        "x1": 249.0,
+        "y1": 125.0
+      },
+      "cell_type": "text",
+      "raw_value": "Number of semiannual",
+      "normalized_value": "Number of semiannual",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 258.0,
+        "y0": 110.0,
+        "x1": 328.0,
+        "y1": 129.0
+      },
+      "cell_type": "text",
+      "raw_value": "periods",
+      "normalized_value": "periods",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 455.0,
+        "y0": 110.0,
+        "x1": 557.0,
+        "y1": 129.0
+      },
+      "cell_type": "text",
+      "raw_value": "20 periods",
+      "normalized_value": "20 periods",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 4,
+      "bbox": {
+        "x0": 694.0,
+        "y0": 110.0,
+        "x1": 796.0,
+        "y1": 129.0
+      },
+      "cell_type": "text",
+      "raw_value": "20 periods",
+      "normalized_value": "20 periods",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 36.0,
+        "y0": 143.0,
+        "x1": 168.0,
+        "y1": 163.0
+      },
+      "cell_type": "text",
+      "raw_value": "Final payment",
+      "normalized_value": "Final payment",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 455.0,
+        "y0": 141.0,
+        "x1": 505.0,
+        "y1": 160.0
+      },
+      "cell_type": "currency",
+      "raw_value": "$700",
+      "normalized_value": 700.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 4,
+      "bbox": {
+        "x0": 693.0,
+        "y0": 141.0,
+        "x1": 761.0,
+        "y1": 161.0
+      },
+      "cell_type": "currency",
+      "raw_value": "$1,000",
+      "normalized_value": 1000.0,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -258,14 +406,14 @@
       "row_index": 4,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 176.0,
+        "x1": 81.0,
+        "y1": 191.0
       },
       "cell_type": "text",
-      "raw_value": "Beta",
-      "normalized_value": "Beta",
+      "raw_value": "Price",
+      "normalized_value": "Price",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -292,14 +440,48 @@
       "row_index": 4,
       "col_index": 2,
       "bbox": {
+        "x0": 455.0,
+        "y0": 174.0,
+        "x1": 505.0,
+        "y1": 193.0
+      },
+      "cell_type": "currency",
+      "raw_value": "$750",
+      "normalized_value": 750.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "number",
-      "raw_value": "1.80",
-      "normalized_value": 1.8,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 4,
+      "bbox": {
+        "x0": 693.0,
+        "y0": 174.0,
+        "x1": 743.0,
+        "y1": 193.0
+      },
+      "cell_type": "currency",
+      "raw_value": "$750",
+      "normalized_value": 750.0,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -311,27 +493,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "Analysis This table contains 5 rows and 3 columns.",
-  "table_summary": "Analysis This table contains 5 rows and 3 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
   "linked_concept_ids": [],
   "links": [],
   "source_anchor": {
-    "page_number": 655,
+    "page_number": 498,
     "bbox": {
-      "x0": 175.71118803529413,
-      "y0": 18.25,
-      "x1": 380.26315285,
-      "y1": 83.84985045000002
+      "x0": 35.0,
+      "y0": 26.0,
+      "x1": 800.0,
+      "y1": 193.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part IV: Fixed-Income Securities > Example 14.13 Expected versus Promised Yield to Maturity",
   "page_span": [
-    655,
-    655
-  ]
+    498,
+    498
+  ],
+  "source_chunk_id": "chunk_03971",
+  "page_start": 498,
+  "page_end": 498
 }

@@ -1,52 +1,68 @@
 {
-  "segment_id": "table_p500_idx107",
+  "segment_id": "table_p337_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "payoff of more than $3.7 billion.",
+  "caption": "",
   "row_headers": [
     [
-      "Greek 5-Year Sovereign CDS\nGreek Government Bond Spreads*"
+      "Forecasted"
     ],
     [
-      ""
+      "Standard"
     ],
     [
-      ""
-    ],
-    [
-      ""
-    ],
-    [
-      ""
+      "Beta"
     ]
   ],
   "col_headers": [
+    "Company",
     "",
-    ""
+    "",
+    "$1 Discount",
+    "Store",
+    "Everything",
+    "",
+    "$5"
   ],
   "cells": [
     [
+      "Company",
       "",
+      "",
+      "$1 Discount",
+      "Store",
+      "Everything",
+      "",
+      "$5"
+    ],
+    [
+      "Forecasted",
+      "return",
+      "",
+      "",
+      "12%",
+      "",
+      "11%",
       ""
     ],
     [
-      "Greek 5-Year Sovereign CDS\nGreek Government Bond Spreads*",
+      "Standard",
+      "deviation",
+      "of returns",
+      "",
+      "8%",
+      "",
+      "10%",
       ""
     ],
     [
+      "Beta",
       "",
-      ""
-    ],
-    [
       "",
-      ""
-    ],
-    [
       "",
-      ""
-    ],
-    [
+      "1.5",
       "",
+      "1.0",
       ""
     ]
   ],
@@ -55,14 +71,14 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 10.0,
+        "y0": 10.0,
+        "x1": 102.0,
+        "y1": 29.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Company",
+      "normalized_value": "Company",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -86,17 +102,119 @@
       "units": null
     },
     {
-      "row_index": 1,
-      "col_index": 0,
+      "row_index": 0,
+      "col_index": 2,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 355.0,
+        "y0": 8.0,
+        "x1": 472.0,
+        "y1": 27.0
       },
       "cell_type": "text",
-      "raw_value": "Greek 5-Year Sovereign CDS\nGreek Government Bond Spreads*",
-      "normalized_value": "Greek 5-Year Sovereign CDS\nGreek Government Bond Spreads*",
+      "raw_value": "$1 Discount",
+      "normalized_value": "$1 Discount",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 4,
+      "bbox": {
+        "x0": 479.0,
+        "y0": 10.0,
+        "x1": 529.0,
+        "y1": 25.0
+      },
+      "cell_type": "text",
+      "raw_value": "Store",
+      "normalized_value": "Store",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 5,
+      "bbox": {
+        "x0": 600.0,
+        "y0": 10.0,
+        "x1": 700.0,
+        "y1": 29.0
+      },
+      "cell_type": "text",
+      "raw_value": "Everything",
+      "normalized_value": "Everything",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 6,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 7,
+      "bbox": {
+        "x0": 708.0,
+        "y0": 8.0,
+        "x1": 732.0,
+        "y1": 27.0
+      },
+      "cell_type": "currency",
+      "raw_value": "$5",
+      "normalized_value": 5.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 11.0,
+        "y0": 56.0,
+        "x1": 116.0,
+        "y1": 71.0
+      },
+      "cell_type": "text",
+      "raw_value": "Forecasted",
+      "normalized_value": "Forecasted",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -106,6 +224,108 @@
       "row_index": 1,
       "col_index": 1,
       "bbox": {
+        "x0": 125.0,
+        "y0": 57.0,
+        "x1": 178.0,
+        "y1": 71.0
+      },
+      "cell_type": "text",
+      "raw_value": "return",
+      "normalized_value": "return",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 4,
+      "bbox": {
+        "x0": 426.0,
+        "y0": 56.0,
+        "x1": 464.0,
+        "y1": 71.0
+      },
+      "cell_type": "percent",
+      "raw_value": "12%",
+      "normalized_value": 0.12,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 6,
+      "bbox": {
+        "x0": 651.0,
+        "y0": 56.0,
+        "x1": 689.0,
+        "y1": 71.0
+      },
+      "cell_type": "percent",
+      "raw_value": "11%",
+      "normalized_value": 0.11,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 7,
+      "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
@@ -123,6 +343,57 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
+        "x0": 10.0,
+        "y0": 90.0,
+        "x1": 94.0,
+        "y1": 105.0
+      },
+      "cell_type": "text",
+      "raw_value": "Standard",
+      "normalized_value": "Standard",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 102.0,
+        "y0": 90.0,
+        "x1": 187.0,
+        "y1": 105.0
+      },
+      "cell_type": "text",
+      "raw_value": "deviation",
+      "normalized_value": "deviation",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 196.0,
+        "y0": 90.0,
+        "x1": 285.0,
+        "y1": 105.0
+      },
+      "cell_type": "text",
+      "raw_value": "of returns",
+      "normalized_value": "of returns",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
@@ -138,7 +409,58 @@
     },
     {
       "row_index": 2,
-      "col_index": 1,
+      "col_index": 4,
+      "bbox": {
+        "x0": 437.0,
+        "y0": 90.0,
+        "x1": 464.0,
+        "y1": 105.0
+      },
+      "cell_type": "percent",
+      "raw_value": "8%",
+      "normalized_value": 0.08,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 6,
+      "bbox": {
+        "x0": 651.0,
+        "y0": 90.0,
+        "x1": 689.0,
+        "y1": 105.0
+      },
+      "cell_type": "percent",
+      "raw_value": "10%",
+      "normalized_value": 0.1,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 7,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -157,14 +479,14 @@
       "row_index": 3,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 11.0,
+        "y0": 120.0,
+        "x1": 51.0,
+        "y1": 145.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "Beta",
+      "normalized_value": "Beta",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -188,8 +510,8 @@
       "units": null
     },
     {
-      "row_index": 4,
-      "col_index": 0,
+      "row_index": 3,
+      "col_index": 2,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -205,8 +527,8 @@
       "units": null
     },
     {
-      "row_index": 4,
-      "col_index": 1,
+      "row_index": 3,
+      "col_index": 3,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -222,8 +544,25 @@
       "units": null
     },
     {
-      "row_index": 5,
-      "col_index": 0,
+      "row_index": 3,
+      "col_index": 4,
+      "bbox": {
+        "x0": 438.0,
+        "y0": 124.0,
+        "x1": 464.0,
+        "y1": 139.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.5",
+      "normalized_value": 1.5,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 5,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -239,8 +578,25 @@
       "units": null
     },
     {
-      "row_index": 5,
-      "col_index": 1,
+      "row_index": 3,
+      "col_index": 6,
+      "bbox": {
+        "x0": 662.0,
+        "y0": 124.0,
+        "x1": 689.0,
+        "y1": 139.0
+      },
+      "cell_type": "number",
+      "raw_value": "1.0",
+      "normalized_value": 1.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 7,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -261,27 +617,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "payoff of more than $3.7 billion. This table contains 6 rows and 2 columns.",
-  "table_summary": "payoff of more than $3.7 billion. This table contains 6 rows and 2 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
   "linked_concept_ids": [],
   "links": [],
   "source_anchor": {
-    "page_number": 500,
+    "page_number": 337,
     "bbox": {
-      "x0": 164.3509993,
-      "y0": 307.675,
-      "x1": 430.017,
-      "y1": 438.83636573333337
+      "x0": 10.0,
+      "y0": 8.0,
+      "x1": 732.0,
+      "y1": 145.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part III: Equilibrium in Capital Markets > SUMMARY",
   "page_span": [
-    500,
-    500
-  ]
+    337,
+    337
+  ],
+  "source_chunk_id": "chunk_02691",
+  "page_start": 337,
+  "page_end": 337
 }

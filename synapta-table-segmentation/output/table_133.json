@@ -1,229 +1,81 @@
 {
-  "segment_id": "table_p592_idx132",
+  "segment_id": "table_p426_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "Macroeconomic and Industry Analysis CHAPTER 17",
+  "caption": "",
   "row_headers": [
     [
-      "Auto and truck sales"
+      "1"
     ],
     [
-      "Business inventories"
+      "2"
     ],
     [
-      "Construction spending"
+      "3)"
     ],
     [
-      "Consumer confidence"
+      "4"
     ],
     [
-      "Consumer credit"
-    ],
-    [
-      "Consumer price index (CPI)"
-    ],
-    [
-      "Durable goods orders"
-    ],
-    [
-      "Employment cost index"
-    ],
-    [
-      "Employment record\n(unemployment, average\nworkweek, nonfarm payrolls)"
-    ],
-    [
-      "Existing home sales"
-    ],
-    [
-      "Factory orders"
-    ],
-    [
-      "Gross domestic product"
-    ],
-    [
-      "Housing starts"
-    ],
-    [
-      "Index of leading economic\nindicators"
-    ],
-    [
-      "Industrial production"
-    ],
-    [
-      "Initial claims for jobless benefits"
-    ],
-    [
-      "International trade balance"
-    ],
-    [
-      "Money supply"
-    ],
-    [
-      "New home sales"
-    ],
-    [
-      "Producer price index"
-    ],
-    [
-      "Productivity and costs"
-    ],
-    [
-      "Retail sales"
-    ],
-    [
-      "Survey of purchasing managers"
+      "5)"
     ]
   ],
   "col_headers": [
-    "Statistic",
-    "Release Date*",
-    "Source",
-    "Web Site"
+    "Day",
+    "Advances",
+    "Declines",
+    "Net Advances",
+    "Cumulative",
+    "Breadth"
   ],
   "cells": [
     [
-      "Statistic",
-      "Release Date*",
-      "Source",
-      "Web Site"
+      "Day",
+      "Advances",
+      "Declines",
+      "Net Advances",
+      "Cumulative",
+      "Breadth"
     ],
     [
-      "Auto and truck sales",
-      "2nd of month",
-      "Commerce Department",
-      "commerce.gov"
+      "1",
+      "1,302",
+      "1,248",
+      "54",
+      "",
+      "54"
     ],
     [
-      "Business inventories",
-      "15th of month",
-      "Commerce Department",
-      "commerce.gov"
+      "2",
+      "1,417",
+      "1,140",
+      "277",
+      "",
+      "331"
     ],
     [
-      "Construction spending",
-      "1st business day of month",
-      "Commerce Department",
-      "commerce.gov"
+      "3)",
+      "1,203",
+      "1,272",
+      "-69",
+      "",
+      "262"
     ],
     [
-      "Consumer confidence",
-      "Last Tuesday of month",
-      "Conference Board",
-      "conference-board.org"
+      "4",
+      "1,012",
+      "1,622",
+      "—610",
+      "",
+      ""
     ],
     [
-      "Consumer credit",
-      "5th business day of month",
-      "Federal Reserve Board",
-      "federalreserve.gov"
-    ],
-    [
-      "Consumer price index (CPI)",
-      "13th of month",
-      "Bureau of Labor Statistics",
-      "bls.gov"
-    ],
-    [
-      "Durable goods orders",
-      "26th of month",
-      "Commerce Department",
-      "commerce.gov"
-    ],
-    [
-      "Employment cost index",
-      "End of first month of quarter",
-      "Bureau of Labor Statistics",
-      "bls.gov"
-    ],
-    [
-      "Employment record\n(unemployment, average\nworkweek, nonfarm payrolls)",
-      "1st Friday of month",
-      "Bureau of Labor Statistics",
-      "bls.gov"
-    ],
-    [
-      "Existing home sales",
-      "25th of month",
-      "National Association of Realtors",
-      "realtor.org"
-    ],
-    [
-      "Factory orders",
-      "1st business day of month",
-      "Commerce Department",
-      "commerce.gov"
-    ],
-    [
-      "Gross domestic product",
-      "3rd–4th week of month",
-      "Commerce Department",
-      "commerce.gov"
-    ],
-    [
-      "Housing starts",
-      "16th of month",
-      "Commerce Department",
-      "commerce.gov"
-    ],
-    [
-      "Index of leading economic\nindicators",
-      "Beginning of month",
-      "Conference Board",
-      "conference-board.org"
-    ],
-    [
-      "Industrial production",
-      "15th of month",
-      "Federal Reserve Board",
-      "federalreserve.gov"
-    ],
-    [
-      "Initial claims for jobless benefits",
-      "Thursdays",
-      "Department of Labor",
-      "dol.gov"
-    ],
-    [
-      "International trade balance",
-      "20th of month",
-      "Commerce Department",
-      "commerce.gov"
-    ],
-    [
-      "Money supply",
-      "Thursdays",
-      "Federal Reserve Board",
-      "federalreserve.gov"
-    ],
-    [
-      "New home sales",
-      "Last business day of month",
-      "Commerce Department",
-      "commerce.gov"
-    ],
-    [
-      "Producer price index",
-      "11th of month",
-      "Bureau of Labor Statistics",
-      "bls.gov"
-    ],
-    [
-      "Productivity and costs",
-      "2nd month in quarter\n(approx. 7th day of month)",
-      "Bureau of Labor Statistics",
-      "bls.gov"
-    ],
-    [
-      "Retail sales",
-      "13th of month",
-      "Commerce Department",
-      "commerce.gov"
-    ],
-    [
-      "Survey of purchasing managers",
-      "1st business day of month",
-      "Institute for Supply Management",
-      "ism.ws"
+      "5)",
+      "1,133",
+      "1,504",
+      "=371",
+      "",
+      "=719"
     ]
   ],
   "cell_meta": [
@@ -231,14 +83,14 @@
       "row_index": 0,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 36.0,
+        "y0": 26.0,
+        "x1": 74.0,
+        "y1": 45.0
       },
       "cell_type": "text",
-      "raw_value": "Statistic",
-      "normalized_value": "Statistic",
+      "raw_value": "Day",
+      "normalized_value": "Day",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -248,14 +100,14 @@
       "row_index": 0,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 155.0,
+        "y0": 26.0,
+        "x1": 253.0,
+        "y1": 41.0
       },
       "cell_type": "text",
-      "raw_value": "Release Date*",
-      "normalized_value": "Release Date*",
+      "raw_value": "Advances",
+      "normalized_value": "Advances",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -265,14 +117,14 @@
       "row_index": 0,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 337.0,
+        "y0": 22.0,
+        "x1": 421.0,
+        "y1": 49.0
       },
       "cell_type": "text",
-      "raw_value": "Source",
-      "normalized_value": "Source",
+      "raw_value": "Declines",
+      "normalized_value": "Declines",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -282,14 +134,48 @@
       "row_index": 0,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 505.0,
+        "y0": 26.0,
+        "x1": 643.0,
+        "y1": 41.0
       },
       "cell_type": "text",
-      "raw_value": "Web Site",
-      "normalized_value": "Web Site",
+      "raw_value": "Net Advances",
+      "normalized_value": "Net Advances",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 4,
+      "bbox": {
+        "x0": 725.0,
+        "y0": 26.0,
+        "x1": 838.0,
+        "y1": 41.0
+      },
+      "cell_type": "text",
+      "raw_value": "Cumulative",
+      "normalized_value": "Cumulative",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 5,
+      "bbox": {
+        "x0": 846.0,
+        "y0": 26.0,
+        "x1": 923.0,
+        "y1": 41.0
+      },
+      "cell_type": "text",
+      "raw_value": "Breadth",
+      "normalized_value": "Breadth",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -299,14 +185,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 52.0,
+        "y0": 75.0,
+        "x1": 56.0,
+        "y1": 90.0
       },
-      "cell_type": "text",
-      "raw_value": "Auto and truck sales",
-      "normalized_value": "Auto and truck sales",
+      "cell_type": "number",
+      "raw_value": "1",
+      "normalized_value": 1,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -316,14 +202,14 @@
       "row_index": 1,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 180.0,
+        "y0": 75.0,
+        "x1": 232.0,
+        "y1": 93.0
       },
-      "cell_type": "text",
-      "raw_value": "2nd of month",
-      "normalized_value": "2nd of month",
+      "cell_type": "number",
+      "raw_value": "1,302",
+      "normalized_value": 1302,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -333,14 +219,14 @@
       "row_index": 1,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 354.0,
+        "y0": 75.0,
+        "x1": 406.0,
+        "y1": 93.0
       },
-      "cell_type": "text",
-      "raw_value": "Commerce Department",
-      "normalized_value": "Commerce Department",
+      "cell_type": "number",
+      "raw_value": "1,248",
+      "normalized_value": 1248,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -350,14 +236,48 @@
       "row_index": 1,
       "col_index": 3,
       "bbox": {
+        "x0": 576.0,
+        "y0": 75.0,
+        "x1": 599.0,
+        "y1": 90.0
+      },
+      "cell_type": "number",
+      "raw_value": "54",
+      "normalized_value": 54,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 4,
+      "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "commerce.gov",
-      "normalized_value": "commerce.gov",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 5,
+      "bbox": {
+        "x0": 828.0,
+        "y0": 75.0,
+        "x1": 851.0,
+        "y1": 90.0
+      },
+      "cell_type": "number",
+      "raw_value": "54",
+      "normalized_value": 54,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -367,14 +287,14 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 49.0,
+        "y0": 107.0,
+        "x1": 59.0,
+        "y1": 122.0
       },
-      "cell_type": "text",
-      "raw_value": "Business inventories",
-      "normalized_value": "Business inventories",
+      "cell_type": "number",
+      "raw_value": "2",
+      "normalized_value": 2,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -384,14 +304,14 @@
       "row_index": 2,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 180.0,
+        "y0": 107.0,
+        "x1": 232.0,
+        "y1": 125.0
       },
-      "cell_type": "text",
-      "raw_value": "15th of month",
-      "normalized_value": "15th of month",
+      "cell_type": "number",
+      "raw_value": "1,417",
+      "normalized_value": 1417,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -401,14 +321,14 @@
       "row_index": 2,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 354.0,
+        "y0": 107.0,
+        "x1": 406.0,
+        "y1": 125.0
       },
-      "cell_type": "text",
-      "raw_value": "Commerce Department",
-      "normalized_value": "Commerce Department",
+      "cell_type": "number",
+      "raw_value": "1,140",
+      "normalized_value": 1140,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -418,14 +338,48 @@
       "row_index": 2,
       "col_index": 3,
       "bbox": {
+        "x0": 562.0,
+        "y0": 107.0,
+        "x1": 599.0,
+        "y1": 122.0
+      },
+      "cell_type": "number",
+      "raw_value": "277",
+      "normalized_value": 277,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 4,
+      "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "commerce.gov",
-      "normalized_value": "commerce.gov",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 5,
+      "bbox": {
+        "x0": 815.0,
+        "y0": 107.0,
+        "x1": 848.0,
+        "y1": 122.0
+      },
+      "cell_type": "number",
+      "raw_value": "331",
+      "normalized_value": 331,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -435,14 +389,14 @@
       "row_index": 3,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 45.0,
+        "y0": 136.0,
+        "x1": 59.0,
+        "y1": 164.0
       },
       "cell_type": "text",
-      "raw_value": "Construction spending",
-      "normalized_value": "Construction spending",
+      "raw_value": "3)",
+      "normalized_value": "3)",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -452,14 +406,14 @@
       "row_index": 3,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 180.0,
+        "y0": 140.0,
+        "x1": 232.0,
+        "y1": 158.0
       },
-      "cell_type": "text",
-      "raw_value": "1st business day of month",
-      "normalized_value": "1st business day of month",
+      "cell_type": "number",
+      "raw_value": "1,203",
+      "normalized_value": 1203,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -469,14 +423,14 @@
       "row_index": 3,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 354.0,
+        "y0": 140.0,
+        "x1": 406.0,
+        "y1": 158.0
       },
-      "cell_type": "text",
-      "raw_value": "Commerce Department",
-      "normalized_value": "Commerce Department",
+      "cell_type": "number",
+      "raw_value": "1,272",
+      "normalized_value": 1272,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -486,14 +440,48 @@
       "row_index": 3,
       "col_index": 3,
       "bbox": {
+        "x0": 560.0,
+        "y0": 140.0,
+        "x1": 599.0,
+        "y1": 155.0
+      },
+      "cell_type": "text",
+      "raw_value": "-69",
+      "normalized_value": "-69",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 4,
+      "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "commerce.gov",
-      "normalized_value": "commerce.gov",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 5,
+      "bbox": {
+        "x0": 815.0,
+        "y0": 140.0,
+        "x1": 851.0,
+        "y1": 155.0
+      },
+      "cell_type": "number",
+      "raw_value": "262",
+      "normalized_value": 262,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -503,14 +491,14 @@
       "row_index": 4,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 49.0,
+        "y0": 173.0,
+        "x1": 60.0,
+        "y1": 188.0
       },
-      "cell_type": "text",
-      "raw_value": "Consumer confidence",
-      "normalized_value": "Consumer confidence",
+      "cell_type": "number",
+      "raw_value": "4",
+      "normalized_value": 4,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -520,14 +508,14 @@
       "row_index": 4,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 180.0,
+        "y0": 173.0,
+        "x1": 232.0,
+        "y1": 191.0
       },
-      "cell_type": "text",
-      "raw_value": "Last Tuesday of month",
-      "normalized_value": "Last Tuesday of month",
+      "cell_type": "number",
+      "raw_value": "1,012",
+      "normalized_value": 1012,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -537,14 +525,14 @@
       "row_index": 4,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 354.0,
+        "y0": 173.0,
+        "x1": 406.0,
+        "y1": 191.0
       },
-      "cell_type": "text",
-      "raw_value": "Conference Board",
-      "normalized_value": "Conference Board",
+      "cell_type": "number",
+      "raw_value": "1,622",
+      "normalized_value": 1622,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -554,14 +542,48 @@
       "row_index": 4,
       "col_index": 3,
       "bbox": {
+        "x0": 547.0,
+        "y0": 173.0,
+        "x1": 599.0,
+        "y1": 188.0
+      },
+      "cell_type": "text",
+      "raw_value": "—610",
+      "normalized_value": "—610",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 4,
+      "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "conference-board.org",
-      "normalized_value": "conference-board.org",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -571,14 +593,14 @@
       "row_index": 5,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 46.0,
+        "y0": 202.0,
+        "x1": 60.0,
+        "y1": 230.0
       },
       "cell_type": "text",
-      "raw_value": "Consumer credit",
-      "normalized_value": "Consumer credit",
+      "raw_value": "5)",
+      "normalized_value": "5)",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -588,14 +610,14 @@
       "row_index": 5,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 180.0,
+        "y0": 206.0,
+        "x1": 232.0,
+        "y1": 224.0
       },
-      "cell_type": "text",
-      "raw_value": "5th business day of month",
-      "normalized_value": "5th business day of month",
+      "cell_type": "number",
+      "raw_value": "1,133",
+      "normalized_value": 1133,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -605,14 +627,14 @@
       "row_index": 5,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 354.0,
+        "y0": 206.0,
+        "x1": 406.0,
+        "y1": 224.0
       },
-      "cell_type": "text",
-      "raw_value": "Federal Reserve Board",
-      "normalized_value": "Federal Reserve Board",
+      "cell_type": "number",
+      "raw_value": "1,504",
+      "normalized_value": 1504,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -622,1238 +644,48 @@
       "row_index": 5,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "federalreserve.gov",
-      "normalized_value": "federalreserve.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Consumer price index (CPI)",
-      "normalized_value": "Consumer price index (CPI)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "13th of month",
-      "normalized_value": "13th of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Bureau of Labor Statistics",
-      "normalized_value": "Bureau of Labor Statistics",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "bls.gov",
-      "normalized_value": "bls.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Durable goods orders",
-      "normalized_value": "Durable goods orders",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "26th of month",
-      "normalized_value": "26th of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Commerce Department",
-      "normalized_value": "Commerce Department",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "commerce.gov",
-      "normalized_value": "commerce.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Employment cost index",
-      "normalized_value": "Employment cost index",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "End of first month of quarter",
-      "normalized_value": "End of first month of quarter",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Bureau of Labor Statistics",
-      "normalized_value": "Bureau of Labor Statistics",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 8,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "bls.gov",
-      "normalized_value": "bls.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Employment record\n(unemployment, average\nworkweek, nonfarm payrolls)",
-      "normalized_value": "Employment record\n(unemployment, average\nworkweek, nonfarm payrolls)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "1st Friday of month",
-      "normalized_value": "1st Friday of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Bureau of Labor Statistics",
-      "normalized_value": "Bureau of Labor Statistics",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "bls.gov",
-      "normalized_value": "bls.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 10,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Existing home sales",
-      "normalized_value": "Existing home sales",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 10,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "25th of month",
-      "normalized_value": "25th of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 10,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "National Association of Realtors",
-      "normalized_value": "National Association of Realtors",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 10,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "realtor.org",
-      "normalized_value": "realtor.org",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 11,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Factory orders",
-      "normalized_value": "Factory orders",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 11,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "1st business day of month",
-      "normalized_value": "1st business day of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 11,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Commerce Department",
-      "normalized_value": "Commerce Department",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 11,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "commerce.gov",
-      "normalized_value": "commerce.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 12,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Gross domestic product",
-      "normalized_value": "Gross domestic product",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 12,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "3rd–4th week of month",
-      "normalized_value": "3rd–4th week of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 12,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Commerce Department",
-      "normalized_value": "Commerce Department",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 12,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "commerce.gov",
-      "normalized_value": "commerce.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 13,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Housing starts",
-      "normalized_value": "Housing starts",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 13,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "16th of month",
-      "normalized_value": "16th of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 13,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Commerce Department",
-      "normalized_value": "Commerce Department",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 13,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "commerce.gov",
-      "normalized_value": "commerce.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 14,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Index of leading economic\nindicators",
-      "normalized_value": "Index of leading economic\nindicators",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 14,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Beginning of month",
-      "normalized_value": "Beginning of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 14,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Conference Board",
-      "normalized_value": "Conference Board",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 14,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "conference-board.org",
-      "normalized_value": "conference-board.org",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 15,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Industrial production",
-      "normalized_value": "Industrial production",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 15,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "15th of month",
-      "normalized_value": "15th of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 15,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Federal Reserve Board",
-      "normalized_value": "Federal Reserve Board",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 15,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "federalreserve.gov",
-      "normalized_value": "federalreserve.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 16,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Initial claims for jobless benefits",
-      "normalized_value": "Initial claims for jobless benefits",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 16,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Thursdays",
-      "normalized_value": "Thursdays",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 16,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Department of Labor",
-      "normalized_value": "Department of Labor",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 16,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "dol.gov",
-      "normalized_value": "dol.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 17,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "International trade balance",
-      "normalized_value": "International trade balance",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 17,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "20th of month",
-      "normalized_value": "20th of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 17,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Commerce Department",
-      "normalized_value": "Commerce Department",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 17,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "commerce.gov",
-      "normalized_value": "commerce.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 18,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Money supply",
-      "normalized_value": "Money supply",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 18,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Thursdays",
-      "normalized_value": "Thursdays",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 18,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Federal Reserve Board",
-      "normalized_value": "Federal Reserve Board",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 18,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "federalreserve.gov",
-      "normalized_value": "federalreserve.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 19,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "New home sales",
-      "normalized_value": "New home sales",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 19,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Last business day of month",
-      "normalized_value": "Last business day of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 19,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Commerce Department",
-      "normalized_value": "Commerce Department",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 19,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "commerce.gov",
-      "normalized_value": "commerce.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 20,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Producer price index",
-      "normalized_value": "Producer price index",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 20,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "11th of month",
-      "normalized_value": "11th of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 20,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Bureau of Labor Statistics",
-      "normalized_value": "Bureau of Labor Statistics",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 20,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "bls.gov",
-      "normalized_value": "bls.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 21,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Productivity and costs",
-      "normalized_value": "Productivity and costs",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 21,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "2nd month in quarter\n(approx. 7th day of month)",
-      "normalized_value": "2nd month in quarter\n(approx. 7th day of month)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 21,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Bureau of Labor Statistics",
-      "normalized_value": "Bureau of Labor Statistics",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 21,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "bls.gov",
-      "normalized_value": "bls.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 22,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Retail sales",
-      "normalized_value": "Retail sales",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 22,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "13th of month",
-      "normalized_value": "13th of month",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 22,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Commerce Department",
-      "normalized_value": "Commerce Department",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 22,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "commerce.gov",
-      "normalized_value": "commerce.gov",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 23,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Survey of purchasing managers",
-      "normalized_value": "Survey of purchasing managers",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 23,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 547.0,
+        "y0": 206.0,
+        "x1": 596.0,
+        "y1": 221.0
       },
-      "cell_type": "text",
-      "raw_value": "1st business day of month",
-      "normalized_value": "1st business day of month",
+      "cell_type": "formula",
+      "raw_value": "=371",
+      "normalized_value": "=371",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 23,
-      "col_index": 2,
+      "row_index": 5,
+      "col_index": 4,
       "bbox": {
         "x0": 0,
         "y0": 0,
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "Institute for Supply Management",
-      "normalized_value": "Institute for Supply Management",
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 23,
-      "col_index": 3,
+      "row_index": 5,
+      "col_index": 5,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 799.0,
+        "y0": 206.0,
+        "x1": 851.0,
+        "y1": 221.0
       },
-      "cell_type": "text",
-      "raw_value": "ism.ws",
-      "normalized_value": "ism.ws",
+      "cell_type": "formula",
+      "raw_value": "=719",
+      "normalized_value": "=719",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -1865,48 +697,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "Macroeconomic and Industry Analysis CHAPTER 17 This table contains 24 rows and 4 columns.",
-  "table_summary": "Macroeconomic and Industry Analysis CHAPTER 17 This table contains 24 rows and 4 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
-  "linked_concept_ids": [
-    "financial_analysis"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "financial_analysis",
-      "source_anchor": {
-        "page_number": 592,
-        "bbox": {
-          "x0": 117.2478021999999,
-          "y0": 27.25,
-          "x1": 555.4479532500001,
-          "y1": 368.17884785
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.31 + Keywords: ROE",
-      "confidence": 0.5083894848823547
-    }
-  ],
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
-    "page_number": 592,
+    "page_number": 426,
     "bbox": {
-      "x0": 117.2478021999999,
-      "y0": 27.25,
-      "x1": 555.4479532500001,
-      "y1": 368.17884785
+      "x0": 36.0,
+      "y0": 22.0,
+      "x1": 923.0,
+      "y1": 230.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part III: Equilibrium in Capital Markets > Example 12.4 Moving Averages > Relative Strength",
   "page_span": [
-    592,
-    592
-  ]
+    426,
+    426
+  ],
+  "source_chunk_id": "chunk_03336",
+  "page_start": 426,
+  "page_end": 426
 }

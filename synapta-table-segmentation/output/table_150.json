@@ -1,224 +1,121 @@
 {
-  "segment_id": "table_p650_idx149",
+  "segment_id": "table_p471_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "two Morgan, CFA, has been asked to use the DDM to determine the value of",
+  "caption": "",
   "row_headers": [
     [
-      "Revenue"
+      "ISSUER NAME SYMBOL"
     ],
     [
-      "Depreciation"
+      "AMAZON COM INC AMZNS5182954"
     ],
     [
-      "Other operating costs"
+      "HORMEL FOODS CORP HRL5193038"
     ],
     [
-      "Income before taxes"
+      "GENERAL MTRS FINL CO INC GM5198643"
     ],
     [
-      "Taxes"
+      "BP CAP MKTS AMER INC BP4763976"
     ],
     [
-      "Net income"
+      "GLAXOSMITHKLINE CAP INC GSK4632356"
     ],
     [
-      "Dividends"
-    ],
-    [
-      "Earnings per share"
-    ],
-    [
-      "Dividend per share"
-    ],
-    [
-      "Common shares outstanding (millions)"
-    ],
-    [
-      "Balance Sheet"
-    ],
-    [
-      "Current assets"
-    ],
-    [
-      "Net property, plant, and equipment"
-    ],
-    [
-      "Total assets"
-    ],
-    [
-      "Current liabilities"
-    ],
-    [
-      "Long-term debt"
-    ],
-    [
-      "Total liabilities"
-    ],
-    [
-      "Shareholders’ equity"
-    ],
-    [
-      "Total liabilities and equity"
-    ],
-    [
-      "Capital expenditures"
+      "INTEL CORP INTC4969549"
     ]
   ],
   "col_headers": [
-    "Income Statement",
     "",
-    "2020",
     "",
-    "2021"
+    "MOODY’S@/",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "cells": [
     [
-      "Income Statement",
       "",
-      "2020",
       "",
-      "2021"
+      "MOODY’S@/",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     [
-      "Revenue",
-      "",
-      "$ 474",
-      "",
-      "$ 598"
+      "ISSUER NAME SYMBOL",
+      "COUPON MATURITY",
+      "S&P",
+      "HIGH",
+      "LOW",
+      "LAST",
+      "CHANGE",
+      "YIELD %"
     ],
     [
-      "Depreciation",
-      "",
-      "20",
-      "",
-      "23"
+      "AMAZON COM INC AMZNS5182954",
+      "0.450% = May",
+      "12 24",
+      "99.913",
+      "99.739",
+      "99.913",
+      "-0.176",
+      "0.482282"
     ],
     [
-      "Other operating costs",
-      "",
-      "368",
-      "",
-      "460"
+      "HORMEL FOODS CORP HRL5193038",
+      "0.650% June",
+      "03 24 IA",
+      "100.193",
+      "99.622",
+      "100.122",
+      "-0.061",
+      "0.491393"
     ],
     [
-      "Income before taxes",
+      "GENERAL MTRS FINL CO INC GM5198643",
+      "1.500% June",
+      "10 26 /BBB",
+      "100.822",
+      "99.811",
+      "99.903",
       "",
-      "86",
-      "",
-      "115"
+      "1.520917"
     ],
     [
-      "Taxes",
-      "",
-      "26",
-      "",
-      "35"
+      "BP CAP MKTS AMER INC BP4763976",
+      "3.790% Feb06",
+      "24",
+      "107.388",
+      "107.34",
+      "107.34",
+      "-0.116",
+      "0.655786"
     ],
     [
-      "Net income",
-      "",
-      "60",
-      "",
-      "80"
+      "GLAXOSMITHKLINE CAP INC GSK4632356",
+      "3.375%",
+      "15 23 A2/",
+      "105.279",
+      "105.214",
+      "105.228",
+      "-0.028",
+      "0.328114"
     ],
     [
-      "Dividends",
+      "INTEL CORP INTC4969549",
+      "4.750% Mar",
+      "2550",
       "",
-      "18",
-      "",
-      "24"
-    ],
-    [
-      "Earnings per share",
-      "",
-      "$ 0.714",
-      "",
-      "$ 0.952"
-    ],
-    [
-      "Dividend per share",
-      "",
-      "$ 0.214",
-      "",
-      "$ 0.286"
-    ],
-    [
-      "Common shares outstanding (millions)",
-      "",
-      "84.0",
-      "",
-      "84.0"
-    ],
-    [
-      "Balance Sheet",
-      "",
-      "2020",
-      "",
-      "2021"
-    ],
-    [
-      "Current assets",
-      "",
-      "$ 201",
-      "",
-      "$ 326"
-    ],
-    [
-      "Net property, plant, and equipment",
-      "",
-      "474",
-      "",
-      "489"
-    ],
-    [
-      "Total assets",
-      "",
-      "$ 675",
-      "",
-      "$ 815"
-    ],
-    [
-      "Current liabilities",
-      "",
-      "57",
-      "",
-      "141"
-    ],
-    [
-      "Long-term debt",
-      "",
-      "0",
-      "",
-      "0"
-    ],
-    [
-      "Total liabilities",
-      "",
-      "$ 57",
-      "",
-      "$ 141"
-    ],
-    [
-      "Shareholders’ equity",
-      "",
-      "618",
-      "",
-      "674"
-    ],
-    [
-      "Total liabilities and equity",
-      "",
-      "675",
-      "",
-      "815"
-    ],
-    [
-      "Capital expenditures",
-      "",
-      "34",
-      "",
-      "38"
+      "134.275",
+      "134.596",
+      "0.365",
+      "2.933182"
     ]
   ],
   "cell_meta": [
@@ -231,23 +128,6 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "text",
-      "raw_value": "Income Statement",
-      "normalized_value": "Income Statement",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
       "cell_type": "blank",
       "raw_value": "",
       "normalized_value": "",
@@ -258,24 +138,7 @@
     },
     {
       "row_index": 0,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "2020",
-      "normalized_value": 2020,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 0,
-      "col_index": 3,
+      "col_index": 1,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -292,6 +155,40 @@
     },
     {
       "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 573.0,
+        "y0": 15.0,
+        "x1": 674.0,
+        "y1": 29.0
+      },
+      "cell_type": "text",
+      "raw_value": "MOODY’S@/",
+      "normalized_value": "MOODY’S@/",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
       "col_index": 4,
       "bbox": {
         "x0": 0,
@@ -299,9 +196,60 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "number",
-      "raw_value": "2021",
-      "normalized_value": 2021,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 5,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 6,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 7,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -311,14 +259,14 @@
       "row_index": 1,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 17.0,
+        "y0": 41.0,
+        "x1": 320.0,
+        "y1": 53.0
       },
       "cell_type": "text",
-      "raw_value": "Revenue",
-      "normalized_value": "Revenue",
+      "raw_value": "ISSUER NAME SYMBOL",
+      "normalized_value": "ISSUER NAME SYMBOL",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -328,14 +276,14 @@
       "row_index": 1,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 373.0,
+        "y0": 41.0,
+        "x1": 557.0,
+        "y1": 53.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "COUPON MATURITY",
+      "normalized_value": "COUPON MATURITY",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -345,14 +293,14 @@
       "row_index": 1,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 607.0,
+        "y0": 40.0,
+        "x1": 640.0,
+        "y1": 52.0
       },
       "cell_type": "text",
-      "raw_value": "$ 474",
-      "normalized_value": "$ 474",
+      "raw_value": "S&P",
+      "normalized_value": "S&P",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -362,14 +310,14 @@
       "row_index": 1,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 707.0,
+        "y0": 41.0,
+        "x1": 750.0,
+        "y1": 53.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "HIGH",
+      "normalized_value": "HIGH",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -379,14 +327,65 @@
       "row_index": 1,
       "col_index": 4,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 816.0,
+        "y0": 41.0,
+        "x1": 855.0,
+        "y1": 53.0
       },
       "cell_type": "text",
-      "raw_value": "$ 598",
-      "normalized_value": "$ 598",
+      "raw_value": "LOW",
+      "normalized_value": "LOW",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 5,
+      "bbox": {
+        "x0": 914.0,
+        "y0": 37.0,
+        "x1": 960.0,
+        "y1": 61.0
+      },
+      "cell_type": "text",
+      "raw_value": "LAST",
+      "normalized_value": "LAST",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 6,
+      "bbox": {
+        "x0": 1001.0,
+        "y0": 41.0,
+        "x1": 1074.0,
+        "y1": 53.0
+      },
+      "cell_type": "text",
+      "raw_value": "CHANGE",
+      "normalized_value": "CHANGE",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 7,
+      "bbox": {
+        "x0": 1109.0,
+        "y0": 41.0,
+        "x1": 1176.0,
+        "y1": 53.0
+      },
+      "cell_type": "percent",
+      "raw_value": "YIELD %",
+      "normalized_value": "YIELD %",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -396,14 +395,14 @@
       "row_index": 2,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 17.0,
+        "y0": 79.0,
+        "x1": 354.0,
+        "y1": 90.0
       },
       "cell_type": "text",
-      "raw_value": "Depreciation",
-      "normalized_value": "Depreciation",
+      "raw_value": "AMAZON COM INC AMZNS5182954",
+      "normalized_value": "AMAZON COM INC AMZNS5182954",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -413,14 +412,14 @@
       "row_index": 2,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 384.0,
+        "y0": 71.0,
+        "x1": 503.0,
+        "y1": 99.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "formula",
+      "raw_value": "0.450% = May",
+      "normalized_value": "0.450% = May",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -430,14 +429,14 @@
       "row_index": 2,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 510.0,
+        "y0": 79.0,
+        "x1": 551.0,
+        "y1": 90.0
       },
-      "cell_type": "number",
-      "raw_value": "20",
-      "normalized_value": 20,
+      "cell_type": "text",
+      "raw_value": "12 24",
+      "normalized_value": "12 24",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -447,14 +446,14 @@
       "row_index": 2,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 702.0,
+        "y0": 79.0,
+        "x1": 754.0,
+        "y1": 90.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "99.913",
+      "normalized_value": 99.913,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -464,14 +463,65 @@
       "row_index": 2,
       "col_index": 4,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 809.0,
+        "y0": 79.0,
+        "x1": 861.0,
+        "y1": 90.0
       },
       "cell_type": "number",
-      "raw_value": "23",
-      "normalized_value": 23,
+      "raw_value": "99.739",
+      "normalized_value": 99.739,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 5,
+      "bbox": {
+        "x0": 916.0,
+        "y0": 79.0,
+        "x1": 968.0,
+        "y1": 90.0
+      },
+      "cell_type": "number",
+      "raw_value": "99.913",
+      "normalized_value": 99.913,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 6,
+      "bbox": {
+        "x0": 1011.0,
+        "y0": 79.0,
+        "x1": 1064.0,
+        "y1": 90.0
+      },
+      "cell_type": "text",
+      "raw_value": "-0.176",
+      "normalized_value": "-0.176",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 7,
+      "bbox": {
+        "x0": 1106.0,
+        "y0": 79.0,
+        "x1": 1178.0,
+        "y1": 90.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.482282",
+      "normalized_value": 0.482282,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -481,14 +531,14 @@
       "row_index": 3,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 18.0,
+        "y0": 114.0,
+        "x1": 338.0,
+        "y1": 125.0
       },
       "cell_type": "text",
-      "raw_value": "Other operating costs",
-      "normalized_value": "Other operating costs",
+      "raw_value": "HORMEL FOODS CORP HRL5193038",
+      "normalized_value": "HORMEL FOODS CORP HRL5193038",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -498,14 +548,14 @@
       "row_index": 3,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 384.0,
+        "y0": 114.0,
+        "x1": 505.0,
+        "y1": 125.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "0.650% June",
+      "normalized_value": "0.650% June",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -515,14 +565,14 @@
       "row_index": 3,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 511.0,
+        "y0": 114.0,
+        "x1": 626.0,
+        "y1": 125.0
       },
-      "cell_type": "number",
-      "raw_value": "368",
-      "normalized_value": 368,
+      "cell_type": "text",
+      "raw_value": "03 24 IA",
+      "normalized_value": "03 24 IA",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -532,14 +582,14 @@
       "row_index": 3,
       "col_index": 3,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 694.0,
+        "y0": 114.0,
+        "x1": 754.0,
+        "y1": 125.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "number",
+      "raw_value": "100.193",
+      "normalized_value": 100.193,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -549,14 +599,65 @@
       "row_index": 3,
       "col_index": 4,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 809.0,
+        "y0": 114.0,
+        "x1": 861.0,
+        "y1": 125.0
       },
       "cell_type": "number",
-      "raw_value": "460",
-      "normalized_value": 460,
+      "raw_value": "99.622",
+      "normalized_value": 99.622,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 5,
+      "bbox": {
+        "x0": 908.0,
+        "y0": 114.0,
+        "x1": 968.0,
+        "y1": 125.0
+      },
+      "cell_type": "number",
+      "raw_value": "100.122",
+      "normalized_value": 100.122,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 6,
+      "bbox": {
+        "x0": 1011.0,
+        "y0": 114.0,
+        "x1": 1061.0,
+        "y1": 125.0
+      },
+      "cell_type": "text",
+      "raw_value": "-0.061",
+      "normalized_value": "-0.061",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 7,
+      "bbox": {
+        "x0": 1106.0,
+        "y0": 114.0,
+        "x1": 1178.0,
+        "y1": 125.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.491393",
+      "normalized_value": 0.491393,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -566,14 +667,14 @@
       "row_index": 4,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 17.0,
+        "y0": 149.0,
+        "x1": 332.0,
+        "y1": 160.0
       },
       "cell_type": "text",
-      "raw_value": "Income before taxes",
-      "normalized_value": "Income before taxes",
+      "raw_value": "GENERAL MTRS FINL CO INC GM5198643",
+      "normalized_value": "GENERAL MTRS FINL CO INC GM5198643",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -583,14 +684,14 @@
       "row_index": 4,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 388.0,
+        "y0": 149.0,
+        "x1": 505.0,
+        "y1": 160.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "text",
+      "raw_value": "1.500% June",
+      "normalized_value": "1.500% June",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -600,14 +701,14 @@
       "row_index": 4,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 512.0,
+        "y0": 149.0,
+        "x1": 645.0,
+        "y1": 160.0
       },
-      "cell_type": "number",
-      "raw_value": "86",
-      "normalized_value": 86,
+      "cell_type": "text",
+      "raw_value": "10 26 /BBB",
+      "normalized_value": "10 26 /BBB",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -616,6 +717,57 @@
     {
       "row_index": 4,
       "col_index": 3,
+      "bbox": {
+        "x0": 694.0,
+        "y0": 149.0,
+        "x1": 754.0,
+        "y1": 160.0
+      },
+      "cell_type": "number",
+      "raw_value": "100.822",
+      "normalized_value": 100.822,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 4,
+      "bbox": {
+        "x0": 809.0,
+        "y0": 149.0,
+        "x1": 858.0,
+        "y1": 160.0
+      },
+      "cell_type": "number",
+      "raw_value": "99.811",
+      "normalized_value": 99.811,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 5,
+      "bbox": {
+        "x0": 916.0,
+        "y0": 149.0,
+        "x1": 968.0,
+        "y1": 160.0
+      },
+      "cell_type": "number",
+      "raw_value": "99.903",
+      "normalized_value": 99.903,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 6,
       "bbox": {
         "x0": 0,
         "y0": 0,
@@ -632,16 +784,16 @@
     },
     {
       "row_index": 4,
-      "col_index": 4,
+      "col_index": 7,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1108.0,
+        "y0": 149.0,
+        "x1": 1178.0,
+        "y1": 160.0
       },
       "cell_type": "number",
-      "raw_value": "115",
-      "normalized_value": 115,
+      "raw_value": "1.520917",
+      "normalized_value": 1.520917,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -651,14 +803,14 @@
       "row_index": 5,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 18.0,
+        "y0": 184.0,
+        "x1": 329.0,
+        "y1": 195.0
       },
       "cell_type": "text",
-      "raw_value": "Taxes",
-      "normalized_value": "Taxes",
+      "raw_value": "BP CAP MKTS AMER INC BP4763976",
+      "normalized_value": "BP CAP MKTS AMER INC BP4763976",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -668,231 +820,27 @@
       "row_index": 5,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "26",
-      "normalized_value": 26,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 5,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "35",
-      "normalized_value": 35,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 386.0,
+        "y0": 184.0,
+        "x1": 526.0,
+        "y1": 195.0
       },
       "cell_type": "text",
-      "raw_value": "Net income",
-      "normalized_value": "Net income",
+      "raw_value": "3.790% Feb06",
+      "normalized_value": "3.790% Feb06",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 6,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
+      "row_index": 5,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "60",
-      "normalized_value": 60,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 6,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "80",
-      "normalized_value": 80,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Dividends",
-      "normalized_value": "Dividends",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "18",
-      "normalized_value": 18,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 7,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 532.0,
+        "y0": 184.0,
+        "x1": 550.0,
+        "y1": 195.0
       },
       "cell_type": "number",
       "raw_value": "24",
@@ -903,58 +851,279 @@
       "units": null
     },
     {
-      "row_index": 8,
+      "row_index": 5,
+      "col_index": 3,
+      "bbox": {
+        "x0": 694.0,
+        "y0": 184.0,
+        "x1": 755.0,
+        "y1": 195.0
+      },
+      "cell_type": "number",
+      "raw_value": "107.388",
+      "normalized_value": 107.388,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 4,
+      "bbox": {
+        "x0": 810.0,
+        "y0": 184.0,
+        "x1": 861.0,
+        "y1": 195.0
+      },
+      "cell_type": "number",
+      "raw_value": "107.34",
+      "normalized_value": 107.34,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 5,
+      "bbox": {
+        "x0": 918.0,
+        "y0": 184.0,
+        "x1": 969.0,
+        "y1": 195.0
+      },
+      "cell_type": "number",
+      "raw_value": "107.34",
+      "normalized_value": 107.34,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 6,
+      "bbox": {
+        "x0": 1011.0,
+        "y0": 184.0,
+        "x1": 1064.0,
+        "y1": 195.0
+      },
+      "cell_type": "text",
+      "raw_value": "-0.116",
+      "normalized_value": "-0.116",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 7,
+      "bbox": {
+        "x0": 1106.0,
+        "y0": 184.0,
+        "x1": 1179.0,
+        "y1": 195.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.655786",
+      "normalized_value": 0.655786,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
       "col_index": 0,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 17.0,
+        "y0": 218.0,
+        "x1": 343.0,
+        "y1": 229.0
       },
       "cell_type": "text",
-      "raw_value": "Earnings per share",
-      "normalized_value": "Earnings per share",
+      "raw_value": "GLAXOSMITHKLINE CAP INC GSK4632356",
+      "normalized_value": "GLAXOSMITHKLINE CAP INC GSK4632356",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 8,
+      "row_index": 6,
       "col_index": 1,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 387.0,
+        "y0": 218.0,
+        "x1": 439.0,
+        "y1": 229.0
       },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
+      "cell_type": "percent",
+      "raw_value": "3.375%",
+      "normalized_value": 0.03375,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 8,
+      "row_index": 6,
       "col_index": 2,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 510.0,
+        "y0": 218.0,
+        "x1": 636.0,
+        "y1": 229.0
       },
       "cell_type": "text",
-      "raw_value": "$ 0.714",
-      "normalized_value": "$ 0.714",
+      "raw_value": "15 23 A2/",
+      "normalized_value": "15 23 A2/",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 8,
+      "row_index": 6,
+      "col_index": 3,
+      "bbox": {
+        "x0": 694.0,
+        "y0": 218.0,
+        "x1": 755.0,
+        "y1": 229.0
+      },
+      "cell_type": "number",
+      "raw_value": "105.279",
+      "normalized_value": 105.279,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 4,
+      "bbox": {
+        "x0": 800.0,
+        "y0": 218.0,
+        "x1": 861.0,
+        "y1": 229.0
+      },
+      "cell_type": "number",
+      "raw_value": "105.214",
+      "normalized_value": 105.214,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 5,
+      "bbox": {
+        "x0": 908.0,
+        "y0": 218.0,
+        "x1": 968.0,
+        "y1": 229.0
+      },
+      "cell_type": "number",
+      "raw_value": "105.228",
+      "normalized_value": 105.228,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 6,
+      "bbox": {
+        "x0": 1011.0,
+        "y0": 218.0,
+        "x1": 1064.0,
+        "y1": 229.0
+      },
+      "cell_type": "text",
+      "raw_value": "-0.028",
+      "normalized_value": "-0.028",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 7,
+      "bbox": {
+        "x0": 1106.0,
+        "y0": 218.0,
+        "x1": 1179.0,
+        "y1": 229.0
+      },
+      "cell_type": "number",
+      "raw_value": "0.328114",
+      "normalized_value": 0.328114,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 18.0,
+        "y0": 253.0,
+        "x1": 348.0,
+        "y1": 264.0
+      },
+      "cell_type": "text",
+      "raw_value": "INTEL CORP INTC4969549",
+      "normalized_value": "INTEL CORP INTC4969549",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 1,
+      "bbox": {
+        "x0": 386.0,
+        "y0": 253.0,
+        "x1": 502.0,
+        "y1": 264.0
+      },
+      "cell_type": "text",
+      "raw_value": "4.750% Mar",
+      "normalized_value": "4.750% Mar",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 2,
+      "bbox": {
+        "x0": 507.0,
+        "y0": 253.0,
+        "x1": 550.0,
+        "y1": 264.0
+      },
+      "cell_type": "number",
+      "raw_value": "2550",
+      "normalized_value": 2550,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
       "col_index": 3,
       "bbox": {
         "x0": 0,
@@ -971,1037 +1140,68 @@
       "units": null
     },
     {
-      "row_index": 8,
+      "row_index": 7,
       "col_index": 4,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "$ 0.952",
-      "normalized_value": "$ 0.952",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Dividend per share",
-      "normalized_value": "Dividend per share",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "$ 0.214",
-      "normalized_value": "$ 0.214",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 9,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "$ 0.286",
-      "normalized_value": "$ 0.286",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 10,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Common shares outstanding (millions)",
-      "normalized_value": "Common shares outstanding (millions)",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 10,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 10,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 800.0,
+        "y0": 253.0,
+        "x1": 861.0,
+        "y1": 264.0
       },
       "cell_type": "number",
-      "raw_value": "84.0",
-      "normalized_value": 84.0,
+      "raw_value": "134.275",
+      "normalized_value": 134.275,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 10,
-      "col_index": 3,
+      "row_index": 7,
+      "col_index": 5,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 10,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 908.0,
+        "y0": 253.0,
+        "x1": 969.0,
+        "y1": 264.0
       },
       "cell_type": "number",
-      "raw_value": "84.0",
-      "normalized_value": 84.0,
+      "raw_value": "134.596",
+      "normalized_value": 134.596,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 11,
-      "col_index": 0,
+      "row_index": 7,
+      "col_index": 6,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Balance Sheet",
-      "normalized_value": "Balance Sheet",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 11,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 11,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1021.0,
+        "y0": 253.0,
+        "x1": 1064.0,
+        "y1": 264.0
       },
       "cell_type": "number",
-      "raw_value": "2020",
-      "normalized_value": 2020,
+      "raw_value": "0.365",
+      "normalized_value": 0.365,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
       "units": null
     },
     {
-      "row_index": 11,
-      "col_index": 3,
+      "row_index": 7,
+      "col_index": 7,
       "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 11,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
+        "x0": 1107.0,
+        "y0": 253.0,
+        "x1": 1178.0,
+        "y1": 264.0
       },
       "cell_type": "number",
-      "raw_value": "2021",
-      "normalized_value": 2021,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 12,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Current assets",
-      "normalized_value": "Current assets",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 12,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 12,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "$ 201",
-      "normalized_value": "$ 201",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 12,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 12,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "$ 326",
-      "normalized_value": "$ 326",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 13,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Net property, plant, and equipment",
-      "normalized_value": "Net property, plant, and equipment",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 13,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 13,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "474",
-      "normalized_value": 474,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 13,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 13,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "489",
-      "normalized_value": 489,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 14,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Total assets",
-      "normalized_value": "Total assets",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 14,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 14,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "$ 675",
-      "normalized_value": "$ 675",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 14,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 14,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "$ 815",
-      "normalized_value": "$ 815",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 15,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Current liabilities",
-      "normalized_value": "Current liabilities",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 15,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 15,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "57",
-      "normalized_value": 57,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 15,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 15,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "141",
-      "normalized_value": 141,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 16,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Long-term debt",
-      "normalized_value": "Long-term debt",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 16,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 16,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "0",
-      "normalized_value": 0,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 16,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 16,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "0",
-      "normalized_value": 0,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 17,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Total liabilities",
-      "normalized_value": "Total liabilities",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 17,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 17,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "$ 57",
-      "normalized_value": "$ 57",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 17,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 17,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "$ 141",
-      "normalized_value": "$ 141",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 18,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Shareholders’ equity",
-      "normalized_value": "Shareholders’ equity",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 18,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 18,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "618",
-      "normalized_value": 618,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 18,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 18,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "674",
-      "normalized_value": 674,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 19,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Total liabilities and equity",
-      "normalized_value": "Total liabilities and equity",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 19,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 19,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "675",
-      "normalized_value": 675,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 19,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 19,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "815",
-      "normalized_value": 815,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 20,
-      "col_index": 0,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "text",
-      "raw_value": "Capital expenditures",
-      "normalized_value": "Capital expenditures",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 20,
-      "col_index": 1,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 20,
-      "col_index": 2,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "34",
-      "normalized_value": 34,
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 20,
-      "col_index": 3,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "blank",
-      "raw_value": "",
-      "normalized_value": "",
-      "rowspan": 1,
-      "colspan": 1,
-      "formula_text": null,
-      "units": null
-    },
-    {
-      "row_index": 20,
-      "col_index": 4,
-      "bbox": {
-        "x0": 0,
-        "y0": 0,
-        "x1": 0,
-        "y1": 0
-      },
-      "cell_type": "number",
-      "raw_value": "38",
-      "normalized_value": 38,
+      "raw_value": "2.933182",
+      "normalized_value": 2.933182,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -2013,48 +1213,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "two Morgan, CFA, has been asked to use the DDM to determine the value of This table contains 21 rows and 5 columns.",
-  "table_summary": "two Morgan, CFA, has been asked to use the DDM to determine the value of This table contains 21 rows and 5 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
-  "linked_concept_ids": [
-    "financial_analysis"
-  ],
-  "links": [
-    {
-      "link_type": "TABLE_OF",
-      "target_id": "financial_analysis",
-      "source_anchor": {
-        "page_number": 650,
-        "bbox": {
-          "x0": 108.28919910000006,
-          "y0": 352.5310487,
-          "x1": 468.25,
-          "y1": 630.5
-        },
-        "extractor": "pdfplumber",
-        "confidence": 0.9,
-        "metadata": {}
-      },
-      "evidence": "Semantic similarity: 0.34 + Keywords: income statement",
-      "confidence": 0.5368303477764129
-    }
-  ],
+  "linked_concept_ids": [],
+  "links": [],
   "source_anchor": {
-    "page_number": 650,
+    "page_number": 471,
     "bbox": {
-      "x0": 108.28919910000006,
-      "y0": 352.5310487,
-      "x1": 468.25,
-      "y1": 630.5
+      "x0": 17.0,
+      "y0": 15.0,
+      "x1": 1179.0,
+      "y1": 264.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "Part IV: Fixed-Income Securities > Example 14.1 Accrued Interest > Corporate Bonds > Call Provisions on Corporate Bonds",
   "page_span": [
-    650,
-    650
-  ]
+    471,
+    471
+  ],
+  "source_chunk_id": "chunk_03676",
+  "page_start": 471,
+  "page_end": 471
 }

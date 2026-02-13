@@ -1,17 +1,85 @@
 {
-  "segment_id": "table_p162_idx29",
+  "segment_id": "table_p139_idx0",
   "table_id": null,
   "table_number": null,
-  "caption": "return on Treasury bills in aggressive government policies to stimulate the economy led to unexpected",
-  "row_headers": [],
+  "caption": "",
+  "row_headers": [
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      "Initial investment*"
+    ],
+    [
+      "5 years"
+    ],
+    [
+      "10 years"
+    ],
+    [
+      "15 years"
+    ],
+    [
+      "20 years"
+    ]
+  ],
   "col_headers": [
-    "5.3",
-    "Risk and Risk Premiums"
+    "",
+    "",
+    "Cumulative Proceeds",
+    ""
   ],
   "cells": [
     [
-      "5.3",
-      "Risk and Risk Premiums"
+      "",
+      "",
+      "Cumulative Proceeds",
+      ""
+    ],
+    [
+      "",
+      "(All",
+      "Dividends Reinvested)",
+      ""
+    ],
+    [
+      "",
+      "Fund A",
+      "Fund B",
+      "Fund C"
+    ],
+    [
+      "Initial investment*",
+      "$10,000",
+      "$10,000",
+      "$ 9,400"
+    ],
+    [
+      "5 years",
+      "15,923",
+      "15,211",
+      "14,596"
+    ],
+    [
+      "10 years",
+      "25,354",
+      "23,136",
+      "22,665"
+    ],
+    [
+      "15 years",
+      "40,371",
+      "35,192",
+      "35,194"
+    ],
+    [
+      "20 years",
+      "64,282",
+      "",
+      "54,649"
     ]
   ],
   "cell_meta": [
@@ -24,9 +92,9 @@
         "x1": 0,
         "y1": 0
       },
-      "cell_type": "number",
-      "raw_value": "5.3",
-      "normalized_value": 5.3,
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -41,9 +109,519 @@
         "x1": 0,
         "y1": 0
       },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "bbox": {
+        "x0": 521.0,
+        "y0": 26.0,
+        "x1": 734.0,
+        "y1": 41.0
+      },
       "cell_type": "text",
-      "raw_value": "Risk and Risk Premiums",
-      "normalized_value": "Risk and Risk Premiums",
+      "raw_value": "Cumulative Proceeds",
+      "normalized_value": "Cumulative Proceeds",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "bbox": {
+        "x0": 496.0,
+        "y0": 54.0,
+        "x1": 527.0,
+        "y1": 73.0
+      },
+      "cell_type": "text",
+      "raw_value": "(All",
+      "normalized_value": "(All",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "bbox": {
+        "x0": 536.0,
+        "y0": 54.0,
+        "x1": 758.0,
+        "y1": 73.0
+      },
+      "cell_type": "text",
+      "raw_value": "Dividends Reinvested)",
+      "normalized_value": "Dividends Reinvested)",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "bbox": {
+        "x0": 350.0,
+        "y0": 105.0,
+        "x1": 422.0,
+        "y1": 120.0
+      },
+      "cell_type": "text",
+      "raw_value": "Fund A",
+      "normalized_value": "Fund A",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "bbox": {
+        "x0": 594.0,
+        "y0": 105.0,
+        "x1": 663.0,
+        "y1": 120.0
+      },
+      "cell_type": "text",
+      "raw_value": "Fund B",
+      "normalized_value": "Fund B",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "bbox": {
+        "x0": 835.0,
+        "y0": 105.0,
+        "x1": 906.0,
+        "y1": 120.0
+      },
+      "cell_type": "text",
+      "raw_value": "Fund C",
+      "normalized_value": "Fund C",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "bbox": {
+        "x0": 35.0,
+        "y0": 153.0,
+        "x1": 199.0,
+        "y1": 168.0
+      },
+      "cell_type": "text",
+      "raw_value": "Initial investment*",
+      "normalized_value": "Initial investment*",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "bbox": {
+        "x0": 345.0,
+        "y0": 151.0,
+        "x1": 426.0,
+        "y1": 171.0
+      },
+      "cell_type": "currency",
+      "raw_value": "$10,000",
+      "normalized_value": 10000.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "bbox": {
+        "x0": 588.0,
+        "y0": 151.0,
+        "x1": 669.0,
+        "y1": 171.0
+      },
+      "cell_type": "currency",
+      "raw_value": "$10,000",
+      "normalized_value": 10000.0,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 3,
+      "col_index": 3,
+      "bbox": {
+        "x0": 831.0,
+        "y0": 151.0,
+        "x1": 910.0,
+        "y1": 171.0
+      },
+      "cell_type": "text",
+      "raw_value": "$ 9,400",
+      "normalized_value": "$ 9,400",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "bbox": {
+        "x0": 48.0,
+        "y0": 186.0,
+        "x1": 116.0,
+        "y1": 205.0
+      },
+      "cell_type": "text",
+      "raw_value": "5 years",
+      "normalized_value": "5 years",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "bbox": {
+        "x0": 361.0,
+        "y0": 186.0,
+        "x1": 426.0,
+        "y1": 204.0
+      },
+      "cell_type": "number",
+      "raw_value": "15,923",
+      "normalized_value": 15923,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "bbox": {
+        "x0": 604.0,
+        "y0": 186.0,
+        "x1": 665.0,
+        "y1": 204.0
+      },
+      "cell_type": "number",
+      "raw_value": "15,211",
+      "normalized_value": 15211,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 4,
+      "col_index": 3,
+      "bbox": {
+        "x0": 845.0,
+        "y0": 186.0,
+        "x1": 910.0,
+        "y1": 204.0
+      },
+      "cell_type": "number",
+      "raw_value": "14,596",
+      "normalized_value": 14596,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 219.0,
+        "x1": 116.0,
+        "y1": 239.0
+      },
+      "cell_type": "text",
+      "raw_value": "10 years",
+      "normalized_value": "10 years",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "bbox": {
+        "x0": 358.0,
+        "y0": 219.0,
+        "x1": 426.0,
+        "y1": 237.0
+      },
+      "cell_type": "number",
+      "raw_value": "25,354",
+      "normalized_value": 25354,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "bbox": {
+        "x0": 601.0,
+        "y0": 219.0,
+        "x1": 669.0,
+        "y1": 237.0
+      },
+      "cell_type": "number",
+      "raw_value": "23,136",
+      "normalized_value": 23136,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 5,
+      "col_index": 3,
+      "bbox": {
+        "x0": 842.0,
+        "y0": 219.0,
+        "x1": 910.0,
+        "y1": 237.0
+      },
+      "cell_type": "number",
+      "raw_value": "22,665",
+      "normalized_value": 22665,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 0,
+      "bbox": {
+        "x0": 37.0,
+        "y0": 252.0,
+        "x1": 116.0,
+        "y1": 271.0
+      },
+      "cell_type": "text",
+      "raw_value": "15 years",
+      "normalized_value": "15 years",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 1,
+      "bbox": {
+        "x0": 358.0,
+        "y0": 252.0,
+        "x1": 423.0,
+        "y1": 270.0
+      },
+      "cell_type": "number",
+      "raw_value": "40,371",
+      "normalized_value": 40371,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 2,
+      "bbox": {
+        "x0": 602.0,
+        "y0": 252.0,
+        "x1": 669.0,
+        "y1": 270.0
+      },
+      "cell_type": "number",
+      "raw_value": "35,192",
+      "normalized_value": 35192,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 6,
+      "col_index": 3,
+      "bbox": {
+        "x0": 842.0,
+        "y0": 252.0,
+        "x1": 910.0,
+        "y1": 270.0
+      },
+      "cell_type": "number",
+      "raw_value": "35,194",
+      "normalized_value": 35194,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "bbox": {
+        "x0": 34.0,
+        "y0": 285.0,
+        "x1": 116.0,
+        "y1": 305.0
+      },
+      "cell_type": "text",
+      "raw_value": "20 years",
+      "normalized_value": "20 years",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 1,
+      "bbox": {
+        "x0": 358.0,
+        "y0": 285.0,
+        "x1": 426.0,
+        "y1": 303.0
+      },
+      "cell_type": "number",
+      "raw_value": "64,282",
+      "normalized_value": 64282,
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 2,
+      "bbox": {
+        "x0": 0,
+        "y0": 0,
+        "x1": 0,
+        "y1": 0
+      },
+      "cell_type": "blank",
+      "raw_value": "",
+      "normalized_value": "",
+      "rowspan": 1,
+      "colspan": 1,
+      "formula_text": null,
+      "units": null
+    },
+    {
+      "row_index": 7,
+      "col_index": 3,
+      "bbox": {
+        "x0": 843.0,
+        "y0": 285.0,
+        "x1": 910.0,
+        "y1": 303.0
+      },
+      "cell_type": "number",
+      "raw_value": "54,649",
+      "normalized_value": 54649,
       "rowspan": 1,
       "colspan": 1,
       "formula_text": null,
@@ -55,27 +633,30 @@
   "formula_cells": [],
   "derived_columns": [],
   "variable_candidates": {},
-  "description": "return on Treasury bills in aggressive government policies to stimulate the economy led to unexpected This table contains 1 rows and 2 columns.",
-  "table_summary": "return on Treasury bills in aggressive government policies to stimulate the economy led to unexpected This table contains 1 rows and 2 columns.",
+  "description": "",
+  "table_summary": "",
   "table_schema_hint": null,
   "linked_concept_ids": [],
   "links": [],
   "source_anchor": {
-    "page_number": 162,
+    "page_number": 139,
     "bbox": {
-      "x0": 107.74875,
-      "y0": 501.0,
-      "x1": 563.998,
-      "y1": 525.9
+      "x0": 34.0,
+      "y0": 26.0,
+      "x1": 910.0,
+      "y1": 305.0
     },
-    "extractor": "pdfplumber",
-    "confidence": 0.9,
+    "extractor": "ocr_image",
+    "confidence": 0.6,
     "metadata": {}
   },
   "confidence": 1.0,
-  "heading_path": null,
+  "heading_path": "3 3 > Table 4.2",
   "page_span": [
-    162,
-    162
-  ]
+    139,
+    139
+  ],
+  "source_chunk_id": "chunk_00887",
+  "page_start": 139,
+  "page_end": 139
 }
